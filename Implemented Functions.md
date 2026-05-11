@@ -1,4 +1,8 @@
-| Function | Implemented? |
+**Progress:** 429/2865 (14.973821989528796%)
+
+Tested against GameMaker Version 2024.14.4.268
+
+| GML Function | Implemented? |
 | - | - |
 | `rollback_use_manual_start` | 🚫 |
 | `rollback_use_late_join` | 🚫 |
@@ -2866,4 +2870,3 @@
 | `network_set_timeout` | 🚫 |
 | `network_set_config` | 🚫 |
 
-Progress: 429/2865 (14.973821989528796%)
