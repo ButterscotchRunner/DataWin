@@ -1,4 +1,4 @@
-**Progress:** 429/2865 (14.973821989528796%)
+**Progress:** 430/2865 (15.008726003490402%)
 
 Tested against GameMaker Version 2024.14.4.268
 
@@ -2757,7 +2757,7 @@ Tested against GameMaker Version 2024.14.4.268
 | `@@NewGMLObject@@` | ✅ |
 | `@@NewGMLArray@@` | ✅ |
 | `@@This@@` | ✅ |
-| `@@Global@@` | 🚫 |
+| `@@Global@@` | ✅ |
 | `@@try_hook@@` | 🚫 |
 | `@@try_unhook@@` | 🚫 |
 | `@@throw@@` | 🚫 |
