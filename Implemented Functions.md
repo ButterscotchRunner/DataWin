@@ -1,4 +1,4 @@
-**Progress:** 433/2865 (15.113438045375219%)
+**Progress:** 434/2865 (15.148342059336825%)
 
 Tested against GameMaker Version 2024.14.4.268
 
@@ -1375,7 +1375,7 @@ Tested against GameMaker Version 2024.14.4.268
 | `audio_is_playing` | ✅ |
 | `audio_is_paused` | ✅ |
 | `audio_exists` | ✅ |
-| `audio_system_is_available` | 🚫 |
+| `audio_system_is_available` | ✅ |
 | `audio_system_is_initialised` | 🚫 |
 | `audio_sound_is_playable` | 🚫 |
 | `audio_master_gain` | ✅ |
