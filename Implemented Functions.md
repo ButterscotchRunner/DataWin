@@ -1,4 +1,4 @@
-**Progress:** 434/2865 (15.148342059336825%)
+**Progress:** 436/2865 (15.218150087260035%)
 
 Tested against GameMaker Version 2024.14.4.268
 
@@ -362,7 +362,7 @@ Tested against GameMaker Version 2024.14.4.268
 | `array_length_2d` | 🚫 |
 | `array_height_2d` | 🚫 |
 | `@@array_get@@` | 🚫 |
-| `array_get` | 🚫 |
+| `array_get` | ✅ |
 | `array_set` | 🚫 |
 | `array_set_pre` | 🚫 |
 | `array_set_post` | 🚫 |
@@ -793,7 +793,7 @@ Tested against GameMaker Version 2024.14.4.268
 | `texture_get_uvs` | 🚫 |
 | `texturegroup_add` | 🚫 |
 | `texturegroup_delete` | 🚫 |
-| `draw_get_font` | 🚫 |
+| `draw_get_font` | ✅ |
 | `draw_set_font` | ✅ |
 | `draw_get_halign` | 🚫 |
 | `draw_set_halign` | ✅ |
