@@ -1,4 +1,4 @@
-**Progress:** 430/2865 (15.008726003490402%)
+**Progress:** 433/2865 (15.113438045375219%)
 
 Tested against GameMaker Version 2024.14.4.268
 
@@ -345,7 +345,7 @@ Tested against GameMaker Version 2024.14.4.268
 | `is_int64` | 🚫 |
 | `is_ptr` | 🚫 |
 | `is_struct` | 🚫 |
-| `is_callable` | 🚫 |
+| `is_callable` | ✅ |
 | `is_handle` | 🚫 |
 | `method` | ✅ |
 | `method_get_index` | 🚫 |
@@ -1279,7 +1279,7 @@ Tested against GameMaker Version 2024.14.4.268
 | `object_set_mask` | 🚫 |
 | `room_exists` | ✅ |
 | `room_get_name` | ✅ |
-| `room_get_info` | 🚫 |
+| `room_get_info` | ✅ |
 | `room_set_width` | 🚫 |
 | `room_set_height` | 🚫 |
 | `room_set_persistent` | ✅ |
@@ -2781,7 +2781,7 @@ Tested against GameMaker Version 2024.14.4.268
 | `@@NewObject@@` | 🚫 |
 | `@@NewProperty@@` | 🚫 |
 | `@@CopyStatic@@` | 🚫 |
-| `@@SetStatic@@` | 🚫 |
+| `@@SetStatic@@` | ✅ |
 | `flexpanel_create_node` | 🚫 |
 | `flexpanel_delete_node` | 🚫 |
 | `flexpanel_node_insert_child` | 🚫 |
