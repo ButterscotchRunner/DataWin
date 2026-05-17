@@ -1,4 +1,4 @@
-**Progress:** 443/2865 (15.462478184991275%)
+**Progress:** 444/2865 (15.49738219895288%)
 
 Tested against GameMaker Version 2024.14.4.268
 
@@ -296,7 +296,7 @@ Tested against GameMaker Version 2024.14.4.268
 | `instance_nearest` | ✅ |
 | `instance_furthest` | 🚫 |
 | `instance_place` | ✅ |
-| `instance_place_list` | 🚫 |
+| `instance_place_list` | ✅ |
 | `instance_create_depth` | ✅ |
 | `instance_create_layer` | ✅ |
 | `instance_copy` | ✅ |
