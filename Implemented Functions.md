@@ -1,4 +1,4 @@
-**Progress:** 453/2865 (15.811518324607329%)
+**Progress:** 454/2865 (15.846422338568935%)
 
 Tested against GameMaker Version 2024.14.4.268
 
@@ -424,7 +424,7 @@ Tested against GameMaker Version 2024.14.4.268
 | `sqr` | ✅ |
 | `exp` | 🚫 |
 | `ln` | 🚫 |
-| `log2` | 🚫 |
+| `log2` | ✅ |
 | `log10` | 🚫 |
 | `sin` | ✅ |
 | `cos` | ✅ |
