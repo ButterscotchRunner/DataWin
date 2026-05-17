@@ -1,4 +1,4 @@
-**Progress:** 436/2865 (15.218150087260035%)
+**Progress:** 437/2865 (15.253054101221641%)
 
 Tested against GameMaker Version 2024.14.4.268
 
@@ -360,7 +360,7 @@ Tested against GameMaker Version 2024.14.4.268
 | `array_length` | ✅ |
 | `array_length_1d` | ✅ |
 | `array_length_2d` | 🚫 |
-| `array_height_2d` | 🚫 |
+| `array_height_2d` | ✅ |
 | `@@array_get@@` | 🚫 |
 | `array_get` | ✅ |
 | `array_set` | 🚫 |
