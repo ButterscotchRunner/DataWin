@@ -1,4 +1,4 @@
-**Progress:** 438/2865 (15.287958115183246%)
+**Progress:** 439/2865 (15.322862129144852%)
 
 Tested against GameMaker Version 2024.14.4.268
 
@@ -140,7 +140,7 @@ Tested against GameMaker Version 2024.14.4.268
 | `ds_list_mark_as_list` | 🚫 |
 | `ds_list_mark_as_map` | 🚫 |
 | `ds_list_sort` | 🚫 |
-| `ds_list_shuffle` | 🚫 |
+| `ds_list_shuffle` | ✅ |
 | `ds_list_write` | 🚫 |
 | `ds_list_read` | 🚫 |
 | `ds_list_set` | 🚫 |
