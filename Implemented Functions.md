@@ -1,4 +1,4 @@
-**Progress:** 447/2865 (15.602094240837697%)
+**Progress:** 453/2865 (15.811518324607329%)
 
 Tested against GameMaker Version 2024.14.4.268
 
@@ -335,16 +335,16 @@ Tested against GameMaker Version 2024.14.4.268
 | `rectangle_in_rectangle` | ✅ |
 | `rectangle_in_triangle` | 🚫 |
 | `rectangle_in_circle` | 🚫 |
-| `is_bool` | 🚫 |
+| `is_bool` | ✅ |
 | `is_real` | ✅ |
-| `is_numeric` | 🚫 |
+| `is_numeric` | ✅ |
 | `is_string` | ✅ |
-| `is_array` | 🚫 |
+| `is_array` | ✅ |
 | `is_undefined` | ✅ |
-| `is_int32` | 🚫 |
-| `is_int64` | 🚫 |
+| `is_int32` | ✅ |
+| `is_int64` | ✅ |
 | `is_ptr` | 🚫 |
-| `is_struct` | 🚫 |
+| `is_struct` | ✅ |
 | `is_callable` | ✅ |
 | `is_handle` | 🚫 |
 | `method` | ✅ |
