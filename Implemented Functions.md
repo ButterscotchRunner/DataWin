@@ -1,4 +1,4 @@
-**Progress:** 444/2865 (15.49738219895288%)
+**Progress:** 447/2865 (15.602094240837697%)
 
 Tested against GameMaker Version 2024.14.4.268
 
@@ -838,7 +838,7 @@ Tested against GameMaker Version 2024.14.4.268
 | `surface_get_height` | ✅ |
 | `surface_get_texture` | 🚫 |
 | `surface_get_texture_depth` | 🚫 |
-| `surface_get_target` | 🚫 |
+| `surface_get_target` | ✅ |
 | `surface_get_target_depth` | 🚫 |
 | `surface_set_target` | ✅ |
 | `surface_get_target_ext` | 🚫 |
@@ -1228,8 +1228,8 @@ Tested against GameMaker Version 2024.14.4.268
 | `path_get_closed` | 🚫 |
 | `path_get_precision` | 🚫 |
 | `path_get_number` | 🚫 |
-| `path_get_point_x` | 🚫 |
-| `path_get_point_y` | 🚫 |
+| `path_get_point_x` | ✅ |
+| `path_get_point_y` | ✅ |
 | `path_get_point_speed` | 🚫 |
 | `path_get_x` | 🚫 |
 | `path_get_y` | 🚫 |
