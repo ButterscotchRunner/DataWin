@@ -1,4 +1,4 @@
-**Progress:** 439/2865 (15.322862129144852%)
+**Progress:** 443/2865 (15.462478184991275%)
 
 Tested against GameMaker Version 2024.14.4.268
 
@@ -1298,10 +1298,10 @@ Tested against GameMaker Version 2024.14.4.268
 | `asset_get_index` | ✅ |
 | `asset_get_type` | 🚫 |
 | `asset_get_ids` | 🚫 |
-| `animcurve_get` | 🚫 |
-| `animcurve_get_channel` | 🚫 |
-| `animcurve_get_channel_index` | 🚫 |
-| `animcurve_channel_evaluate` | 🚫 |
+| `animcurve_get` | ✅ |
+| `animcurve_get_channel` | ✅ |
+| `animcurve_get_channel_index` | ✅ |
+| `animcurve_channel_evaluate` | ✅ |
 | `sequence_create` | 🚫 |
 | `sequence_destroy` | 🚫 |
 | `sequence_get` | 🚫 |
