@@ -1,4 +1,4 @@
-**Progress:** 454/2865 (15.846422338568935%)
+**Progress:** 462/2865 (16.12565445026178%)
 
 Tested against GameMaker Version 2024.14.4.268
 
@@ -1455,14 +1455,14 @@ Tested against GameMaker Version 2024.14.4.268
 | `audio_throw_on_error` | 🚫 |
 | `lin_to_db` | 🚫 |
 | `db_to_lin` | 🚫 |
-| `file_bin_open` | 🚫 |
-| `file_bin_rewrite` | 🚫 |
-| `file_bin_close` | 🚫 |
-| `file_bin_position` | 🚫 |
-| `file_bin_size` | 🚫 |
-| `file_bin_seek` | 🚫 |
-| `file_bin_read_byte` | 🚫 |
-| `file_bin_write_byte` | 🚫 |
+| `file_bin_open` | ✅ |
+| `file_bin_rewrite` | ✅ |
+| `file_bin_close` | ✅ |
+| `file_bin_position` | ✅ |
+| `file_bin_size` | ✅ |
+| `file_bin_seek` | ✅ |
+| `file_bin_read_byte` | ✅ |
+| `file_bin_write_byte` | ✅ |
 | `file_text_open_from_string` | 🚫 |
 | `file_text_open_read` | ✅ |
 | `file_text_open_write` | ✅ |
