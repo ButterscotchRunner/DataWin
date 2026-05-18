@@ -1,4 +1,4 @@
-**Progress:** 462/2865 (16.12565445026178%)
+**Progress:** 465/2865 (16.230366492146597%)
 
 Tested against GameMaker Version 2024.14.4.268
 
@@ -309,10 +309,10 @@ Tested against GameMaker Version 2024.14.4.268
 | `instance_id_get` | 🚫 |
 | `instance_deactivate_all` | ✅ |
 | `instance_deactivate_object` | ✅ |
-| `instance_deactivate_region` | 🚫 |
+| `instance_deactivate_region` | ✅ |
 | `instance_activate_all` | ✅ |
 | `instance_activate_object` | ✅ |
-| `instance_activate_region` | 🚫 |
+| `instance_activate_region` | ✅ |
 | `room_goto` | ✅ |
 | `room_goto_previous` | ✅ |
 | `room_goto_next` | ✅ |
@@ -419,7 +419,7 @@ Tested against GameMaker Version 2024.14.4.268
 | `floor` | ✅ |
 | `ceil` | ✅ |
 | `sign` | ✅ |
-| `frac` | 🚫 |
+| `frac` | ✅ |
 | `sqrt` | ✅ |
 | `sqr` | ✅ |
 | `exp` | 🚫 |
