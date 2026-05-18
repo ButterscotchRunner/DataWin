@@ -1,4 +1,4 @@
-**Progress:** 98/210 (46.666666666666664%)
+**Progress:** 101/210 (48.095238095238095%)
 
 Tested against GameMaker Version 2024.14.4.268
 
@@ -48,9 +48,9 @@ Tested against GameMaker Version 2024.14.4.268
 | `room_last` | 🚫 |
 | `transition_kind` | 🚫 |
 | `transition_steps` | 🚫 |
-| `score` | 🚫 |
-| `lives` | 🚫 |
-| `health` | 🚫 |
+| `score` | ✅ |
+| `lives` | ✅ |
+| `health` | ✅ |
 | `game_id` | 🚫 |
 | `game_display_name` | 🚫 |
 | `game_project_name` | 🚫 |
