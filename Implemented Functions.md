@@ -1,4 +1,4 @@
-**Progress:** 465/2865 (16.230366492146597%)
+**Progress:** 470/2865 (16.404886561954623%)
 
 Tested against GameMaker Version 2024.14.4.268
 
@@ -125,7 +125,7 @@ Tested against GameMaker Version 2024.14.4.268
 | `ds_queue_read` | 🚫 |
 | `ds_list_create` | ✅ |
 | `ds_list_destroy` | ✅ |
-| `ds_list_clear` | 🚫 |
+| `ds_list_clear` | ✅ |
 | `ds_list_copy` | 🚫 |
 | `ds_list_size` | ✅ |
 | `ds_list_empty` | 🚫 |
@@ -141,8 +141,8 @@ Tested against GameMaker Version 2024.14.4.268
 | `ds_list_mark_as_map` | 🚫 |
 | `ds_list_sort` | 🚫 |
 | `ds_list_shuffle` | ✅ |
-| `ds_list_write` | 🚫 |
-| `ds_list_read` | 🚫 |
+| `ds_list_write` | ✅ |
+| `ds_list_read` | ✅ |
 | `ds_list_set` | 🚫 |
 | `ds_list_set_post` | 🚫 |
 | `ds_list_set_pre` | 🚫 |
@@ -1887,8 +1887,8 @@ Tested against GameMaker Version 2024.14.4.268
 | `device_is_keypad_open` | 🚫 |
 | `os_is_paused` | ✅ |
 | `window_has_focus` | ✅ |
-| `base64_encode` | 🚫 |
-| `base64_decode` | 🚫 |
+| `base64_encode` | ✅ |
+| `base64_decode` | ✅ |
 | `md5_string_unicode` | 🚫 |
 | `md5_string_utf8` | 🚫 |
 | `md5_file` | 🚫 |
