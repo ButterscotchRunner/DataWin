@@ -1,4 +1,4 @@
-**Progress:** 473/2865 (16.509598603839443%)
+**Progress:** 476/2865 (16.61431064572426%)
 
 Tested against GameMaker Version 2024.14.4.268
 
@@ -2490,7 +2490,7 @@ Tested against GameMaker Version 2024.14.4.268
 | `layer_is_draw_depth_forced` | ✅ |
 | `layer_get_forced_depth` | ✅ |
 | `layer_get_type` | 🚫 |
-| `layer_background_get_id` | 🚫 |
+| `layer_background_get_id` | ✅ |
 | `layer_background_exists` | ✅ |
 | `layer_background_create` | ✅ |
 | `layer_background_destroy` | 🚫 |
@@ -2504,8 +2504,8 @@ Tested against GameMaker Version 2024.14.4.268
 | `layer_background_alpha` | ✅ |
 | `layer_background_index` | 🚫 |
 | `layer_background_speed` | 🚫 |
-| `layer_background_sprite` | 🚫 |
-| `layer_background_change` | 🚫 |
+| `layer_background_sprite` | ✅ |
+| `layer_background_change` | ✅ |
 | `layer_background_get_visible` | 🚫 |
 | `layer_background_get_sprite` | 🚫 |
 | `layer_background_get_htiled` | 🚫 |
