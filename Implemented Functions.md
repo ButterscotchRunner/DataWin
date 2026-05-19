@@ -1,4 +1,4 @@
-**Progress:** 470/2865 (16.404886561954623%)
+**Progress:** 472/2865 (16.474694589877835%)
 
 Tested against GameMaker Version 2024.14.4.268
 
@@ -352,8 +352,8 @@ Tested against GameMaker Version 2024.14.4.268
 | `method_get_self` | 🚫 |
 | `method_call` | 🚫 |
 | `is_method` | 🚫 |
-| `is_nan` | 🚫 |
-| `is_infinity` | 🚫 |
+| `is_nan` | ✅ |
+| `is_infinity` | ✅ |
 | `typeof` | 🚫 |
 | `instanceof` | 🚫 |
 | `is_instanceof` | 🚫 |
