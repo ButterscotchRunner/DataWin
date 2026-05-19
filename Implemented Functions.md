@@ -1,4 +1,4 @@
-**Progress:** 472/2865 (16.474694589877835%)
+**Progress:** 473/2865 (16.509598603839443%)
 
 Tested against GameMaker Version 2024.14.4.268
 
@@ -480,7 +480,7 @@ Tested against GameMaker Version 2024.14.4.268
 | `string_repeat` | ✅ |
 | `string_letters` | ✅ |
 | `string_digits` | ✅ |
-| `string_lettersdigits` | 🚫 |
+| `string_lettersdigits` | ✅ |
 | `string_replace` | ✅ |
 | `string_replace_all` | ✅ |
 | `string_count` | ✅ |
