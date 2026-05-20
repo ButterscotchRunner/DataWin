@@ -1,4 +1,4 @@
-**Progress:** 476/2865 (16.61431064572426%)
+**Progress:** 477/2865 (16.649214659685864%)
 
 Tested against GameMaker Version 2024.14.4.268
 
@@ -53,7 +53,7 @@ Tested against GameMaker Version 2024.14.4.268
 | `buffer_tell` | ✅ |
 | `buffer_resize` | 🚫 |
 | `buffer_md5` | ✅ |
-| `buffer_sha1` | 🚫 |
+| `buffer_sha1` | ✅ |
 | `buffer_crc32` | 🚫 |
 | `buffer_base64_encode` | ✅ |
 | `buffer_base64_decode` | 🚫 |
