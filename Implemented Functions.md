@@ -1,4 +1,4 @@
-**Progress:** 477/2865 (16.649214659685864%)
+**Progress:** 479/2865 (16.719022687609076%)
 
 Tested against GameMaker Version 2024.14.4.268
 
@@ -128,11 +128,11 @@ Tested against GameMaker Version 2024.14.4.268
 | `ds_list_clear` | ✅ |
 | `ds_list_copy` | 🚫 |
 | `ds_list_size` | ✅ |
-| `ds_list_empty` | 🚫 |
+| `ds_list_empty` | ✅ |
 | `ds_list_add` | ✅ |
 | `ds_list_insert` | 🚫 |
 | `ds_list_replace` | 🚫 |
-| `ds_list_delete` | 🚫 |
+| `ds_list_delete` | ✅ |
 | `ds_list_find_index` | ✅ |
 | `ds_list_find_value` | ✅ |
 | `ds_list_is_map` | 🚫 |
