@@ -1,4 +1,4 @@
-**Progress:** 479/2865 (16.719022687609076%)
+**Progress:** 480/2865 (16.75392670157068%)
 
 Tested against GameMaker Version 2024.14.4.268
 
@@ -447,7 +447,7 @@ Tested against GameMaker Version 2024.14.4.268
 | `min` | ✅ |
 | `max` | ✅ |
 | `mean` | 🚫 |
-| `median` | 🚫 |
+| `median` | ✅ |
 | `choose` | ✅ |
 | `clamp` | ✅ |
 | `lerp` | ✅ |
