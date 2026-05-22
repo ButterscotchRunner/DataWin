@@ -1,4 +1,4 @@
-**Progress:** 480/2865 (16.75392670157068%)
+**Progress:** 492/2865 (17.172774869109947%)
 
 Tested against GameMaker Version 2024.14.4.268
 
@@ -711,18 +711,18 @@ Tested against GameMaker Version 2024.14.4.268
 | `make_colour_rgb` | ✅ |
 | `make_color_hsv` | ✅ |
 | `make_colour_hsv` | ✅ |
-| `color_get_red` | 🚫 |
-| `colour_get_red` | 🚫 |
-| `color_get_green` | 🚫 |
-| `colour_get_green` | 🚫 |
-| `color_get_blue` | 🚫 |
-| `colour_get_blue` | 🚫 |
-| `color_get_hue` | 🚫 |
-| `colour_get_hue` | 🚫 |
-| `color_get_saturation` | 🚫 |
-| `colour_get_saturation` | 🚫 |
-| `color_get_value` | 🚫 |
-| `colour_get_value` | 🚫 |
+| `color_get_red` | ✅ |
+| `colour_get_red` | ✅ |
+| `color_get_green` | ✅ |
+| `colour_get_green` | ✅ |
+| `color_get_blue` | ✅ |
+| `colour_get_blue` | ✅ |
+| `color_get_hue` | ✅ |
+| `colour_get_hue` | ✅ |
+| `color_get_saturation` | ✅ |
+| `colour_get_saturation` | ✅ |
+| `color_get_value` | ✅ |
+| `colour_get_value` | ✅ |
 | `merge_color` | ✅ |
 | `merge_colour` | ✅ |
 | `draw_clear` | ✅ |
