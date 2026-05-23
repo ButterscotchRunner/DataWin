@@ -1,4 +1,4 @@
-**Progress:** 101/210 (48.095238095238095%)
+**Progress:** 102/210 (48.57142857142857%)
 
 Tested against GameMaker Version 2024.14.4.268
 
@@ -150,7 +150,7 @@ Tested against GameMaker Version 2024.14.4.268
 | `bbox_bottom` | ✅ |
 | `sprite_index` | ✅ |
 | `image_index` | ✅ |
-| `image_single` | 🚫 |
+| `image_single` | ✅ |
 | `image_number` | ✅ |
 | `sprite_width` | ✅ |
 | `sprite_height` | ✅ |
