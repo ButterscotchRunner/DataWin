@@ -1,4 +1,4 @@
-**Progress:** 496/2865 (17.312390924956368%)
+**Progress:** 499/2865 (17.417102966841185%)
 
 Tested against GameMaker Version 2024.14.4.268
 
@@ -1480,9 +1480,9 @@ Tested against GameMaker Version 2024.14.4.268
 | `file_delete` | ✅ |
 | `file_rename` | 🚫 |
 | `file_copy` | 🚫 |
-| `directory_exists` | 🚫 |
-| `directory_create` | 🚫 |
-| `directory_destroy` | 🚫 |
+| `directory_exists` | ✅ |
+| `directory_create` | ✅ |
+| `directory_destroy` | ✅ |
 | `file_find_first` | 🚫 |
 | `file_find_next` | 🚫 |
 | `file_find_close` | 🚫 |
