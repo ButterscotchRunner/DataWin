@@ -1,4 +1,4 @@
-**Progress:** 494/2865 (17.24258289703316%)
+**Progress:** 496/2865 (17.312390924956368%)
 
 Tested against GameMaker Version 2024.14.4.268
 
@@ -34,7 +34,7 @@ Tested against GameMaker Version 2024.14.4.268
 | `buffer_peek` | 🚫 |
 | `buffer_seek` | ✅ |
 | `buffer_save` | ✅ |
-| `buffer_save_ext` | 🚫 |
+| `buffer_save_ext` | ✅ |
 | `buffer_load` | ✅ |
 | `buffer_load_ext` | 🚫 |
 | `buffer_load_partial` | 🚫 |
@@ -56,7 +56,7 @@ Tested against GameMaker Version 2024.14.4.268
 | `buffer_sha1` | ✅ |
 | `buffer_crc32` | 🚫 |
 | `buffer_base64_encode` | ✅ |
-| `buffer_base64_decode` | 🚫 |
+| `buffer_base64_decode` | ✅ |
 | `buffer_base64_decode_ext` | 🚫 |
 | `buffer_sizeof` | 🚫 |
 | `buffer_get_address` | 🚫 |
