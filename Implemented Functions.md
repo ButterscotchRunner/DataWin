@@ -1,4 +1,4 @@
-**Progress:** 492/2865 (17.172774869109947%)
+**Progress:** 494/2865 (17.24258289703316%)
 
 Tested against GameMaker Version 2024.14.4.268
 
@@ -745,8 +745,8 @@ Tested against GameMaker Version 2024.14.4.268
 | `draw_path` | 🚫 |
 | `draw_point_color` | 🚫 |
 | `draw_point_colour` | 🚫 |
-| `draw_line_color` | 🚫 |
-| `draw_line_colour` | 🚫 |
+| `draw_line_color` | ✅ |
+| `draw_line_colour` | ✅ |
 | `draw_line_width_color` | ✅ |
 | `draw_line_width_colour` | ✅ |
 | `draw_rectangle_color` | ✅ |
