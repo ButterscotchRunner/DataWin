@@ -1,4 +1,4 @@
-**Progress:** 499/2865 (17.417102966841185%)
+**Progress:** 502/2865 (17.521815008726%)
 
 Tested against GameMaker Version 2024.14.4.268
 
@@ -987,9 +987,9 @@ Tested against GameMaker Version 2024.14.4.268
 | `keyboard_set_numlock` | 🚫 |
 | `keyboard_key_press` | ✅ |
 | `keyboard_key_release` | ✅ |
-| `keyboard_set_map` | 🚫 |
-| `keyboard_get_map` | 🚫 |
-| `keyboard_unset_map` | 🚫 |
+| `keyboard_set_map` | ✅ |
+| `keyboard_get_map` | ✅ |
+| `keyboard_unset_map` | ✅ |
 | `keyboard_check` | ✅ |
 | `keyboard_check_pressed` | ✅ |
 | `keyboard_check_released` | ✅ |
