@@ -5,7 +5,7 @@ General info of data.
 Type | Name | Condition
 --- | --- | ---
 boolean | Is Debugger Disabled? |
-unsigned2 | Bytecode Version |
+unsigned2 | WAD Version |
 void[1] | Padding |
 nullUTF8* | File Name |
 nullUTF8* | Configuration |
@@ -24,6 +24,6 @@ nullUTF8* | Display Name |
 unsigned8 | Active Targets |
 unsigned8 | Function Classifications |
 unsigned4 | Steam App ID |
-unsigned4 | Debugger Port | Bytecode Version is 14 or higher
+unsigned4 | Debugger Port | WAD Version is 14 or higher
 simpleList | Room Order |
 void[24] | Unknown | GameMaker Version Major is 2 or higher (GameMaker Studio 2+)
