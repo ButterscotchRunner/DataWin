@@ -1,6 +1,6 @@
 **Progress:** 113/193 (58.549222797927456%)
 
-Tested against GameMaker Version 2024.14.4.268
+Tested against GameMaker Bytecode Version 13
 
 | GML Built-In Variable | Implemented? |
 | - | - |
