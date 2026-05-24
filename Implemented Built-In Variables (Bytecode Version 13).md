@@ -1,17 +1,9 @@
-**Progress:** 0/210 (0.0%)
+**Progress:** 0/193 (0.0%)
 
 Tested against GameMaker Version 2024.14.4.268
 
 | GML Built-In Variable | Implemented? |
 | - | - |
-| `rollback_current_frame` | 🚫 |
-| `rollback_confirmed_frame` | 🚫 |
-| `rollback_event_id` | 🚫 |
-| `rollback_event_param` | 🚫 |
-| `rollback_game_running` | 🚫 |
-| `rollback_api_server` | 🚫 |
-| `wallpaper_config` | 🚫 |
-| `wallpaper_subscription_data` | 🚫 |
 | `os_type` | 🚫 |
 | `os_device` | 🚫 |
 | `os_version` | 🚫 |
@@ -38,11 +30,6 @@ Tested against GameMaker Version 2024.14.4.268
 | `argument15` | 🚫 |
 | `argument_count` | 🚫 |
 | `debug_mode` | 🚫 |
-| `pointer_invalid` | 🚫 |
-| `pointer_null` | 🚫 |
-| `undefined` | 🚫 |
-| `NaN` | 🚫 |
-| `infinity` | 🚫 |
 | `room` | 🚫 |
 | `room_first` | 🚫 |
 | `room_last` | 🚫 |
@@ -52,12 +39,9 @@ Tested against GameMaker Version 2024.14.4.268
 | `lives` | 🚫 |
 | `health` | 🚫 |
 | `game_id` | 🚫 |
-| `game_display_name` | 🚫 |
-| `game_project_name` | 🚫 |
-| `game_save_id` | 🚫 |
+| `game_guid` | 🚫 |
 | `working_directory` | 🚫 |
 | `temp_directory` | 🚫 |
-| `cache_directory` | 🚫 |
 | `program_directory` | 🚫 |
 | `instance_count` | 🚫 |
 | `instance_id` | 🚫 |
@@ -66,6 +50,23 @@ Tested against GameMaker Version 2024.14.4.268
 | `room_caption` | 🚫 |
 | `room_speed` | 🚫 |
 | `room_persistent` | 🚫 |
+| `background_color` | 🚫 |
+| `background_showcolor` | 🚫 |
+| `background_visible` | 🚫 |
+| `background_foreground` | 🚫 |
+| `background_index` | 🚫 |
+| `background_x` | 🚫 |
+| `background_y` | 🚫 |
+| `background_width` | 🚫 |
+| `background_height` | 🚫 |
+| `background_htiled` | 🚫 |
+| `background_vtiled` | 🚫 |
+| `background_xscale` | 🚫 |
+| `background_yscale` | 🚫 |
+| `background_hspeed` | 🚫 |
+| `background_vspeed` | 🚫 |
+| `background_blend` | 🚫 |
+| `background_alpha` | 🚫 |
 | `view_enabled` | 🚫 |
 | `view_current` | 🚫 |
 | `view_visible` | 🚫 |
@@ -84,7 +85,6 @@ Tested against GameMaker Version 2024.14.4.268
 | `view_vspeed` | 🚫 |
 | `view_object` | 🚫 |
 | `view_surface_id` | 🚫 |
-| `view_camera` | 🚫 |
 | `mouse_x` | 🚫 |
 | `mouse_y` | 🚫 |
 | `mouse_button` | 🚫 |
@@ -114,13 +114,11 @@ Tested against GameMaker Version 2024.14.4.268
 | `event_number` | 🚫 |
 | `event_object` | 🚫 |
 | `event_action` | 🚫 |
+| `secure_mode` | 🚫 |
 | `error_occurred` | 🚫 |
 | `error_last` | 🚫 |
 | `gamemaker_registered` | 🚫 |
 | `gamemaker_pro` | 🚫 |
-| `application_surface` | 🚫 |
-| `font_texture_page_size` | 🚫 |
-| `audio_bus_main` | 🚫 |
 | `x` | 🚫 |
 | `y` | 🚫 |
 | `xprevious` | 🚫 |
@@ -134,14 +132,11 @@ Tested against GameMaker Version 2024.14.4.268
 | `friction` | 🚫 |
 | `gravity` | 🚫 |
 | `gravity_direction` | 🚫 |
-| `in_collision_tree` | 🚫 |
 | `object_index` | 🚫 |
 | `id` | 🚫 |
 | `alarm` | 🚫 |
 | `solid` | 🚫 |
 | `visible` | 🚫 |
-| `managed` | 🚫 |
-| `collision_space` | 🚫 |
 | `persistent` | 🚫 |
 | `depth` | 🚫 |
 | `bbox_left` | 🚫 |
@@ -176,8 +171,6 @@ Tested against GameMaker Version 2024.14.4.268
 | `timeline_running` | 🚫 |
 | `timeline_loop` | 🚫 |
 | `async_load` | 🚫 |
-| `event_data` | 🚫 |
-| `iap_data` | 🚫 |
 | `phy_rotation` | 🚫 |
 | `phy_position_x` | 🚫 |
 | `phy_position_y` | 🚫 |
@@ -186,8 +179,6 @@ Tested against GameMaker Version 2024.14.4.268
 | `phy_linear_velocity_y` | 🚫 |
 | `phy_speed_x` | 🚫 |
 | `phy_speed_y` | 🚫 |
-| `phy_angular_damping` | 🚫 |
-| `phy_linear_damping` | 🚫 |
 | `phy_bullet` | 🚫 |
 | `phy_fixed_rotation` | 🚫 |
 | `phy_active` | 🚫 |
@@ -195,12 +186,9 @@ Tested against GameMaker Version 2024.14.4.268
 | `phy_inertia` | 🚫 |
 | `phy_com_x` | 🚫 |
 | `phy_com_y` | 🚫 |
-| `phy_speed` | 🚫 |
 | `phy_dynamic` | 🚫 |
 | `phy_kinematic` | 🚫 |
 | `phy_sleeping` | 🚫 |
-| `phy_position_xprevious` | 🚫 |
-| `phy_position_yprevious` | 🚫 |
 | `phy_collision_points` | 🚫 |
 | `phy_collision_x` | 🚫 |
 | `phy_collision_y` | 🚫 |
@@ -209,9 +197,4 @@ Tested against GameMaker Version 2024.14.4.268
 | `display_aa` | 🚫 |
 | `delta_time` | 🚫 |
 | `webgl_enabled` | 🚫 |
-| `layer` | 🚫 |
-| `on_ui_layer` | 🚫 |
-| `in_sequence` | 🚫 |
-| `sequence_instance` | 🚫 |
-| `drawn_by_sequence` | 🚫 |
 
