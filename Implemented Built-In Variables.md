@@ -1,4 +1,4 @@
-**Progress:** 102/210 (48.57142857142857%)
+**Progress:** 107/210 (50.95238095238095%)
 
 Tested against GameMaker Version 2024.14.4.268
 
@@ -170,11 +170,11 @@ Tested against GameMaker Version 2024.14.4.268
 | `path_scale` | ✅ |
 | `path_orientation` | ✅ |
 | `path_endaction` | ✅ |
-| `timeline_index` | 🚫 |
-| `timeline_position` | 🚫 |
-| `timeline_speed` | 🚫 |
-| `timeline_running` | 🚫 |
-| `timeline_loop` | 🚫 |
+| `timeline_index` | ✅ |
+| `timeline_position` | ✅ |
+| `timeline_speed` | ✅ |
+| `timeline_running` | ✅ |
+| `timeline_loop` | ✅ |
 | `async_load` | ✅ |
 | `event_data` | 🚫 |
 | `iap_data` | 🚫 |

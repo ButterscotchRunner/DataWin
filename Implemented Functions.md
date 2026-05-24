@@ -1,4 +1,4 @@
-**Progress:** 502/2865 (17.521815008726%)
+**Progress:** 506/2865 (17.661431064572426%)
 
 Tested against GameMaker Version 2024.14.4.268
 
@@ -1253,15 +1253,15 @@ Tested against GameMaker Version 2024.14.4.268
 | `path_rotate` | 🚫 |
 | `path_rescale` | 🚫 |
 | `path_shift` | 🚫 |
-| `timeline_exists` | 🚫 |
-| `timeline_get_name` | 🚫 |
+| `timeline_exists` | ✅ |
+| `timeline_get_name` | ✅ |
 | `timeline_add` | 🚫 |
 | `timeline_delete` | 🚫 |
 | `timeline_moment_clear` | 🚫 |
 | `timeline_clear` | 🚫 |
 | `timeline_moment_add_script` | 🚫 |
-| `timeline_size` | 🚫 |
-| `timeline_max_moment` | 🚫 |
+| `timeline_size` | ✅ |
+| `timeline_max_moment` | ✅ |
 | `object_exists` | 🚫 |
 | `object_get_name` | 🚫 |
 | `object_get_sprite` | ✅ |
