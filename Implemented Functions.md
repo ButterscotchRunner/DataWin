@@ -1,4 +1,4 @@
-**Progress:** 506/2865 (17.661431064572426%)
+**Progress:** 507/2865 (17.69633507853403%)
 
 Tested against GameMaker Version 2024.14.4.268
 
@@ -331,7 +331,7 @@ Tested against GameMaker Version 2024.14.4.268
 | `scheduler_resolution_get` | 🚫 |
 | `point_in_rectangle` | ✅ |
 | `point_in_triangle` | 🚫 |
-| `point_in_circle` | 🚫 |
+| `point_in_circle` | ✅ |
 | `rectangle_in_rectangle` | ✅ |
 | `rectangle_in_triangle` | 🚫 |
 | `rectangle_in_circle` | 🚫 |
