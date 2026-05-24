@@ -1,5 +1,11 @@
 # datawin
 
+* [Data types](/types.md)
+* [Chunk](/chunk.md)
+* [FORM](/FORM.md)
+  * [GEN8](/GEN8.md)
+  * [STRG](/STRG.md)
+* [Console Functions](/console-functions.md)
 ## Sources / Further Reading
 * Butterscotch https://github.com/ButterscotchRunner/Butterscotch
 * UndertaleModTool https://github.com/UnderminersTeam/UndertaleModTool
