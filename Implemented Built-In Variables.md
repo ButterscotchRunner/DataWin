@@ -1,217 +1,237 @@
-**Progress:** 107/210 (50.95238095238095%)
+**Progress:** 118/232 (50.86206896551724%)
 
-Tested against GameMaker Version 2024.14.4.268
-
-| GML Built-In Variable | Implemented? |
-| - | - |
-| `rollback_current_frame` | 🚫 |
-| `rollback_confirmed_frame` | 🚫 |
-| `rollback_event_id` | 🚫 |
-| `rollback_event_param` | 🚫 |
-| `rollback_game_running` | 🚫 |
-| `rollback_api_server` | 🚫 |
-| `wallpaper_config` | 🚫 |
-| `wallpaper_subscription_data` | 🚫 |
-| `os_type` | ✅ |
-| `os_device` | 🚫 |
-| `os_version` | 🚫 |
-| `os_browser` | 🚫 |
-| `browser_width` | 🚫 |
-| `browser_height` | 🚫 |
-| `argument_relative` | 🚫 |
-| `argument` | ✅ |
-| `argument0` | ✅ |
-| `argument1` | ✅ |
-| `argument2` | ✅ |
-| `argument3` | ✅ |
-| `argument4` | ✅ |
-| `argument5` | ✅ |
-| `argument6` | ✅ |
-| `argument7` | ✅ |
-| `argument8` | ✅ |
-| `argument9` | ✅ |
-| `argument10` | ✅ |
-| `argument11` | ✅ |
-| `argument12` | ✅ |
-| `argument13` | ✅ |
-| `argument14` | ✅ |
-| `argument15` | ✅ |
-| `argument_count` | ✅ |
-| `debug_mode` | ✅ |
-| `pointer_invalid` | 🚫 |
-| `pointer_null` | 🚫 |
-| `undefined` | ✅ |
-| `NaN` | 🚫 |
-| `infinity` | 🚫 |
-| `room` | ✅ |
-| `room_first` | ✅ |
-| `room_last` | 🚫 |
-| `transition_kind` | 🚫 |
-| `transition_steps` | 🚫 |
-| `score` | ✅ |
-| `lives` | ✅ |
-| `health` | ✅ |
-| `game_id` | 🚫 |
-| `game_display_name` | 🚫 |
-| `game_project_name` | 🚫 |
-| `game_save_id` | 🚫 |
-| `working_directory` | ✅ |
-| `temp_directory` | 🚫 |
-| `cache_directory` | 🚫 |
-| `program_directory` | 🚫 |
-| `instance_count` | 🚫 |
-| `instance_id` | 🚫 |
-| `room_width` | ✅ |
-| `room_height` | ✅ |
-| `room_caption` | 🚫 |
-| `room_speed` | ✅ |
-| `room_persistent` | ✅ |
-| `view_enabled` | 🚫 |
-| `view_current` | ✅ |
-| `view_visible` | ✅ |
-| `view_xview` | ✅ |
-| `view_yview` | ✅ |
-| `view_wview` | ✅ |
-| `view_hview` | ✅ |
-| `view_xport` | ✅ |
-| `view_yport` | ✅ |
-| `view_wport` | ✅ |
-| `view_hport` | ✅ |
-| `view_angle` | ✅ |
-| `view_hborder` | ✅ |
-| `view_vborder` | ✅ |
-| `view_hspeed` | ✅ |
-| `view_vspeed` | ✅ |
-| `view_object` | ✅ |
-| `view_surface_id` | 🚫 |
-| `view_camera` | ✅ |
-| `mouse_x` | 🚫 |
-| `mouse_y` | 🚫 |
-| `mouse_button` | 🚫 |
-| `mouse_lastbutton` | 🚫 |
-| `keyboard_key` | ✅ |
-| `keyboard_lastkey` | ✅ |
-| `keyboard_lastchar` | ✅ |
-| `keyboard_string` | 🚫 |
-| `cursor_sprite` | 🚫 |
-| `show_score` | 🚫 |
-| `show_lives` | 🚫 |
-| `show_health` | 🚫 |
-| `caption_score` | 🚫 |
-| `caption_lives` | 🚫 |
-| `caption_health` | 🚫 |
-| `fps` | ✅ |
-| `fps_real` | 🚫 |
-| `current_time` | ✅ |
-| `current_year` | 🚫 |
-| `current_month` | 🚫 |
-| `current_day` | 🚫 |
-| `current_weekday` | 🚫 |
-| `current_hour` | 🚫 |
-| `current_minute` | 🚫 |
-| `current_second` | 🚫 |
-| `event_type` | 🚫 |
-| `event_number` | 🚫 |
-| `event_object` | 🚫 |
-| `event_action` | 🚫 |
-| `error_occurred` | 🚫 |
-| `error_last` | 🚫 |
-| `gamemaker_registered` | 🚫 |
-| `gamemaker_pro` | 🚫 |
-| `application_surface` | ✅ |
-| `font_texture_page_size` | 🚫 |
-| `audio_bus_main` | 🚫 |
-| `x` | ✅ |
-| `y` | ✅ |
-| `xprevious` | ✅ |
-| `yprevious` | ✅ |
-| `xstart` | ✅ |
-| `ystart` | ✅ |
-| `hspeed` | ✅ |
-| `vspeed` | ✅ |
-| `direction` | ✅ |
-| `speed` | ✅ |
-| `friction` | ✅ |
-| `gravity` | ✅ |
-| `gravity_direction` | ✅ |
-| `in_collision_tree` | 🚫 |
-| `object_index` | ✅ |
-| `id` | ✅ |
-| `alarm` | ✅ |
-| `solid` | ✅ |
-| `visible` | ✅ |
-| `managed` | 🚫 |
-| `collision_space` | 🚫 |
-| `persistent` | ✅ |
-| `depth` | ✅ |
-| `bbox_left` | ✅ |
-| `bbox_right` | ✅ |
-| `bbox_top` | ✅ |
-| `bbox_bottom` | ✅ |
-| `sprite_index` | ✅ |
-| `image_index` | ✅ |
-| `image_single` | ✅ |
-| `image_number` | ✅ |
-| `sprite_width` | ✅ |
-| `sprite_height` | ✅ |
-| `sprite_xoffset` | ✅ |
-| `sprite_yoffset` | ✅ |
-| `image_xscale` | ✅ |
-| `image_yscale` | ✅ |
-| `image_angle` | ✅ |
-| `image_alpha` | ✅ |
-| `image_blend` | ✅ |
-| `image_speed` | ✅ |
-| `mask_index` | ✅ |
-| `path_index` | ✅ |
-| `path_position` | ✅ |
-| `path_positionprevious` | ✅ |
-| `path_speed` | ✅ |
-| `path_scale` | ✅ |
-| `path_orientation` | ✅ |
-| `path_endaction` | ✅ |
-| `timeline_index` | ✅ |
-| `timeline_position` | ✅ |
-| `timeline_speed` | ✅ |
-| `timeline_running` | ✅ |
-| `timeline_loop` | ✅ |
-| `async_load` | ✅ |
-| `event_data` | 🚫 |
-| `iap_data` | 🚫 |
-| `phy_rotation` | 🚫 |
-| `phy_position_x` | 🚫 |
-| `phy_position_y` | 🚫 |
-| `phy_angular_velocity` | 🚫 |
-| `phy_linear_velocity_x` | 🚫 |
-| `phy_linear_velocity_y` | 🚫 |
-| `phy_speed_x` | 🚫 |
-| `phy_speed_y` | 🚫 |
-| `phy_angular_damping` | 🚫 |
-| `phy_linear_damping` | 🚫 |
-| `phy_bullet` | 🚫 |
-| `phy_fixed_rotation` | 🚫 |
-| `phy_active` | 🚫 |
-| `phy_mass` | 🚫 |
-| `phy_inertia` | 🚫 |
-| `phy_com_x` | 🚫 |
-| `phy_com_y` | 🚫 |
-| `phy_speed` | 🚫 |
-| `phy_dynamic` | 🚫 |
-| `phy_kinematic` | 🚫 |
-| `phy_sleeping` | 🚫 |
-| `phy_position_xprevious` | 🚫 |
-| `phy_position_yprevious` | 🚫 |
-| `phy_collision_points` | 🚫 |
-| `phy_collision_x` | 🚫 |
-| `phy_collision_y` | 🚫 |
-| `phy_col_normal_x` | 🚫 |
-| `phy_col_normal_y` | 🚫 |
-| `display_aa` | 🚫 |
-| `delta_time` | 🚫 |
-| `webgl_enabled` | 🚫 |
-| `layer` | ✅ |
-| `on_ui_layer` | 🚫 |
-| `in_sequence` | 🚫 |
-| `sequence_instance` | 🚫 |
-| `drawn_by_sequence` | 🚫 |
+| GML Built-In Variable | Implemented? | Added In |
+| - | - | - |
+| `alarm` | ✅ | GameMaker: Studio 1.0.198 |
+| `argument` | ✅ | GameMaker: Studio 1.0.198 |
+| `argument0` | ✅ | GameMaker: Studio 1.0.198 |
+| `argument1` | ✅ | GameMaker: Studio 1.0.198 |
+| `argument10` | ✅ | GameMaker: Studio 1.0.198 |
+| `argument11` | ✅ | GameMaker: Studio 1.0.198 |
+| `argument12` | ✅ | GameMaker: Studio 1.0.198 |
+| `argument13` | ✅ | GameMaker: Studio 1.0.198 |
+| `argument14` | ✅ | GameMaker: Studio 1.0.198 |
+| `argument15` | ✅ | GameMaker: Studio 1.0.198 |
+| `argument2` | ✅ | GameMaker: Studio 1.0.198 |
+| `argument3` | ✅ | GameMaker: Studio 1.0.198 |
+| `argument4` | ✅ | GameMaker: Studio 1.0.198 |
+| `argument5` | ✅ | GameMaker: Studio 1.0.198 |
+| `argument6` | ✅ | GameMaker: Studio 1.0.198 |
+| `argument7` | ✅ | GameMaker: Studio 1.0.198 |
+| `argument8` | ✅ | GameMaker: Studio 1.0.198 |
+| `argument9` | ✅ | GameMaker: Studio 1.0.198 |
+| `argument_count` | ✅ | GameMaker: Studio 1.0.198 |
+| `argument_relative` | 🚫 | GameMaker: Studio 1.0.198 |
+| `async_load` | ✅ | GameMaker: Studio 1.0.198 |
+| `background_alpha` | ✅ | GameMaker: Studio 1.0.198 |
+| `background_blend` | 🚫 | GameMaker: Studio 1.0.198 |
+| `background_color` | ✅ | GameMaker: Studio 1.0.198 |
+| `background_foreground` | 🚫 | GameMaker: Studio 1.0.198 |
+| `background_height` | ✅ | GameMaker: Studio 1.0.198 |
+| `background_hspeed` | ✅ | GameMaker: Studio 1.0.198 |
+| `background_htiled` | 🚫 | GameMaker: Studio 1.0.198 |
+| `background_index` | ✅ | GameMaker: Studio 1.0.198 |
+| `background_showcolor` | 🚫 | GameMaker: Studio 1.0.198 |
+| `background_visible` | ✅ | GameMaker: Studio 1.0.198 |
+| `background_vspeed` | ✅ | GameMaker: Studio 1.0.198 |
+| `background_vtiled` | 🚫 | GameMaker: Studio 1.0.198 |
+| `background_width` | ✅ | GameMaker: Studio 1.0.198 |
+| `background_x` | ✅ | GameMaker: Studio 1.0.198 |
+| `background_xscale` | 🚫 | GameMaker: Studio 1.0.198 |
+| `background_y` | ✅ | GameMaker: Studio 1.0.198 |
+| `background_yscale` | 🚫 | GameMaker: Studio 1.0.198 |
+| `bbox_bottom` | ✅ | GameMaker: Studio 1.0.198 |
+| `bbox_left` | ✅ | GameMaker: Studio 1.0.198 |
+| `bbox_right` | ✅ | GameMaker: Studio 1.0.198 |
+| `bbox_top` | ✅ | GameMaker: Studio 1.0.198 |
+| `browser_height` | 🚫 | GameMaker: Studio 1.0.198 |
+| `browser_width` | 🚫 | GameMaker: Studio 1.0.198 |
+| `caption_health` | 🚫 | GameMaker: Studio 1.0.198 |
+| `caption_lives` | 🚫 | GameMaker: Studio 1.0.198 |
+| `caption_score` | 🚫 | GameMaker: Studio 1.0.198 |
+| `current_day` | 🚫 | GameMaker: Studio 1.0.198 |
+| `current_hour` | 🚫 | GameMaker: Studio 1.0.198 |
+| `current_minute` | 🚫 | GameMaker: Studio 1.0.198 |
+| `current_month` | 🚫 | GameMaker: Studio 1.0.198 |
+| `current_second` | 🚫 | GameMaker: Studio 1.0.198 |
+| `current_time` | ✅ | GameMaker: Studio 1.0.198 |
+| `current_weekday` | 🚫 | GameMaker: Studio 1.0.198 |
+| `current_year` | 🚫 | GameMaker: Studio 1.0.198 |
+| `cursor_sprite` | 🚫 | GameMaker: Studio 1.0.198 |
+| `depth` | ✅ | GameMaker: Studio 1.0.198 |
+| `direction` | ✅ | GameMaker: Studio 1.0.198 |
+| `display_aa` | 🚫 | GameMaker: Studio 1.0.198 |
+| `error_last` | 🚫 | GameMaker: Studio 1.0.198 |
+| `error_occurred` | 🚫 | GameMaker: Studio 1.0.198 |
+| `event_action` | 🚫 | GameMaker: Studio 1.0.198 |
+| `event_number` | 🚫 | GameMaker: Studio 1.0.198 |
+| `event_object` | 🚫 | GameMaker: Studio 1.0.198 |
+| `event_type` | 🚫 | GameMaker: Studio 1.0.198 |
+| `friction` | ✅ | GameMaker: Studio 1.0.198 |
+| `game_id` | 🚫 | GameMaker: Studio 1.0.198 |
+| `gamemaker_pro` | 🚫 | GameMaker: Studio 1.0.198 |
+| `gamemaker_registered` | 🚫 | GameMaker: Studio 1.0.198 |
+| `gravity` | ✅ | GameMaker: Studio 1.0.198 |
+| `gravity_direction` | ✅ | GameMaker: Studio 1.0.198 |
+| `health` | ✅ | GameMaker: Studio 1.0.198 |
+| `hspeed` | ✅ | GameMaker: Studio 1.0.198 |
+| `image_alpha` | ✅ | GameMaker: Studio 1.0.198 |
+| `image_angle` | ✅ | GameMaker: Studio 1.0.198 |
+| `image_blend` | ✅ | GameMaker: Studio 1.0.198 |
+| `image_index` | ✅ | GameMaker: Studio 1.0.198 |
+| `image_number` | ✅ | GameMaker: Studio 1.0.198 |
+| `image_single` | ✅ | GameMaker: Studio 1.0.198 |
+| `image_speed` | ✅ | GameMaker: Studio 1.0.198 |
+| `image_xscale` | ✅ | GameMaker: Studio 1.0.198 |
+| `image_yscale` | ✅ | GameMaker: Studio 1.0.198 |
+| `instance_count` | 🚫 | GameMaker: Studio 1.0.198 |
+| `instance_id` | 🚫 | GameMaker: Studio 1.0.198 |
+| `keyboard_key` | ✅ | GameMaker: Studio 1.0.198 |
+| `keyboard_lastchar` | ✅ | GameMaker: Studio 1.0.198 |
+| `keyboard_lastkey` | ✅ | GameMaker: Studio 1.0.198 |
+| `keyboard_string` | 🚫 | GameMaker: Studio 1.0.198 |
+| `lives` | ✅ | GameMaker: Studio 1.0.198 |
+| `mask_index` | ✅ | GameMaker: Studio 1.0.198 |
+| `mouse_button` | 🚫 | GameMaker: Studio 1.0.198 |
+| `mouse_lastbutton` | 🚫 | GameMaker: Studio 1.0.198 |
+| `mouse_x` | 🚫 | GameMaker: Studio 1.0.198 |
+| `mouse_y` | 🚫 | GameMaker: Studio 1.0.198 |
+| `object_index` | ✅ | GameMaker: Studio 1.0.198 |
+| `os_browser` | 🚫 | GameMaker: Studio 1.0.198 |
+| `os_device` | 🚫 | GameMaker: Studio 1.0.198 |
+| `os_type` | ✅ | GameMaker: Studio 1.0.198 |
+| `os_version` | 🚫 | GameMaker: Studio 1.0.198 |
+| `path_endaction` | ✅ | GameMaker: Studio 1.0.198 |
+| `path_index` | ✅ | GameMaker: Studio 1.0.198 |
+| `path_orientation` | ✅ | GameMaker: Studio 1.0.198 |
+| `path_position` | ✅ | GameMaker: Studio 1.0.198 |
+| `path_positionprevious` | ✅ | GameMaker: Studio 1.0.198 |
+| `path_scale` | ✅ | GameMaker: Studio 1.0.198 |
+| `path_speed` | ✅ | GameMaker: Studio 1.0.198 |
+| `persistent` | ✅ | GameMaker: Studio 1.0.198 |
+| `phy_active` | 🚫 | GameMaker: Studio 1.0.198 |
+| `phy_angular_velocity` | 🚫 | GameMaker: Studio 1.0.198 |
+| `phy_bullet` | 🚫 | GameMaker: Studio 1.0.198 |
+| `phy_col_normal_x` | 🚫 | GameMaker: Studio 1.0.198 |
+| `phy_col_normal_y` | 🚫 | GameMaker: Studio 1.0.198 |
+| `phy_collision_points` | 🚫 | GameMaker: Studio 1.0.198 |
+| `phy_collision_x` | 🚫 | GameMaker: Studio 1.0.198 |
+| `phy_collision_y` | 🚫 | GameMaker: Studio 1.0.198 |
+| `phy_com_x` | 🚫 | GameMaker: Studio 1.0.198 |
+| `phy_com_y` | 🚫 | GameMaker: Studio 1.0.198 |
+| `phy_dynamic` | 🚫 | GameMaker: Studio 1.0.198 |
+| `phy_fixed_rotation` | 🚫 | GameMaker: Studio 1.0.198 |
+| `phy_inertia` | 🚫 | GameMaker: Studio 1.0.198 |
+| `phy_kinematic` | 🚫 | GameMaker: Studio 1.0.198 |
+| `phy_linear_velocity_x` | 🚫 | GameMaker: Studio 1.0.198 |
+| `phy_linear_velocity_y` | 🚫 | GameMaker: Studio 1.0.198 |
+| `phy_mass` | 🚫 | GameMaker: Studio 1.0.198 |
+| `phy_position_x` | 🚫 | GameMaker: Studio 1.0.198 |
+| `phy_position_y` | 🚫 | GameMaker: Studio 1.0.198 |
+| `phy_rotation` | 🚫 | GameMaker: Studio 1.0.198 |
+| `phy_sleeping` | 🚫 | GameMaker: Studio 1.0.198 |
+| `phy_speed_x` | 🚫 | GameMaker: Studio 1.0.198 |
+| `phy_speed_y` | 🚫 | GameMaker: Studio 1.0.198 |
+| `program_directory` | 🚫 | GameMaker: Studio 1.0.198 |
+| `room_caption` | 🚫 | GameMaker: Studio 1.0.198 |
+| `room_first` | ✅ | GameMaker: Studio 1.0.198 |
+| `room_height` | ✅ | GameMaker: Studio 1.0.198 |
+| `room_last` | 🚫 | GameMaker: Studio 1.0.198 |
+| `room_persistent` | ✅ | GameMaker: Studio 1.0.198 |
+| `room_speed` | ✅ | GameMaker: Studio 1.0.198 |
+| `room_width` | ✅ | GameMaker: Studio 1.0.198 |
+| `score` | ✅ | GameMaker: Studio 1.0.198 |
+| `secure_mode` | 🚫 | GameMaker: Studio 1.0.198 |
+| `show_health` | 🚫 | GameMaker: Studio 1.0.198 |
+| `show_lives` | 🚫 | GameMaker: Studio 1.0.198 |
+| `show_score` | 🚫 | GameMaker: Studio 1.0.198 |
+| `solid` | ✅ | GameMaker: Studio 1.0.198 |
+| `speed` | ✅ | GameMaker: Studio 1.0.198 |
+| `sprite_height` | ✅ | GameMaker: Studio 1.0.198 |
+| `sprite_index` | ✅ | GameMaker: Studio 1.0.198 |
+| `sprite_width` | ✅ | GameMaker: Studio 1.0.198 |
+| `sprite_xoffset` | ✅ | GameMaker: Studio 1.0.198 |
+| `sprite_yoffset` | ✅ | GameMaker: Studio 1.0.198 |
+| `temp_directory` | 🚫 | GameMaker: Studio 1.0.198 |
+| `timeline_index` | ✅ | GameMaker: Studio 1.0.198 |
+| `timeline_loop` | ✅ | GameMaker: Studio 1.0.198 |
+| `timeline_position` | ✅ | GameMaker: Studio 1.0.198 |
+| `timeline_running` | ✅ | GameMaker: Studio 1.0.198 |
+| `timeline_speed` | ✅ | GameMaker: Studio 1.0.198 |
+| `transition_kind` | 🚫 | GameMaker: Studio 1.0.198 |
+| `transition_steps` | 🚫 | GameMaker: Studio 1.0.198 |
+| `view_angle` | ✅ | GameMaker: Studio 1.0.198 |
+| `view_current` | ✅ | GameMaker: Studio 1.0.198 |
+| `view_enabled` | 🚫 | GameMaker: Studio 1.0.198 |
+| `view_hborder` | ✅ | GameMaker: Studio 1.0.198 |
+| `view_hport` | ✅ | GameMaker: Studio 1.0.198 |
+| `view_hspeed` | ✅ | GameMaker: Studio 1.0.198 |
+| `view_hview` | ✅ | GameMaker: Studio 1.0.198 |
+| `view_object` | ✅ | GameMaker: Studio 1.0.198 |
+| `view_vborder` | ✅ | GameMaker: Studio 1.0.198 |
+| `view_visible` | ✅ | GameMaker: Studio 1.0.198 |
+| `view_vspeed` | ✅ | GameMaker: Studio 1.0.198 |
+| `view_wport` | ✅ | GameMaker: Studio 1.0.198 |
+| `view_wview` | ✅ | GameMaker: Studio 1.0.198 |
+| `view_xport` | ✅ | GameMaker: Studio 1.0.198 |
+| `view_xview` | ✅ | GameMaker: Studio 1.0.198 |
+| `view_yport` | ✅ | GameMaker: Studio 1.0.198 |
+| `view_yview` | ✅ | GameMaker: Studio 1.0.198 |
+| `visible` | ✅ | GameMaker: Studio 1.0.198 |
+| `vspeed` | ✅ | GameMaker: Studio 1.0.198 |
+| `working_directory` | ✅ | GameMaker: Studio 1.0.198 |
+| `xprevious` | ✅ | GameMaker: Studio 1.0.198 |
+| `xstart` | ✅ | GameMaker: Studio 1.0.198 |
+| `yprevious` | ✅ | GameMaker: Studio 1.0.198 |
+| `ystart` | ✅ | GameMaker: Studio 1.0.198 |
+| `debug_mode` | ✅ | GameMaker: Studio 1.1.690 |
+| `delta_time` | 🚫 | GameMaker: Studio 1.1.690 |
+| `fps` | ✅ | GameMaker: Studio 1.1.690 |
+| `game_guid` | 🚫 | GameMaker: Studio 1.1.690 |
+| `id` | ✅ | GameMaker: Studio 1.1.690 |
+| `room` | ✅ | GameMaker: Studio 1.1.690 |
+| `view_surface_id` | 🚫 | GameMaker: Studio 1.1.690 |
+| `webgl_enabled` | 🚫 | GameMaker: Studio 1.1.690 |
+| `x` | ✅ | GameMaker: Studio 1.1.690 |
+| `y` | ✅ | GameMaker: Studio 1.1.690 |
+| `fps_real` | 🚫 | WAD Version 13 |
+| `application_surface` | ✅ | WAD Version 14 |
+| `background_colour` | ✅ | WAD Version 14 |
+| `background_showcolour` | 🚫 | WAD Version 14 |
+| `game_display_name` | 🚫 | WAD Version 14 |
+| `game_project_name` | 🚫 | WAD Version 14 |
+| `game_save_id` | 🚫 | WAD Version 14 |
+| `iap_data` | 🚫 | WAD Version 14 |
+| `phy_angular_damping` | 🚫 | WAD Version 14 |
+| `phy_linear_damping` | 🚫 | WAD Version 14 |
+| `phy_position_xprevious` | 🚫 | WAD Version 14 |
+| `phy_position_yprevious` | 🚫 | WAD Version 14 |
+| `phy_speed` | 🚫 | WAD Version 14 |
+| `pointer_invalid` | 🚫 | WAD Version 14 |
+| `pointer_null` | 🚫 | WAD Version 14 |
+| `undefined` | ✅ | WAD Version 14 |
+| `layer` | ✅ | WAD Version 15 |
+| `null` | 🚫 | WAD Version 15 |
+| `view_camera` | ✅ | WAD Version 15 |
+| `event_data` | 🚫 | WAD Version 16 |
+| `font_texture_page_size` | 🚫 | WAD Version 16 |
+| `NaN` | 🚫 | GameMaker Version 2024.14.4.268 |
+| `audio_bus_main` | 🚫 | GameMaker Version 2024.14.4.268 |
+| `cache_directory` | 🚫 | GameMaker Version 2024.14.4.268 |
+| `collision_space` | 🚫 | GameMaker Version 2024.14.4.268 |
+| `drawn_by_sequence` | 🚫 | GameMaker Version 2024.14.4.268 |
+| `in_collision_tree` | 🚫 | GameMaker Version 2024.14.4.268 |
+| `in_sequence` | 🚫 | GameMaker Version 2024.14.4.268 |
+| `infinity` | 🚫 | GameMaker Version 2024.14.4.268 |
+| `managed` | 🚫 | GameMaker Version 2024.14.4.268 |
+| `on_ui_layer` | 🚫 | GameMaker Version 2024.14.4.268 |
+| `rollback_api_server` | 🚫 | GameMaker Version 2024.14.4.268 |
+| `rollback_confirmed_frame` | 🚫 | GameMaker Version 2024.14.4.268 |
+| `rollback_current_frame` | 🚫 | GameMaker Version 2024.14.4.268 |
+| `rollback_event_id` | 🚫 | GameMaker Version 2024.14.4.268 |
+| `rollback_event_param` | 🚫 | GameMaker Version 2024.14.4.268 |
+| `rollback_game_running` | 🚫 | GameMaker Version 2024.14.4.268 |
+| `sequence_instance` | 🚫 | GameMaker Version 2024.14.4.268 |
+| `wallpaper_config` | 🚫 | GameMaker Version 2024.14.4.268 |
+| `wallpaper_subscription_data` | 🚫 | GameMaker Version 2024.14.4.268 |
 
