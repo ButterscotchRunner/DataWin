@@ -1,6 +1,6 @@
 **Progress:** 118/212 (55.660377358490564%)
 
-Tested against GameMaker WAD Version 16
+Tested against WAD Version 16
 
 | GML Built-In Variable | Implemented? |
 | - | - |

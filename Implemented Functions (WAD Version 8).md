@@ -1,6 +1,6 @@
 **Progress:** 372/1409 (26.40170333569908%)
 
-Tested against GameMaker WAD Version 8
+Tested against GameMaker: Studio 1.0.198
 
 | GML Function | Implemented? |
 | - | - |
