@@ -5,6 +5,7 @@ Type | Name | Condition
 --- | --- | ---
 boolean | Is Debugger Disabled? |
 unsigned2 | WAD Version |
+void[2] | Padding |
 
 If the 8 >= WAD Version and the remaining bytes are 84:
 
@@ -27,7 +28,6 @@ Anything Else:
 
 Type | Name | Condition
 --- | --- | ---
-void[1] | Padding |
 nullUTF8* | File Name |
 nullUTF8* | Configuration | WAD Version is 9 or greater
 unsigned4 | Last Object |
