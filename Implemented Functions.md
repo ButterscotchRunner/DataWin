@@ -1,3735 +1,3735 @@
 **Progress:** 631/3730 (16.916890080428953%)
 
-| GML Function | Implemented? | Added In |
-| - | - | - |
-| `MCI_command` | 🚫 | GM:S 1.0.198 |
-| `YoYo_AchievementsAvailable` | 🚫 | GM:S 1.0.198 |
-| `YoYo_AcquireInAppPurchase` | 🚫 | GM:S 1.0.198 |
-| `YoYo_AddVirtualKey` | 🚫 | GM:S 1.0.198 |
-| `YoYo_CheckSecurity` | 🚫 | GM:S 1.0.198 |
-| `YoYo_DeleteVirtualKey` | 🚫 | GM:S 1.0.198 |
-| `YoYo_DisableAds` | 🚫 | GM:S 1.0.198 |
-| `YoYo_EnableAds` | 🚫 | GM:S 1.0.198 |
-| `YoYo_EnableAlphaBlend` | 🚫 | GM:S 1.0.198 |
-| `YoYo_EnableInAppPurchases` | 🚫 | GM:S 1.0.198 |
-| `YoYo_FacebookDialog` | 🚫 | GM:S 1.0.198 |
-| `YoYo_FacebookGraphRequest` | 🚫 | GM:S 1.0.198 |
-| `YoYo_FacebookInit` | 🚫 | GM:S 1.0.198 |
-| `YoYo_FacebookLogin` | 🚫 | GM:S 1.0.198 |
-| `YoYo_FacebookLoginStatus` | 🚫 | GM:S 1.0.198 |
-| `YoYo_FacebookLogout` | 🚫 | GM:S 1.0.198 |
-| `YoYo_GetCPUDetails` | 🚫 | GM:S 1.0.198 |
-| `YoYo_GetConfig` | 🚫 | GM:S 1.0.198 |
-| `YoYo_GetDevice` | 🚫 | GM:S 1.0.198 |
-| `YoYo_GetPictureSprite` | 🚫 | GM:S 1.0.198 |
-| `YoYo_GetPlatform` | 🚫 | GM:S 1.0.198 |
-| `YoYo_GetPurchasedDetails` | 🚫 | GM:S 1.0.198 |
-| `YoYo_GetSessionKey` | 🚫 | GM:S 1.0.198 |
-| `YoYo_GetTiltX` | 🚫 | GM:S 1.0.198 |
-| `YoYo_GetTiltY` | 🚫 | GM:S 1.0.198 |
-| `YoYo_GetTiltZ` | 🚫 | GM:S 1.0.198 |
-| `YoYo_GetTimer` | 🚫 | GM:S 1.0.198 |
-| `YoYo_HideVirtualKey` | 🚫 | GM:S 1.0.198 |
-| `YoYo_IsKeypadOpen` | 🚫 | GM:S 1.0.198 |
-| `YoYo_LeaveRating` | 🚫 | GM:S 1.0.198 |
-| `YoYo_LoginAchievements` | 🚫 | GM:S 1.0.198 |
-| `YoYo_LogoutAchievements` | 🚫 | GM:S 1.0.198 |
-| `YoYo_MouseCheckButton` | 🚫 | GM:S 1.0.198 |
-| `YoYo_MouseCheckButtonPressed` | 🚫 | GM:S 1.0.198 |
-| `YoYo_MouseCheckButtonReleased` | 🚫 | GM:S 1.0.198 |
-| `YoYo_MouseX` | 🚫 | GM:S 1.0.198 |
-| `YoYo_MouseXRaw` | 🚫 | GM:S 1.0.198 |
-| `YoYo_MouseY` | 🚫 | GM:S 1.0.198 |
-| `YoYo_MouseYRaw` | 🚫 | GM:S 1.0.198 |
-| `YoYo_OF_AcceptChallenge` | 🚫 | GM:S 1.0.198 |
-| `YoYo_OF_AddAchievement` | 🚫 | GM:S 1.0.198 |
-| `YoYo_OF_AddLeaderboard` | 🚫 | GM:S 1.0.198 |
-| `YoYo_OF_IsOnline` | 🚫 | GM:S 1.0.198 |
-| `YoYo_OF_SendChallenge` | 🚫 | GM:S 1.0.198 |
-| `YoYo_OF_SendChallengeResult` | 🚫 | GM:S 1.0.198 |
-| `YoYo_OF_SendInvite` | 🚫 | GM:S 1.0.198 |
-| `YoYo_OF_SendSocial` | 🚫 | GM:S 1.0.198 |
-| `YoYo_OF_SetURL` | 🚫 | GM:S 1.0.198 |
-| `YoYo_OF_StartDashboard` | 🚫 | GM:S 1.0.198 |
-| `YoYo_OSPauseEvent` | 🚫 | GM:S 1.0.198 |
-| `YoYo_OpenURL` | 🚫 | GM:S 1.0.198 |
-| `YoYo_OpenURL_ext` | 🚫 | GM:S 1.0.198 |
-| `YoYo_OpenURL_full` | 🚫 | GM:S 1.0.198 |
-| `YoYo_PostAchievement` | 🚫 | GM:S 1.0.198 |
-| `YoYo_PostScore` | 🚫 | GM:S 1.0.198 |
-| `YoYo_ProductPurchased` | 🚫 | GM:S 1.0.198 |
-| `YoYo_RestoreInAppPurchases` | 🚫 | GM:S 1.0.198 |
-| `YoYo_RetrieveInAppPurchases` | 🚫 | GM:S 1.0.198 |
-| `YoYo_SelectPicture` | 🚫 | GM:S 1.0.198 |
-| `YoYo_ShowVirtualKey` | 🚫 | GM:S 1.0.198 |
-| `achievement_is_online` | 🚫 | GM:S 1.0.198 |
-| `achievement_map_achievement` | 🚫 | GM:S 1.0.198 |
-| `achievement_map_leaderboard` | 🚫 | GM:S 1.0.198 |
-| `action_another_room` | ✅ | GM:S 1.0.198 |
-| `action_bounce` | 🚫 | GM:S 1.0.198 |
-| `action_cd_pause` | 🚫 | GM:S 1.0.198 |
-| `action_cd_play` | 🚫 | GM:S 1.0.198 |
-| `action_cd_playing` | 🚫 | GM:S 1.0.198 |
-| `action_cd_present` | 🚫 | GM:S 1.0.198 |
-| `action_cd_resume` | 🚫 | GM:S 1.0.198 |
-| `action_cd_stop` | 🚫 | GM:S 1.0.198 |
-| `action_change_object` | ✅ | GM:S 1.0.198 |
-| `action_color` | ✅ | GM:S 1.0.198 |
-| `action_create_object` | ✅ | GM:S 1.0.198 |
-| `action_create_object_motion` | 🚫 | GM:S 1.0.198 |
-| `action_create_object_random` | 🚫 | GM:S 1.0.198 |
-| `action_current_room` | ✅ | GM:S 1.0.198 |
-| `action_draw_arrow` | 🚫 | GM:S 1.0.198 |
-| `action_draw_background` | 🚫 | GM:S 1.0.198 |
-| `action_draw_ellipse` | 🚫 | GM:S 1.0.198 |
-| `action_draw_ellipse_gradient` | 🚫 | GM:S 1.0.198 |
-| `action_draw_font` | 🚫 | GM:S 1.0.198 |
-| `action_draw_font_old` | 🚫 | GM:S 1.0.198 |
-| `action_draw_gradient_hor` | 🚫 | GM:S 1.0.198 |
-| `action_draw_gradient_vert` | 🚫 | GM:S 1.0.198 |
-| `action_draw_health` | ✅ | GM:S 1.0.198 |
-| `action_draw_life` | ✅ | GM:S 1.0.198 |
-| `action_draw_life_images` | ✅ | GM:S 1.0.198 |
-| `action_draw_line` | 🚫 | GM:S 1.0.198 |
-| `action_draw_rectangle` | 🚫 | GM:S 1.0.198 |
-| `action_draw_score` | ✅ | GM:S 1.0.198 |
-| `action_draw_sprite` | ✅ | GM:S 1.0.198 |
-| `action_draw_text` | ✅ | GM:S 1.0.198 |
-| `action_draw_text_transformed` | 🚫 | GM:S 1.0.198 |
-| `action_draw_variable` | 🚫 | GM:S 1.0.198 |
-| `action_effect` | 🚫 | GM:S 1.0.198 |
-| `action_end_game` | ✅ | GM:S 1.0.198 |
-| `action_end_sound` | ✅ | GM:S 1.0.198 |
-| `action_execute_script` | ✅ | GM:S 1.0.198 |
-| `action_fill_color` | 🚫 | GM:S 1.0.198 |
-| `action_font` | ✅ | GM:S 1.0.198 |
-| `action_fullscreen` | 🚫 | GM:S 1.0.198 |
-| `action_highscore` | 🚫 | GM:S 1.0.198 |
-| `action_highscore_clear` | 🚫 | GM:S 1.0.198 |
-| `action_highscore_show` | 🚫 | GM:S 1.0.198 |
-| `action_if` | 🚫 | GM:S 1.0.198 |
-| `action_if_aligned` | 🚫 | GM:S 1.0.198 |
-| `action_if_collision` | 🚫 | GM:S 1.0.198 |
-| `action_if_dice` | ✅ | GM:S 1.0.198 |
-| `action_if_empty` | 🚫 | GM:S 1.0.198 |
-| `action_if_health` | ✅ | GM:S 1.0.198 |
-| `action_if_life` | ✅ | GM:S 1.0.198 |
-| `action_if_mouse` | 🚫 | GM:S 1.0.198 |
-| `action_if_next_room` | 🚫 | GM:S 1.0.198 |
-| `action_if_number` | 🚫 | GM:S 1.0.198 |
-| `action_if_object` | 🚫 | GM:S 1.0.198 |
-| `action_if_previous_room` | 🚫 | GM:S 1.0.198 |
-| `action_if_question` | 🚫 | GM:S 1.0.198 |
-| `action_if_score` | ✅ | GM:S 1.0.198 |
-| `action_if_sound` | ✅ | GM:S 1.0.198 |
-| `action_if_variable` | ✅ | GM:S 1.0.198 |
-| `action_inherited` | ✅ | GM:S 1.0.198 |
-| `action_kill_object` | ✅ | GM:S 1.0.198 |
-| `action_kill_position` | 🚫 | GM:S 1.0.198 |
-| `action_line_color` | 🚫 | GM:S 1.0.198 |
-| `action_linear_step` | 🚫 | GM:S 1.0.198 |
-| `action_load_game` | ✅ | GM:S 1.0.198 |
-| `action_message` | ✅ | GM:S 1.0.198 |
-| `action_move` | ✅ | GM:S 1.0.198 |
-| `action_move_contact` | 🚫 | GM:S 1.0.198 |
-| `action_move_point` | ✅ | GM:S 1.0.198 |
-| `action_move_random` | 🚫 | GM:S 1.0.198 |
-| `action_move_start` | 🚫 | GM:S 1.0.198 |
-| `action_move_to` | ✅ | GM:S 1.0.198 |
-| `action_next_room` | ✅ | GM:S 1.0.198 |
-| `action_partemit_burst` | 🚫 | GM:S 1.0.198 |
-| `action_partemit_create` | 🚫 | GM:S 1.0.198 |
-| `action_partemit_destroy` | 🚫 | GM:S 1.0.198 |
-| `action_partemit_stream` | 🚫 | GM:S 1.0.198 |
-| `action_partsyst_clear` | 🚫 | GM:S 1.0.198 |
-| `action_partsyst_create` | 🚫 | GM:S 1.0.198 |
-| `action_partsyst_destroy` | 🚫 | GM:S 1.0.198 |
-| `action_parttype_color` | 🚫 | GM:S 1.0.198 |
-| `action_parttype_create` | 🚫 | GM:S 1.0.198 |
-| `action_parttype_create_old` | 🚫 | GM:S 1.0.198 |
-| `action_parttype_gravity` | 🚫 | GM:S 1.0.198 |
-| `action_parttype_life` | 🚫 | GM:S 1.0.198 |
-| `action_parttype_secondary` | 🚫 | GM:S 1.0.198 |
-| `action_parttype_speed` | 🚫 | GM:S 1.0.198 |
-| `action_path` | ✅ | GM:S 1.0.198 |
-| `action_path_end` | ✅ | GM:S 1.0.198 |
-| `action_path_old` | 🚫 | GM:S 1.0.198 |
-| `action_path_position` | 🚫 | GM:S 1.0.198 |
-| `action_path_speed` | 🚫 | GM:S 1.0.198 |
-| `action_potential_step` | 🚫 | GM:S 1.0.198 |
-| `action_previous_room` | ✅ | GM:S 1.0.198 |
-| `action_replace_background` | 🚫 | GM:S 1.0.198 |
-| `action_replace_sound` | 🚫 | GM:S 1.0.198 |
-| `action_replace_sprite` | 🚫 | GM:S 1.0.198 |
-| `action_restart_game` | ✅ | GM:S 1.0.198 |
-| `action_reverse_xdir` | ✅ | GM:S 1.0.198 |
-| `action_reverse_ydir` | ✅ | GM:S 1.0.198 |
-| `action_save_game` | ✅ | GM:S 1.0.198 |
-| `action_set_alarm` | ✅ | GM:S 1.0.198 |
-| `action_set_caption` | 🚫 | GM:S 1.0.198 |
-| `action_set_cursor` | 🚫 | GM:S 1.0.198 |
-| `action_set_friction` | ✅ | GM:S 1.0.198 |
-| `action_set_gravity` | ✅ | GM:S 1.0.198 |
-| `action_set_health` | ✅ | GM:S 1.0.198 |
-| `action_set_hspeed` | ✅ | GM:S 1.0.198 |
-| `action_set_life` | ✅ | GM:S 1.0.198 |
-| `action_set_motion` | 🚫 | GM:S 1.0.198 |
-| `action_set_relative` | ✅ | GM:S 1.0.198 |
-| `action_set_score` | ✅ | GM:S 1.0.198 |
-| `action_set_sprite` | 🚫 | GM:S 1.0.198 |
-| `action_set_timeline` | ✅ | GM:S 1.0.198 |
-| `action_set_timeline_position` | ✅ | GM:S 1.0.198 |
-| `action_set_timeline_speed` | ✅ | GM:S 1.0.198 |
-| `action_set_vspeed` | ✅ | GM:S 1.0.198 |
-| `action_show_info` | 🚫 | GM:S 1.0.198 |
-| `action_show_video` | 🚫 | GM:S 1.0.198 |
-| `action_sleep` | 🚫 | GM:S 1.0.198 |
-| `action_snap` | ✅ | GM:S 1.0.198 |
-| `action_snapshot` | 🚫 | GM:S 1.0.198 |
-| `action_sound` | ✅ | GM:S 1.0.198 |
-| `action_sprite_color` | 🚫 | GM:S 1.0.198 |
-| `action_sprite_set` | ✅ | GM:S 1.0.198 |
-| `action_sprite_transform` | 🚫 | GM:S 1.0.198 |
-| `action_timeline_pause` | ✅ | GM:S 1.0.198 |
-| `action_timeline_set` | ✅ | GM:S 1.0.198 |
-| `action_timeline_start` | ✅ | GM:S 1.0.198 |
-| `action_timeline_stop` | ✅ | GM:S 1.0.198 |
-| `action_webpage` | 🚫 | GM:S 1.0.198 |
-| `action_wrap` | 🚫 | GM:S 1.0.198 |
-| `ads_disable` | 🚫 | GM:S 1.0.198 |
-| `ads_enable` | 🚫 | GM:S 1.0.198 |
-| `ansi_char` | 🚫 | GM:S 1.0.198 |
-| `arccos` | 🚫 | GM:S 1.0.198 |
-| `arcsin` | ✅ | GM:S 1.0.198 |
-| `arctan` | ✅ | GM:S 1.0.198 |
-| `arctan2` | 🚫 | GM:S 1.0.198 |
-| `background_add` | 🚫 | GM:S 1.0.198 |
-| `background_add_alpha` | 🚫 | GM:S 1.0.198 |
-| `background_add_background` | 🚫 | GM:S 1.0.198 |
-| `background_assign` | 🚫 | GM:S 1.0.198 |
-| `background_create_color` | 🚫 | GM:S 1.0.198 |
-| `background_create_from_screen` | 🚫 | GM:S 1.0.198 |
-| `background_create_from_surface` | 🚫 | GM:S 1.0.198 |
-| `background_create_gradient` | 🚫 | GM:S 1.0.198 |
-| `background_delete` | ✅ | GM:S 1.0.198 |
-| `background_duplicate` | 🚫 | GM:S 1.0.198 |
-| `background_exists` | ✅ | GM:S 1.0.198 |
-| `background_get_height` | ✅ | GM:S 1.0.198 |
-| `background_get_name` | ✅ | GM:S 1.0.198 |
-| `background_get_preload` | 🚫 | GM:S 1.0.198 |
-| `background_get_smooth` | 🚫 | GM:S 1.0.198 |
-| `background_get_texture` | 🚫 | GM:S 1.0.198 |
-| `background_get_transparent` | 🚫 | GM:S 1.0.198 |
-| `background_get_width` | ✅ | GM:S 1.0.198 |
-| `background_name` | ✅ | GM:S 1.0.198 |
-| `background_replace` | 🚫 | GM:S 1.0.198 |
-| `background_save` | 🚫 | GM:S 1.0.198 |
-| `background_set_alpha_from_background` | 🚫 | GM:S 1.0.198 |
-| `cd_close_door` | 🚫 | GM:S 1.0.198 |
-| `cd_init` | 🚫 | GM:S 1.0.198 |
-| `cd_length` | 🚫 | GM:S 1.0.198 |
-| `cd_number` | 🚫 | GM:S 1.0.198 |
-| `cd_open_door` | 🚫 | GM:S 1.0.198 |
-| `cd_pause` | 🚫 | GM:S 1.0.198 |
-| `cd_paused` | 🚫 | GM:S 1.0.198 |
-| `cd_play` | 🚫 | GM:S 1.0.198 |
-| `cd_playing` | 🚫 | GM:S 1.0.198 |
-| `cd_position` | 🚫 | GM:S 1.0.198 |
-| `cd_present` | 🚫 | GM:S 1.0.198 |
-| `cd_resume` | 🚫 | GM:S 1.0.198 |
-| `cd_set_position` | 🚫 | GM:S 1.0.198 |
-| `cd_set_track_position` | 🚫 | GM:S 1.0.198 |
-| `cd_stop` | 🚫 | GM:S 1.0.198 |
-| `cd_track` | 🚫 | GM:S 1.0.198 |
-| `cd_track_length` | 🚫 | GM:S 1.0.198 |
-| `cd_track_position` | 🚫 | GM:S 1.0.198 |
-| `choose` | ✅ | GM:S 1.0.198 |
-| `clamp` | ✅ | GM:S 1.0.198 |
-| `clipboard_get_text` | 🚫 | GM:S 1.0.198 |
-| `clipboard_has_text` | 🚫 | GM:S 1.0.198 |
-| `clipboard_set_text` | 🚫 | GM:S 1.0.198 |
-| `collision_circle` | ✅ | GM:S 1.0.198 |
-| `collision_ellipse` | 🚫 | GM:S 1.0.198 |
-| `collision_line` | ✅ | GM:S 1.0.198 |
-| `collision_point` | ✅ | GM:S 1.0.198 |
-| `collision_rectangle` | ✅ | GM:S 1.0.198 |
-| `color_get_blue` | ✅ | GM:S 1.0.198 |
-| `color_get_green` | ✅ | GM:S 1.0.198 |
-| `color_get_hue` | ✅ | GM:S 1.0.198 |
-| `color_get_red` | ✅ | GM:S 1.0.198 |
-| `color_get_saturation` | ✅ | GM:S 1.0.198 |
-| `color_get_value` | ✅ | GM:S 1.0.198 |
-| `d3d_draw_block` | 🚫 | GM:S 1.0.198 |
-| `d3d_draw_cone` | 🚫 | GM:S 1.0.198 |
-| `d3d_draw_cylinder` | 🚫 | GM:S 1.0.198 |
-| `d3d_draw_ellipsoid` | 🚫 | GM:S 1.0.198 |
-| `d3d_draw_floor` | 🚫 | GM:S 1.0.198 |
-| `d3d_draw_wall` | 🚫 | GM:S 1.0.198 |
-| `d3d_end` | 🚫 | GM:S 1.0.198 |
-| `d3d_light_define_ambient` | 🚫 | GM:S 1.0.198 |
-| `d3d_light_define_direction` | 🚫 | GM:S 1.0.198 |
-| `d3d_light_define_point` | 🚫 | GM:S 1.0.198 |
-| `d3d_light_enable` | 🚫 | GM:S 1.0.198 |
-| `d3d_model_block` | 🚫 | GM:S 1.0.198 |
-| `d3d_model_clear` | 🚫 | GM:S 1.0.198 |
-| `d3d_model_cone` | 🚫 | GM:S 1.0.198 |
-| `d3d_model_create` | 🚫 | GM:S 1.0.198 |
-| `d3d_model_cylinder` | 🚫 | GM:S 1.0.198 |
-| `d3d_model_destroy` | 🚫 | GM:S 1.0.198 |
-| `d3d_model_draw` | 🚫 | GM:S 1.0.198 |
-| `d3d_model_ellipsoid` | 🚫 | GM:S 1.0.198 |
-| `d3d_model_floor` | 🚫 | GM:S 1.0.198 |
-| `d3d_model_load` | 🚫 | GM:S 1.0.198 |
-| `d3d_model_primitive_begin` | 🚫 | GM:S 1.0.198 |
-| `d3d_model_primitive_end` | 🚫 | GM:S 1.0.198 |
-| `d3d_model_save` | 🚫 | GM:S 1.0.198 |
-| `d3d_model_vertex` | 🚫 | GM:S 1.0.198 |
-| `d3d_model_vertex_color` | 🚫 | GM:S 1.0.198 |
-| `d3d_model_vertex_normal` | 🚫 | GM:S 1.0.198 |
-| `d3d_model_vertex_normal_color` | 🚫 | GM:S 1.0.198 |
-| `d3d_model_vertex_normal_texture` | 🚫 | GM:S 1.0.198 |
-| `d3d_model_vertex_normal_texture_color` | 🚫 | GM:S 1.0.198 |
-| `d3d_model_vertex_texture` | 🚫 | GM:S 1.0.198 |
-| `d3d_model_vertex_texture_color` | 🚫 | GM:S 1.0.198 |
-| `d3d_model_wall` | 🚫 | GM:S 1.0.198 |
-| `d3d_primitive_begin` | 🚫 | GM:S 1.0.198 |
-| `d3d_primitive_begin_texture` | 🚫 | GM:S 1.0.198 |
-| `d3d_primitive_end` | 🚫 | GM:S 1.0.198 |
-| `d3d_set_culling` | 🚫 | GM:S 1.0.198 |
-| `d3d_set_depth` | 🚫 | GM:S 1.0.198 |
-| `d3d_set_fog` | 🚫 | GM:S 1.0.198 |
-| `d3d_set_hidden` | 🚫 | GM:S 1.0.198 |
-| `d3d_set_lighting` | 🚫 | GM:S 1.0.198 |
-| `d3d_set_perspective` | 🚫 | GM:S 1.0.198 |
-| `d3d_set_projection` | 🚫 | GM:S 1.0.198 |
-| `d3d_set_projection_ext` | 🚫 | GM:S 1.0.198 |
-| `d3d_set_projection_ortho` | 🚫 | GM:S 1.0.198 |
-| `d3d_set_projection_perspective` | 🚫 | GM:S 1.0.198 |
-| `d3d_set_shading` | 🚫 | GM:S 1.0.198 |
-| `d3d_start` | 🚫 | GM:S 1.0.198 |
-| `d3d_transform_add_rotation_axis` | 🚫 | GM:S 1.0.198 |
-| `d3d_transform_add_rotation_x` | 🚫 | GM:S 1.0.198 |
-| `d3d_transform_add_rotation_y` | 🚫 | GM:S 1.0.198 |
-| `d3d_transform_add_rotation_z` | 🚫 | GM:S 1.0.198 |
-| `d3d_transform_add_scaling` | 🚫 | GM:S 1.0.198 |
-| `d3d_transform_add_translation` | 🚫 | GM:S 1.0.198 |
-| `d3d_transform_set_identity` | 🚫 | GM:S 1.0.198 |
-| `d3d_transform_set_rotation_axis` | 🚫 | GM:S 1.0.198 |
-| `d3d_transform_set_rotation_x` | 🚫 | GM:S 1.0.198 |
-| `d3d_transform_set_rotation_y` | 🚫 | GM:S 1.0.198 |
-| `d3d_transform_set_rotation_z` | 🚫 | GM:S 1.0.198 |
-| `d3d_transform_set_scaling` | 🚫 | GM:S 1.0.198 |
-| `d3d_transform_set_translation` | 🚫 | GM:S 1.0.198 |
-| `d3d_transform_stack_clear` | 🚫 | GM:S 1.0.198 |
-| `d3d_transform_stack_discard` | 🚫 | GM:S 1.0.198 |
-| `d3d_transform_stack_empty` | 🚫 | GM:S 1.0.198 |
-| `d3d_transform_stack_pop` | 🚫 | GM:S 1.0.198 |
-| `d3d_transform_stack_push` | 🚫 | GM:S 1.0.198 |
-| `d3d_transform_stack_top` | 🚫 | GM:S 1.0.198 |
-| `d3d_vertex` | 🚫 | GM:S 1.0.198 |
-| `d3d_vertex_color` | 🚫 | GM:S 1.0.198 |
-| `d3d_vertex_normal` | 🚫 | GM:S 1.0.198 |
-| `d3d_vertex_normal_color` | 🚫 | GM:S 1.0.198 |
-| `d3d_vertex_normal_texture` | 🚫 | GM:S 1.0.198 |
-| `d3d_vertex_normal_texture_color` | 🚫 | GM:S 1.0.198 |
-| `d3d_vertex_texture` | 🚫 | GM:S 1.0.198 |
-| `d3d_vertex_texture_color` | 🚫 | GM:S 1.0.198 |
-| `date_compare_date` | 🚫 | GM:S 1.0.198 |
-| `date_compare_datetime` | 🚫 | GM:S 1.0.198 |
-| `date_compare_time` | 🚫 | GM:S 1.0.198 |
-| `date_create_date` | 🚫 | GM:S 1.0.198 |
-| `date_create_datetime` | 🚫 | GM:S 1.0.198 |
-| `date_create_time` | 🚫 | GM:S 1.0.198 |
-| `date_current_date` | 🚫 | GM:S 1.0.198 |
-| `date_current_datetime` | 🚫 | GM:S 1.0.198 |
-| `date_current_time` | 🚫 | GM:S 1.0.198 |
-| `date_date_of` | 🚫 | GM:S 1.0.198 |
-| `date_date_string` | 🚫 | GM:S 1.0.198 |
-| `date_datetime_string` | 🚫 | GM:S 1.0.198 |
-| `date_day_span` | 🚫 | GM:S 1.0.198 |
-| `date_days_in_month` | 🚫 | GM:S 1.0.198 |
-| `date_days_in_year` | 🚫 | GM:S 1.0.198 |
-| `date_get_day` | 🚫 | GM:S 1.0.198 |
-| `date_get_day_of_year` | 🚫 | GM:S 1.0.198 |
-| `date_get_hour` | 🚫 | GM:S 1.0.198 |
-| `date_get_hour_of_year` | 🚫 | GM:S 1.0.198 |
-| `date_get_minute` | 🚫 | GM:S 1.0.198 |
-| `date_get_minute_of_year` | 🚫 | GM:S 1.0.198 |
-| `date_get_month` | 🚫 | GM:S 1.0.198 |
-| `date_get_second` | 🚫 | GM:S 1.0.198 |
-| `date_get_second_of_year` | 🚫 | GM:S 1.0.198 |
-| `date_get_week` | 🚫 | GM:S 1.0.198 |
-| `date_get_weekday` | 🚫 | GM:S 1.0.198 |
-| `date_get_year` | 🚫 | GM:S 1.0.198 |
-| `date_hour_span` | 🚫 | GM:S 1.0.198 |
-| `date_inc_day` | 🚫 | GM:S 1.0.198 |
-| `date_inc_hour` | 🚫 | GM:S 1.0.198 |
-| `date_inc_minute` | 🚫 | GM:S 1.0.198 |
-| `date_inc_month` | 🚫 | GM:S 1.0.198 |
-| `date_inc_second` | 🚫 | GM:S 1.0.198 |
-| `date_inc_week` | 🚫 | GM:S 1.0.198 |
-| `date_inc_year` | 🚫 | GM:S 1.0.198 |
-| `date_is_today` | 🚫 | GM:S 1.0.198 |
-| `date_leap_year` | 🚫 | GM:S 1.0.198 |
-| `date_minute_span` | 🚫 | GM:S 1.0.198 |
-| `date_month_span` | 🚫 | GM:S 1.0.198 |
-| `date_second_span` | 🚫 | GM:S 1.0.198 |
-| `date_time_of` | 🚫 | GM:S 1.0.198 |
-| `date_time_string` | 🚫 | GM:S 1.0.198 |
-| `date_valid_date` | 🚫 | GM:S 1.0.198 |
-| `date_valid_datetime` | 🚫 | GM:S 1.0.198 |
-| `date_valid_time` | 🚫 | GM:S 1.0.198 |
-| `date_week_span` | 🚫 | GM:S 1.0.198 |
-| `date_year_span` | 🚫 | GM:S 1.0.198 |
-| `degtorad` | ✅ | GM:S 1.0.198 |
-| `device_get_tilt_x` | 🚫 | GM:S 1.0.198 |
-| `device_get_tilt_y` | 🚫 | GM:S 1.0.198 |
-| `device_get_tilt_z` | 🚫 | GM:S 1.0.198 |
-| `device_ios_get_image` | 🚫 | GM:S 1.0.198 |
-| `device_ios_get_imagename` | 🚫 | GM:S 1.0.198 |
-| `device_is_keypad_open` | 🚫 | GM:S 1.0.198 |
-| `device_mouse_check_button` | 🚫 | GM:S 1.0.198 |
-| `device_mouse_check_button_pressed` | 🚫 | GM:S 1.0.198 |
-| `device_mouse_check_button_released` | 🚫 | GM:S 1.0.198 |
-| `device_mouse_raw_x` | 🚫 | GM:S 1.0.198 |
-| `device_mouse_raw_y` | 🚫 | GM:S 1.0.198 |
-| `device_mouse_x` | 🚫 | GM:S 1.0.198 |
-| `device_mouse_y` | 🚫 | GM:S 1.0.198 |
-| `directory_create` | ✅ | GM:S 1.0.198 |
-| `directory_exists` | ✅ | GM:S 1.0.198 |
-| `discard_include_file` | 🚫 | GM:S 1.0.198 |
-| `display_get_colordepth` | 🚫 | GM:S 1.0.198 |
-| `display_get_frequency` | 🚫 | GM:S 1.0.198 |
-| `display_get_height` | ✅ | GM:S 1.0.198 |
-| `display_get_orientation` | 🚫 | GM:S 1.0.198 |
-| `display_get_width` | ✅ | GM:S 1.0.198 |
-| `display_mouse_get_x` | 🚫 | GM:S 1.0.198 |
-| `display_mouse_get_y` | 🚫 | GM:S 1.0.198 |
-| `display_mouse_set` | 🚫 | GM:S 1.0.198 |
-| `display_reset` | 🚫 | GM:S 1.0.198 |
-| `display_set_all` | 🚫 | GM:S 1.0.198 |
-| `display_set_colordepth` | 🚫 | GM:S 1.0.198 |
-| `display_set_frequency` | 🚫 | GM:S 1.0.198 |
-| `display_set_size` | 🚫 | GM:S 1.0.198 |
-| `display_test_all` | 🚫 | GM:S 1.0.198 |
-| `distance_to_object` | ✅ | GM:S 1.0.198 |
-| `distance_to_point` | ✅ | GM:S 1.0.198 |
-| `dot_product` | 🚫 | GM:S 1.0.198 |
-| `dot_product_3d` | 🚫 | GM:S 1.0.198 |
-| `dot_product_3d_normalised` | 🚫 | GM:S 1.0.198 |
-| `dot_product_normalised` | 🚫 | GM:S 1.0.198 |
-| `draw_arrow` | 🚫 | GM:S 1.0.198 |
-| `draw_background` | ✅ | GM:S 1.0.198 |
-| `draw_background_ext` | ✅ | GM:S 1.0.198 |
-| `draw_background_general` | 🚫 | GM:S 1.0.198 |
-| `draw_background_part` | 🚫 | GM:S 1.0.198 |
-| `draw_background_part_ext` | ✅ | GM:S 1.0.198 |
-| `draw_background_stretched` | ✅ | GM:S 1.0.198 |
-| `draw_background_stretched_ext` | 🚫 | GM:S 1.0.198 |
-| `draw_background_tiled` | ✅ | GM:S 1.0.198 |
-| `draw_background_tiled_ext` | ✅ | GM:S 1.0.198 |
-| `draw_button` | 🚫 | GM:S 1.0.198 |
-| `draw_circle` | ✅ | GM:S 1.0.198 |
-| `draw_circle_color` | 🚫 | GM:S 1.0.198 |
-| `draw_clear` | ✅ | GM:S 1.0.198 |
-| `draw_clear_alpha` | ✅ | GM:S 1.0.198 |
-| `draw_ellipse` | 🚫 | GM:S 1.0.198 |
-| `draw_ellipse_color` | 🚫 | GM:S 1.0.198 |
-| `draw_enable_alphablend` | ✅ | GM:S 1.0.198 |
-| `draw_get_alpha` | ✅ | GM:S 1.0.198 |
-| `draw_get_color` | ✅ | GM:S 1.0.198 |
-| `draw_getpixel` | 🚫 | GM:S 1.0.198 |
-| `draw_healthbar` | ✅ | GM:S 1.0.198 |
-| `draw_highscore` | 🚫 | GM:S 1.0.198 |
-| `draw_line` | ✅ | GM:S 1.0.198 |
-| `draw_line_color` | ✅ | GM:S 1.0.198 |
-| `draw_line_width` | ✅ | GM:S 1.0.198 |
-| `draw_line_width_color` | ✅ | GM:S 1.0.198 |
-| `draw_path` | 🚫 | GM:S 1.0.198 |
-| `draw_point` | 🚫 | GM:S 1.0.198 |
-| `draw_point_color` | 🚫 | GM:S 1.0.198 |
-| `draw_primitive_begin` | 🚫 | GM:S 1.0.198 |
-| `draw_primitive_begin_texture` | 🚫 | GM:S 1.0.198 |
-| `draw_primitive_end` | 🚫 | GM:S 1.0.198 |
-| `draw_rectangle` | ✅ | GM:S 1.0.198 |
-| `draw_rectangle_color` | ✅ | GM:S 1.0.198 |
-| `draw_roundrect` | 🚫 | GM:S 1.0.198 |
-| `draw_roundrect_color` | 🚫 | GM:S 1.0.198 |
-| `draw_self` | ✅ | GM:S 1.0.198 |
-| `draw_set_alpha` | ✅ | GM:S 1.0.198 |
-| `draw_set_blend_mode` | 🚫 | GM:S 1.0.198 |
-| `draw_set_blend_mode_ext` | 🚫 | GM:S 1.0.198 |
-| `draw_set_circle_precision` | ✅ | GM:S 1.0.198 |
-| `draw_set_color` | ✅ | GM:S 1.0.198 |
-| `draw_set_font` | ✅ | GM:S 1.0.198 |
-| `draw_set_halign` | ✅ | GM:S 1.0.198 |
-| `draw_set_valign` | ✅ | GM:S 1.0.198 |
-| `draw_sprite` | ✅ | GM:S 1.0.198 |
-| `draw_sprite_ext` | ✅ | GM:S 1.0.198 |
-| `draw_sprite_general` | ✅ | GM:S 1.0.198 |
-| `draw_sprite_part` | ✅ | GM:S 1.0.198 |
-| `draw_sprite_part_ext` | ✅ | GM:S 1.0.198 |
-| `draw_sprite_stretched` | ✅ | GM:S 1.0.198 |
-| `draw_sprite_stretched_ext` | ✅ | GM:S 1.0.198 |
-| `draw_sprite_tiled` | ✅ | GM:S 1.0.198 |
-| `draw_sprite_tiled_ext` | ✅ | GM:S 1.0.198 |
-| `draw_surface` | ✅ | GM:S 1.0.198 |
-| `draw_surface_ext` | ✅ | GM:S 1.0.198 |
-| `draw_surface_general` | 🚫 | GM:S 1.0.198 |
-| `draw_surface_part` | ✅ | GM:S 1.0.198 |
-| `draw_surface_part_ext` | ✅ | GM:S 1.0.198 |
-| `draw_surface_stretched` | ✅ | GM:S 1.0.198 |
-| `draw_surface_stretched_ext` | 🚫 | GM:S 1.0.198 |
-| `draw_surface_tiled` | 🚫 | GM:S 1.0.198 |
-| `draw_surface_tiled_ext` | 🚫 | GM:S 1.0.198 |
-| `draw_text` | ✅ | GM:S 1.0.198 |
-| `draw_text_color` | ✅ | GM:S 1.0.198 |
-| `draw_text_ext` | ✅ | GM:S 1.0.198 |
-| `draw_text_ext_color` | 🚫 | GM:S 1.0.198 |
-| `draw_text_ext_transformed` | ✅ | GM:S 1.0.198 |
-| `draw_text_ext_transformed_color` | 🚫 | GM:S 1.0.198 |
-| `draw_text_transformed` | ✅ | GM:S 1.0.198 |
-| `draw_text_transformed_color` | 🚫 | GM:S 1.0.198 |
-| `draw_texture_flush` | 🚫 | GM:S 1.0.198 |
-| `draw_triangle` | ✅ | GM:S 1.0.198 |
-| `draw_triangle_color` | 🚫 | GM:S 1.0.198 |
-| `draw_vertex` | 🚫 | GM:S 1.0.198 |
-| `draw_vertex_color` | 🚫 | GM:S 1.0.198 |
-| `draw_vertex_texture` | 🚫 | GM:S 1.0.198 |
-| `draw_vertex_texture_color` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_add` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_add_disk` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_add_grid_region` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_add_region` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_clear` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_copy` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_create` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_destroy` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_get` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_get_disk_max` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_get_disk_mean` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_get_disk_min` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_get_disk_sum` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_get_max` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_get_mean` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_get_min` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_get_sum` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_height` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_multiply` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_multiply_disk` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_multiply_grid_region` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_multiply_region` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_read` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_resize` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_set` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_set_disk` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_set_grid_region` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_set_region` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_shuffle` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_value_disk_exists` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_value_disk_x` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_value_disk_y` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_value_exists` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_value_x` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_value_y` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_width` | 🚫 | GM:S 1.0.198 |
-| `ds_grid_write` | 🚫 | GM:S 1.0.198 |
-| `ds_list_add` | ✅ | GM:S 1.0.198 |
-| `ds_list_clear` | ✅ | GM:S 1.0.198 |
-| `ds_list_copy` | 🚫 | GM:S 1.0.198 |
-| `ds_list_create` | ✅ | GM:S 1.0.198 |
-| `ds_list_delete` | ✅ | GM:S 1.0.198 |
-| `ds_list_destroy` | ✅ | GM:S 1.0.198 |
-| `ds_list_empty` | ✅ | GM:S 1.0.198 |
-| `ds_list_find_index` | ✅ | GM:S 1.0.198 |
-| `ds_list_find_value` | ✅ | GM:S 1.0.198 |
-| `ds_list_insert` | 🚫 | GM:S 1.0.198 |
-| `ds_list_read` | ✅ | GM:S 1.0.198 |
-| `ds_list_replace` | 🚫 | GM:S 1.0.198 |
-| `ds_list_shuffle` | ✅ | GM:S 1.0.198 |
-| `ds_list_size` | ✅ | GM:S 1.0.198 |
-| `ds_list_sort` | 🚫 | GM:S 1.0.198 |
-| `ds_list_write` | ✅ | GM:S 1.0.198 |
-| `ds_map_add` | ✅ | GM:S 1.0.198 |
-| `ds_map_clear` | 🚫 | GM:S 1.0.198 |
-| `ds_map_copy` | 🚫 | GM:S 1.0.198 |
-| `ds_map_create` | ✅ | GM:S 1.0.198 |
-| `ds_map_delete` | 🚫 | GM:S 1.0.198 |
-| `ds_map_destroy` | ✅ | GM:S 1.0.198 |
-| `ds_map_empty` | 🚫 | GM:S 1.0.198 |
-| `ds_map_exists` | ✅ | GM:S 1.0.198 |
-| `ds_map_find_first` | ✅ | GM:S 1.0.198 |
-| `ds_map_find_last` | 🚫 | GM:S 1.0.198 |
-| `ds_map_find_next` | ✅ | GM:S 1.0.198 |
-| `ds_map_find_previous` | 🚫 | GM:S 1.0.198 |
-| `ds_map_find_value` | ✅ | GM:S 1.0.198 |
-| `ds_map_read` | 🚫 | GM:S 1.0.198 |
-| `ds_map_replace` | ✅ | GM:S 1.0.198 |
-| `ds_map_size` | ✅ | GM:S 1.0.198 |
-| `ds_map_write` | 🚫 | GM:S 1.0.198 |
-| `ds_priority_add` | 🚫 | GM:S 1.0.198 |
-| `ds_priority_change_priority` | 🚫 | GM:S 1.0.198 |
-| `ds_priority_clear` | 🚫 | GM:S 1.0.198 |
-| `ds_priority_copy` | 🚫 | GM:S 1.0.198 |
-| `ds_priority_create` | 🚫 | GM:S 1.0.198 |
-| `ds_priority_delete_max` | 🚫 | GM:S 1.0.198 |
-| `ds_priority_delete_min` | 🚫 | GM:S 1.0.198 |
-| `ds_priority_delete_value` | 🚫 | GM:S 1.0.198 |
-| `ds_priority_destroy` | 🚫 | GM:S 1.0.198 |
-| `ds_priority_empty` | 🚫 | GM:S 1.0.198 |
-| `ds_priority_find_max` | 🚫 | GM:S 1.0.198 |
-| `ds_priority_find_min` | 🚫 | GM:S 1.0.198 |
-| `ds_priority_find_priority` | 🚫 | GM:S 1.0.198 |
-| `ds_priority_read` | 🚫 | GM:S 1.0.198 |
-| `ds_priority_size` | 🚫 | GM:S 1.0.198 |
-| `ds_priority_write` | 🚫 | GM:S 1.0.198 |
-| `ds_queue_clear` | ✅ | GM:S 1.0.198 |
-| `ds_queue_copy` | ✅ | GM:S 1.0.198 |
-| `ds_queue_create` | ✅ | GM:S 1.0.198 |
-| `ds_queue_dequeue` | ✅ | GM:S 1.0.198 |
-| `ds_queue_destroy` | ✅ | GM:S 1.0.198 |
-| `ds_queue_empty` | ✅ | GM:S 1.0.198 |
-| `ds_queue_enqueue` | ✅ | GM:S 1.0.198 |
-| `ds_queue_head` | ✅ | GM:S 1.0.198 |
-| `ds_queue_read` | ✅ | GM:S 1.0.198 |
-| `ds_queue_size` | ✅ | GM:S 1.0.198 |
-| `ds_queue_tail` | ✅ | GM:S 1.0.198 |
-| `ds_queue_write` | ✅ | GM:S 1.0.198 |
-| `ds_set_precision` | 🚫 | GM:S 1.0.198 |
-| `ds_stack_clear` | 🚫 | GM:S 1.0.198 |
-| `ds_stack_copy` | 🚫 | GM:S 1.0.198 |
-| `ds_stack_create` | 🚫 | GM:S 1.0.198 |
-| `ds_stack_destroy` | 🚫 | GM:S 1.0.198 |
-| `ds_stack_empty` | 🚫 | GM:S 1.0.198 |
-| `ds_stack_pop` | 🚫 | GM:S 1.0.198 |
-| `ds_stack_push` | 🚫 | GM:S 1.0.198 |
-| `ds_stack_read` | 🚫 | GM:S 1.0.198 |
-| `ds_stack_size` | 🚫 | GM:S 1.0.198 |
-| `ds_stack_top` | 🚫 | GM:S 1.0.198 |
-| `ds_stack_write` | 🚫 | GM:S 1.0.198 |
-| `effect_clear` | 🚫 | GM:S 1.0.198 |
-| `effect_create_above` | 🚫 | GM:S 1.0.198 |
-| `effect_create_below` | 🚫 | GM:S 1.0.198 |
-| `environment_get_variable` | 🚫 | GM:S 1.0.198 |
-| `event_inherited` | ✅ | GM:S 1.0.198 |
-| `event_perform` | ✅ | GM:S 1.0.198 |
-| `event_perform_object` | 🚫 | GM:S 1.0.198 |
-| `event_user` | ✅ | GM:S 1.0.198 |
-| `execute_file` | 🚫 | GM:S 1.0.198 |
-| `execute_program` | 🚫 | GM:S 1.0.198 |
-| `execute_shell` | 🚫 | GM:S 1.0.198 |
-| `execute_string` | 🚫 | GM:S 1.0.198 |
-| `export_include_file` | 🚫 | GM:S 1.0.198 |
-| `export_include_file_location` | 🚫 | GM:S 1.0.198 |
-| `external_call` | 🚫 | GM:S 1.0.198 |
-| `external_call0` | 🚫 | GM:S 1.0.198 |
-| `external_call1` | 🚫 | GM:S 1.0.198 |
-| `external_call2` | 🚫 | GM:S 1.0.198 |
-| `external_call3` | 🚫 | GM:S 1.0.198 |
-| `external_call4` | 🚫 | GM:S 1.0.198 |
-| `external_call5` | 🚫 | GM:S 1.0.198 |
-| `external_call6` | 🚫 | GM:S 1.0.198 |
-| `external_call7` | 🚫 | GM:S 1.0.198 |
-| `external_call8` | 🚫 | GM:S 1.0.198 |
-| `external_define` | 🚫 | GM:S 1.0.198 |
-| `external_define0` | 🚫 | GM:S 1.0.198 |
-| `external_define1` | 🚫 | GM:S 1.0.198 |
-| `external_define2` | 🚫 | GM:S 1.0.198 |
-| `external_define3` | 🚫 | GM:S 1.0.198 |
-| `external_define4` | 🚫 | GM:S 1.0.198 |
-| `external_define5` | 🚫 | GM:S 1.0.198 |
-| `external_define6` | 🚫 | GM:S 1.0.198 |
-| `external_define7` | 🚫 | GM:S 1.0.198 |
-| `external_define8` | 🚫 | GM:S 1.0.198 |
-| `external_free` | 🚫 | GM:S 1.0.198 |
-| `facebook_dialog` | 🚫 | GM:S 1.0.198 |
-| `facebook_graph_request` | 🚫 | GM:S 1.0.198 |
-| `facebook_init` | 🚫 | GM:S 1.0.198 |
-| `facebook_login` | 🚫 | GM:S 1.0.198 |
-| `facebook_logout` | 🚫 | GM:S 1.0.198 |
-| `facebook_status` | 🚫 | GM:S 1.0.198 |
-| `file_attributes` | 🚫 | GM:S 1.0.198 |
-| `file_bin_close` | ✅ | GM:S 1.0.198 |
-| `file_bin_open` | ✅ | GM:S 1.0.198 |
-| `file_bin_position` | ✅ | GM:S 1.0.198 |
-| `file_bin_read_byte` | ✅ | GM:S 1.0.198 |
-| `file_bin_rewrite` | ✅ | GM:S 1.0.198 |
-| `file_bin_seek` | ✅ | GM:S 1.0.198 |
-| `file_bin_size` | ✅ | GM:S 1.0.198 |
-| `file_bin_write_byte` | ✅ | GM:S 1.0.198 |
-| `file_close` | 🚫 | GM:S 1.0.198 |
-| `file_copy` | 🚫 | GM:S 1.0.198 |
-| `file_delete` | ✅ | GM:S 1.0.198 |
-| `file_eof` | 🚫 | GM:S 1.0.198 |
-| `file_exists` | ✅ | GM:S 1.0.198 |
-| `file_find_close` | 🚫 | GM:S 1.0.198 |
-| `file_find_first` | 🚫 | GM:S 1.0.198 |
-| `file_find_next` | 🚫 | GM:S 1.0.198 |
-| `file_open_append` | 🚫 | GM:S 1.0.198 |
-| `file_open_read` | 🚫 | GM:S 1.0.198 |
-| `file_open_write` | 🚫 | GM:S 1.0.198 |
-| `file_read_real` | 🚫 | GM:S 1.0.198 |
-| `file_read_string` | 🚫 | GM:S 1.0.198 |
-| `file_readln` | 🚫 | GM:S 1.0.198 |
-| `file_rename` | 🚫 | GM:S 1.0.198 |
-| `file_text_close` | ✅ | GM:S 1.0.198 |
-| `file_text_eof` | ✅ | GM:S 1.0.198 |
-| `file_text_open_append` | 🚫 | GM:S 1.0.198 |
-| `file_text_open_read` | ✅ | GM:S 1.0.198 |
-| `file_text_open_write` | ✅ | GM:S 1.0.198 |
-| `file_text_read_real` | ✅ | GM:S 1.0.198 |
-| `file_text_read_string` | ✅ | GM:S 1.0.198 |
-| `file_text_readln` | ✅ | GM:S 1.0.198 |
-| `file_text_write_real` | ✅ | GM:S 1.0.198 |
-| `file_text_write_string` | ✅ | GM:S 1.0.198 |
-| `file_text_writeln` | ✅ | GM:S 1.0.198 |
-| `file_write_real` | 🚫 | GM:S 1.0.198 |
-| `file_write_string` | 🚫 | GM:S 1.0.198 |
-| `file_writeln` | 🚫 | GM:S 1.0.198 |
-| `filename_change_ext` | 🚫 | GM:S 1.0.198 |
-| `filename_dir` | 🚫 | GM:S 1.0.198 |
-| `filename_drive` | 🚫 | GM:S 1.0.198 |
-| `filename_ext` | 🚫 | GM:S 1.0.198 |
-| `filename_name` | 🚫 | GM:S 1.0.198 |
-| `filename_path` | 🚫 | GM:S 1.0.198 |
-| `floor` | ✅ | GM:S 1.0.198 |
-| `font_add` | 🚫 | GM:S 1.0.198 |
-| `font_add_sprite` | ✅ | GM:S 1.0.198 |
-| `font_delete` | 🚫 | GM:S 1.0.198 |
-| `font_exists` | 🚫 | GM:S 1.0.198 |
-| `font_get_bold` | 🚫 | GM:S 1.0.198 |
-| `font_get_first` | 🚫 | GM:S 1.0.198 |
-| `font_get_fontname` | 🚫 | GM:S 1.0.198 |
-| `font_get_italic` | 🚫 | GM:S 1.0.198 |
-| `font_get_last` | 🚫 | GM:S 1.0.198 |
-| `font_get_name` | ✅ | GM:S 1.0.198 |
-| `font_get_size` | 🚫 | GM:S 1.0.198 |
-| `font_name` | 🚫 | GM:S 1.0.198 |
-| `font_replace` | 🚫 | GM:S 1.0.198 |
-| `font_replace_sprite` | 🚫 | GM:S 1.0.198 |
-| `game_end` | ✅ | GM:S 1.0.198 |
-| `game_load` | ✅ | GM:S 1.0.198 |
-| `game_restart` | ✅ | GM:S 1.0.198 |
-| `game_save` | ✅ | GM:S 1.0.198 |
-| `get_color` | 🚫 | GM:S 1.0.198 |
-| `get_directory` | 🚫 | GM:S 1.0.198 |
-| `get_directory_alt` | 🚫 | GM:S 1.0.198 |
-| `get_integer` | 🚫 | GM:S 1.0.198 |
-| `get_login_async` | 🚫 | GM:S 1.0.198 |
-| `get_open_filename` | 🚫 | GM:S 1.0.198 |
-| `get_save_filename` | 🚫 | GM:S 1.0.198 |
-| `get_string` | 🚫 | GM:S 1.0.198 |
-| `get_timer` | ✅ | GM:S 1.0.198 |
-| `gravemakerIsLoaded` | 🚫 | GM:S 1.0.198 |
-| `gravemakerIsLoggedIn` | 🚫 | GM:S 1.0.198 |
-| `gravemakerLoad` | 🚫 | GM:S 1.0.198 |
-| `gravemakerLogin` | 🚫 | GM:S 1.0.198 |
-| `gravemakerSave` | 🚫 | GM:S 1.0.198 |
-| `highscore_add` | 🚫 | GM:S 1.0.198 |
-| `highscore_add_current` | 🚫 | GM:S 1.0.198 |
-| `highscore_clear` | 🚫 | GM:S 1.0.198 |
-| `highscore_name` | 🚫 | GM:S 1.0.198 |
-| `highscore_set_background` | 🚫 | GM:S 1.0.198 |
-| `highscore_set_border` | 🚫 | GM:S 1.0.198 |
-| `highscore_set_colors` | 🚫 | GM:S 1.0.198 |
-| `highscore_set_font` | 🚫 | GM:S 1.0.198 |
-| `highscore_set_strings` | 🚫 | GM:S 1.0.198 |
-| `highscore_show` | 🚫 | GM:S 1.0.198 |
-| `highscore_show_ext` | 🚫 | GM:S 1.0.198 |
-| `highscore_value` | 🚫 | GM:S 1.0.198 |
-| `http_get` | 🚫 | GM:S 1.0.198 |
-| `http_post_string` | 🚫 | GM:S 1.0.198 |
-| `iap_acquire` | 🚫 | GM:S 1.0.198 |
-| `iap_enable` | 🚫 | GM:S 1.0.198 |
-| `iap_get_details` | 🚫 | GM:S 1.0.198 |
-| `iap_is_purchased` | 🚫 | GM:S 1.0.198 |
-| `iap_restore` | 🚫 | GM:S 1.0.198 |
-| `iap_retrieve` | 🚫 | GM:S 1.0.198 |
-| `ini_close` | ✅ | GM:S 1.0.198 |
-| `ini_key_delete` | 🚫 | GM:S 1.0.198 |
-| `ini_key_exists` | 🚫 | GM:S 1.0.198 |
-| `ini_open` | ✅ | GM:S 1.0.198 |
-| `ini_read_real` | ✅ | GM:S 1.0.198 |
-| `ini_read_string` | ✅ | GM:S 1.0.198 |
-| `ini_section_delete` | 🚫 | GM:S 1.0.198 |
-| `ini_section_exists` | ✅ | GM:S 1.0.198 |
-| `ini_write_real` | ✅ | GM:S 1.0.198 |
-| `ini_write_string` | ✅ | GM:S 1.0.198 |
-| `instance_activate_all` | ✅ | GM:S 1.0.198 |
-| `instance_activate_object` | ✅ | GM:S 1.0.198 |
-| `instance_activate_region` | ✅ | GM:S 1.0.198 |
-| `instance_change` | ✅ | GM:S 1.0.198 |
-| `instance_copy` | ✅ | GM:S 1.0.198 |
-| `instance_create` | ✅ | GM:S 1.0.198 |
-| `instance_deactivate_all` | ✅ | GM:S 1.0.198 |
-| `instance_deactivate_object` | ✅ | GM:S 1.0.198 |
-| `instance_deactivate_region` | ✅ | GM:S 1.0.198 |
-| `instance_destroy` | ✅ | GM:S 1.0.198 |
-| `instance_exists` | ✅ | GM:S 1.0.198 |
-| `instance_find` | ✅ | GM:S 1.0.198 |
-| `instance_furthest` | 🚫 | GM:S 1.0.198 |
-| `instance_nearest` | ✅ | GM:S 1.0.198 |
-| `instance_number` | ✅ | GM:S 1.0.198 |
-| `instance_place` | ✅ | GM:S 1.0.198 |
-| `instance_position` | ✅ | GM:S 1.0.198 |
-| `instance_sprite` | 🚫 | GM:S 1.0.198 |
-| `io_clear` | 🚫 | GM:S 1.0.198 |
-| `io_handle` | 🚫 | GM:S 1.0.198 |
-| `irandom` | ✅ | GM:S 1.0.198 |
-| `irandom_range` | ✅ | GM:S 1.0.198 |
-| `is_real` | ✅ | GM:S 1.0.198 |
-| `is_string` | ✅ | GM:S 1.0.198 |
-| `joystick_axes` | ✅ | GM:S 1.0.198 |
-| `joystick_buttons` | ✅ | GM:S 1.0.198 |
-| `joystick_check_button` | ✅ | GM:S 1.0.198 |
-| `joystick_direction` | ✅ | GM:S 1.0.198 |
-| `joystick_exists` | ✅ | GM:S 1.0.198 |
-| `joystick_has_pov` | ✅ | GM:S 1.0.198 |
-| `joystick_name` | ✅ | GM:S 1.0.198 |
-| `joystick_pov` | ✅ | GM:S 1.0.198 |
-| `joystick_rpos` | 🚫 | GM:S 1.0.198 |
-| `joystick_upos` | 🚫 | GM:S 1.0.198 |
-| `joystick_vpos` | 🚫 | GM:S 1.0.198 |
-| `joystick_xpos` | ✅ | GM:S 1.0.198 |
-| `joystick_ypos` | ✅ | GM:S 1.0.198 |
-| `joystick_zpos` | 🚫 | GM:S 1.0.198 |
-| `json_decode` | ✅ | GM:S 1.0.198 |
-| `json_encode` | 🚫 | GM:S 1.0.198 |
-| `keyboard_check` | ✅ | GM:S 1.0.198 |
-| `keyboard_check_direct` | ✅ | GM:S 1.0.198 |
-| `keyboard_check_pressed` | ✅ | GM:S 1.0.198 |
-| `keyboard_check_released` | ✅ | GM:S 1.0.198 |
-| `keyboard_clear` | ✅ | GM:S 1.0.198 |
-| `keyboard_get_map` | ✅ | GM:S 1.0.198 |
-| `keyboard_get_numlock` | 🚫 | GM:S 1.0.198 |
-| `keyboard_key_press` | ✅ | GM:S 1.0.198 |
-| `keyboard_key_release` | ✅ | GM:S 1.0.198 |
-| `keyboard_set_map` | ✅ | GM:S 1.0.198 |
-| `keyboard_set_numlock` | 🚫 | GM:S 1.0.198 |
-| `keyboard_unset_map` | ✅ | GM:S 1.0.198 |
-| `keyboard_wait` | 🚫 | GM:S 1.0.198 |
-| `lengthdir_x` | ✅ | GM:S 1.0.198 |
-| `lengthdir_y` | ✅ | GM:S 1.0.198 |
-| `load_info` | 🚫 | GM:S 1.0.198 |
-| `log10` | 🚫 | GM:S 1.0.198 |
-| `make_color` | 🚫 | GM:S 1.0.198 |
-| `make_color_hsv` | ✅ | GM:S 1.0.198 |
-| `make_color_rgb` | ✅ | GM:S 1.0.198 |
-| `median` | ✅ | GM:S 1.0.198 |
-| `merge_color` | ✅ | GM:S 1.0.198 |
-| `message_alpha` | 🚫 | GM:S 1.0.198 |
-| `message_background` | 🚫 | GM:S 1.0.198 |
-| `message_button` | 🚫 | GM:S 1.0.198 |
-| `message_button_font` | 🚫 | GM:S 1.0.198 |
-| `message_caption` | 🚫 | GM:S 1.0.198 |
-| `message_input_color` | 🚫 | GM:S 1.0.198 |
-| `message_input_font` | 🚫 | GM:S 1.0.198 |
-| `message_mouse_color` | 🚫 | GM:S 1.0.198 |
-| `message_position` | 🚫 | GM:S 1.0.198 |
-| `message_size` | 🚫 | GM:S 1.0.198 |
-| `message_text_font` | 🚫 | GM:S 1.0.198 |
-| `motion_add` | 🚫 | GM:S 1.0.198 |
-| `motion_set` | 🚫 | GM:S 1.0.198 |
-| `mouse_check_button` | 🚫 | GM:S 1.0.198 |
-| `mouse_check_button_pressed` | 🚫 | GM:S 1.0.198 |
-| `mouse_check_button_released` | 🚫 | GM:S 1.0.198 |
-| `mouse_clear` | 🚫 | GM:S 1.0.198 |
-| `mouse_wait` | 🚫 | GM:S 1.0.198 |
-| `mouse_wheel_down` | 🚫 | GM:S 1.0.198 |
-| `mouse_wheel_up` | 🚫 | GM:S 1.0.198 |
-| `move_bounce` | 🚫 | GM:S 1.0.198 |
-| `move_bounce_all` | 🚫 | GM:S 1.0.198 |
-| `move_bounce_solid` | 🚫 | GM:S 1.0.198 |
-| `move_contact` | 🚫 | GM:S 1.0.198 |
-| `move_contact_all` | 🚫 | GM:S 1.0.198 |
-| `move_contact_solid` | 🚫 | GM:S 1.0.198 |
-| `move_outside_all` | 🚫 | GM:S 1.0.198 |
-| `move_outside_solid` | 🚫 | GM:S 1.0.198 |
-| `move_random` | 🚫 | GM:S 1.0.198 |
-| `move_snap` | ✅ | GM:S 1.0.198 |
-| `move_towards_point` | ✅ | GM:S 1.0.198 |
-| `move_wrap` | 🚫 | GM:S 1.0.198 |
-| `mp_grid_add_cell` | ✅ | GM:S 1.0.198 |
-| `mp_grid_add_instances` | 🚫 | GM:S 1.0.198 |
-| `mp_grid_add_rectangle` | ✅ | GM:S 1.0.198 |
-| `mp_grid_clear_all` | ✅ | GM:S 1.0.198 |
-| `mp_grid_clear_cell` | ✅ | GM:S 1.0.198 |
-| `mp_grid_clear_rectangle` | ✅ | GM:S 1.0.198 |
-| `mp_grid_create` | ✅ | GM:S 1.0.198 |
-| `mp_grid_destroy` | ✅ | GM:S 1.0.198 |
-| `mp_grid_draw` | ✅ | GM:S 1.0.198 |
-| `mp_grid_path` | ✅ | GM:S 1.0.198 |
-| `mp_linear_path` | 🚫 | GM:S 1.0.198 |
-| `mp_linear_path_object` | 🚫 | GM:S 1.0.198 |
-| `mp_linear_step` | ✅ | GM:S 1.0.198 |
-| `mp_linear_step_object` | ✅ | GM:S 1.0.198 |
-| `mp_potential_path` | 🚫 | GM:S 1.0.198 |
-| `mp_potential_path_object` | 🚫 | GM:S 1.0.198 |
-| `mp_potential_settings` | ✅ | GM:S 1.0.198 |
-| `mp_potential_step` | ✅ | GM:S 1.0.198 |
-| `mp_potential_step_object` | ✅ | GM:S 1.0.198 |
-| `mplay_connect_status` | 🚫 | GM:S 1.0.198 |
-| `mplay_data_mode` | 🚫 | GM:S 1.0.198 |
-| `mplay_data_read` | 🚫 | GM:S 1.0.198 |
-| `mplay_data_write` | 🚫 | GM:S 1.0.198 |
-| `mplay_end` | 🚫 | GM:S 1.0.198 |
-| `mplay_init_ipx` | 🚫 | GM:S 1.0.198 |
-| `mplay_init_modem` | 🚫 | GM:S 1.0.198 |
-| `mplay_init_serial` | 🚫 | GM:S 1.0.198 |
-| `mplay_init_tcpip` | 🚫 | GM:S 1.0.198 |
-| `mplay_ipaddress` | 🚫 | GM:S 1.0.198 |
-| `mplay_message_clear` | 🚫 | GM:S 1.0.198 |
-| `mplay_message_count` | 🚫 | GM:S 1.0.198 |
-| `mplay_message_id` | 🚫 | GM:S 1.0.198 |
-| `mplay_message_name` | 🚫 | GM:S 1.0.198 |
-| `mplay_message_player` | 🚫 | GM:S 1.0.198 |
-| `mplay_message_receive` | 🚫 | GM:S 1.0.198 |
-| `mplay_message_send` | 🚫 | GM:S 1.0.198 |
-| `mplay_message_send_guaranteed` | 🚫 | GM:S 1.0.198 |
-| `mplay_message_value` | 🚫 | GM:S 1.0.198 |
-| `mplay_player_find` | 🚫 | GM:S 1.0.198 |
-| `mplay_player_id` | 🚫 | GM:S 1.0.198 |
-| `mplay_player_name` | 🚫 | GM:S 1.0.198 |
-| `mplay_session_create` | 🚫 | GM:S 1.0.198 |
-| `mplay_session_end` | 🚫 | GM:S 1.0.198 |
-| `mplay_session_find` | 🚫 | GM:S 1.0.198 |
-| `mplay_session_join` | 🚫 | GM:S 1.0.198 |
-| `mplay_session_mode` | 🚫 | GM:S 1.0.198 |
-| `mplay_session_name` | 🚫 | GM:S 1.0.198 |
-| `mplay_session_status` | 🚫 | GM:S 1.0.198 |
-| `object_add` | 🚫 | GM:S 1.0.198 |
-| `object_delete` | 🚫 | GM:S 1.0.198 |
-| `object_event_add` | 🚫 | GM:S 1.0.198 |
-| `object_event_clear` | 🚫 | GM:S 1.0.198 |
-| `object_exists` | 🚫 | GM:S 1.0.198 |
-| `object_get_depth` | 🚫 | GM:S 1.0.198 |
-| `object_get_mask` | 🚫 | GM:S 1.0.198 |
-| `object_get_name` | 🚫 | GM:S 1.0.198 |
-| `object_get_parent` | 🚫 | GM:S 1.0.198 |
-| `object_get_persistent` | 🚫 | GM:S 1.0.198 |
-| `object_get_solid` | 🚫 | GM:S 1.0.198 |
-| `object_get_sprite` | ✅ | GM:S 1.0.198 |
-| `object_get_visible` | 🚫 | GM:S 1.0.198 |
-| `object_is_ancestor` | 🚫 | GM:S 1.0.198 |
-| `object_name` | 🚫 | GM:S 1.0.198 |
-| `object_set_depth` | 🚫 | GM:S 1.0.198 |
-| `object_set_mask` | 🚫 | GM:S 1.0.198 |
-| `object_set_parent` | 🚫 | GM:S 1.0.198 |
-| `object_set_persistent` | 🚫 | GM:S 1.0.198 |
-| `object_set_solid` | 🚫 | GM:S 1.0.198 |
-| `object_set_sprite` | 🚫 | GM:S 1.0.198 |
-| `object_set_visible` | 🚫 | GM:S 1.0.198 |
-| `openfeint_accept_challenge` | 🚫 | GM:S 1.0.198 |
-| `openfeint_send_challenge` | 🚫 | GM:S 1.0.198 |
-| `openfeint_send_invite` | 🚫 | GM:S 1.0.198 |
-| `openfeint_send_result` | 🚫 | GM:S 1.0.198 |
-| `openfeint_send_social` | 🚫 | GM:S 1.0.198 |
-| `openfeint_set_url` | 🚫 | GM:S 1.0.198 |
-| `openfeint_start` | 🚫 | GM:S 1.0.198 |
-| `os_get_config` | 🚫 | GM:S 1.0.198 |
-| `os_is_paused` | ✅ | GM:S 1.0.198 |
-| `parameter_count` | 🚫 | GM:S 1.0.198 |
-| `parameter_string` | 🚫 | GM:S 1.0.198 |
-| `part_attractor_clear` | 🚫 | GM:S 1.0.198 |
-| `part_attractor_create` | 🚫 | GM:S 1.0.198 |
-| `part_attractor_destroy` | 🚫 | GM:S 1.0.198 |
-| `part_attractor_destroy_all` | 🚫 | GM:S 1.0.198 |
-| `part_attractor_exists` | 🚫 | GM:S 1.0.198 |
-| `part_attractor_force` | 🚫 | GM:S 1.0.198 |
-| `part_attractor_position` | 🚫 | GM:S 1.0.198 |
-| `part_changer_clear` | 🚫 | GM:S 1.0.198 |
-| `part_changer_create` | 🚫 | GM:S 1.0.198 |
-| `part_changer_destroy` | 🚫 | GM:S 1.0.198 |
-| `part_changer_destroy_all` | 🚫 | GM:S 1.0.198 |
-| `part_changer_exists` | 🚫 | GM:S 1.0.198 |
-| `part_changer_kind` | 🚫 | GM:S 1.0.198 |
-| `part_changer_region` | 🚫 | GM:S 1.0.198 |
-| `part_changer_types` | 🚫 | GM:S 1.0.198 |
-| `part_deflector_clear` | 🚫 | GM:S 1.0.198 |
-| `part_deflector_create` | 🚫 | GM:S 1.0.198 |
-| `part_deflector_destroy` | 🚫 | GM:S 1.0.198 |
-| `part_deflector_destroy_all` | 🚫 | GM:S 1.0.198 |
-| `part_deflector_exists` | 🚫 | GM:S 1.0.198 |
-| `part_deflector_friction` | 🚫 | GM:S 1.0.198 |
-| `part_deflector_kind` | 🚫 | GM:S 1.0.198 |
-| `part_deflector_region` | 🚫 | GM:S 1.0.198 |
-| `part_destroyer_clear` | 🚫 | GM:S 1.0.198 |
-| `part_destroyer_create` | 🚫 | GM:S 1.0.198 |
-| `part_destroyer_destroy` | 🚫 | GM:S 1.0.198 |
-| `part_destroyer_destroy_all` | 🚫 | GM:S 1.0.198 |
-| `part_destroyer_exists` | 🚫 | GM:S 1.0.198 |
-| `part_destroyer_region` | 🚫 | GM:S 1.0.198 |
-| `part_emitter_burst` | 🚫 | GM:S 1.0.198 |
-| `part_emitter_clear` | 🚫 | GM:S 1.0.198 |
-| `part_emitter_create` | 🚫 | GM:S 1.0.198 |
-| `part_emitter_destroy` | 🚫 | GM:S 1.0.198 |
-| `part_emitter_destroy_all` | 🚫 | GM:S 1.0.198 |
-| `part_emitter_exists` | 🚫 | GM:S 1.0.198 |
-| `part_emitter_region` | 🚫 | GM:S 1.0.198 |
-| `part_emitter_stream` | 🚫 | GM:S 1.0.198 |
-| `part_particles_clear` | 🚫 | GM:S 1.0.198 |
-| `part_particles_count` | 🚫 | GM:S 1.0.198 |
-| `part_particles_create` | 🚫 | GM:S 1.0.198 |
-| `part_particles_create_color` | 🚫 | GM:S 1.0.198 |
-| `part_system_automatic_draw` | 🚫 | GM:S 1.0.198 |
-| `part_system_automatic_update` | 🚫 | GM:S 1.0.198 |
-| `part_system_clear` | 🚫 | GM:S 1.0.198 |
-| `part_system_create` | 🚫 | GM:S 1.0.198 |
-| `part_system_depth` | 🚫 | GM:S 1.0.198 |
-| `part_system_destroy` | 🚫 | GM:S 1.0.198 |
-| `part_system_draw_order` | 🚫 | GM:S 1.0.198 |
-| `part_system_drawit` | 🚫 | GM:S 1.0.198 |
-| `part_system_exists` | 🚫 | GM:S 1.0.198 |
-| `part_system_position` | 🚫 | GM:S 1.0.198 |
-| `part_system_update` | 🚫 | GM:S 1.0.198 |
-| `part_type_alpha` | 🚫 | GM:S 1.0.198 |
-| `part_type_alpha1` | 🚫 | GM:S 1.0.198 |
-| `part_type_alpha2` | 🚫 | GM:S 1.0.198 |
-| `part_type_alpha3` | 🚫 | GM:S 1.0.198 |
-| `part_type_blend` | 🚫 | GM:S 1.0.198 |
-| `part_type_clear` | 🚫 | GM:S 1.0.198 |
-| `part_type_color` | 🚫 | GM:S 1.0.198 |
-| `part_type_color1` | 🚫 | GM:S 1.0.198 |
-| `part_type_color2` | 🚫 | GM:S 1.0.198 |
-| `part_type_color3` | 🚫 | GM:S 1.0.198 |
-| `part_type_color_hsv` | 🚫 | GM:S 1.0.198 |
-| `part_type_color_mix` | 🚫 | GM:S 1.0.198 |
-| `part_type_color_rgb` | 🚫 | GM:S 1.0.198 |
-| `part_type_create` | 🚫 | GM:S 1.0.198 |
-| `part_type_death` | 🚫 | GM:S 1.0.198 |
-| `part_type_destroy` | 🚫 | GM:S 1.0.198 |
-| `part_type_direction` | 🚫 | GM:S 1.0.198 |
-| `part_type_exists` | 🚫 | GM:S 1.0.198 |
-| `part_type_gravity` | 🚫 | GM:S 1.0.198 |
-| `part_type_life` | 🚫 | GM:S 1.0.198 |
-| `part_type_orientation` | 🚫 | GM:S 1.0.198 |
-| `part_type_scale` | 🚫 | GM:S 1.0.198 |
-| `part_type_shape` | 🚫 | GM:S 1.0.198 |
-| `part_type_size` | 🚫 | GM:S 1.0.198 |
-| `part_type_speed` | 🚫 | GM:S 1.0.198 |
-| `part_type_sprite` | 🚫 | GM:S 1.0.198 |
-| `part_type_step` | 🚫 | GM:S 1.0.198 |
-| `path_add` | ✅ | GM:S 1.0.198 |
-| `path_add_point` | ✅ | GM:S 1.0.198 |
-| `path_append` | 🚫 | GM:S 1.0.198 |
-| `path_assign` | 🚫 | GM:S 1.0.198 |
-| `path_change_point` | 🚫 | GM:S 1.0.198 |
-| `path_clear_points` | ✅ | GM:S 1.0.198 |
-| `path_delete` | ✅ | GM:S 1.0.198 |
-| `path_delete_point` | 🚫 | GM:S 1.0.198 |
-| `path_duplicate` | 🚫 | GM:S 1.0.198 |
-| `path_end` | ✅ | GM:S 1.0.198 |
-| `path_exists` | ✅ | GM:S 1.0.198 |
-| `path_flip` | 🚫 | GM:S 1.0.198 |
-| `path_get_closed` | 🚫 | GM:S 1.0.198 |
-| `path_get_kind` | 🚫 | GM:S 1.0.198 |
-| `path_get_length` | ✅ | GM:S 1.0.198 |
-| `path_get_name` | 🚫 | GM:S 1.0.198 |
-| `path_get_number` | 🚫 | GM:S 1.0.198 |
-| `path_get_point_speed` | 🚫 | GM:S 1.0.198 |
-| `path_get_point_x` | ✅ | GM:S 1.0.198 |
-| `path_get_point_y` | ✅ | GM:S 1.0.198 |
-| `path_get_precision` | 🚫 | GM:S 1.0.198 |
-| `path_get_speed` | 🚫 | GM:S 1.0.198 |
-| `path_get_x` | 🚫 | GM:S 1.0.198 |
-| `path_get_y` | 🚫 | GM:S 1.0.198 |
-| `path_insert_point` | 🚫 | GM:S 1.0.198 |
-| `path_mirror` | 🚫 | GM:S 1.0.198 |
-| `path_name` | 🚫 | GM:S 1.0.198 |
-| `path_reverse` | 🚫 | GM:S 1.0.198 |
-| `path_rotate` | 🚫 | GM:S 1.0.198 |
-| `path_scale` | 🚫 | GM:S 1.0.198 |
-| `path_set_closed` | 🚫 | GM:S 1.0.198 |
-| `path_set_kind` | 🚫 | GM:S 1.0.198 |
-| `path_set_precision` | 🚫 | GM:S 1.0.198 |
-| `path_shift` | 🚫 | GM:S 1.0.198 |
-| `path_start` | ✅ | GM:S 1.0.198 |
-| `physics_apply_force` | 🚫 | GM:S 1.0.198 |
-| `physics_apply_impulse` | 🚫 | GM:S 1.0.198 |
-| `physics_apply_local_force` | 🚫 | GM:S 1.0.198 |
-| `physics_apply_local_impulse` | 🚫 | GM:S 1.0.198 |
-| `physics_apply_torque` | 🚫 | GM:S 1.0.198 |
-| `physics_draw_debug` | 🚫 | GM:S 1.0.198 |
-| `physics_fixture_add_point` | 🚫 | GM:S 1.0.198 |
-| `physics_fixture_bind` | 🚫 | GM:S 1.0.198 |
-| `physics_fixture_create` | 🚫 | GM:S 1.0.198 |
-| `physics_fixture_delete` | 🚫 | GM:S 1.0.198 |
-| `physics_fixture_set_angular_damping` | 🚫 | GM:S 1.0.198 |
-| `physics_fixture_set_box_shape` | 🚫 | GM:S 1.0.198 |
-| `physics_fixture_set_circle_shape` | 🚫 | GM:S 1.0.198 |
-| `physics_fixture_set_collision_group` | 🚫 | GM:S 1.0.198 |
-| `physics_fixture_set_density` | 🚫 | GM:S 1.0.198 |
-| `physics_fixture_set_friction` | 🚫 | GM:S 1.0.198 |
-| `physics_fixture_set_kinematic` | 🚫 | GM:S 1.0.198 |
-| `physics_fixture_set_linear_damping` | 🚫 | GM:S 1.0.198 |
-| `physics_fixture_set_polygon_shape` | 🚫 | GM:S 1.0.198 |
-| `physics_fixture_set_restitution` | 🚫 | GM:S 1.0.198 |
-| `physics_fixture_set_sensor` | 🚫 | GM:S 1.0.198 |
-| `physics_joint_delete` | 🚫 | GM:S 1.0.198 |
-| `physics_joint_distance_create` | 🚫 | GM:S 1.0.198 |
-| `physics_joint_enable_motor` | 🚫 | GM:S 1.0.198 |
-| `physics_joint_gear_create` | 🚫 | GM:S 1.0.198 |
-| `physics_joint_get_value` | 🚫 | GM:S 1.0.198 |
-| `physics_joint_prismatic_create` | 🚫 | GM:S 1.0.198 |
-| `physics_joint_pulley_create` | 🚫 | GM:S 1.0.198 |
-| `physics_joint_revolute_create` | 🚫 | GM:S 1.0.198 |
-| `physics_joint_set_value` | 🚫 | GM:S 1.0.198 |
-| `physics_mass_properties` | 🚫 | GM:S 1.0.198 |
-| `physics_test_overlap` | 🚫 | GM:S 1.0.198 |
-| `physics_world_create` | 🚫 | GM:S 1.0.198 |
-| `physics_world_draw_debug` | 🚫 | GM:S 1.0.198 |
-| `physics_world_gravity` | 🚫 | GM:S 1.0.198 |
-| `physics_world_update_iterations` | 🚫 | GM:S 1.0.198 |
-| `physics_world_update_speed` | 🚫 | GM:S 1.0.198 |
-| `place_empty` | ✅ | GM:S 1.0.198 |
-| `place_free` | ✅ | GM:S 1.0.198 |
-| `place_meeting` | ✅ | GM:S 1.0.198 |
-| `place_snapped` | 🚫 | GM:S 1.0.198 |
-| `point_direction` | ✅ | GM:S 1.0.198 |
-| `point_distance` | ✅ | GM:S 1.0.198 |
-| `point_distance_3d` | 🚫 | GM:S 1.0.198 |
-| `position_change` | 🚫 | GM:S 1.0.198 |
-| `position_destroy` | 🚫 | GM:S 1.0.198 |
-| `position_empty` | 🚫 | GM:S 1.0.198 |
-| `position_meeting` | ✅ | GM:S 1.0.198 |
-| `power` | ✅ | GM:S 1.0.198 |
-| `radtodeg` | ✅ | GM:S 1.0.198 |
-| `random` | ✅ | GM:S 1.0.198 |
-| `random_get_seed` | 🚫 | GM:S 1.0.198 |
-| `random_range` | ✅ | GM:S 1.0.198 |
-| `random_set_seed` | 🚫 | GM:S 1.0.198 |
-| `randomize` | ✅ | GM:S 1.0.198 |
-| `registry_exists` | 🚫 | GM:S 1.0.198 |
-| `registry_exists_ext` | 🚫 | GM:S 1.0.198 |
-| `registry_read_real` | 🚫 | GM:S 1.0.198 |
-| `registry_read_real_ext` | 🚫 | GM:S 1.0.198 |
-| `registry_read_string` | 🚫 | GM:S 1.0.198 |
-| `registry_read_string_ext` | 🚫 | GM:S 1.0.198 |
-| `registry_set_root` | 🚫 | GM:S 1.0.198 |
-| `registry_write_real` | 🚫 | GM:S 1.0.198 |
-| `registry_write_real_ext` | 🚫 | GM:S 1.0.198 |
-| `registry_write_string` | 🚫 | GM:S 1.0.198 |
-| `registry_write_string_ext` | 🚫 | GM:S 1.0.198 |
-| `room_add` | 🚫 | GM:S 1.0.198 |
-| `room_assign` | 🚫 | GM:S 1.0.198 |
-| `room_duplicate` | 🚫 | GM:S 1.0.198 |
-| `room_exists` | ✅ | GM:S 1.0.198 |
-| `room_get_name` | ✅ | GM:S 1.0.198 |
-| `room_goto` | ✅ | GM:S 1.0.198 |
-| `room_goto_next` | ✅ | GM:S 1.0.198 |
-| `room_goto_previous` | ✅ | GM:S 1.0.198 |
-| `room_instance_add` | 🚫 | GM:S 1.0.198 |
-| `room_instance_clear` | 🚫 | GM:S 1.0.198 |
-| `room_name` | 🚫 | GM:S 1.0.198 |
-| `room_next` | ✅ | GM:S 1.0.198 |
-| `room_previous` | ✅ | GM:S 1.0.198 |
-| `room_restart` | ✅ | GM:S 1.0.198 |
-| `room_set_background` | 🚫 | GM:S 1.0.198 |
-| `room_set_background_color` | 🚫 | GM:S 1.0.198 |
-| `room_set_caption` | 🚫 | GM:S 1.0.198 |
-| `room_set_code` | 🚫 | GM:S 1.0.198 |
-| `room_set_height` | 🚫 | GM:S 1.0.198 |
-| `room_set_persistent` | ✅ | GM:S 1.0.198 |
-| `room_set_view` | 🚫 | GM:S 1.0.198 |
-| `room_set_view_enabled` | 🚫 | GM:S 1.0.198 |
-| `room_set_width` | 🚫 | GM:S 1.0.198 |
-| `room_tile_add` | 🚫 | GM:S 1.0.198 |
-| `room_tile_add_ext` | 🚫 | GM:S 1.0.198 |
-| `room_tile_clear` | 🚫 | GM:S 1.0.198 |
-| `round` | ✅ | GM:S 1.0.198 |
-| `screen_redraw` | 🚫 | GM:S 1.0.198 |
-| `screen_refresh` | 🚫 | GM:S 1.0.198 |
-| `screen_save` | 🚫 | GM:S 1.0.198 |
-| `screen_save_part` | 🚫 | GM:S 1.0.198 |
-| `screen_wait_vsync` | 🚫 | GM:S 1.0.198 |
-| `script_execute` | ✅ | GM:S 1.0.198 |
-| `script_exists` | 🚫 | GM:S 1.0.198 |
-| `script_get_name` | 🚫 | GM:S 1.0.198 |
-| `script_get_text` | 🚫 | GM:S 1.0.198 |
-| `script_name` | 🚫 | GM:S 1.0.198 |
-| `set_application_title` | 🚫 | GM:S 1.0.198 |
-| `set_automatic_draw` | 🚫 | GM:S 1.0.198 |
-| `set_program_priority` | 🚫 | GM:S 1.0.198 |
-| `set_synchronization` | 🚫 | GM:S 1.0.198 |
-| `shop_leave_rating` | 🚫 | GM:S 1.0.198 |
-| `show_debug_message` | ✅ | GM:S 1.0.198 |
-| `show_error` | 🚫 | GM:S 1.0.198 |
-| `show_image` | 🚫 | GM:S 1.0.198 |
-| `show_info` | 🚫 | GM:S 1.0.198 |
-| `show_menu` | 🚫 | GM:S 1.0.198 |
-| `show_menu_pos` | 🚫 | GM:S 1.0.198 |
-| `show_message` | 🚫 | GM:S 1.0.198 |
-| `show_message_ext` | 🚫 | GM:S 1.0.198 |
-| `show_question` | 🚫 | GM:S 1.0.198 |
-| `show_text` | 🚫 | GM:S 1.0.198 |
-| `show_video` | 🚫 | GM:S 1.0.198 |
-| `sleep` | 🚫 | GM:S 1.0.198 |
-| `sound_3d_set_sound_cone` | 🚫 | GM:S 1.0.198 |
-| `sound_3d_set_sound_distance` | 🚫 | GM:S 1.0.198 |
-| `sound_3d_set_sound_position` | 🚫 | GM:S 1.0.198 |
-| `sound_3d_set_sound_velocity` | 🚫 | GM:S 1.0.198 |
-| `sound_add` | 🚫 | GM:S 1.0.198 |
-| `sound_background_tempo` | 🚫 | GM:S 1.0.198 |
-| `sound_delete` | 🚫 | GM:S 1.0.198 |
-| `sound_discard` | 🚫 | GM:S 1.0.198 |
-| `sound_effect_chorus` | 🚫 | GM:S 1.0.198 |
-| `sound_effect_compressor` | 🚫 | GM:S 1.0.198 |
-| `sound_effect_echo` | 🚫 | GM:S 1.0.198 |
-| `sound_effect_equalizer` | 🚫 | GM:S 1.0.198 |
-| `sound_effect_flanger` | 🚫 | GM:S 1.0.198 |
-| `sound_effect_gargle` | 🚫 | GM:S 1.0.198 |
-| `sound_effect_reverb` | 🚫 | GM:S 1.0.198 |
-| `sound_effect_set` | 🚫 | GM:S 1.0.198 |
-| `sound_exists` | ✅ | GM:S 1.0.198 |
-| `sound_fade` | ✅ | GM:S 1.0.198 |
-| `sound_get_kind` | 🚫 | GM:S 1.0.198 |
-| `sound_get_name` | 🚫 | GM:S 1.0.198 |
-| `sound_get_preload` | 🚫 | GM:S 1.0.198 |
-| `sound_global_volume` | ✅ | GM:S 1.0.198 |
-| `sound_isplaying` | ✅ | GM:S 1.0.198 |
-| `sound_loop` | ✅ | GM:S 1.0.198 |
-| `sound_name` | 🚫 | GM:S 1.0.198 |
-| `sound_pan` | 🚫 | GM:S 1.0.198 |
-| `sound_play` | ✅ | GM:S 1.0.198 |
-| `sound_replace` | 🚫 | GM:S 1.0.198 |
-| `sound_restore` | 🚫 | GM:S 1.0.198 |
-| `sound_set_search_directory` | 🚫 | GM:S 1.0.198 |
-| `sound_stop` | ✅ | GM:S 1.0.198 |
-| `sound_stop_all` | ✅ | GM:S 1.0.198 |
-| `sound_volume` | ✅ | GM:S 1.0.198 |
-| `splash_set_adapt` | 🚫 | GM:S 1.0.198 |
-| `splash_set_border` | 🚫 | GM:S 1.0.198 |
-| `splash_set_caption` | 🚫 | GM:S 1.0.198 |
-| `splash_set_color` | 🚫 | GM:S 1.0.198 |
-| `splash_set_cursor` | 🚫 | GM:S 1.0.198 |
-| `splash_set_fullscreen` | 🚫 | GM:S 1.0.198 |
-| `splash_set_interrupt` | 🚫 | GM:S 1.0.198 |
-| `splash_set_main` | 🚫 | GM:S 1.0.198 |
-| `splash_set_scale` | 🚫 | GM:S 1.0.198 |
-| `splash_set_size` | 🚫 | GM:S 1.0.198 |
-| `splash_set_stop_key` | 🚫 | GM:S 1.0.198 |
-| `splash_set_stop_mouse` | 🚫 | GM:S 1.0.198 |
-| `splash_set_top` | 🚫 | GM:S 1.0.198 |
-| `splash_show_image` | 🚫 | GM:S 1.0.198 |
-| `splash_show_text` | 🚫 | GM:S 1.0.198 |
-| `splash_show_video` | 🚫 | GM:S 1.0.198 |
-| `sprite_add` | ✅ | GM:S 1.0.198 |
-| `sprite_add_alpha` | 🚫 | GM:S 1.0.198 |
-| `sprite_add_from_screen` | 🚫 | GM:S 1.0.198 |
-| `sprite_add_from_surface` | 🚫 | GM:S 1.0.198 |
-| `sprite_add_sprite` | 🚫 | GM:S 1.0.198 |
-| `sprite_assign` | 🚫 | GM:S 1.0.198 |
-| `sprite_collision_mask` | 🚫 | GM:S 1.0.198 |
-| `sprite_create_from_screen` | 🚫 | GM:S 1.0.198 |
-| `sprite_create_from_surface` | ✅ | GM:S 1.0.198 |
-| `sprite_delete` | ✅ | GM:S 1.0.198 |
-| `sprite_duplicate` | 🚫 | GM:S 1.0.198 |
-| `sprite_exists` | ✅ | GM:S 1.0.198 |
-| `sprite_get_bbox_bottom` | 🚫 | GM:S 1.0.198 |
-| `sprite_get_bbox_left` | 🚫 | GM:S 1.0.198 |
-| `sprite_get_bbox_mode` | 🚫 | GM:S 1.0.198 |
-| `sprite_get_bbox_right` | 🚫 | GM:S 1.0.198 |
-| `sprite_get_bbox_top` | 🚫 | GM:S 1.0.198 |
-| `sprite_get_height` | ✅ | GM:S 1.0.198 |
-| `sprite_get_name` | ✅ | GM:S 1.0.198 |
-| `sprite_get_number` | ✅ | GM:S 1.0.198 |
-| `sprite_get_precise` | 🚫 | GM:S 1.0.198 |
-| `sprite_get_preload` | 🚫 | GM:S 1.0.198 |
-| `sprite_get_smooth` | 🚫 | GM:S 1.0.198 |
-| `sprite_get_texture` | 🚫 | GM:S 1.0.198 |
-| `sprite_get_transparent` | 🚫 | GM:S 1.0.198 |
-| `sprite_get_width` | ✅ | GM:S 1.0.198 |
-| `sprite_get_xoffset` | ✅ | GM:S 1.0.198 |
-| `sprite_get_yoffset` | ✅ | GM:S 1.0.198 |
-| `sprite_merge` | 🚫 | GM:S 1.0.198 |
-| `sprite_name` | 🚫 | GM:S 1.0.198 |
-| `sprite_replace` | 🚫 | GM:S 1.0.198 |
-| `sprite_replace_alpha` | 🚫 | GM:S 1.0.198 |
-| `sprite_replace_sprite` | 🚫 | GM:S 1.0.198 |
-| `sprite_save` | 🚫 | GM:S 1.0.198 |
-| `sprite_save_strip` | 🚫 | GM:S 1.0.198 |
-| `sprite_set_alpha_from_sprite` | 🚫 | GM:S 1.0.198 |
-| `sprite_set_bbox` | 🚫 | GM:S 1.0.198 |
-| `sprite_set_bbox_mode` | 🚫 | GM:S 1.0.198 |
-| `sprite_set_cache_size` | 🚫 | GM:S 1.0.198 |
-| `sprite_set_cache_size_ext` | 🚫 | GM:S 1.0.198 |
-| `sprite_set_offset` | ✅ | GM:S 1.0.198 |
-| `sprite_set_precise` | 🚫 | GM:S 1.0.198 |
-| `string` | ✅ | GM:S 1.0.198 |
-| `string_byte_at` | 🚫 | GM:S 1.0.198 |
-| `string_byte_length` | ✅ | GM:S 1.0.198 |
-| `string_char_at` | ✅ | GM:S 1.0.198 |
-| `string_copy` | ✅ | GM:S 1.0.198 |
-| `string_count` | ✅ | GM:S 1.0.198 |
-| `string_delete` | ✅ | GM:S 1.0.198 |
-| `string_digits` | ✅ | GM:S 1.0.198 |
-| `string_format` | ✅ | GM:S 1.0.198 |
-| `string_height` | ✅ | GM:S 1.0.198 |
-| `string_height_ext` | ✅ | GM:S 1.0.198 |
-| `string_insert` | ✅ | GM:S 1.0.198 |
-| `string_length` | ✅ | GM:S 1.0.198 |
-| `string_letters` | ✅ | GM:S 1.0.198 |
-| `string_lettersdigits` | ✅ | GM:S 1.0.198 |
-| `string_lower` | ✅ | GM:S 1.0.198 |
-| `string_pos` | ✅ | GM:S 1.0.198 |
-| `string_repeat` | ✅ | GM:S 1.0.198 |
-| `string_replace` | ✅ | GM:S 1.0.198 |
-| `string_replace_all` | ✅ | GM:S 1.0.198 |
-| `string_upper` | ✅ | GM:S 1.0.198 |
-| `string_width` | ✅ | GM:S 1.0.198 |
-| `string_width_ext` | ✅ | GM:S 1.0.198 |
-| `surface_copy` | ✅ | GM:S 1.0.198 |
-| `surface_copy_part` | ✅ | GM:S 1.0.198 |
-| `surface_create` | ✅ | GM:S 1.0.198 |
-| `surface_exists` | ✅ | GM:S 1.0.198 |
-| `surface_free` | ✅ | GM:S 1.0.198 |
-| `surface_get_height` | ✅ | GM:S 1.0.198 |
-| `surface_get_texture` | 🚫 | GM:S 1.0.198 |
-| `surface_get_width` | ✅ | GM:S 1.0.198 |
-| `surface_getpixel` | 🚫 | GM:S 1.0.198 |
-| `surface_reset_target` | ✅ | GM:S 1.0.198 |
-| `surface_save` | 🚫 | GM:S 1.0.198 |
-| `surface_save_part` | 🚫 | GM:S 1.0.198 |
-| `surface_set_target` | ✅ | GM:S 1.0.198 |
-| `texture_exists` | 🚫 | GM:S 1.0.198 |
-| `texture_get_height` | 🚫 | GM:S 1.0.198 |
-| `texture_get_width` | 🚫 | GM:S 1.0.198 |
-| `texture_preload` | 🚫 | GM:S 1.0.198 |
-| `texture_set_blending` | 🚫 | GM:S 1.0.198 |
-| `texture_set_interpolation` | 🚫 | GM:S 1.0.198 |
-| `texture_set_priority` | 🚫 | GM:S 1.0.198 |
-| `texture_set_repeat` | 🚫 | GM:S 1.0.198 |
-| `tile_add` | ✅ | GM:S 1.0.198 |
-| `tile_delete` | ✅ | GM:S 1.0.198 |
-| `tile_delete_at` | 🚫 | GM:S 1.0.198 |
-| `tile_exists` | ✅ | GM:S 1.0.198 |
-| `tile_find` | 🚫 | GM:S 1.0.198 |
-| `tile_get_alpha` | 🚫 | GM:S 1.0.198 |
-| `tile_get_background` | 🚫 | GM:S 1.0.198 |
-| `tile_get_blend` | 🚫 | GM:S 1.0.198 |
-| `tile_get_depth` | 🚫 | GM:S 1.0.198 |
-| `tile_get_height` | 🚫 | GM:S 1.0.198 |
-| `tile_get_left` | 🚫 | GM:S 1.0.198 |
-| `tile_get_top` | 🚫 | GM:S 1.0.198 |
-| `tile_get_visible` | 🚫 | GM:S 1.0.198 |
-| `tile_get_width` | 🚫 | GM:S 1.0.198 |
-| `tile_get_x` | 🚫 | GM:S 1.0.198 |
-| `tile_get_xscale` | 🚫 | GM:S 1.0.198 |
-| `tile_get_y` | 🚫 | GM:S 1.0.198 |
-| `tile_get_yscale` | 🚫 | GM:S 1.0.198 |
-| `tile_layer_delete` | ✅ | GM:S 1.0.198 |
-| `tile_layer_delete_at` | 🚫 | GM:S 1.0.198 |
-| `tile_layer_depth` | 🚫 | GM:S 1.0.198 |
-| `tile_layer_find` | ✅ | GM:S 1.0.198 |
-| `tile_layer_hide` | ✅ | GM:S 1.0.198 |
-| `tile_layer_shift` | ✅ | GM:S 1.0.198 |
-| `tile_layer_show` | ✅ | GM:S 1.0.198 |
-| `tile_set_alpha` | ✅ | GM:S 1.0.198 |
-| `tile_set_background` | 🚫 | GM:S 1.0.198 |
-| `tile_set_blend` | 🚫 | GM:S 1.0.198 |
-| `tile_set_depth` | 🚫 | GM:S 1.0.198 |
-| `tile_set_position` | 🚫 | GM:S 1.0.198 |
-| `tile_set_region` | 🚫 | GM:S 1.0.198 |
-| `tile_set_scale` | 🚫 | GM:S 1.0.198 |
-| `tile_set_visible` | ✅ | GM:S 1.0.198 |
-| `timeline_add` | 🚫 | GM:S 1.0.198 |
-| `timeline_delete` | 🚫 | GM:S 1.0.198 |
-| `timeline_exists` | ✅ | GM:S 1.0.198 |
-| `timeline_get_name` | ✅ | GM:S 1.0.198 |
-| `timeline_moment_add` | 🚫 | GM:S 1.0.198 |
-| `timeline_moment_clear` | 🚫 | GM:S 1.0.198 |
-| `timeline_name` | 🚫 | GM:S 1.0.198 |
-| `transition_define` | 🚫 | GM:S 1.0.198 |
-| `transition_exists` | 🚫 | GM:S 1.0.198 |
-| `url_open` | 🚫 | GM:S 1.0.198 |
-| `url_open_ext` | 🚫 | GM:S 1.0.198 |
-| `url_open_full` | 🚫 | GM:S 1.0.198 |
-| `variable_global_array2_get` | 🚫 | GM:S 1.0.198 |
-| `variable_global_array2_set` | 🚫 | GM:S 1.0.198 |
-| `variable_global_array_get` | 🚫 | GM:S 1.0.198 |
-| `variable_global_array_set` | 🚫 | GM:S 1.0.198 |
-| `variable_global_exists` | ✅ | GM:S 1.0.198 |
-| `variable_global_get` | ✅ | GM:S 1.0.198 |
-| `variable_global_set` | ✅ | GM:S 1.0.198 |
-| `variable_local_array2_get` | 🚫 | GM:S 1.0.198 |
-| `variable_local_array2_set` | 🚫 | GM:S 1.0.198 |
-| `variable_local_array_get` | 🚫 | GM:S 1.0.198 |
-| `variable_local_array_set` | 🚫 | GM:S 1.0.198 |
-| `variable_local_exists` | 🚫 | GM:S 1.0.198 |
-| `variable_local_get` | 🚫 | GM:S 1.0.198 |
-| `variable_local_set` | 🚫 | GM:S 1.0.198 |
-| `virtual_key_add` | 🚫 | GM:S 1.0.198 |
-| `virtual_key_delete` | 🚫 | GM:S 1.0.198 |
-| `virtual_key_hide` | 🚫 | GM:S 1.0.198 |
-| `virtual_key_show` | 🚫 | GM:S 1.0.198 |
-| `window_center` | ✅ | GM:S 1.0.198 |
-| `window_default` | 🚫 | GM:S 1.0.198 |
-| `window_get_caption` | 🚫 | GM:S 1.0.198 |
-| `window_get_color` | 🚫 | GM:S 1.0.198 |
-| `window_get_cursor` | 🚫 | GM:S 1.0.198 |
-| `window_get_fullscreen` | ✅ | GM:S 1.0.198 |
-| `window_get_height` | ✅ | GM:S 1.0.198 |
-| `window_get_showborder` | 🚫 | GM:S 1.0.198 |
-| `window_get_showicons` | 🚫 | GM:S 1.0.198 |
-| `window_get_sizeable` | 🚫 | GM:S 1.0.198 |
-| `window_get_stayontop` | 🚫 | GM:S 1.0.198 |
-| `window_get_visible` | 🚫 | GM:S 1.0.198 |
-| `window_get_width` | ✅ | GM:S 1.0.198 |
-| `window_get_x` | 🚫 | GM:S 1.0.198 |
-| `window_get_y` | 🚫 | GM:S 1.0.198 |
-| `window_handle` | 🚫 | GM:S 1.0.198 |
-| `window_mouse_get_x` | 🚫 | GM:S 1.0.198 |
-| `window_mouse_get_y` | 🚫 | GM:S 1.0.198 |
-| `window_mouse_set` | 🚫 | GM:S 1.0.198 |
-| `window_set_caption` | ✅ | GM:S 1.0.198 |
-| `window_set_color` | 🚫 | GM:S 1.0.198 |
-| `window_set_cursor` | 🚫 | GM:S 1.0.198 |
-| `window_set_fullscreen` | ✅ | GM:S 1.0.198 |
-| `window_set_position` | 🚫 | GM:S 1.0.198 |
-| `window_set_rectangle` | 🚫 | GM:S 1.0.198 |
-| `window_set_showborder` | 🚫 | GM:S 1.0.198 |
-| `window_set_showicons` | 🚫 | GM:S 1.0.198 |
-| `window_set_size` | ✅ | GM:S 1.0.198 |
-| `window_set_sizeable` | 🚫 | GM:S 1.0.198 |
-| `window_set_stayontop` | 🚫 | GM:S 1.0.198 |
-| `window_set_visible` | 🚫 | GM:S 1.0.198 |
-| `window_view_mouse_get_x` | 🚫 | GM:S 1.0.198 |
-| `window_view_mouse_get_y` | 🚫 | GM:S 1.0.198 |
-| `window_view_mouse_set` | 🚫 | GM:S 1.0.198 |
-| `window_views_mouse_get_x` | 🚫 | GM:S 1.0.198 |
-| `window_views_mouse_get_y` | 🚫 | GM:S 1.0.198 |
-| `window_views_mouse_set` | 🚫 | GM:S 1.0.198 |
-| `abs` | ✅ | GM:S 1.1.690 |
-| `achievement_available` | 🚫 | GM:S 1.1.690 |
-| `achievement_login` | 🚫 | GM:S 1.1.690 |
-| `achievement_logout` | 🚫 | GM:S 1.1.690 |
-| `achievement_post` | 🚫 | GM:S 1.1.690 |
-| `achievement_post_score` | 🚫 | GM:S 1.1.690 |
-| `ads_engagement_active` | 🚫 | GM:S 1.1.690 |
-| `ads_engagement_available` | 🚫 | GM:S 1.1.690 |
-| `ads_engagement_launch` | 🚫 | GM:S 1.1.690 |
-| `ads_get_display_height` | 🚫 | GM:S 1.1.690 |
-| `ads_get_display_width` | 🚫 | GM:S 1.1.690 |
-| `ads_move` | 🚫 | GM:S 1.1.690 |
-| `ads_setup` | 🚫 | GM:S 1.1.690 |
-| `analytics_event` | 🚫 | GM:S 1.1.690 |
-| `analytics_event_ext` | 🚫 | GM:S 1.1.690 |
-| `audio_channel_num` | ✅ | GM:S 1.1.690 |
-| `audio_emitter_create` | 🚫 | GM:S 1.1.690 |
-| `audio_emitter_exists` | 🚫 | GM:S 1.1.690 |
-| `audio_emitter_falloff` | 🚫 | GM:S 1.1.690 |
-| `audio_emitter_free` | 🚫 | GM:S 1.1.690 |
-| `audio_emitter_gain` | 🚫 | GM:S 1.1.690 |
-| `audio_emitter_pitch` | 🚫 | GM:S 1.1.690 |
-| `audio_emitter_position` | 🚫 | GM:S 1.1.690 |
-| `audio_emitter_velocity` | 🚫 | GM:S 1.1.690 |
-| `audio_exists` | ✅ | GM:S 1.1.690 |
-| `audio_falloff_set_model` | 🚫 | GM:S 1.1.690 |
-| `audio_get_type` | 🚫 | GM:S 1.1.690 |
-| `audio_is_playing` | ✅ | GM:S 1.1.690 |
-| `audio_listener_orientation` | 🚫 | GM:S 1.1.690 |
-| `audio_listener_position` | 🚫 | GM:S 1.1.690 |
-| `audio_listener_velocity` | 🚫 | GM:S 1.1.690 |
-| `audio_master_gain` | ✅ | GM:S 1.1.690 |
-| `audio_pause_all` | ✅ | GM:S 1.1.690 |
-| `audio_pause_music` | 🚫 | GM:S 1.1.690 |
-| `audio_pause_sound` | ✅ | GM:S 1.1.690 |
-| `audio_play_music` | ✅ | GM:S 1.1.690 |
-| `audio_play_sound` | ✅ | GM:S 1.1.690 |
-| `audio_play_sound_at` | 🚫 | GM:S 1.1.690 |
-| `audio_play_sound_on` | 🚫 | GM:S 1.1.690 |
-| `audio_resume_all` | ✅ | GM:S 1.1.690 |
-| `audio_resume_music` | 🚫 | GM:S 1.1.690 |
-| `audio_resume_sound` | ✅ | GM:S 1.1.690 |
-| `audio_sound_length` | ✅ | GM:S 1.1.690 |
-| `audio_stop_all` | ✅ | GM:S 1.1.690 |
-| `audio_stop_music` | ✅ | GM:S 1.1.690 |
-| `audio_stop_sound` | ✅ | GM:S 1.1.690 |
-| `background_replace_alpha` | 🚫 | GM:S 1.1.690 |
-| `background_replace_background` | 🚫 | GM:S 1.1.690 |
-| `base64_decode` | ✅ | GM:S 1.1.690 |
-| `base64_encode` | ✅ | GM:S 1.1.690 |
-| `ceil` | ✅ | GM:S 1.1.690 |
-| `chr` | ✅ | GM:S 1.1.690 |
-| `clickable_add` | 🚫 | GM:S 1.1.690 |
-| `clickable_add_ext` | 🚫 | GM:S 1.1.690 |
-| `clickable_change` | 🚫 | GM:S 1.1.690 |
-| `clickable_change_ext` | 🚫 | GM:S 1.1.690 |
-| `clickable_delete` | 🚫 | GM:S 1.1.690 |
-| `cos` | ✅ | GM:S 1.1.690 |
-| `device_mouse_dbclick_enable` | 🚫 | GM:S 1.1.690 |
-| `display_get_dpi_x` | 🚫 | GM:S 1.1.690 |
-| `display_get_dpi_y` | 🚫 | GM:S 1.1.690 |
-| `display_get_gui_height` | ✅ | GM:S 1.1.690 |
-| `display_get_gui_width` | ✅ | GM:S 1.1.690 |
-| `display_set_gui_size` | ✅ | GM:S 1.1.690 |
-| `draw_sprite_pos` | ✅ | GM:S 1.1.690 |
-| `exp` | 🚫 | GM:S 1.1.690 |
-| `facebook_launch_offerwall` | 🚫 | GM:S 1.1.690 |
-| `facebook_post_message` | 🚫 | GM:S 1.1.690 |
-| `facebook_send_invite` | 🚫 | GM:S 1.1.690 |
-| `font_add_sprite_ext` | ✅ | GM:S 1.1.690 |
-| `font_replace_sprite_ext` | 🚫 | GM:S 1.1.690 |
-| `font_set_cache_size` | 🚫 | GM:S 1.1.690 |
-| `frac` | ✅ | GM:S 1.1.690 |
-| `get_integer_async` | 🚫 | GM:S 1.1.690 |
-| `get_open_filename_ext` | 🚫 | GM:S 1.1.690 |
-| `get_save_filename_ext` | 🚫 | GM:S 1.1.690 |
-| `get_string_async` | 🚫 | GM:S 1.1.690 |
-| `iap_activate` | 🚫 | GM:S 1.1.690 |
-| `iap_consume` | 🚫 | GM:S 1.1.690 |
-| `iap_event_queue` | 🚫 | GM:S 1.1.690 |
-| `iap_files_purchased` | 🚫 | GM:S 1.1.690 |
-| `iap_is_downloaded` | 🚫 | GM:S 1.1.690 |
-| `iap_product_details` | 🚫 | GM:S 1.1.690 |
-| `iap_product_files` | 🚫 | GM:S 1.1.690 |
-| `iap_product_status` | 🚫 | GM:S 1.1.690 |
-| `iap_restore_all` | 🚫 | GM:S 1.1.690 |
-| `iap_status` | 🚫 | GM:S 1.1.690 |
-| `iap_store_status` | 🚫 | GM:S 1.1.690 |
-| `lerp` | ✅ | GM:S 1.1.690 |
-| `ln` | 🚫 | GM:S 1.1.690 |
-| `log2` | ✅ | GM:S 1.1.690 |
-| `logn` | 🚫 | GM:S 1.1.690 |
-| `max` | ✅ | GM:S 1.1.690 |
-| `max3` | 🚫 | GM:S 1.1.690 |
-| `md5_file` | 🚫 | GM:S 1.1.690 |
-| `md5_string_unicode` | 🚫 | GM:S 1.1.690 |
-| `md5_string_utf8` | 🚫 | GM:S 1.1.690 |
-| `mean` | 🚫 | GM:S 1.1.690 |
-| `min` | ✅ | GM:S 1.1.690 |
-| `min3` | 🚫 | GM:S 1.1.690 |
-| `ord` | ✅ | GM:S 1.1.690 |
-| `os_get_language` | ✅ | GM:S 1.1.690 |
-| `os_is_network_connected` | 🚫 | GM:S 1.1.690 |
-| `os_lock_orientation` | 🚫 | GM:S 1.1.690 |
-| `os_powersave_enable` | 🚫 | GM:S 1.1.690 |
-| `path_rescale` | 🚫 | GM:S 1.1.690 |
-| `physics_fixture_set_awake` | 🚫 | GM:S 1.1.690 |
-| `physics_pause_enable` | 🚫 | GM:S 1.1.690 |
-| `pocketchange_display_reward` | 🚫 | GM:S 1.1.690 |
-| `pocketchange_display_shop` | 🚫 | GM:S 1.1.690 |
-| `real` | ✅ | GM:S 1.1.690 |
-| `sha1_file` | 🚫 | GM:S 1.1.690 |
-| `sha1_string_unicode` | 🚫 | GM:S 1.1.690 |
-| `sha1_string_utf8` | 🚫 | GM:S 1.1.690 |
-| `show_message_async` | 🚫 | GM:S 1.1.690 |
-| `show_question_async` | 🚫 | GM:S 1.1.690 |
-| `sign` | ✅ | GM:S 1.1.690 |
-| `sin` | ✅ | GM:S 1.1.690 |
-| `sprite_get_tpe` | 🚫 | GM:S 1.1.690 |
-| `sqr` | ✅ | GM:S 1.1.690 |
-| `sqrt` | ✅ | GM:S 1.1.690 |
-| `tan` | 🚫 | GM:S 1.1.690 |
-| `url_get_domain` | 🚫 | GM:S 1.1.690 |
-| `win8_appbar_add_element` | 🚫 | GM:S 1.1.690 |
-| `win8_appbar_enable` | 🚫 | GM:S 1.1.690 |
-| `win8_appbar_remove_element` | 🚫 | GM:S 1.1.690 |
-| `win8_device_touchscreen_available` | 🚫 | GM:S 1.1.690 |
-| `win8_livetile_badge_clear` | 🚫 | GM:S 1.1.690 |
-| `win8_livetile_badge_notification` | 🚫 | GM:S 1.1.690 |
-| `win8_livetile_queue_enable` | 🚫 | GM:S 1.1.690 |
-| `win8_livetile_tile_clear` | 🚫 | GM:S 1.1.690 |
-| `win8_livetile_tile_notification` | 🚫 | GM:S 1.1.690 |
-| `win8_search_add_suggestions` | 🚫 | GM:S 1.1.690 |
-| `win8_search_disable` | 🚫 | GM:S 1.1.690 |
-| `win8_search_enable` | 🚫 | GM:S 1.1.690 |
-| `win8_secondarytile_badge_notification` | 🚫 | GM:S 1.1.690 |
-| `win8_secondarytile_delete` | 🚫 | GM:S 1.1.690 |
-| `win8_secondarytile_notification` | 🚫 | GM:S 1.1.690 |
-| `win8_secondarytile_pin` | 🚫 | GM:S 1.1.690 |
-| `win8_settingscharm_add_entry` | 🚫 | GM:S 1.1.690 |
-| `win8_settingscharm_add_html_entry` | 🚫 | GM:S 1.1.690 |
-| `win8_settingscharm_remove_entry` | 🚫 | GM:S 1.1.690 |
-| `win8_share_file` | 🚫 | GM:S 1.1.690 |
-| `win8_share_image` | 🚫 | GM:S 1.1.690 |
-| `win8_share_screenshot` | 🚫 | GM:S 1.1.690 |
-| `win8_share_text` | 🚫 | GM:S 1.1.690 |
-| `win8_share_url` | 🚫 | GM:S 1.1.690 |
-| `winphone_tile_back_content` | 🚫 | GM:S 1.1.690 |
-| `winphone_tile_back_image` | 🚫 | GM:S 1.1.690 |
-| `winphone_tile_back_title` | 🚫 | GM:S 1.1.690 |
-| `winphone_tile_background_color` | 🚫 | GM:S 1.1.690 |
-| `winphone_tile_count` | 🚫 | GM:S 1.1.690 |
-| `winphone_tile_cycle_images` | 🚫 | GM:S 1.1.690 |
-| `winphone_tile_front_image` | 🚫 | GM:S 1.1.690 |
-| `winphone_tile_icon_image` | 🚫 | GM:S 1.1.690 |
-| `winphone_tile_small_background_image` | 🚫 | GM:S 1.1.690 |
-| `winphone_tile_small_icon_image` | 🚫 | GM:S 1.1.690 |
-| `winphone_tile_title` | 🚫 | GM:S 1.1.690 |
-| `winphone_tile_wide_content` | 🚫 | GM:S 1.1.690 |
-| `achievement_show_achievements` | 🚫 | GM:S 1.1.827 |
-| `achievement_show_leaderboards` | 🚫 | GM:S 1.1.827 |
-| `ads_interstitial_available` | 🚫 | GM:S 1.1.827 |
-| `ads_interstitial_display` | 🚫 | GM:S 1.1.827 |
-| `asset_get_index` | ✅ | GM:S 1.1.827 |
-| `asset_get_type` | 🚫 | GM:S 1.1.827 |
-| `audio_music_gain` | ✅ | GM:S 1.1.827 |
-| `audio_sound_gain` | ✅ | GM:S 1.1.827 |
-| `audio_sound_pitch` | ✅ | GM:S 1.1.827 |
-| `audio_system` | 🚫 | GM:S 1.1.827 |
-| `buffer_base64_decode` | ✅ | GM:S 1.1.827 |
-| `buffer_base64_decode_ex` | 🚫 | GM:S 1.1.827 |
-| `buffer_base64_encode` | ✅ | GM:S 1.1.827 |
-| `buffer_copy` | 🚫 | GM:S 1.1.827 |
-| `buffer_create` | ✅ | GM:S 1.1.827 |
-| `buffer_delete` | ✅ | GM:S 1.1.827 |
-| `buffer_fill` | 🚫 | GM:S 1.1.827 |
-| `buffer_get_size` | ✅ | GM:S 1.1.827 |
-| `buffer_get_surface` | ✅ | GM:S 1.1.827 |
-| `buffer_load` | ✅ | GM:S 1.1.827 |
-| `buffer_load_ex` | 🚫 | GM:S 1.1.827 |
-| `buffer_md5` | ✅ | GM:S 1.1.827 |
-| `buffer_peek` | 🚫 | GM:S 1.1.827 |
-| `buffer_poke` | 🚫 | GM:S 1.1.827 |
-| `buffer_read` | ✅ | GM:S 1.1.827 |
-| `buffer_resize` | 🚫 | GM:S 1.1.827 |
-| `buffer_save` | ✅ | GM:S 1.1.827 |
-| `buffer_save_ex` | 🚫 | GM:S 1.1.827 |
-| `buffer_seek` | ✅ | GM:S 1.1.827 |
-| `buffer_sha1` | ✅ | GM:S 1.1.827 |
-| `buffer_sizeof` | 🚫 | GM:S 1.1.827 |
-| `buffer_tell` | ✅ | GM:S 1.1.827 |
-| `buffer_write` | ✅ | GM:S 1.1.827 |
-| `cloud_file_save` | 🚫 | GM:S 1.1.827 |
-| `cloud_string_save` | 🚫 | GM:S 1.1.827 |
-| `cloud_synchronise` | 🚫 | GM:S 1.1.827 |
-| `d3d_set_zwriteenable` | 🚫 | GM:S 1.1.827 |
-| `draw_get_alpha_test` | 🚫 | GM:S 1.1.827 |
-| `draw_get_alpha_test_ref_value` | 🚫 | GM:S 1.1.827 |
-| `draw_set_alpha_test` | ✅ | GM:S 1.1.827 |
-| `draw_set_alpha_test_ref_value` | ✅ | GM:S 1.1.827 |
-| `draw_set_color_write_enable` | ✅ | GM:S 1.1.827 |
-| `facebook_accesstoken` | 🚫 | GM:S 1.1.827 |
-| `facebook_user_id` | 🚫 | GM:S 1.1.827 |
-| `file_text_eoln` | 🚫 | GM:S 1.1.827 |
-| `gamepad_axis_count` | ✅ | GM:S 1.1.827 |
-| `gamepad_axis_value` | ✅ | GM:S 1.1.827 |
-| `gamepad_button_check` | ✅ | GM:S 1.1.827 |
-| `gamepad_button_check_pressed` | ✅ | GM:S 1.1.827 |
-| `gamepad_button_check_released` | ✅ | GM:S 1.1.827 |
-| `gamepad_button_count` | ✅ | GM:S 1.1.827 |
-| `gamepad_button_value` | ✅ | GM:S 1.1.827 |
-| `gamepad_get_axis_deadzone` | ✅ | GM:S 1.1.827 |
-| `gamepad_get_button_threshold` | ✅ | GM:S 1.1.827 |
-| `gamepad_get_description` | ✅ | GM:S 1.1.827 |
-| `gamepad_get_device_count` | ✅ | GM:S 1.1.827 |
-| `gamepad_is_connected` | ✅ | GM:S 1.1.827 |
-| `gamepad_is_supported` | ✅ | GM:S 1.1.827 |
-| `gamepad_set_axis_deadzone` | ✅ | GM:S 1.1.827 |
-| `gamepad_set_button_threshold` | ✅ | GM:S 1.1.827 |
-| `immersion_play_effect` | 🚫 | GM:S 1.1.827 |
-| `immersion_stop` | 🚫 | GM:S 1.1.827 |
-| `math_set_epsilon` | 🚫 | GM:S 1.1.827 |
-| `string_set_byte_at` | 🚫 | GM:S 1.1.827 |
-| `win8_license_initialize_sandbox` | 🚫 | GM:S 1.1.827 |
-| `win8_license_trial_version` | 🚫 | GM:S 1.1.827 |
-| `winphone_tile_back_content_wide` | 🚫 | GM:S 1.1.827 |
-| `winphone_tile_back_image_wide` | 🚫 | GM:S 1.1.827 |
-| `winphone_tile_front_image_small` | 🚫 | GM:S 1.1.827 |
-| `winphone_tile_front_image_wide` | 🚫 | GM:S 1.1.827 |
-| `buffer_base64_decode_ext` | 🚫 | GM:S 1.1.867 |
-| `buffer_load_ext` | 🚫 | GM:S 1.1.867 |
-| `buffer_save_ext` | ✅ | GM:S 1.1.867 |
-| `buffer_set_surface` | 🚫 | GM:S 1.1.867 |
-| `draw_enable_drawevent` | 🚫 | GM:S 1.1.867 |
-| `gamepad_set_vibration` | 🚫 | GM:S 1.1.867 |
-| `network_connect` | 🚫 | GM:S 1.1.867 |
-| `network_connect_raw` | 🚫 | GM:S 1.1.867 |
-| `network_create_server` | 🚫 | GM:S 1.1.867 |
-| `network_create_socket` | 🚫 | GM:S 1.1.867 |
-| `network_destroy` | 🚫 | GM:S 1.1.867 |
-| `network_receive_packet` | 🚫 | GM:S 1.1.867 |
-| `network_resolve` | 🚫 | GM:S 1.1.867 |
-| `network_send_broadcast` | 🚫 | GM:S 1.1.867 |
-| `network_send_packet` | 🚫 | GM:S 1.1.867 |
-| `network_send_raw` | 🚫 | GM:S 1.1.867 |
-| `network_send_udp` | 🚫 | GM:S 1.1.867 |
-| `network_set_timeout` | 🚫 | GM:S 1.1.867 |
-| `achievement_get_challenges` | 🚫 | GM:S 1.1.1130 |
-| `achievement_get_pic` | 🚫 | GM:S 1.1.1130 |
-| `achievement_load_friends` | 🚫 | GM:S 1.1.1130 |
-| `achievement_load_leaderboard` | 🚫 | GM:S 1.1.1130 |
-| `achievement_load_progress` | 🚫 | GM:S 1.1.1130 |
-| `achievement_login_status` | 🚫 | GM:S 1.1.1130 |
-| `achievement_reset` | 🚫 | GM:S 1.1.1130 |
-| `achievement_send_challenge` | 🚫 | GM:S 1.1.1130 |
-| `achievement_show_challenge_notifications` | 🚫 | GM:S 1.1.1130 |
-| `action_colour` | ✅ | GM:S 1.1.1130 |
-| `action_fill_colour` | 🚫 | GM:S 1.1.1130 |
-| `action_line_colour` | 🚫 | GM:S 1.1.1130 |
-| `action_parttype_colour` | 🚫 | GM:S 1.1.1130 |
-| `action_sprite_colour` | 🚫 | GM:S 1.1.1130 |
-| `ads_event` | 🚫 | GM:S 1.1.1130 |
-| `ads_event_preload` | 🚫 | GM:S 1.1.1130 |
-| `ads_set_reward_callback` | 🚫 | GM:S 1.1.1130 |
-| `array_height_2d` | ✅ | GM:S 1.1.1130 |
-| `array_length_1d` | ✅ | GM:S 1.1.1130 |
-| `array_length_2d` | ✅ | GM:S 1.1.1130 |
-| `audio_music_is_playing` | ✅ | GM:S 1.1.1130 |
-| `background_get_uvs` | 🚫 | GM:S 1.1.1130 |
-| `code_is_compiled` | 🚫 | GM:S 1.1.1130 |
-| `colour_get_blue` | ✅ | GM:S 1.1.1130 |
-| `colour_get_green` | ✅ | GM:S 1.1.1130 |
-| `colour_get_hue` | ✅ | GM:S 1.1.1130 |
-| `colour_get_red` | ✅ | GM:S 1.1.1130 |
-| `colour_get_saturation` | ✅ | GM:S 1.1.1130 |
-| `colour_get_value` | ✅ | GM:S 1.1.1130 |
-| `d3d_model_vertex_colour` | 🚫 | GM:S 1.1.1130 |
-| `d3d_model_vertex_normal_texture_colour` | 🚫 | GM:S 1.1.1130 |
-| `d3d_model_vertex_texture_colour` | 🚫 | GM:S 1.1.1130 |
-| `d3d_vertex_colour` | 🚫 | GM:S 1.1.1130 |
-| `d3d_vertex_normal_colour` | 🚫 | GM:S 1.1.1130 |
-| `d3d_vertex_normal_texture_colour` | 🚫 | GM:S 1.1.1130 |
-| `d3d_vertex_texture_colour` | 🚫 | GM:S 1.1.1130 |
-| `draw_circle_colour` | 🚫 | GM:S 1.1.1130 |
-| `draw_ellipse_colour` | 🚫 | GM:S 1.1.1130 |
-| `draw_get_colour` | ✅ | GM:S 1.1.1130 |
-| `draw_line_colour` | ✅ | GM:S 1.1.1130 |
-| `draw_line_width_colour` | ✅ | GM:S 1.1.1130 |
-| `draw_point_colour` | 🚫 | GM:S 1.1.1130 |
-| `draw_rectangle_colour` | ✅ | GM:S 1.1.1130 |
-| `draw_roundrect_colour` | 🚫 | GM:S 1.1.1130 |
-| `draw_set_colour` | ✅ | GM:S 1.1.1130 |
-| `draw_text_colour` | ✅ | GM:S 1.1.1130 |
-| `draw_text_ext_colour` | 🚫 | GM:S 1.1.1130 |
-| `draw_text_ext_transformed_colour` | 🚫 | GM:S 1.1.1130 |
-| `draw_text_transformed_colour` | 🚫 | GM:S 1.1.1130 |
-| `draw_triangle_colour` | 🚫 | GM:S 1.1.1130 |
-| `draw_vertex_colour` | 🚫 | GM:S 1.1.1130 |
-| `ds_grid_sort` | 🚫 | GM:S 1.1.1130 |
-| `file_text_open_from_string` | 🚫 | GM:S 1.1.1130 |
-| `font_get_texture` | 🚫 | GM:S 1.1.1130 |
-| `font_get_uvs` | 🚫 | GM:S 1.1.1130 |
-| `game_load_buffer` | 🚫 | GM:S 1.1.1130 |
-| `game_save_buffer` | 🚫 | GM:S 1.1.1130 |
-| `ini_open_from_string` | 🚫 | GM:S 1.1.1130 |
-| `is_array` | ✅ | GM:S 1.1.1130 |
-| `make_colour` | 🚫 | GM:S 1.1.1130 |
-| `make_colour_hsv` | ✅ | GM:S 1.1.1130 |
-| `make_colour_rgb` | ✅ | GM:S 1.1.1130 |
-| `merge_colour` | ✅ | GM:S 1.1.1130 |
-| `physics_fixture_set_edge_shape` | 🚫 | GM:S 1.1.1130 |
-| `playhaven_add_notification_badge` | 🚫 | GM:S 1.1.1130 |
-| `playhaven_hide_notification_badge` | 🚫 | GM:S 1.1.1130 |
-| `playhaven_position_notification_badge` | 🚫 | GM:S 1.1.1130 |
-| `playhaven_update_notification_badge` | 🚫 | GM:S 1.1.1130 |
-| `shader_enable_corner_id` | 🚫 | GM:S 1.1.1130 |
-| `shader_get_sampler_index` | 🚫 | GM:S 1.1.1130 |
-| `shader_get_uniform` | 🚫 | GM:S 1.1.1130 |
-| `shader_is_compiled` | 🚫 | GM:S 1.1.1130 |
-| `shader_reset` | 🚫 | GM:S 1.1.1130 |
-| `shader_set` | 🚫 | GM:S 1.1.1130 |
-| `shader_set_uniform_f` | 🚫 | GM:S 1.1.1130 |
-| `shader_set_uniform_f_array` | 🚫 | GM:S 1.1.1130 |
-| `shader_set_uniform_i` | 🚫 | GM:S 1.1.1130 |
-| `shader_set_uniform_i_array` | 🚫 | GM:S 1.1.1130 |
-| `shader_set_uniform_matrix` | 🚫 | GM:S 1.1.1130 |
-| `shader_set_uniform_matrix_array` | 🚫 | GM:S 1.1.1130 |
-| `shaders_are_supported` | 🚫 | GM:S 1.1.1130 |
-| `show_debug_overlay` | 🚫 | GM:S 1.1.1130 |
-| `sprite_get_uvs` | 🚫 | GM:S 1.1.1130 |
-| `steam_activate_overlay` | 🚫 | GM:S 1.1.1130 |
-| `steam_clear_achievement` | 🚫 | GM:S 1.1.1130 |
-| `steam_create_leaderboard` | 🚫 | GM:S 1.1.1130 |
-| `steam_download_friends_scores` | 🚫 | GM:S 1.1.1130 |
-| `steam_download_scores` | 🚫 | GM:S 1.1.1130 |
-| `steam_download_scores_around_user` | 🚫 | GM:S 1.1.1130 |
-| `steam_file_delete` | 🚫 | GM:S 1.1.1130 |
-| `steam_file_exists` | ✅ | GM:S 1.1.1130 |
-| `steam_file_persisted` | 🚫 | GM:S 1.1.1130 |
-| `steam_file_read` | ✅ | GM:S 1.1.1130 |
-| `steam_file_share` | 🚫 | GM:S 1.1.1130 |
-| `steam_file_size` | 🚫 | GM:S 1.1.1130 |
-| `steam_file_write` | ✅ | GM:S 1.1.1130 |
-| `steam_file_write_file` | 🚫 | GM:S 1.1.1130 |
-| `steam_get_achievement` | 🚫 | GM:S 1.1.1130 |
-| `steam_get_persona_name` | ✅ | GM:S 1.1.1130 |
-| `steam_get_quota_free` | 🚫 | GM:S 1.1.1130 |
-| `steam_get_quota_total` | 🚫 | GM:S 1.1.1130 |
-| `steam_get_stat_avg_rate` | 🚫 | GM:S 1.1.1130 |
-| `steam_get_stat_float` | 🚫 | GM:S 1.1.1130 |
-| `steam_get_stat_int` | 🚫 | GM:S 1.1.1130 |
-| `steam_get_user_steam_id` | 🚫 | GM:S 1.1.1130 |
-| `steam_initialised` | ✅ | GM:S 1.1.1130 |
-| `steam_is_cloud_enabled_for_account` | 🚫 | GM:S 1.1.1130 |
-| `steam_is_cloud_enabled_for_app` | 🚫 | GM:S 1.1.1130 |
-| `steam_is_overlay_activated` | 🚫 | GM:S 1.1.1130 |
-| `steam_is_overlay_enabled` | 🚫 | GM:S 1.1.1130 |
-| `steam_is_screenshot_requested` | 🚫 | GM:S 1.1.1130 |
-| `steam_is_user_logged_on` | 🚫 | GM:S 1.1.1130 |
-| `steam_publish_workshop_file` | 🚫 | GM:S 1.1.1130 |
-| `steam_reset_all_stats` | 🚫 | GM:S 1.1.1130 |
-| `steam_reset_all_stats_achievements` | 🚫 | GM:S 1.1.1130 |
-| `steam_send_screenshot` | 🚫 | GM:S 1.1.1130 |
-| `steam_set_achievement` | 🚫 | GM:S 1.1.1130 |
-| `steam_set_stat_avg_rate` | 🚫 | GM:S 1.1.1130 |
-| `steam_set_stat_float` | 🚫 | GM:S 1.1.1130 |
-| `steam_set_stat_int` | 🚫 | GM:S 1.1.1130 |
-| `steam_stats_ready` | ✅ | GM:S 1.1.1130 |
-| `steam_upload_score` | 🚫 | GM:S 1.1.1130 |
-| `steam_user_installed_dlc` | 🚫 | GM:S 1.1.1130 |
-| `steam_user_owns_dlc` | 🚫 | GM:S 1.1.1130 |
-| `surface_set_target_ext` | 🚫 | GM:S 1.1.1130 |
-| `texture_get_texel_height` | 🚫 | GM:S 1.1.1130 |
-| `texture_get_texel_width` | 🚫 | GM:S 1.1.1130 |
-| `texture_set_interpolation_ext` | 🚫 | GM:S 1.1.1130 |
-| `texture_set_repeat_ext` | 🚫 | GM:S 1.1.1130 |
-| `texture_set_stage` | 🚫 | GM:S 1.1.1130 |
-| `vertex_argb` | 🚫 | GM:S 1.1.1130 |
-| `vertex_begin` | 🚫 | GM:S 1.1.1130 |
-| `vertex_colour` | 🚫 | GM:S 1.1.1130 |
-| `vertex_create_buffer` | 🚫 | GM:S 1.1.1130 |
-| `vertex_create_buffer_ext` | 🚫 | GM:S 1.1.1130 |
-| `vertex_delete_buffer` | 🚫 | GM:S 1.1.1130 |
-| `vertex_end` | 🚫 | GM:S 1.1.1130 |
-| `vertex_float1` | 🚫 | GM:S 1.1.1130 |
-| `vertex_float2` | 🚫 | GM:S 1.1.1130 |
-| `vertex_float3` | 🚫 | GM:S 1.1.1130 |
-| `vertex_float4` | 🚫 | GM:S 1.1.1130 |
-| `vertex_format_add_colour` | 🚫 | GM:S 1.1.1130 |
-| `vertex_format_add_custom` | 🚫 | GM:S 1.1.1130 |
-| `vertex_format_add_normal` | 🚫 | GM:S 1.1.1130 |
-| `vertex_format_add_position` | 🚫 | GM:S 1.1.1130 |
-| `vertex_format_add_position_3d` | 🚫 | GM:S 1.1.1130 |
-| `vertex_format_add_textcoord` | 🚫 | GM:S 1.1.1130 |
-| `vertex_format_begin` | 🚫 | GM:S 1.1.1130 |
-| `vertex_format_end` | 🚫 | GM:S 1.1.1130 |
-| `vertex_freeze` | 🚫 | GM:S 1.1.1130 |
-| `vertex_normal` | 🚫 | GM:S 1.1.1130 |
-| `vertex_position` | 🚫 | GM:S 1.1.1130 |
-| `vertex_position_3d` | 🚫 | GM:S 1.1.1130 |
-| `vertex_submit` | 🚫 | GM:S 1.1.1130 |
-| `vertex_texcoord` | 🚫 | GM:S 1.1.1130 |
-| `vertex_ubyte4` | 🚫 | GM:S 1.1.1130 |
-| `win8_livetile_notification_begin` | 🚫 | GM:S 1.1.1130 |
-| `win8_livetile_notification_end` | 🚫 | GM:S 1.1.1130 |
-| `win8_livetile_notification_expiry` | 🚫 | GM:S 1.1.1130 |
-| `win8_livetile_notification_image_add` | 🚫 | GM:S 1.1.1130 |
-| `win8_livetile_notification_secondary_begin` | 🚫 | GM:S 1.1.1130 |
-| `win8_livetile_notification_tag` | 🚫 | GM:S 1.1.1130 |
-| `win8_livetile_notification_text_add` | 🚫 | GM:S 1.1.1130 |
-| `window_get_colour` | 🚫 | GM:S 1.1.1130 |
-| `window_has_focus` | ✅ | GM:S 1.1.1130 |
-| `window_set_colour` | 🚫 | GM:S 1.1.1130 |
-| `winphone_license_trial_version` | 🚫 | GM:S 1.1.1130 |
-| `achievement_event` | 🚫 | WAD Version 14 |
-| `achievement_get_info` | 🚫 | WAD Version 14 |
-| `achievement_increment` | 🚫 | WAD Version 14 |
-| `achievement_show` | 🚫 | WAD Version 14 |
-| `angle_difference` | ✅ | WAD Version 14 |
-| `application_get_position` | 🚫 | WAD Version 14 |
-| `application_surface_draw_enable` | ✅ | WAD Version 14 |
-| `application_surface_enable` | ✅ | WAD Version 14 |
-| `application_surface_is_enabled` | 🚫 | WAD Version 14 |
-| `array_get` | ✅ | WAD Version 14 |
-| `array_get_2D` | 🚫 | WAD Version 14 |
-| `array_set` | 🚫 | WAD Version 14 |
-| `array_set_2D` | 🚫 | WAD Version 14 |
-| `array_set_2D_post` | 🚫 | WAD Version 14 |
-| `array_set_2D_pre` | 🚫 | WAD Version 14 |
-| `array_set_post` | 🚫 | WAD Version 14 |
-| `array_set_pre` | 🚫 | WAD Version 14 |
-| `audio_create_buffer_sound` | 🚫 | WAD Version 14 |
-| `audio_create_play_queue` | 🚫 | WAD Version 14 |
-| `audio_emitter_get_gain` | 🚫 | WAD Version 14 |
-| `audio_emitter_get_listener_mask` | 🚫 | WAD Version 14 |
-| `audio_emitter_get_pitch` | 🚫 | WAD Version 14 |
-| `audio_emitter_get_vx` | 🚫 | WAD Version 14 |
-| `audio_emitter_get_vy` | 🚫 | WAD Version 14 |
-| `audio_emitter_get_vz` | 🚫 | WAD Version 14 |
-| `audio_emitter_get_x` | 🚫 | WAD Version 14 |
-| `audio_emitter_get_y` | 🚫 | WAD Version 14 |
-| `audio_emitter_get_z` | 🚫 | WAD Version 14 |
-| `audio_emitter_set_listener_mask` | 🚫 | WAD Version 14 |
-| `audio_free_buffer_sound` | 🚫 | WAD Version 14 |
-| `audio_free_play_queue` | 🚫 | WAD Version 14 |
-| `audio_get_listener_count` | 🚫 | WAD Version 14 |
-| `audio_get_listener_info` | 🚫 | WAD Version 14 |
-| `audio_get_listener_mask` | 🚫 | WAD Version 14 |
-| `audio_get_master_gain` | 🚫 | WAD Version 14 |
-| `audio_get_name` | 🚫 | WAD Version 14 |
-| `audio_get_recorder_count` | 🚫 | WAD Version 14 |
-| `audio_get_recorder_info` | 🚫 | WAD Version 14 |
-| `audio_group_is_loaded` | ✅ | WAD Version 14 |
-| `audio_group_load` | ✅ | WAD Version 14 |
-| `audio_group_load_progress` | 🚫 | WAD Version 14 |
-| `audio_group_name` | 🚫 | WAD Version 14 |
-| `audio_group_set_gain` | 🚫 | WAD Version 14 |
-| `audio_group_stop_all` | 🚫 | WAD Version 14 |
-| `audio_group_unload` | 🚫 | WAD Version 14 |
-| `audio_is_paused` | ✅ | WAD Version 14 |
-| `audio_listener_get_data` | 🚫 | WAD Version 14 |
-| `audio_listener_set_orientation` | 🚫 | WAD Version 14 |
-| `audio_listener_set_position` | 🚫 | WAD Version 14 |
-| `audio_listener_set_velocity` | 🚫 | WAD Version 14 |
-| `audio_queue_sound` | 🚫 | WAD Version 14 |
-| `audio_set_listener_mask` | 🚫 | WAD Version 14 |
-| `audio_set_master_gain` | 🚫 | WAD Version 14 |
-| `audio_sound_get_gain` | ✅ | WAD Version 14 |
-| `audio_sound_get_listener_mask` | 🚫 | WAD Version 14 |
-| `audio_sound_get_pitch` | ✅ | WAD Version 14 |
-| `audio_sound_get_track_position` | ✅ | WAD Version 14 |
-| `audio_sound_set_listener_mask` | 🚫 | WAD Version 14 |
-| `audio_sound_set_track_position` | ✅ | WAD Version 14 |
-| `audio_start_recording` | 🚫 | WAD Version 14 |
-| `audio_stop_recording` | 🚫 | WAD Version 14 |
-| `background_create_colour` | 🚫 | WAD Version 14 |
-| `buffer_async_group_begin` | 🚫 | WAD Version 14 |
-| `buffer_async_group_end` | 🚫 | WAD Version 14 |
-| `buffer_async_group_option` | 🚫 | WAD Version 14 |
-| `buffer_copy_from_vertex_buffer` | 🚫 | WAD Version 14 |
-| `buffer_create_from_vertex_buffer` | 🚫 | WAD Version 14 |
-| `buffer_create_from_vertex_buffer_ext` | 🚫 | WAD Version 14 |
-| `buffer_get_address` | 🚫 | WAD Version 14 |
-| `buffer_load_async` | 🚫 | WAD Version 14 |
-| `buffer_load_partial` | 🚫 | WAD Version 14 |
-| `buffer_save_async` | 🚫 | WAD Version 14 |
-| `clickable_exists` | 🚫 | WAD Version 14 |
-| `clickable_set_style` | 🚫 | WAD Version 14 |
-| `d3d_transform_vertex` | 🚫 | WAD Version 14 |
-| `darccos` | 🚫 | WAD Version 14 |
-| `darcsin` | 🚫 | WAD Version 14 |
-| `darctan` | ✅ | WAD Version 14 |
-| `darctan2` | ✅ | WAD Version 14 |
-| `date_get_timezone` | 🚫 | WAD Version 14 |
-| `date_set_timezone` | 🚫 | WAD Version 14 |
-| `dcos` | ✅ | WAD Version 14 |
-| `device_mouse_x_to_gui` | 🚫 | WAD Version 14 |
-| `device_mouse_y_to_gui` | 🚫 | WAD Version 14 |
-| `directory_destroy` | ✅ | WAD Version 14 |
-| `display_set_gui_maximise` | ✅ | WAD Version 14 |
-| `draw_enable_swf_aa` | 🚫 | WAD Version 14 |
-| `draw_get_swf_aa_level` | 🚫 | WAD Version 14 |
-| `draw_getpixel_ext` | 🚫 | WAD Version 14 |
-| `draw_roundrect_color_ext` | 🚫 | WAD Version 14 |
-| `draw_roundrect_colour_ext` | 🚫 | WAD Version 14 |
-| `draw_roundrect_ext` | 🚫 | WAD Version 14 |
-| `draw_set_colour_write_enable` | ✅ | WAD Version 14 |
-| `draw_set_swf_aa_level` | 🚫 | WAD Version 14 |
-| `draw_skeleton` | 🚫 | WAD Version 14 |
-| `draw_skeleton_collision` | 🚫 | WAD Version 14 |
-| `draw_skeleton_time` | 🚫 | WAD Version 14 |
-| `draw_vertex_texture_colour` | 🚫 | WAD Version 14 |
-| `ds_exists` | 🚫 | WAD Version 14 |
-| `ds_grid_set_post` | 🚫 | WAD Version 14 |
-| `ds_grid_set_pre` | 🚫 | WAD Version 14 |
-| `ds_list_mark_as_list` | 🚫 | WAD Version 14 |
-| `ds_list_mark_as_map` | 🚫 | WAD Version 14 |
-| `ds_list_set` | 🚫 | WAD Version 14 |
-| `ds_list_set_post` | 🚫 | WAD Version 14 |
-| `ds_list_set_pre` | 🚫 | WAD Version 14 |
-| `ds_map_add_list` | 🚫 | WAD Version 14 |
-| `ds_map_add_map` | 🚫 | WAD Version 14 |
-| `ds_map_replace_list` | 🚫 | WAD Version 14 |
-| `ds_map_replace_map` | 🚫 | WAD Version 14 |
-| `ds_map_secure_load` | 🚫 | WAD Version 14 |
-| `ds_map_secure_save` | 🚫 | WAD Version 14 |
-| `ds_map_set` | ✅ | WAD Version 14 |
-| `ds_map_set_post` | 🚫 | WAD Version 14 |
-| `ds_map_set_pre` | 🚫 | WAD Version 14 |
-| `dsin` | ✅ | WAD Version 14 |
-| `dtan` | 🚫 | WAD Version 14 |
-| `extension_stubfunc_real` | 🚫 | WAD Version 14 |
-| `extension_stubfunc_string` | 🚫 | WAD Version 14 |
-| `facebook_check_permission` | 🚫 | WAD Version 14 |
-| `facebook_request_publish_permissions` | 🚫 | WAD Version 14 |
-| `facebook_request_read_permissions` | 🚫 | WAD Version 14 |
-| `frustum_build` | 🚫 | WAD Version 14 |
-| `frustum_test_sphere` | 🚫 | WAD Version 14 |
-| `gamepad_set_color` | 🚫 | WAD Version 14 |
-| `gamepad_set_colour` | 🚫 | WAD Version 14 |
-| `gml_release_mode` | 🚫 | WAD Version 14 |
-| `http_get_file` | 🚫 | WAD Version 14 |
-| `http_request` | 🚫 | WAD Version 14 |
-| `iap_enumerate_products` | 🚫 | WAD Version 14 |
-| `iap_purchase_details` | 🚫 | WAD Version 14 |
-| `is_int32` | ✅ | WAD Version 14 |
-| `is_int64` | ✅ | WAD Version 14 |
-| `is_matrix` | 🚫 | WAD Version 14 |
-| `is_ptr` | 🚫 | WAD Version 14 |
-| `is_undefined` | ✅ | WAD Version 14 |
-| `is_vec3` | 🚫 | WAD Version 14 |
-| `is_vec4` | 🚫 | WAD Version 14 |
-| `matrix_build` | 🚫 | WAD Version 14 |
-| `matrix_get` | 🚫 | WAD Version 14 |
-| `matrix_multiply` | ✅ | WAD Version 14 |
-| `matrix_set` | 🚫 | WAD Version 14 |
-| `mp_grid_get_cell` | ✅ | WAD Version 14 |
-| `mp_grid_to_ds_grid` | 🚫 | WAD Version 14 |
-| `object_get_physics` | 🚫 | WAD Version 14 |
-| `os_get_info` | 🚫 | WAD Version 14 |
-| `os_get_region` | ✅ | WAD Version 14 |
-| `part_particles_create_colour` | 🚫 | WAD Version 14 |
-| `part_type_colour` | 🚫 | WAD Version 14 |
-| `part_type_colour1` | 🚫 | WAD Version 14 |
-| `part_type_colour2` | 🚫 | WAD Version 14 |
-| `part_type_colour3` | 🚫 | WAD Version 14 |
-| `part_type_colour_hsv` | 🚫 | WAD Version 14 |
-| `part_type_colour_mix` | 🚫 | WAD Version 14 |
-| `part_type_colour_rgb` | 🚫 | WAD Version 14 |
-| `physics_apply_angular_impulse` | 🚫 | WAD Version 14 |
-| `physics_fixture_bind_ext` | 🚫 | WAD Version 14 |
-| `physics_fixture_set_chain_shape` | 🚫 | WAD Version 14 |
-| `physics_get_density` | 🚫 | WAD Version 14 |
-| `physics_get_friction` | 🚫 | WAD Version 14 |
-| `physics_get_restitution` | 🚫 | WAD Version 14 |
-| `physics_joint_friction_create` | 🚫 | WAD Version 14 |
-| `physics_joint_rope_create` | 🚫 | WAD Version 14 |
-| `physics_joint_weld_create` | 🚫 | WAD Version 14 |
-| `physics_joint_wheel_create` | 🚫 | WAD Version 14 |
-| `physics_particle_count` | 🚫 | WAD Version 14 |
-| `physics_particle_create` | 🚫 | WAD Version 14 |
-| `physics_particle_delete` | 🚫 | WAD Version 14 |
-| `physics_particle_delete_region_box` | 🚫 | WAD Version 14 |
-| `physics_particle_delete_region_circle` | 🚫 | WAD Version 14 |
-| `physics_particle_delete_region_poly` | 🚫 | WAD Version 14 |
-| `physics_particle_draw` | 🚫 | WAD Version 14 |
-| `physics_particle_draw_ext` | 🚫 | WAD Version 14 |
-| `physics_particle_get_damping` | 🚫 | WAD Version 14 |
-| `physics_particle_get_data` | 🚫 | WAD Version 14 |
-| `physics_particle_get_data_particle` | 🚫 | WAD Version 14 |
-| `physics_particle_get_density` | 🚫 | WAD Version 14 |
-| `physics_particle_get_gravity_scale` | 🚫 | WAD Version 14 |
-| `physics_particle_get_group_flags` | 🚫 | WAD Version 14 |
-| `physics_particle_get_max_count` | 🚫 | WAD Version 14 |
-| `physics_particle_get_radius` | 🚫 | WAD Version 14 |
-| `physics_particle_group_add_point` | 🚫 | WAD Version 14 |
-| `physics_particle_group_begin` | 🚫 | WAD Version 14 |
-| `physics_particle_group_box` | 🚫 | WAD Version 14 |
-| `physics_particle_group_circle` | 🚫 | WAD Version 14 |
-| `physics_particle_group_count` | 🚫 | WAD Version 14 |
-| `physics_particle_group_delete` | 🚫 | WAD Version 14 |
-| `physics_particle_group_end` | 🚫 | WAD Version 14 |
-| `physics_particle_group_get_ang_vel` | 🚫 | WAD Version 14 |
-| `physics_particle_group_get_angle` | 🚫 | WAD Version 14 |
-| `physics_particle_group_get_centre_x` | 🚫 | WAD Version 14 |
-| `physics_particle_group_get_centre_y` | 🚫 | WAD Version 14 |
-| `physics_particle_group_get_data` | 🚫 | WAD Version 14 |
-| `physics_particle_group_get_inertia` | 🚫 | WAD Version 14 |
-| `physics_particle_group_get_mass` | 🚫 | WAD Version 14 |
-| `physics_particle_group_get_vel_x` | 🚫 | WAD Version 14 |
-| `physics_particle_group_get_vel_y` | 🚫 | WAD Version 14 |
-| `physics_particle_group_get_x` | 🚫 | WAD Version 14 |
-| `physics_particle_group_get_y` | 🚫 | WAD Version 14 |
-| `physics_particle_group_join` | 🚫 | WAD Version 14 |
-| `physics_particle_group_polygon` | 🚫 | WAD Version 14 |
-| `physics_particle_set_category_flags` | 🚫 | WAD Version 14 |
-| `physics_particle_set_damping` | 🚫 | WAD Version 14 |
-| `physics_particle_set_density` | 🚫 | WAD Version 14 |
-| `physics_particle_set_flags` | 🚫 | WAD Version 14 |
-| `physics_particle_set_gravity_scale` | 🚫 | WAD Version 14 |
-| `physics_particle_set_group_flags` | 🚫 | WAD Version 14 |
-| `physics_particle_set_max_count` | 🚫 | WAD Version 14 |
-| `physics_particle_set_radius` | 🚫 | WAD Version 14 |
-| `physics_remove_fixture` | 🚫 | WAD Version 14 |
-| `physics_set_density` | 🚫 | WAD Version 14 |
-| `physics_set_friction` | 🚫 | WAD Version 14 |
-| `physics_set_restitution` | 🚫 | WAD Version 14 |
-| `player_launch_args` | 🚫 | WAD Version 14 |
-| `player_restarted` | 🚫 | WAD Version 14 |
-| `player_run` | 🚫 | WAD Version 14 |
-| `point_in_circle` | ✅ | WAD Version 14 |
-| `point_in_rectangle` | ✅ | WAD Version 14 |
-| `point_in_triangle` | 🚫 | WAD Version 14 |
-| `ps4_share_screenshot_enable` | 🚫 | WAD Version 14 |
-| `ps4_share_video_enable` | 🚫 | WAD Version 14 |
-| `push_cancel_local_notification` | 🚫 | WAD Version 14 |
-| `push_get_first_local_notification` | 🚫 | WAD Version 14 |
-| `push_get_next_local_notification` | 🚫 | WAD Version 14 |
-| `push_local_notification` | 🚫 | WAD Version 14 |
-| `rectangle_in_circle` | 🚫 | WAD Version 14 |
-| `rectangle_in_rectangle` | ✅ | WAD Version 14 |
-| `rectangle_in_triangle` | 🚫 | WAD Version 14 |
-| `room_set_background_colour` | 🚫 | WAD Version 14 |
-| `skeleton_animation_clear` | 🚫 | WAD Version 14 |
-| `skeleton_animation_get` | 🚫 | WAD Version 14 |
-| `skeleton_animation_get_duration` | 🚫 | WAD Version 14 |
-| `skeleton_animation_get_ext` | 🚫 | WAD Version 14 |
-| `skeleton_animation_list` | 🚫 | WAD Version 14 |
-| `skeleton_animation_mix` | 🚫 | WAD Version 14 |
-| `skeleton_animation_set` | 🚫 | WAD Version 14 |
-| `skeleton_animation_set_ext` | 🚫 | WAD Version 14 |
-| `skeleton_attachment_create` | 🚫 | WAD Version 14 |
-| `skeleton_attachment_get` | 🚫 | WAD Version 14 |
-| `skeleton_attachment_set` | 🚫 | WAD Version 14 |
-| `skeleton_bone_data_get` | 🚫 | WAD Version 14 |
-| `skeleton_bone_data_set` | 🚫 | WAD Version 14 |
-| `skeleton_bone_state_get` | 🚫 | WAD Version 14 |
-| `skeleton_bone_state_set` | 🚫 | WAD Version 14 |
-| `skeleton_collision_draw_set` | 🚫 | WAD Version 14 |
-| `skeleton_skin_get` | 🚫 | WAD Version 14 |
-| `skeleton_skin_list` | 🚫 | WAD Version 14 |
-| `skeleton_skin_set` | 🚫 | WAD Version 14 |
-| `skeleton_slot_data` | 🚫 | WAD Version 14 |
-| `string_ord_at` | 🚫 | WAD Version 14 |
-| `surface_create_ext` | 🚫 | WAD Version 14 |
-| `surface_getpixel_ext` | 🚫 | WAD Version 14 |
-| `surface_resize` | ✅ | WAD Version 14 |
-| `tile_get_count` | 🚫 | WAD Version 14 |
-| `tile_get_id` | 🚫 | WAD Version 14 |
-| `tile_get_ids` | 🚫 | WAD Version 14 |
-| `tile_get_ids_at_depth` | ✅ | WAD Version 14 |
-| `timeline_clear` | 🚫 | WAD Version 14 |
-| `timeline_max_moment` | ✅ | WAD Version 14 |
-| `timeline_moment_add_script` | 🚫 | WAD Version 14 |
-| `timeline_size` | ✅ | WAD Version 14 |
-| `vertex_create_buffer_from_buffer` | 🚫 | WAD Version 14 |
-| `vertex_create_buffer_from_buffer_ext` | 🚫 | WAD Version 14 |
-| `vertex_get_number` | 🚫 | WAD Version 14 |
-| `win8_settingscharm_add_xaml_entry` | 🚫 | WAD Version 14 |
-| `win8_settingscharm_get_xaml_property` | 🚫 | WAD Version 14 |
-| `win8_settingscharm_set_xaml_property` | 🚫 | WAD Version 14 |
-| `window_device` | 🚫 | WAD Version 14 |
-| `winphone_tile_background_colour` | 🚫 | WAD Version 14 |
-| `zip_unzip` | 🚫 | WAD Version 14 |
-| `$ERROR` | 🚫 | WAD Version 15 |
-| `@@ForInIterator@@` | 🚫 | WAD Version 15 |
-| `@@ForInIteratorDelete@@` | 🚫 | WAD Version 15 |
-| `@@ForInIteratorGetNext@@` | 🚫 | WAD Version 15 |
-| `@@GlobalScope@@` | 🚫 | WAD Version 15 |
-| `@@NewArray@@` | 🚫 | WAD Version 15 |
-| `@@NewGMLArray@@` | ✅ | WAD Version 15 |
-| `@@NewObject@@` | 🚫 | WAD Version 15 |
-| `@@NewProperty@@` | 🚫 | WAD Version 15 |
-| `@@Other@@` | ✅ | WAD Version 15 |
-| `@@This@@` | ✅ | WAD Version 15 |
-| `@@delete@@` | 🚫 | WAD Version 15 |
-| `@@finish_catch@@` | 🚫 | WAD Version 15 |
-| `@@finish_finally@@` | 🚫 | WAD Version 15 |
-| `@@instanceof@@` | 🚫 | WAD Version 15 |
-| `@@new@@` | 🚫 | WAD Version 15 |
-| `@@script_ref@@` | 🚫 | WAD Version 15 |
-| `@@throw@@` | 🚫 | WAD Version 15 |
-| `@@try_hook@@` | 🚫 | WAD Version 15 |
-| `@@try_unhook@@` | 🚫 | WAD Version 15 |
-| `@@typeof@@` | 🚫 | WAD Version 15 |
-| `ERROR` | 🚫 | WAD Version 15 |
-| `F_GPIO_Set_Function` | 🚫 | WAD Version 15 |
-| `alarm_get` | ✅ | WAD Version 15 |
-| `alarm_set` | ✅ | WAD Version 15 |
-| `audio_create_stream` | ✅ | WAD Version 15 |
-| `audio_create_sync_group` | 🚫 | WAD Version 15 |
-| `audio_debug` | 🚫 | WAD Version 15 |
-| `audio_delete` | 🚫 | WAD Version 15 |
-| `audio_destroy_stream` | ✅ | WAD Version 15 |
-| `audio_destroy_sync_group` | 🚫 | WAD Version 15 |
-| `audio_pause_sync_group` | 🚫 | WAD Version 15 |
-| `audio_play_in_sync_group` | 🚫 | WAD Version 15 |
-| `audio_resume_sync_group` | 🚫 | WAD Version 15 |
-| `audio_start_sync_group` | 🚫 | WAD Version 15 |
-| `audio_stop_sync_group` | 🚫 | WAD Version 15 |
-| `audio_sync_group_debug` | 🚫 | WAD Version 15 |
-| `audio_sync_group_get_track_pos` | 🚫 | WAD Version 15 |
-| `audio_sync_group_is_playing` | 🚫 | WAD Version 15 |
-| `background_flush` | 🚫 | WAD Version 15 |
-| `background_flush_multi` | 🚫 | WAD Version 15 |
-| `background_prefetch` | 🚫 | WAD Version 15 |
-| `background_prefetch_multi` | 🚫 | WAD Version 15 |
-| `browser_input_capture` | 🚫 | WAD Version 15 |
-| `buffer_exists` | 🚫 | WAD Version 15 |
-| `camera_apply` | 🚫 | WAD Version 15 |
-| `camera_create` | 🚫 | WAD Version 15 |
-| `camera_create_view` | 🚫 | WAD Version 15 |
-| `camera_destroy` | 🚫 | WAD Version 15 |
-| `camera_get_active` | 🚫 | WAD Version 15 |
-| `camera_get_begin_script` | 🚫 | WAD Version 15 |
-| `camera_get_default` | 🚫 | WAD Version 15 |
-| `camera_get_end_script` | 🚫 | WAD Version 15 |
-| `camera_get_proj_mat` | 🚫 | WAD Version 15 |
-| `camera_get_update_script` | 🚫 | WAD Version 15 |
-| `camera_get_view_angle` | 🚫 | WAD Version 15 |
-| `camera_get_view_border_x` | ✅ | WAD Version 15 |
-| `camera_get_view_border_y` | ✅ | WAD Version 15 |
-| `camera_get_view_height` | ✅ | WAD Version 15 |
-| `camera_get_view_mat` | 🚫 | WAD Version 15 |
-| `camera_get_view_speed_x` | 🚫 | WAD Version 15 |
-| `camera_get_view_speed_y` | 🚫 | WAD Version 15 |
-| `camera_get_view_target` | ✅ | WAD Version 15 |
-| `camera_get_view_width` | ✅ | WAD Version 15 |
-| `camera_get_view_x` | ✅ | WAD Version 15 |
-| `camera_get_view_y` | ✅ | WAD Version 15 |
-| `camera_set_begin_script` | 🚫 | WAD Version 15 |
-| `camera_set_default` | 🚫 | WAD Version 15 |
-| `camera_set_end_script` | 🚫 | WAD Version 15 |
-| `camera_set_proj_mat` | 🚫 | WAD Version 15 |
-| `camera_set_update_script` | 🚫 | WAD Version 15 |
-| `camera_set_view_angle` | 🚫 | WAD Version 15 |
-| `camera_set_view_border` | ✅ | WAD Version 15 |
-| `camera_set_view_mat` | 🚫 | WAD Version 15 |
-| `camera_set_view_pos` | ✅ | WAD Version 15 |
-| `camera_set_view_size` | 🚫 | WAD Version 15 |
-| `camera_set_view_speed` | 🚫 | WAD Version 15 |
-| `camera_set_view_target` | ✅ | WAD Version 15 |
-| `d3d_model_vertex_normal_colour` | 🚫 | WAD Version 15 |
-| `debug_event` | 🚫 | WAD Version 15 |
-| `display_get_windows_alternate_sync` | 🚫 | WAD Version 15 |
-| `display_get_windows_vertex_buffer_method` | 🚫 | WAD Version 15 |
-| `display_set_ui_visibility` | 🚫 | WAD Version 15 |
-| `display_set_windows_alternate_sync` | 🚫 | WAD Version 15 |
-| `display_set_windows_vertex_buffer_method` | 🚫 | WAD Version 15 |
-| `draw_flush` | 🚫 | WAD Version 15 |
-| `draw_get_lighting` | 🚫 | WAD Version 15 |
-| `draw_light_define_ambient` | 🚫 | WAD Version 15 |
-| `draw_light_define_direction` | 🚫 | WAD Version 15 |
-| `draw_light_define_point` | 🚫 | WAD Version 15 |
-| `draw_light_enable` | 🚫 | WAD Version 15 |
-| `draw_light_get` | 🚫 | WAD Version 15 |
-| `draw_light_get_ambient` | 🚫 | WAD Version 15 |
-| `draw_set_lighting` | 🚫 | WAD Version 15 |
-| `draw_tile` | 🚫 | WAD Version 15 |
-| `ds_map_secure_load_buffer` | 🚫 | WAD Version 15 |
-| `ds_map_secure_save_buffer` | 🚫 | WAD Version 15 |
-| `game_get_speed` | ✅ | WAD Version 15 |
-| `game_set_speed` | 🚫 | WAD Version 15 |
-| `gpio_clear` | 🚫 | WAD Version 15 |
-| `gpio_get` | 🚫 | WAD Version 15 |
-| `gpio_set` | 🚫 | WAD Version 15 |
-| `gpio_set_mode` | 🚫 | WAD Version 15 |
-| `gpu_get_alphatestenable` | 🚫 | WAD Version 15 |
-| `gpu_get_alphatestfunc` | 🚫 | WAD Version 15 |
-| `gpu_get_alphatestref` | 🚫 | WAD Version 15 |
-| `gpu_get_blendenable` | 🚫 | WAD Version 15 |
-| `gpu_get_blendmode` | 🚫 | WAD Version 15 |
-| `gpu_get_blendmode_dest` | 🚫 | WAD Version 15 |
-| `gpu_get_blendmode_destalpha` | 🚫 | WAD Version 15 |
-| `gpu_get_blendmode_ext` | 🚫 | WAD Version 15 |
-| `gpu_get_blendmode_ext_sepalpha` | 🚫 | WAD Version 15 |
-| `gpu_get_blendmode_src` | 🚫 | WAD Version 15 |
-| `gpu_get_blendmode_srcalpha` | 🚫 | WAD Version 15 |
-| `gpu_get_colorwriteenable` | 🚫 | WAD Version 15 |
-| `gpu_get_cullmode` | 🚫 | WAD Version 15 |
-| `gpu_get_fog` | 🚫 | WAD Version 15 |
-| `gpu_get_state` | 🚫 | WAD Version 15 |
-| `gpu_get_texfilter` | 🚫 | WAD Version 15 |
-| `gpu_get_texfilter_ext` | 🚫 | WAD Version 15 |
-| `gpu_get_texrepeat` | 🚫 | WAD Version 15 |
-| `gpu_get_texrepeat_ext` | 🚫 | WAD Version 15 |
-| `gpu_get_zfunc` | 🚫 | WAD Version 15 |
-| `gpu_get_ztestenable` | 🚫 | WAD Version 15 |
-| `gpu_get_zwriteenable` | 🚫 | WAD Version 15 |
-| `gpu_pop_state` | 🚫 | WAD Version 15 |
-| `gpu_push_state` | 🚫 | WAD Version 15 |
-| `gpu_set_alphatestenable` | 🚫 | WAD Version 15 |
-| `gpu_set_alphatestfunc` | 🚫 | WAD Version 15 |
-| `gpu_set_alphatestref` | 🚫 | WAD Version 15 |
-| `gpu_set_blendenable` | 🚫 | WAD Version 15 |
-| `gpu_set_blendmode` | 🚫 | WAD Version 15 |
-| `gpu_set_blendmode_ext` | 🚫 | WAD Version 15 |
-| `gpu_set_blendmode_ext_sepalpha` | 🚫 | WAD Version 15 |
-| `gpu_set_colorwriteenable` | 🚫 | WAD Version 15 |
-| `gpu_set_cullmode` | 🚫 | WAD Version 15 |
-| `gpu_set_fog` | 🚫 | WAD Version 15 |
-| `gpu_set_state` | 🚫 | WAD Version 15 |
-| `gpu_set_texfilter` | 🚫 | WAD Version 15 |
-| `gpu_set_texfilter_ext` | 🚫 | WAD Version 15 |
-| `gpu_set_texrepeat` | 🚫 | WAD Version 15 |
-| `gpu_set_texrepeat_ext` | 🚫 | WAD Version 15 |
-| `gpu_set_zfunc` | 🚫 | WAD Version 15 |
-| `gpu_set_ztestenable` | 🚫 | WAD Version 15 |
-| `gpu_set_zwriteenable` | 🚫 | WAD Version 15 |
-| `instance_create_depth` | ✅ | WAD Version 15 |
-| `instance_create_layer` | ✅ | WAD Version 15 |
-| `instance_id_get` | 🚫 | WAD Version 15 |
-| `int64` | 🚫 | WAD Version 15 |
-| `is_bool` | ✅ | WAD Version 15 |
-| `layer_add_instance` | 🚫 | WAD Version 15 |
-| `layer_background_alpha` | ✅ | WAD Version 15 |
-| `layer_background_blend` | ✅ | WAD Version 15 |
-| `layer_background_change` | ✅ | WAD Version 15 |
-| `layer_background_create` | ✅ | WAD Version 15 |
-| `layer_background_destroy` | 🚫 | WAD Version 15 |
-| `layer_background_exists` | ✅ | WAD Version 15 |
-| `layer_background_get_alpha` | 🚫 | WAD Version 15 |
-| `layer_background_get_blend` | 🚫 | WAD Version 15 |
-| `layer_background_get_htiled` | 🚫 | WAD Version 15 |
-| `layer_background_get_id` | ✅ | WAD Version 15 |
-| `layer_background_get_index` | 🚫 | WAD Version 15 |
-| `layer_background_get_speed` | 🚫 | WAD Version 15 |
-| `layer_background_get_sprite` | 🚫 | WAD Version 15 |
-| `layer_background_get_visible` | 🚫 | WAD Version 15 |
-| `layer_background_get_vtiled` | 🚫 | WAD Version 15 |
-| `layer_background_get_xscale` | 🚫 | WAD Version 15 |
-| `layer_background_get_yscale` | 🚫 | WAD Version 15 |
-| `layer_background_htiled` | ✅ | WAD Version 15 |
-| `layer_background_index` | 🚫 | WAD Version 15 |
-| `layer_background_speed` | 🚫 | WAD Version 15 |
-| `layer_background_visible` | ✅ | WAD Version 15 |
-| `layer_background_vtiled` | ✅ | WAD Version 15 |
-| `layer_background_xscale` | ✅ | WAD Version 15 |
-| `layer_background_yscale` | ✅ | WAD Version 15 |
-| `layer_create` | ✅ | WAD Version 15 |
-| `layer_depth` | ✅ | WAD Version 15 |
-| `layer_destroy` | ✅ | WAD Version 15 |
-| `layer_element_move` | 🚫 | WAD Version 15 |
-| `layer_exists` | ✅ | WAD Version 15 |
-| `layer_force_draw_depth` | ✅ | WAD Version 15 |
-| `layer_get_all` | ✅ | WAD Version 15 |
-| `layer_get_all_elements` | ✅ | WAD Version 15 |
-| `layer_get_depth` | ✅ | WAD Version 15 |
-| `layer_get_element_layer` | 🚫 | WAD Version 15 |
-| `layer_get_element_type` | ✅ | WAD Version 15 |
-| `layer_get_forced_depth` | ✅ | WAD Version 15 |
-| `layer_get_hspeed` | ✅ | WAD Version 15 |
-| `layer_get_id` | ✅ | WAD Version 15 |
-| `layer_get_name` | ✅ | WAD Version 15 |
-| `layer_get_script_begin` | 🚫 | WAD Version 15 |
-| `layer_get_script_end` | 🚫 | WAD Version 15 |
-| `layer_get_shader` | 🚫 | WAD Version 15 |
-| `layer_get_target_room` | 🚫 | WAD Version 15 |
-| `layer_get_visible` | ✅ | WAD Version 15 |
-| `layer_get_vspeed` | ✅ | WAD Version 15 |
-| `layer_get_x` | ✅ | WAD Version 15 |
-| `layer_get_y` | ✅ | WAD Version 15 |
-| `layer_has_instance` | 🚫 | WAD Version 15 |
-| `layer_hspeed` | ✅ | WAD Version 15 |
-| `layer_is_draw_depth_forced` | ✅ | WAD Version 15 |
-| `layer_remove_instance` | 🚫 | WAD Version 15 |
-| `layer_reset_target_room` | 🚫 | WAD Version 15 |
-| `layer_script_begin` | 🚫 | WAD Version 15 |
-| `layer_script_end` | 🚫 | WAD Version 15 |
-| `layer_set_target_room` | 🚫 | WAD Version 15 |
-| `layer_set_visible` | ✅ | WAD Version 15 |
-| `layer_shader` | 🚫 | WAD Version 15 |
-| `layer_sprite_alpha` | 🚫 | WAD Version 15 |
-| `layer_sprite_angle` | 🚫 | WAD Version 15 |
-| `layer_sprite_blend` | 🚫 | WAD Version 15 |
-| `layer_sprite_change` | 🚫 | WAD Version 15 |
-| `layer_sprite_create` | 🚫 | WAD Version 15 |
-| `layer_sprite_destroy` | ✅ | WAD Version 15 |
-| `layer_sprite_exists` | 🚫 | WAD Version 15 |
-| `layer_sprite_get_alpha` | 🚫 | WAD Version 15 |
-| `layer_sprite_get_angle` | ✅ | WAD Version 15 |
-| `layer_sprite_get_blend` | 🚫 | WAD Version 15 |
-| `layer_sprite_get_id` | 🚫 | WAD Version 15 |
-| `layer_sprite_get_index` | ✅ | WAD Version 15 |
-| `layer_sprite_get_speed` | ✅ | WAD Version 15 |
-| `layer_sprite_get_sprite` | ✅ | WAD Version 15 |
-| `layer_sprite_get_x` | ✅ | WAD Version 15 |
-| `layer_sprite_get_xscale` | ✅ | WAD Version 15 |
-| `layer_sprite_get_y` | ✅ | WAD Version 15 |
-| `layer_sprite_get_yscale` | ✅ | WAD Version 15 |
-| `layer_sprite_index` | 🚫 | WAD Version 15 |
-| `layer_sprite_speed` | 🚫 | WAD Version 15 |
-| `layer_sprite_x` | 🚫 | WAD Version 15 |
-| `layer_sprite_xscale` | 🚫 | WAD Version 15 |
-| `layer_sprite_y` | 🚫 | WAD Version 15 |
-| `layer_sprite_yscale` | 🚫 | WAD Version 15 |
-| `layer_tile_alpha` | ✅ | WAD Version 15 |
-| `layer_tile_blend` | 🚫 | WAD Version 15 |
-| `layer_tile_change` | 🚫 | WAD Version 15 |
-| `layer_tile_create` | 🚫 | WAD Version 15 |
-| `layer_tile_destroy` | 🚫 | WAD Version 15 |
-| `layer_tile_exists` | 🚫 | WAD Version 15 |
-| `layer_tile_get_alpha` | 🚫 | WAD Version 15 |
-| `layer_tile_get_blend` | 🚫 | WAD Version 15 |
-| `layer_tile_get_region` | 🚫 | WAD Version 15 |
-| `layer_tile_get_sprite` | 🚫 | WAD Version 15 |
-| `layer_tile_get_visible` | 🚫 | WAD Version 15 |
-| `layer_tile_get_x` | 🚫 | WAD Version 15 |
-| `layer_tile_get_xscale` | 🚫 | WAD Version 15 |
-| `layer_tile_get_y` | 🚫 | WAD Version 15 |
-| `layer_tile_get_yscale` | 🚫 | WAD Version 15 |
-| `layer_tile_region` | 🚫 | WAD Version 15 |
-| `layer_tile_visible` | ✅ | WAD Version 15 |
-| `layer_tile_x` | 🚫 | WAD Version 15 |
-| `layer_tile_xscale` | 🚫 | WAD Version 15 |
-| `layer_tile_y` | 🚫 | WAD Version 15 |
-| `layer_tile_yscale` | 🚫 | WAD Version 15 |
-| `layer_tilemap_create` | 🚫 | WAD Version 15 |
-| `layer_tilemap_destroy` | 🚫 | WAD Version 15 |
-| `layer_tilemap_exists` | 🚫 | WAD Version 15 |
-| `layer_tilemap_get_id` | ✅ | WAD Version 15 |
-| `layer_vspeed` | ✅ | WAD Version 15 |
-| `layer_x` | ✅ | WAD Version 15 |
-| `layer_y` | ✅ | WAD Version 15 |
-| `load_csv` | 🚫 | WAD Version 15 |
-| `matchmaking_add_create_param` | 🚫 | WAD Version 15 |
-| `matchmaking_add_find_param` | 🚫 | WAD Version 15 |
-| `matchmaking_join_invite` | 🚫 | WAD Version 15 |
-| `matchmaking_reset_create_params` | 🚫 | WAD Version 15 |
-| `matchmaking_reset_find_params` | 🚫 | WAD Version 15 |
-| `matchmaking_send_invites` | 🚫 | WAD Version 15 |
-| `matchmaking_session_create` | 🚫 | WAD Version 15 |
-| `matchmaking_session_find` | 🚫 | WAD Version 15 |
-| `matchmaking_session_get_owner` | 🚫 | WAD Version 15 |
-| `matchmaking_session_get_users` | 🚫 | WAD Version 15 |
-| `matchmaking_session_join` | 🚫 | WAD Version 15 |
-| `matchmaking_session_leave` | 🚫 | WAD Version 15 |
-| `matchmaking_session_set_closed` | 🚫 | WAD Version 15 |
-| `matchmaking_session_set_open` | 🚫 | WAD Version 15 |
-| `matchmaking_session_update` | 🚫 | WAD Version 15 |
-| `matchmaking_start` | 🚫 | WAD Version 15 |
-| `matchmaking_stop` | 🚫 | WAD Version 15 |
-| `matchmaking_tick_invites` | 🚫 | WAD Version 15 |
-| `math_get_epsilon` | 🚫 | WAD Version 15 |
-| `matrix_build_identity` | ✅ | WAD Version 15 |
-| `matrix_build_lookat` | ✅ | WAD Version 15 |
-| `matrix_build_projection_ortho` | ✅ | WAD Version 15 |
-| `matrix_build_projection_perspective` | 🚫 | WAD Version 15 |
-| `matrix_build_projection_perspective_fov` | ✅ | WAD Version 15 |
-| `matrix_stack_clear` | 🚫 | WAD Version 15 |
-| `matrix_stack_is_empty` | 🚫 | WAD Version 15 |
-| `matrix_stack_pop` | 🚫 | WAD Version 15 |
-| `matrix_stack_push` | 🚫 | WAD Version 15 |
-| `matrix_stack_set` | 🚫 | WAD Version 15 |
-| `matrix_stack_top` | 🚫 | WAD Version 15 |
-| `matrix_transform_vertex` | 🚫 | WAD Version 15 |
-| `network_create_server_raw` | 🚫 | WAD Version 15 |
-| `network_create_socket_ext` | 🚫 | WAD Version 15 |
-| `network_send_udp_raw` | 🚫 | WAD Version 15 |
-| `network_set_config` | 🚫 | WAD Version 15 |
-| `object_set_collisions` | 🚫 | WAD Version 15 |
-| `path_get_time` | 🚫 | WAD Version 15 |
-| `psn_check_free_space` | 🚫 | WAD Version 15 |
-| `psn_check_np_availability` | 🚫 | WAD Version 15 |
-| `psn_content_restriction_add` | 🚫 | WAD Version 15 |
-| `psn_default_user` | ✅ | WAD Version 15 |
-| `psn_default_user_name` | 🚫 | WAD Version 15 |
-| `psn_delete_tus_data` | 🚫 | WAD Version 15 |
-| `psn_exit_np_libs` | 🚫 | WAD Version 15 |
-| `psn_get_avatar_url` | 🚫 | WAD Version 15 |
-| `psn_get_entitlement_list` | 🚫 | WAD Version 15 |
-| `psn_get_friends_scores` | 🚫 | WAD Version 15 |
-| `psn_get_leaderboard_score` | ✅ | WAD Version 15 |
-| `psn_get_leaderboard_score_range` | 🚫 | WAD Version 15 |
-| `psn_get_tus_data` | 🚫 | WAD Version 15 |
-| `psn_get_tus_variable` | 🚫 | WAD Version 15 |
-| `psn_init_np_libs` | ✅ | WAD Version 15 |
-| `psn_init_trophy` | 🚫 | WAD Version 15 |
-| `psn_load_modules` | 🚫 | WAD Version 15 |
-| `psn_name_for_pad` | 🚫 | WAD Version 15 |
-| `psn_name_for_user` | 🚫 | WAD Version 15 |
-| `psn_net_check` | 🚫 | WAD Version 15 |
-| `psn_np_check_plus` | 🚫 | WAD Version 15 |
-| `psn_np_commerce_dialog_open` | 🚫 | WAD Version 15 |
-| `psn_np_commerce_dialog_tick` | 🚫 | WAD Version 15 |
-| `psn_np_notify_plus_feature` | 🚫 | WAD Version 15 |
-| `psn_np_status` | 🚫 | WAD Version 15 |
-| `psn_post_leaderboard_score` | 🚫 | WAD Version 15 |
-| `psn_post_leaderboard_score_comment` | 🚫 | WAD Version 15 |
-| `psn_set_content_restriction` | 🚫 | WAD Version 15 |
-| `psn_set_tus_data` | 🚫 | WAD Version 15 |
-| `psn_set_tus_variable` | 🚫 | WAD Version 15 |
-| `psn_setup_trophies` | ✅ | WAD Version 15 |
-| `psn_show_error_dialog` | 🚫 | WAD Version 15 |
-| `psn_tick` | 🚫 | WAD Version 15 |
-| `psn_tick_error_dialog` | 🚫 | WAD Version 15 |
-| `psn_unlock_trophy` | 🚫 | WAD Version 15 |
-| `psn_user_for_pad` | 🚫 | WAD Version 15 |
-| `ptr` | 🚫 | WAD Version 15 |
-| `random_use_old_version` | 🚫 | WAD Version 15 |
-| `room_get_camera` | 🚫 | WAD Version 15 |
-| `sprite_flush` | 🚫 | WAD Version 15 |
-| `sprite_flush_multi` | 🚫 | WAD Version 15 |
-| `sprite_prefetch` | 🚫 | WAD Version 15 |
-| `sprite_prefetch_multi` | 🚫 | WAD Version 15 |
-| `steam_activate_overlay_browser` | 🚫 | WAD Version 15 |
-| `steam_activate_overlay_store` | 🚫 | WAD Version 15 |
-| `steam_activate_overlay_user` | 🚫 | WAD Version 15 |
-| `steam_available_languages` | 🚫 | WAD Version 15 |
-| `steam_current_game_language` | 🚫 | WAD Version 15 |
-| `steam_get_app_id` | 🚫 | WAD Version 15 |
-| `steam_get_user_account_id` | 🚫 | WAD Version 15 |
-| `steam_get_user_persona_name` | 🚫 | WAD Version 15 |
-| `steam_ugc_create_item` | 🚫 | WAD Version 15 |
-| `steam_ugc_create_query_all` | 🚫 | WAD Version 15 |
-| `steam_ugc_create_query_all_ex` | 🚫 | WAD Version 15 |
-| `steam_ugc_create_query_user` | 🚫 | WAD Version 15 |
-| `steam_ugc_create_query_user_ex` | 🚫 | WAD Version 15 |
-| `steam_ugc_download` | 🚫 | WAD Version 15 |
-| `steam_ugc_get_item_install_info` | 🚫 | WAD Version 15 |
-| `steam_ugc_get_item_update_info` | 🚫 | WAD Version 15 |
-| `steam_ugc_get_item_update_progress` | 🚫 | WAD Version 15 |
-| `steam_ugc_get_subscribed_items` | 🚫 | WAD Version 15 |
-| `steam_ugc_num_subscribed_items` | 🚫 | WAD Version 15 |
-| `steam_ugc_query_add_excluded_tag` | 🚫 | WAD Version 15 |
-| `steam_ugc_query_add_required_tag` | 🚫 | WAD Version 15 |
-| `steam_ugc_query_set_allow_cached_response` | 🚫 | WAD Version 15 |
-| `steam_ugc_query_set_cloud_filename_filter` | 🚫 | WAD Version 15 |
-| `steam_ugc_query_set_match_any_tag` | 🚫 | WAD Version 15 |
-| `steam_ugc_query_set_ranked_by_trend_days` | 🚫 | WAD Version 15 |
-| `steam_ugc_query_set_return_long_description` | 🚫 | WAD Version 15 |
-| `steam_ugc_query_set_return_total_only` | 🚫 | WAD Version 15 |
-| `steam_ugc_query_set_search_text` | 🚫 | WAD Version 15 |
-| `steam_ugc_request_item_details` | 🚫 | WAD Version 15 |
-| `steam_ugc_send_query` | 🚫 | WAD Version 15 |
-| `steam_ugc_set_item_content` | 🚫 | WAD Version 15 |
-| `steam_ugc_set_item_description` | 🚫 | WAD Version 15 |
-| `steam_ugc_set_item_preview` | 🚫 | WAD Version 15 |
-| `steam_ugc_set_item_tags` | 🚫 | WAD Version 15 |
-| `steam_ugc_set_item_title` | 🚫 | WAD Version 15 |
-| `steam_ugc_set_item_visibility` | 🚫 | WAD Version 15 |
-| `steam_ugc_start_item_update` | 🚫 | WAD Version 15 |
-| `steam_ugc_submit_item_update` | 🚫 | WAD Version 15 |
-| `steam_ugc_subscribe_item` | 🚫 | WAD Version 15 |
-| `steam_ugc_unsubscribe_item` | 🚫 | WAD Version 15 |
-| `steam_upload_score_buffer` | 🚫 | WAD Version 15 |
-| `steam_upload_score_buffer_ext` | 🚫 | WAD Version 15 |
-| `steam_upload_score_ext` | 🚫 | WAD Version 15 |
-| `surface_create_special` | 🚫 | WAD Version 15 |
-| `testFailed` | 🚫 | WAD Version 15 |
-| `texture_get_uvs` | 🚫 | WAD Version 15 |
-| `texture_global_scale` | 🚫 | WAD Version 15 |
-| `tile_get_empty` | 🚫 | WAD Version 15 |
-| `tile_get_flip` | 🚫 | WAD Version 15 |
-| `tile_get_index` | 🚫 | WAD Version 15 |
-| `tile_get_mirror` | 🚫 | WAD Version 15 |
-| `tile_get_rotate` | 🚫 | WAD Version 15 |
-| `tile_set_empty` | 🚫 | WAD Version 15 |
-| `tile_set_flip` | 🚫 | WAD Version 15 |
-| `tile_set_index` | 🚫 | WAD Version 15 |
-| `tile_set_mirror` | 🚫 | WAD Version 15 |
-| `tile_set_rotate` | 🚫 | WAD Version 15 |
-| `tilemap_clear` | 🚫 | WAD Version 15 |
-| `tilemap_draw` | 🚫 | WAD Version 15 |
-| `tilemap_get` | 🚫 | WAD Version 15 |
-| `tilemap_get_at_pixel` | 🚫 | WAD Version 15 |
-| `tilemap_get_cell_x_at_pixel` | 🚫 | WAD Version 15 |
-| `tilemap_get_cell_y_at_pixel` | 🚫 | WAD Version 15 |
-| `tilemap_get_frame` | 🚫 | WAD Version 15 |
-| `tilemap_get_global_mask` | 🚫 | WAD Version 15 |
-| `tilemap_get_height` | 🚫 | WAD Version 15 |
-| `tilemap_get_mask` | 🚫 | WAD Version 15 |
-| `tilemap_get_tile_height` | 🚫 | WAD Version 15 |
-| `tilemap_get_tile_width` | 🚫 | WAD Version 15 |
-| `tilemap_get_tileset` | 🚫 | WAD Version 15 |
-| `tilemap_get_width` | 🚫 | WAD Version 15 |
-| `tilemap_get_x` | ✅ | WAD Version 15 |
-| `tilemap_get_y` | ✅ | WAD Version 15 |
-| `tilemap_set` | 🚫 | WAD Version 15 |
-| `tilemap_set_at_pixel` | 🚫 | WAD Version 15 |
-| `tilemap_set_global_mask` | 🚫 | WAD Version 15 |
-| `tilemap_set_mask` | 🚫 | WAD Version 15 |
-| `tilemap_tileset` | 🚫 | WAD Version 15 |
-| `tilemap_x` | ✅ | WAD Version 15 |
-| `tilemap_y` | ✅ | WAD Version 15 |
-| `uwp_check_privilege` | 🚫 | WAD Version 15 |
-| `uwp_is_constrained` | 🚫 | WAD Version 15 |
-| `uwp_is_suspending` | 🚫 | WAD Version 15 |
-| `uwp_license_trial_time_remaining` | 🚫 | WAD Version 15 |
-| `uwp_license_trial_user` | 🚫 | WAD Version 15 |
-| `uwp_license_trial_version` | 🚫 | WAD Version 15 |
-| `uwp_show_help` | 🚫 | WAD Version 15 |
-| `uwp_suspend` | 🚫 | WAD Version 15 |
-| `uwp_was_terminated` | 🚫 | WAD Version 15 |
-| `vertex_format_add_texcoord` | 🚫 | WAD Version 15 |
-| `vertex_format_delete` | 🚫 | WAD Version 15 |
-| `vertex_get_buffer_size` | 🚫 | WAD Version 15 |
-| `video_close` | 🚫 | WAD Version 15 |
-| `video_draw` | 🚫 | WAD Version 15 |
-| `video_open` | 🚫 | WAD Version 15 |
-| `view_get_camera` | ✅ | WAD Version 15 |
-| `view_get_hport` | 🚫 | WAD Version 15 |
-| `view_get_surface_id` | 🚫 | WAD Version 15 |
-| `view_get_visible` | 🚫 | WAD Version 15 |
-| `view_get_wport` | 🚫 | WAD Version 15 |
-| `view_get_xport` | 🚫 | WAD Version 15 |
-| `view_get_yport` | 🚫 | WAD Version 15 |
-| `view_set_camera` | 🚫 | WAD Version 15 |
-| `view_set_hport` | 🚫 | WAD Version 15 |
-| `view_set_surface_id` | 🚫 | WAD Version 15 |
-| `view_set_visible` | 🚫 | WAD Version 15 |
-| `view_set_wport` | 🚫 | WAD Version 15 |
-| `view_set_xport` | 🚫 | WAD Version 15 |
-| `view_set_yport` | 🚫 | WAD Version 15 |
-| `window_get_visible_rects` | 🚫 | WAD Version 15 |
-| `window_set_max_height` | 🚫 | WAD Version 15 |
-| `window_set_max_width` | 🚫 | WAD Version 15 |
-| `window_set_min_height` | 🚫 | WAD Version 15 |
-| `window_set_min_width` | 🚫 | WAD Version 15 |
-| `xboxlive_agegroup_for_user` | 🚫 | WAD Version 15 |
-| `xboxlive_appdisplayname_for_user` | 🚫 | WAD Version 15 |
-| `xboxlive_chat_add_user_to_channel` | 🚫 | WAD Version 15 |
-| `xboxlive_chat_remove_user_from_channel` | 🚫 | WAD Version 15 |
-| `xboxlive_chat_set_muted` | 🚫 | WAD Version 15 |
-| `xboxlive_fire_event` | 🚫 | WAD Version 15 |
-| `xboxlive_gamedisplayname_for_user` | 🚫 | WAD Version 15 |
-| `xboxlive_gamerscore_for_user` | 🚫 | WAD Version 15 |
-| `xboxlive_generate_player_session_id` | 🚫 | WAD Version 15 |
-| `xboxlive_get_activating_user` | 🚫 | WAD Version 15 |
-| `xboxlive_get_file_error` | 🚫 | WAD Version 15 |
-| `xboxlive_get_savedata_user` | 🚫 | WAD Version 15 |
-| `xboxlive_get_stats_for_user` | 🚫 | WAD Version 15 |
-| `xboxlive_get_user` | 🚫 | WAD Version 15 |
-| `xboxlive_get_user_count` | 🚫 | WAD Version 15 |
-| `xboxlive_matchmaking_create` | 🚫 | WAD Version 15 |
-| `xboxlive_matchmaking_find` | 🚫 | WAD Version 15 |
-| `xboxlive_matchmaking_join_invite` | 🚫 | WAD Version 15 |
-| `xboxlive_matchmaking_send_invites` | 🚫 | WAD Version 15 |
-| `xboxlive_matchmaking_session_get_users` | 🚫 | WAD Version 15 |
-| `xboxlive_matchmaking_session_leave` | 🚫 | WAD Version 15 |
-| `xboxlive_matchmaking_set_joinable_session` | 🚫 | WAD Version 15 |
-| `xboxlive_matchmaking_start` | 🚫 | WAD Version 15 |
-| `xboxlive_matchmaking_stop` | 🚫 | WAD Version 15 |
-| `xboxlive_pad_count_for_user` | 🚫 | WAD Version 15 |
-| `xboxlive_pad_for_user` | 🚫 | WAD Version 15 |
-| `xboxlive_read_player_leaderboard` | 🚫 | WAD Version 15 |
-| `xboxlive_reputation_for_user` | 🚫 | WAD Version 15 |
-| `xboxlive_set_rich_presence` | 🚫 | WAD Version 15 |
-| `xboxlive_set_savedata_user` | 🚫 | WAD Version 15 |
-| `xboxlive_set_service_configuration_id` | 🚫 | WAD Version 15 |
-| `xboxlive_show_account_picker` | 🚫 | WAD Version 15 |
-| `xboxlive_show_profile_card_for_user` | 🚫 | WAD Version 15 |
-| `xboxlive_sponsor_for_user` | 🚫 | WAD Version 15 |
-| `xboxlive_sprite_add_from_gamerpicture` | 🚫 | WAD Version 15 |
-| `xboxlive_stats_setup` | 🚫 | WAD Version 15 |
-| `xboxlive_user_for_pad` | 🚫 | WAD Version 15 |
-| `xboxlive_user_id_for_user` | 🚫 | WAD Version 15 |
-| `xboxlive_user_is_active` | 🚫 | WAD Version 15 |
-| `xboxlive_user_is_guest` | 🚫 | WAD Version 15 |
-| `xboxlive_user_is_remote` | 🚫 | WAD Version 15 |
-| `xboxlive_user_is_signed_in` | 🚫 | WAD Version 15 |
-| `xboxone_agegroup_for_user` | 🚫 | WAD Version 15 |
-| `xboxone_appdisplayname_for_user` | 🚫 | WAD Version 15 |
-| `xboxone_chat_add_user_to_channel` | 🚫 | WAD Version 15 |
-| `xboxone_chat_remove_user_from_channel` | 🚫 | WAD Version 15 |
-| `xboxone_chat_set_muted` | 🚫 | WAD Version 15 |
-| `xboxone_check_privilege` | 🚫 | WAD Version 15 |
-| `xboxone_fire_event` | 🚫 | WAD Version 15 |
-| `xboxone_gamedisplayname_for_user` | 🚫 | WAD Version 15 |
-| `xboxone_gamerscore_for_user` | 🚫 | WAD Version 15 |
-| `xboxone_generate_player_session_id` | 🚫 | WAD Version 15 |
-| `xboxone_get_activating_user` | 🚫 | WAD Version 15 |
-| `xboxone_get_file_error` | 🚫 | WAD Version 15 |
-| `xboxone_get_savedata_user` | 🚫 | WAD Version 15 |
-| `xboxone_get_stats_for_user` | 🚫 | WAD Version 15 |
-| `xboxone_get_user` | 🚫 | WAD Version 15 |
-| `xboxone_get_user_count` | 🚫 | WAD Version 15 |
-| `xboxone_is_constrained` | 🚫 | WAD Version 15 |
-| `xboxone_is_suspending` | 🚫 | WAD Version 15 |
-| `xboxone_license_trial_time_remaining` | 🚫 | WAD Version 15 |
-| `xboxone_license_trial_user` | 🚫 | WAD Version 15 |
-| `xboxone_license_trial_version` | 🚫 | WAD Version 15 |
-| `xboxone_matchmaking_create` | 🚫 | WAD Version 15 |
-| `xboxone_matchmaking_find` | 🚫 | WAD Version 15 |
-| `xboxone_matchmaking_join_invite` | 🚫 | WAD Version 15 |
-| `xboxone_matchmaking_send_invites` | 🚫 | WAD Version 15 |
-| `xboxone_matchmaking_session_get_users` | 🚫 | WAD Version 15 |
-| `xboxone_matchmaking_session_leave` | 🚫 | WAD Version 15 |
-| `xboxone_matchmaking_set_joinable_session` | 🚫 | WAD Version 15 |
-| `xboxone_matchmaking_start` | 🚫 | WAD Version 15 |
-| `xboxone_matchmaking_stop` | 🚫 | WAD Version 15 |
-| `xboxone_package_check_license` | 🚫 | WAD Version 15 |
-| `xboxone_pad_count_for_user` | 🚫 | WAD Version 15 |
-| `xboxone_pad_for_user` | 🚫 | WAD Version 15 |
-| `xboxone_read_player_leaderboard` | 🚫 | WAD Version 15 |
-| `xboxone_reputation_for_user` | 🚫 | WAD Version 15 |
-| `xboxone_set_rich_presence` | 🚫 | WAD Version 15 |
-| `xboxone_set_savedata_user` | 🚫 | WAD Version 15 |
-| `xboxone_set_service_configuration_id` | 🚫 | WAD Version 15 |
-| `xboxone_show_account_picker` | 🚫 | WAD Version 15 |
-| `xboxone_show_help` | 🚫 | WAD Version 15 |
-| `xboxone_show_profile_card_for_user` | 🚫 | WAD Version 15 |
-| `xboxone_sponsor_for_user` | 🚫 | WAD Version 15 |
-| `xboxone_sprite_add_from_gamerpicture` | 🚫 | WAD Version 15 |
-| `xboxone_stats_setup` | 🚫 | WAD Version 15 |
-| `xboxone_suspend` | 🚫 | WAD Version 15 |
-| `xboxone_user_for_pad` | 🚫 | WAD Version 15 |
-| `xboxone_user_id_for_user` | 🚫 | WAD Version 15 |
-| `xboxone_user_is_active` | 🚫 | WAD Version 15 |
-| `xboxone_user_is_guest` | 🚫 | WAD Version 15 |
-| `xboxone_user_is_remote` | 🚫 | WAD Version 15 |
-| `xboxone_user_is_signed_in` | 🚫 | WAD Version 15 |
-| `xboxone_was_terminated` | 🚫 | WAD Version 15 |
-| `yyg_player_launch_args` | 🚫 | WAD Version 15 |
-| `yyg_player_restarted` | 🚫 | WAD Version 15 |
-| `yyg_player_run` | 🚫 | WAD Version 15 |
-| `@@Null@@` | 🚫 | WAD Version 16 |
-| `array_copy` | 🚫 | WAD Version 16 |
-| `array_create` | ✅ | WAD Version 16 |
-| `array_equals` | 🚫 | WAD Version 16 |
-| `buffer_get_alignment` | 🚫 | WAD Version 16 |
-| `buffer_get_type` | 🚫 | WAD Version 16 |
-| `collision_shape` | 🚫 | WAD Version 16 |
-| `d3d_model_load_buffer` | 🚫 | WAD Version 16 |
-| `d3d_model_save_buffer` | 🚫 | WAD Version 16 |
-| `debug_get_callstack` | 🚫 | WAD Version 16 |
-| `dot_product_3d_normalized` | 🚫 | WAD Version 16 |
-| `dot_product_normalized` | 🚫 | WAD Version 16 |
-| `draw_shape` | 🚫 | WAD Version 16 |
-| `draw_shape_string` | 🚫 | WAD Version 16 |
-| `draw_skeleton_instance` | 🚫 | WAD Version 16 |
-| `draw_tilemap` | ✅ | WAD Version 16 |
-| `font_get_dynamic_texture_size` | 🚫 | WAD Version 16 |
-| `font_set_dynamic_texture_size` | 🚫 | WAD Version 16 |
-| `gesture_double_tap_distance` | 🚫 | WAD Version 16 |
-| `gesture_double_tap_time` | 🚫 | WAD Version 16 |
-| `gesture_drag_distance` | 🚫 | WAD Version 16 |
-| `gesture_drag_time` | 🚫 | WAD Version 16 |
-| `gesture_flick_speed` | 🚫 | WAD Version 16 |
-| `gesture_get_double_tap_distance` | 🚫 | WAD Version 16 |
-| `gesture_get_double_tap_time` | 🚫 | WAD Version 16 |
-| `gesture_get_drag_distance` | 🚫 | WAD Version 16 |
-| `gesture_get_drag_time` | 🚫 | WAD Version 16 |
-| `gesture_get_flick_speed` | 🚫 | WAD Version 16 |
-| `gesture_get_pinch_angle_away` | 🚫 | WAD Version 16 |
-| `gesture_get_pinch_angle_towards` | 🚫 | WAD Version 16 |
-| `gesture_get_pinch_distance` | 🚫 | WAD Version 16 |
-| `gesture_get_rotate_angle` | 🚫 | WAD Version 16 |
-| `gesture_get_rotate_time` | 🚫 | WAD Version 16 |
-| `gesture_get_tap_count` | 🚫 | WAD Version 16 |
-| `gesture_pinch_angle_away` | 🚫 | WAD Version 16 |
-| `gesture_pinch_angle_towards` | 🚫 | WAD Version 16 |
-| `gesture_pinch_distance` | 🚫 | WAD Version 16 |
-| `gesture_rotate_angle` | 🚫 | WAD Version 16 |
-| `gesture_rotate_time` | 🚫 | WAD Version 16 |
-| `gesture_tap_count` | 🚫 | WAD Version 16 |
-| `gpu_get_colourwriteenable` | 🚫 | WAD Version 16 |
-| `gpu_get_tex_filter` | 🚫 | WAD Version 16 |
-| `gpu_get_tex_filter_ext` | 🚫 | WAD Version 16 |
-| `gpu_get_tex_max_aniso` | 🚫 | WAD Version 16 |
-| `gpu_get_tex_max_aniso_ext` | 🚫 | WAD Version 16 |
-| `gpu_get_tex_max_mip` | 🚫 | WAD Version 16 |
-| `gpu_get_tex_max_mip_ext` | 🚫 | WAD Version 16 |
-| `gpu_get_tex_min_mip` | 🚫 | WAD Version 16 |
-| `gpu_get_tex_min_mip_ext` | 🚫 | WAD Version 16 |
-| `gpu_get_tex_mip_bias` | 🚫 | WAD Version 16 |
-| `gpu_get_tex_mip_bias_ext` | 🚫 | WAD Version 16 |
-| `gpu_get_tex_mip_enable` | 🚫 | WAD Version 16 |
-| `gpu_get_tex_mip_enable_ext` | 🚫 | WAD Version 16 |
-| `gpu_get_tex_mip_filter` | 🚫 | WAD Version 16 |
-| `gpu_get_tex_mip_filter_ext` | 🚫 | WAD Version 16 |
-| `gpu_get_tex_repeat` | 🚫 | WAD Version 16 |
-| `gpu_get_tex_repeat_ext` | 🚫 | WAD Version 16 |
-| `gpu_set_colourwriteenable` | 🚫 | WAD Version 16 |
-| `gpu_set_tex_filter` | 🚫 | WAD Version 16 |
-| `gpu_set_tex_filter_ext` | 🚫 | WAD Version 16 |
-| `gpu_set_tex_max_aniso` | 🚫 | WAD Version 16 |
-| `gpu_set_tex_max_aniso_ext` | 🚫 | WAD Version 16 |
-| `gpu_set_tex_max_mip` | 🚫 | WAD Version 16 |
-| `gpu_set_tex_max_mip_ext` | 🚫 | WAD Version 16 |
-| `gpu_set_tex_min_mip` | 🚫 | WAD Version 16 |
-| `gpu_set_tex_min_mip_ext` | 🚫 | WAD Version 16 |
-| `gpu_set_tex_mip_bias` | 🚫 | WAD Version 16 |
-| `gpu_set_tex_mip_bias_ext` | 🚫 | WAD Version 16 |
-| `gpu_set_tex_mip_enable` | 🚫 | WAD Version 16 |
-| `gpu_set_tex_mip_enable_ext` | 🚫 | WAD Version 16 |
-| `gpu_set_tex_mip_filter` | 🚫 | WAD Version 16 |
-| `gpu_set_tex_mip_filter_ext` | 🚫 | WAD Version 16 |
-| `gpu_set_tex_repeat` | 🚫 | WAD Version 16 |
-| `gpu_set_tex_repeat_ext` | 🚫 | WAD Version 16 |
-| `instance_activate_layer` | ✅ | WAD Version 16 |
-| `instance_deactivate_layer` | ✅ | WAD Version 16 |
-| `instance_deactivate_region_special` | 🚫 | WAD Version 16 |
-| `layer_background_get_stretch` | 🚫 | WAD Version 16 |
-| `layer_background_sprite` | ✅ | WAD Version 16 |
-| `layer_background_stretch` | ✅ | WAD Version 16 |
-| `layer_destroy_instances` | 🚫 | WAD Version 16 |
-| `layer_get_id_at_depth` | ✅ | WAD Version 16 |
-| `layer_instance_get_instance` | 🚫 | WAD Version 16 |
-| `os_check_permission` | 🚫 | WAD Version 16 |
-| `os_request_permission` | 🚫 | WAD Version 16 |
-| `part_system_create_layer` | 🚫 | WAD Version 16 |
-| `part_system_get_layer` | 🚫 | WAD Version 16 |
-| `part_system_layer` | 🚫 | WAD Version 16 |
-| `randomise` | ✅ | WAD Version 16 |
-| `room_get_viewport` | 🚫 | WAD Version 16 |
-| `room_set_camera` | 🚫 | WAD Version 16 |
-| `room_set_viewport` | 🚫 | WAD Version 16 |
-| `shader_current` | 🚫 | WAD Version 16 |
-| `skeleton_animation_get_frame` | 🚫 | WAD Version 16 |
-| `skeleton_animation_get_frames` | 🚫 | WAD Version 16 |
-| `skeleton_animation_set_frame` | 🚫 | WAD Version 16 |
-| `skeleton_get_bounds` | 🚫 | WAD Version 16 |
-| `skeleton_get_minmax` | 🚫 | WAD Version 16 |
-| `skeleton_get_num_bounds` | 🚫 | WAD Version 16 |
-| `sprite_get_speed` | 🚫 | WAD Version 16 |
-| `sprite_get_speed_type` | 🚫 | WAD Version 16 |
-| `sprite_set_speed` | 🚫 | WAD Version 16 |
-| `string_hash_to_newline` | ✅ | WAD Version 16 |
-| `typeof` | 🚫 | WAD Version 16 |
-| `variable_instance_exists` | ✅ | WAD Version 16 |
-| `variable_instance_get` | ✅ | WAD Version 16 |
-| `variable_instance_get_names` | 🚫 | WAD Version 16 |
-| `variable_instance_set` | ✅ | WAD Version 16 |
-| `vertex_color` | 🚫 | WAD Version 16 |
-| `vertex_format_add_color` | 🚫 | WAD Version 16 |
-| `video_set_volume` | 🚫 | WAD Version 16 |
-| `$FAIL` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `$PRINT` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `@@CopyStatic@@` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `@@GetInstance@@` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `@@Global@@` | ✅ | GameMaker Version 2024.14.4.268 |
-| `@@NewGMLObject@@` | ✅ | GameMaker Version 2024.14.4.268 |
-| `@@NullObject@@` | ✅ | GameMaker Version 2024.14.4.268 |
-| `@@SetStatic@@` | ✅ | GameMaker Version 2024.14.4.268 |
-| `@@array_get@@` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `@@array_get_2D@@` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `@@array_set_owner@@` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `@@string@@` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `animcurve_channel_evaluate` | ✅ | GameMaker Version 2024.14.4.268 |
-| `animcurve_channel_new` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `animcurve_create` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `animcurve_destroy` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `animcurve_exists` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `animcurve_get` | ✅ | GameMaker Version 2024.14.4.268 |
-| `animcurve_get_channel` | ✅ | GameMaker Version 2024.14.4.268 |
-| `animcurve_get_channel_index` | ✅ | GameMaker Version 2024.14.4.268 |
-| `animcurve_point_new` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `application_surface_is_draw_enabled` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `array_all` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `array_any` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `array_concat` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `array_contains` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `array_contains_ext` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `array_copy_while` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `array_create_ext` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `array_delete` | ✅ | GameMaker Version 2024.14.4.268 |
-| `array_filter` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `array_filter_ext` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `array_find_index` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `array_first` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `array_foreach` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `array_get_index` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `array_insert` | ✅ | GameMaker Version 2024.14.4.268 |
-| `array_intersection` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `array_last` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `array_length` | ✅ | GameMaker Version 2024.14.4.268 |
-| `array_map` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `array_map_ext` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `array_pop` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `array_push` | ✅ | GameMaker Version 2024.14.4.268 |
-| `array_reduce` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `array_resize` | ✅ | GameMaker Version 2024.14.4.268 |
-| `array_reverse` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `array_reverse_ext` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `array_shift` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `array_shuffle` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `array_shuffle_ext` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `array_sort` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `array_union` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `array_unique` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `array_unique_ext` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `asset_add_tags` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `asset_clear_tags` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `asset_get_ids` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `asset_get_tags` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `asset_has_any_tag` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `asset_has_tags` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `asset_remove_tags` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `audio_bus_clear_emitters` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `audio_bus_create` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `audio_bus_get_emitters` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `audio_effect_create` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `audio_emitter_bus` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `audio_emitter_get_bus` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `audio_group_get_assets` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `audio_group_get_gain` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `audio_play_sound_ext` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `audio_sound_get_asset` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `audio_sound_get_audio_group` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `audio_sound_get_loop` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `audio_sound_get_loop_end` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `audio_sound_get_loop_start` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `audio_sound_is_playable` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `audio_sound_loop` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `audio_sound_loop_end` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `audio_sound_loop_start` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `audio_sync_group_is_paused` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `audio_system_is_available` | ✅ | GameMaker Version 2024.14.4.268 |
-| `audio_system_is_initialised` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `audio_throw_on_error` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `bool` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `buffer_compress` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `buffer_copy_stride` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `buffer_crc32` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `buffer_decompress` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `buffer_get_surface_depth` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `buffer_get_used_size` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `buffer_set_surface_depth` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `buffer_set_used_size` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `call_cancel` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `call_later` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `camera_copy_transforms` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `collision_circle_list` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `collision_ellipse_list` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `collision_line_list` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `collision_point_list` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `collision_rectangle_list` | ✅ | GameMaker Version 2024.14.4.268 |
-| `db_to_lin` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `dbg_add_font_glyphs` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `dbg_button` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `dbg_checkbox` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `dbg_color` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `dbg_colour` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `dbg_control_delete` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `dbg_control_exists` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `dbg_drop_down` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `dbg_get_gamepad_input` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `dbg_same_line` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `dbg_section` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `dbg_section_delete` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `dbg_section_exists` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `dbg_set_section` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `dbg_set_view` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `dbg_slider` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `dbg_slider_int` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `dbg_sprite` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `dbg_sprite_button` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `dbg_text` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `dbg_text_input` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `dbg_text_separator` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `dbg_view` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `dbg_view_delete` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `dbg_view_exists` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `dbg_watch` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `debug_input_playback` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `debug_input_record` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `debug_input_save` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `display_get_sleep_margin` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `display_get_timing_method` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `display_set_gui_maximize` | ✅ | GameMaker Version 2024.14.4.268 |
-| `display_set_sleep_margin` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `display_set_timing_method` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `draw_clear_depth` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `draw_clear_ext` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `draw_clear_stencil` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `draw_enable_skeleton_blend_override` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `draw_enable_skeleton_blendmodes` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `draw_enable_svg_aa` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `draw_get_circle_precision` | ✅ | GameMaker Version 2024.14.4.268 |
-| `draw_get_enable_skeleton_blend_override` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `draw_get_enable_skeleton_blendmodes` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `draw_get_font` | ✅ | GameMaker Version 2024.14.4.268 |
-| `draw_get_halign` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `draw_get_svg_aa_level` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `draw_get_valign` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `draw_set_svg_aa_level` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ds_grid_to_mp_grid` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ds_list_is_list` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ds_list_is_map` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ds_map_is_list` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ds_map_is_map` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ds_map_keys_to_array` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ds_map_values_to_array` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `effect_create_depth` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `effect_create_layer` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `event_perform_async` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `exception_unhandled_handler` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `extension_exists` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `extension_get_option_count` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `extension_get_option_names` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `extension_get_option_value` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `extension_get_options` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `extension_get_version` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_calculate_layout` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_create_node` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_delete_node` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_get_rounding_scale` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_get_child` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_get_child_hash` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_get_data` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_get_measure_function` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_get_name` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_get_num_children` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_get_parent` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_get_struct` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_insert_child` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_layout_get_position` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_remove_all_children` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_remove_child` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_set_data` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_set_measure_function` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_set_name` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_get_align_content` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_get_align_items` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_get_align_self` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_get_aspect_ratio` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_get_border` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_get_direction` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_get_display` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_get_flex` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_get_flex_basis` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_get_flex_direction` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_get_flex_grow` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_get_flex_shrink` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_get_flex_wrap` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_get_gap` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_get_height` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_get_justify_content` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_get_margin` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_get_max_height` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_get_max_width` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_get_min_height` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_get_min_width` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_get_padding` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_get_position` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_get_position_type` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_get_width` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_set_align_content` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_set_align_items` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_set_align_self` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_set_aspect_ratio` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_set_border` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_set_direction` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_set_display` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_set_flex` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_set_flex_basis` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_set_flex_direction` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_set_flex_grow` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_set_flex_shrink` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_set_flex_wrap` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_set_gap` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_set_height` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_set_justify_content` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_set_margin` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_set_max_height` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_set_max_width` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_set_min_height` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_set_min_width` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_set_padding` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_set_position` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_set_position_type` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_node_style_set_width` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `flexpanel_set_rounding_scale` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `font_add_enable_aa` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `font_add_get_enable_aa` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `font_cache_glyph` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `font_enable_effects` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `font_enable_sdf` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `font_get_info` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `font_get_sdf_enabled` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `font_get_sdf_spread` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `font_sdf_spread` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `fx_create` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `fx_get_name` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `fx_get_parameter` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `fx_get_parameter_names` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `fx_get_parameters` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `fx_get_single_layer` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `fx_set_parameter` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `fx_set_parameters` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `fx_set_single_layer` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `game_change` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gamepad_add_hardware_mapping_from_file` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gamepad_add_hardware_mapping_from_string` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gamepad_enumerate` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gamepad_get_guid` | ✅ | GameMaker Version 2024.14.4.268 |
-| `gamepad_get_hardware_mappings` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gamepad_get_mapping` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gamepad_get_option` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gamepad_hat_count` | ✅ | GameMaker Version 2024.14.4.268 |
-| `gamepad_hat_value` | ✅ | GameMaker Version 2024.14.4.268 |
-| `gamepad_remove_mapping` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gamepad_set_option` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gamepad_test_mapping` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gc_collect` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gc_enable` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gc_get_stats` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gc_get_target_frame_time` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gc_is_enabled` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gc_target_frame_time` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gif_add_surface` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gif_open` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gif_save` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gif_save_buffer` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gpu_get_blendequation` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gpu_get_blendequation_sepalpha` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gpu_get_depth` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gpu_get_scissor` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gpu_get_sprite_cull` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gpu_get_stencil_depth_fail` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gpu_get_stencil_enable` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gpu_get_stencil_fail` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gpu_get_stencil_func` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gpu_get_stencil_pass` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gpu_get_stencil_read_mask` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gpu_get_stencil_ref` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gpu_get_stencil_write_mask` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gpu_set_blendequation` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gpu_set_blendequation_sepalpha` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gpu_set_depth` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gpu_set_scissor` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gpu_set_sprite_cull` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gpu_set_stencil_depth_fail` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gpu_set_stencil_enable` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gpu_set_stencil_fail` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gpu_set_stencil_func` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gpu_set_stencil_pass` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gpu_set_stencil_read_mask` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gpu_set_stencil_ref` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gpu_set_stencil_write_mask` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gx_share` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gxc_file_sync` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gxc_pause_movie_recording` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gxc_payment` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gxc_resume_movie_recording` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gxc_rewarded_ad` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gxc_start_movie_recording` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `gxc_stop_movie_recording` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `handle_parse` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `http_get_connect_timeout` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `http_get_request_crossorigin` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `http_set_connect_timeout` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `http_set_request_crossorigin` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `instance_place_list` | ✅ | GameMaker Version 2024.14.4.268 |
-| `instance_position_list` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `instanceof` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `is_callable` | ✅ | GameMaker Version 2024.14.4.268 |
-| `is_debug_overlay_open` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `is_handle` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `is_infinity` | ✅ | GameMaker Version 2024.14.4.268 |
-| `is_instanceof` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `is_keyboard_used_debug_overlay` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `is_method` | ✅ | GameMaker Version 2024.14.4.268 |
-| `is_mouse_over_debug_overlay` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `is_nan` | ✅ | GameMaker Version 2024.14.4.268 |
-| `is_numeric` | ✅ | GameMaker Version 2024.14.4.268 |
-| `is_struct` | ✅ | GameMaker Version 2024.14.4.268 |
-| `json_parse` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `json_stringify` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `keyboard_virtual_height` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `keyboard_virtual_hide` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `keyboard_virtual_set_position` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `keyboard_virtual_show` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `keyboard_virtual_status` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_clear_fx` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_enable_fx` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_fx_is_enabled` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_get_flexpanel_node` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_get_fx` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_get_type` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_particle_alpha` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_particle_angle` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_particle_blend` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_particle_get_alpha` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_particle_get_angle` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_particle_get_blend` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_particle_get_id` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_particle_get_instance` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_particle_get_system` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_particle_get_x` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_particle_get_xscale` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_particle_get_y` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_particle_get_yscale` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_particle_x` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_particle_xscale` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_particle_y` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_particle_yscale` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_sequence_angle` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_sequence_create` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_sequence_destroy` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_sequence_exists` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_sequence_get_angle` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_sequence_get_headdir` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_sequence_get_headpos` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_sequence_get_instance` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_sequence_get_length` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_sequence_get_sequence` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_sequence_get_speedscale` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_sequence_get_x` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_sequence_get_xscale` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_sequence_get_y` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_sequence_get_yscale` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_sequence_headdir` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_sequence_headpos` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_sequence_is_finished` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_sequence_is_paused` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_sequence_pause` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_sequence_play` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_sequence_speedscale` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_sequence_x` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_sequence_xscale` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_sequence_y` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_sequence_yscale` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_set_fx` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_alpha` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_angle` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_blend` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_charspacing` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_create` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_destroy` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_exists` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_font` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_frameh` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_framew` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_get_alpha` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_get_angle` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_get_blend` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_get_charspacing` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_get_font` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_get_frameh` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_get_framew` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_get_halign` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_get_id` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_get_linespacing` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_get_origin` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_get_paragraphspacing` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_get_text` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_get_valign` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_get_wrap` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_get_wrapmode` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_get_x` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_get_xorigin` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_get_xscale` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_get_y` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_get_yorigin` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_get_yscale` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_halign` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_linespacing` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_origin` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_paragraphspacing` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_text` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_valign` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_wrap` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_wrapmode` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_x` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_xorigin` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_xscale` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_y` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_yorigin` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_text_yscale` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_tilemap_get_colmask` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `layer_tilemap_set_colmask` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `lin_to_db` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `mac_refresh_receipt_validation` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `matchmaking_send_invites_no_ui` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `matchmaking_session_invite_start` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `matchmaking_session_set_hidden` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `matrix_inverse` | ✅ | GameMaker Version 2024.14.4.268 |
-| `method` | ✅ | GameMaker Version 2024.14.4.268 |
-| `method_call` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `method_get_index` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `method_get_self` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `move_and_collide` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ms_iap_AcquireLicenseForDurables` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ms_iap_AcquireLicenseForPackage` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ms_iap_CanAcquireLicenseForPackage` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ms_iap_CanAcquireLicenseForStoreId` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ms_iap_DownloadAndInstallPackages` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ms_iap_EnumeratePackages` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ms_iap_MountPackage` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ms_iap_QueryAddOnLicenses` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ms_iap_QueryAssociatedProducts` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ms_iap_QueryConsumableBalanceRemaining` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ms_iap_QueryEntitledProducts` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ms_iap_QueryGameLicense` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ms_iap_QueryProductForCurrentGame` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ms_iap_QueryProductForPackage` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ms_iap_QueryProducts` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ms_iap_ReleaseLicenseForDurables` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ms_iap_ReleaseLicenseForPackage` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ms_iap_ReportConsumableFulfillment` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ms_iap_ShowAssociatedProductsUI` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ms_iap_ShowProductPageUI` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ms_iap_ShowPurchaseUI` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ms_iap_ShowRateAndReviewUI` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ms_iap_ShowRedeemTokenUI` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ms_iap_UnmountPackage` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `network_connect_async` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `network_connect_raw_async` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `os_set_orientation_lock` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `part_emitter_delay` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `part_emitter_enable` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `part_emitter_interval` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `part_emitter_relative` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `part_particles_burst` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `part_system_angle` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `part_system_color` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `part_system_colour` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `part_system_get_info` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `part_system_global_space` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `part_type_size_x` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `part_type_size_y` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `part_type_subimage` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `particle_add` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `particle_delete` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `particle_exists` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `particle_get_info` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `physics_debug` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `physics_raycast` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ps4_gamepad_reset_color` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ps4_gamepad_reset_colour` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ps4_touchpad_mouse_enable` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ps5_gamepad_get_trigger_effect_state` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ps5_gamepad_reset_color` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ps5_gamepad_reset_colour` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ps5_gamepad_set_trigger_effect_feedback` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ps5_gamepad_set_trigger_effect_off` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ps5_gamepad_set_trigger_effect_vibration` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ps5_gamepad_set_trigger_effect_weapon` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ps5_gamepad_set_vibration_mode` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ps5_get_game_presets` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ps5_set_high_frame_rate` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ps5_share_features_disable` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ps5_share_features_enable` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ps5_touchpad_mouse_enable` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `psn_account_id_for_pad` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `psn_addcont_mount` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `psn_addcont_unmount` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `psn_age_level_for_pad` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `psn_communication_restriction_status` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `psn_country_for_user` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `psn_disable_notice_screen_skip_flag_auto_set` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `psn_get_trophy_unlock_state` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `psn_init_leaderboard` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `psn_mask_profanity` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `psn_matchmaking_create_game_session` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `psn_notice_screen_skip_flag` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `psn_np_commerce_dialog_open_on_product` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `psn_post_uds_event` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `psn_save_data_backup` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `psn_set_notice_screen_skip_flag` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `psn_webapi_request` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `push_get_application_badge_number` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `push_set_application_badge_number` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `ref_create` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `rollback_chat` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `rollback_create_game` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `rollback_define_extra_network_latency` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `rollback_define_input` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `rollback_define_input_frame_delay` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `rollback_define_mock_input` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `rollback_define_player` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `rollback_display_events` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `rollback_get_info` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `rollback_get_input` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `rollback_get_player_prefs` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `rollback_join_game` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `rollback_leave_game` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `rollback_set_player_prefs` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `rollback_start_game` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `rollback_sync_on_frame` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `rollback_use_late_join` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `rollback_use_manual_start` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `rollback_use_player_prefs` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `rollback_use_random_input` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `room_get_info` | ✅ | GameMaker Version 2024.14.4.268 |
-| `scheduler_resolution_get` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `scheduler_resolution_set` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `script_execute_ext` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `sequence_create` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `sequence_destroy` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `sequence_exists` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `sequence_get` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `sequence_get_objects` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `sequence_instance_exists` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `sequence_instance_override_object` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `sequence_keyframe_new` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `sequence_keyframedata_new` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `sequence_track_new` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `shader_get_name` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `shader_set_uniform_f_buffer` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `show_debug_log` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `show_debug_message_ext` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `skeleton_animation_get_event_frames` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `skeleton_animation_get_position` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `skeleton_animation_is_finished` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `skeleton_animation_is_looping` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `skeleton_animation_set_position` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `skeleton_attachment_create_color` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `skeleton_attachment_create_colour` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `skeleton_attachment_destroy` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `skeleton_attachment_exists` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `skeleton_attachment_replace` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `skeleton_attachment_replace_color` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `skeleton_attachment_replace_colour` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `skeleton_bone_list` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `skeleton_find_slot` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `skeleton_skin_create` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `skeleton_slot_alpha_get` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `skeleton_slot_color_get` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `skeleton_slot_color_set` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `skeleton_slot_colour_get` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `skeleton_slot_colour_set` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `skeleton_slot_data_instance` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `skeleton_slot_list` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `sphere_is_visible` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `sprite_add_ext` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `sprite_get_convex_hull` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `sprite_get_info` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `sprite_get_nineslice` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `sprite_nineslice_create` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `sprite_set_nineslice` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `static_get` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `static_set` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `string_concat` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `string_concat_ext` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `string_ends_with` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `string_ext` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `string_foreach` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `string_join` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `string_join_ext` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `string_last_pos` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `string_last_pos_ext` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `string_pos_ext` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `string_split` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `string_split_ext` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `string_starts_with` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `string_trim` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `string_trim_end` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `string_trim_start` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `struct_exists` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `struct_exists_from_hash` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `struct_foreach` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `struct_get` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `struct_get_from_hash` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `struct_get_names` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `struct_names_count` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `struct_remove` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `struct_remove_from_hash` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `struct_set` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `struct_set_from_hash` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `surface_depth_disable` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `surface_format_is_supported` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `surface_get_depth_disable` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `surface_get_format` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `surface_get_target` | ✅ | GameMaker Version 2024.14.4.268 |
-| `surface_get_target_depth` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `surface_get_target_ext` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `surface_get_texture_depth` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `surface_has_depth` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_accounts_close_user` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_accounts_get_accounts` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_accounts_get_handle` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_accounts_get_netid` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_accounts_get_nickname` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_accounts_get_online_token` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_accounts_is_user_online` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_accounts_is_user_open` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_accounts_login_user` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_accounts_network_service_available` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_accounts_open_preselected_user` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_accounts_open_user` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_accounts_select_account` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_add_ssl_certificate` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_bnvib_get_length` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_bnvib_get_loop_end_position` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_bnvib_get_loop_interval` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_bnvib_get_loop_start_position` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_bnvib_get_sampling_rate` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_bnvib_get_value` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_bnvib_is_looping` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_bnvib_load` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_bnvib_unload` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_check_profanity` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_acceleration` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_angle` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_angular_velocity` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_direction` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_enable_sensor_fusion` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_get_default_joycon_assignment` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_get_gyro_zero_drift_mode` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_get_handheld_activation_mode` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_get_sensor_fusion_params` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_get_sixaxis_handle_count` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_get_supported_styles` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_is_at_rest` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_is_sensor_fusion_enabled` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_joycon_get_holdtype` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_joycon_left_connected` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_joycon_right_connected` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_joycon_set_holdtype` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_reset_sensor_fusion_params` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_set_default_joycon_assignment` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_set_gyro_zero_drift_mode` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_set_handheld_activation_mode` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_set_sensor_fusion_params` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_set_supported_styles` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_show_strap_guide` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_start_lr_assignment` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_stop_lr_assignment` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_support_get_player_count` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_support_get_selected_id` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_support_set_all` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_support_set_defaults` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_support_set_explain_text` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_support_set_identification_color` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_support_set_identification_colour` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_support_set_left_justify` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_support_set_maintain_connections` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_support_set_permit_joycon_dual` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_support_set_player_max` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_support_set_player_min` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_support_set_show_explain_text` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_support_set_show_identification_colors` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_support_set_show_identification_colours` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_support_set_singleplayer_only` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_support_show` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_vibrate_hd` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_controller_vibration_permitted` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_error_begin` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_error_end` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_error_get_os_code_info` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_error_set_application_code` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_error_set_dialog_message` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_error_set_fullscreen_message` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_error_set_language_code` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_error_show_os_code` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_free_communication_available` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_free_communication_end` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_free_communication_start` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_gameserver_login_user` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_gameserver_logout_user` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_get_operation_mode` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_get_performance_config` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_get_performance_mode` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_irsensor_cluster_config_set_defaults` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_irsensor_cluster_config_set_external_light_filtering` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_irsensor_cluster_config_set_object_intensity_min` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_irsensor_cluster_config_set_object_pixel_count_max` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_irsensor_cluster_config_set_object_pixel_count_min` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_irsensor_cluster_config_set_window_of_interest` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_irsensor_cluster_create_state_buffer` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_irsensor_common_config_is_negative_image_used` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_irsensor_common_config_set_all` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_irsensor_common_config_set_exposure_time` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_irsensor_common_config_set_gain` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_irsensor_common_config_set_light_target` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_irsensor_get_mode` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_irsensor_hand_config_set_mode` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_irsensor_hand_create_state_buffers` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_irsensor_image_config_set_defaults` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_irsensor_image_config_set_external_light_filtering` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_irsensor_image_config_set_format` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_irsensor_image_config_set_orig_format` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_irsensor_image_config_set_trimming_format` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_irsensor_image_config_set_trimming_start` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_irsensor_image_create_state_buffers` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_irsensor_moment_config_set_defaults` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_irsensor_moment_config_set_preprocess` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_irsensor_moment_config_set_preprocess_intensity_threshold` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_irsensor_moment_config_set_window_of_interest` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_irsensor_moment_create_state_buffer` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_irsensor_set_mode` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_language_get_desired_language` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_leaderboard_get_scores` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_leaderboard_post_common_data` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_leaderboard_post_score` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_mask_profanity` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_matchmaking_session_autojoin` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_matchmaking_session_close_participation` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_matchmaking_session_create` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_matchmaking_session_find` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_matchmaking_session_join` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_matchmaking_session_leave` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_matchmaking_session_open_participation` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_matchmaking_session_update_description` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_matchmaking_start` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_matchmaking_stop` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_mount_aoc_content` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_npln_leaderboard_delete_score` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_npln_leaderboard_get_scores_near` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_npln_leaderboard_get_scores_near_user` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_npln_leaderboard_get_scores_of_friends` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_npln_leaderboard_get_scores_of_users` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_npln_leaderboard_get_scores_range` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_npln_leaderboard_get_user_data` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_npln_leaderboard_set_score` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_npln_leaderboard_set_user_data` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_npln_login_prearranged_user` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_npln_session_create` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_npln_session_create_alias` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_npln_session_destroy` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_npln_session_find` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_npln_session_join` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_npln_session_join_alias` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_npln_session_matchmake` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_npln_session_send_data` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_npln_session_send_reliable` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_npln_session_stream_close` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_npln_session_stream_open` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_npln_session_stream_send` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_npln_session_update` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_query_store` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_recording_disable` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_recording_enable` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_save_data_commit` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_save_data_mount` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_save_data_unmount` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_screenshot_disable` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_screenshot_enable` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_screenshot_set_orientation` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_set_cpu_boost_mode` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_set_local_network_mode` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_set_net_autoconnect` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_set_performance_config` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_show_store` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_show_store_aoc_list` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_show_store_product_details` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `switch_theme_set` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `tag_get_asset_ids` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `tag_get_assets` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `texture_debug_messages` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `texture_flush` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `texture_is_ready` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `texture_prefetch` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `texturegroup_add` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `texturegroup_delete` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `texturegroup_exists` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `texturegroup_get_fonts` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `texturegroup_get_names` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `texturegroup_get_sprites` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `texturegroup_get_status` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `texturegroup_get_textures` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `texturegroup_get_tilesets` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `texturegroup_load` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `texturegroup_set_mode` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `texturegroup_unload` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `tilemap_set_height` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `tilemap_set_width` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `tileset_get_info` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `tileset_get_name` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `tileset_get_texture` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `tileset_get_uvs` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `time_bpm_to_seconds` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `time_seconds_to_bpm` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `time_source_create` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `time_source_destroy` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `time_source_exists` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `time_source_get_children` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `time_source_get_parent` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `time_source_get_period` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `time_source_get_reps_completed` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `time_source_get_reps_remaining` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `time_source_get_state` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `time_source_get_time_remaining` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `time_source_get_units` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `time_source_pause` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `time_source_reconfigure` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `time_source_reset` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `time_source_resume` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `time_source_start` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `time_source_stop` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `uwp_appbar_add_element` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `uwp_appbar_enable` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `uwp_appbar_remove_element` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `uwp_device_touchscreen_available` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `uwp_get_app_receipt` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `uwp_livetile_badge_clear` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `uwp_livetile_badge_notification` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `uwp_livetile_notification_begin` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `uwp_livetile_notification_end` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `uwp_livetile_notification_expiry` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `uwp_livetile_notification_image_add` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `uwp_livetile_notification_secondary_begin` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `uwp_livetile_notification_tag` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `uwp_livetile_notification_template_add` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `uwp_livetile_notification_text_add` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `uwp_livetile_queue_enable` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `uwp_livetile_tile_clear` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `uwp_secondarytile_badge_clear` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `uwp_secondarytile_badge_notification` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `uwp_secondarytile_delete` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `uwp_secondarytile_pin` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `uwp_secondarytile_tile_clear` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `variable_clone` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `variable_get_hash` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `variable_instance_names_count` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `variable_struct_exists` | ✅ | GameMaker Version 2024.14.4.268 |
-| `variable_struct_get` | ✅ | GameMaker Version 2024.14.4.268 |
-| `variable_struct_get_names` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `variable_struct_names_count` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `variable_struct_remove` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `variable_struct_set` | ✅ | GameMaker Version 2024.14.4.268 |
-| `variable_struct_set_post` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `variable_struct_set_pre` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `vector_sprite_cache_get_limit` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `vector_sprite_cache_get_max_used` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `vector_sprite_cache_get_oldest_entry_age` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `vector_sprite_cache_get_prune_age` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `vector_sprite_cache_get_prune_fraction` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `vector_sprite_cache_get_used` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `vector_sprite_cache_limit` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `vector_sprite_cache_prune_age` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `vector_sprite_cache_prune_fraction` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `vertex_buffer_exists` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `vertex_format_exists` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `vertex_format_get_info` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `vertex_submit_ext` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `vertex_update_buffer_from_buffer` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `vertex_update_buffer_from_vertex` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `video_enable_loop` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `video_get_duration` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `video_get_format` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `video_get_position` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `video_get_status` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `video_get_volume` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `video_is_looping` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `video_pause` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `video_resume` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `video_seek_to` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `wallpaper_set_config` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `wallpaper_set_subscriptions` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `weak_ref_alive` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `weak_ref_any_alive` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `weak_ref_create` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `window_enable_borderless_fullscreen` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `window_get_borderless_fullscreen` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `window_minimise` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `window_minimize` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `window_mouse_get_delta_x` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `window_mouse_get_delta_y` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `window_mouse_get_locked` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `window_mouse_set_locked` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `window_post_message` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `window_restore` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxlive_achievement_load_friends` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxlive_achievement_load_leaderboard` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxlive_achievement_show_achievements` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxlive_achievements_set_progress` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxlive_chat_add_user` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxlive_chat_get_muted` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxlive_chat_remove_user` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxlive_chat_set_communication_relationship` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxlive_gamertag_for_user` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxlive_get_achievement` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxlive_get_achievements` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxlive_get_store_id` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxlive_get_token_and_signature` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxlive_matchmaking_join_session` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxlive_matchmaking_set_find_timeout` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxlive_stats_add_user` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxlive_stats_delete_stat` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxlive_stats_flush_user` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxlive_stats_get_leaderboard` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxlive_stats_get_social_leaderboard` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxlive_stats_get_stat` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxlive_stats_get_stat_names` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxlive_stats_remove_user` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxlive_stats_set_stat_int` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxlive_stats_set_stat_real` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxlive_stats_set_stat_string` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxlive_user_is_signing_in` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxlive_verify_string_async` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_achievements_set_progress` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_chat_add_user` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_chat_get_muted` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_chat_remove_user` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_chat_set_communication_relationship` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_classic_gamertag_for_user` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_find_controller_for_user` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_get_achievement` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_get_achievements` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_matchmaking_join_session` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_matchmaking_set_find_timeout` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_modern_gamertag_for_user` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_modern_gamertag_suffix_for_user` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_set_savedata_uwp_compatibility` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_stats_add_user` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_stats_delete_stat` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_stats_flush_user` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_stats_get_leaderboard` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_stats_get_social_leaderboard` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_stats_get_stat` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_stats_get_stat_names` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_stats_remove_user` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_stats_set_stat_int` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_stats_set_stat_real` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_stats_set_stat_string` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_streaming_get_info` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_streaming_get_show_controls` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_streaming_is_enabled` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_streaming_set_show_controls` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_unique_modern_gamertag_for_user` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_update_recent_players` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxone_verify_string_async` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxseriesxs_get_high_frame_rate` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxseriesxs_set_high_frame_rate` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `xboxseriesxs_supports_high_frame_rate` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `zip_add_file` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `zip_create` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `zip_save` | 🚫 | GameMaker Version 2024.14.4.268 |
-| `zip_unzip_async` | 🚫 | GameMaker Version 2024.14.4.268 |
+| GML Function | Implemented? | Added In | Removed In |
+| - | - | - | - |
+| `MCI_command` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_AchievementsAvailable` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_AcquireInAppPurchase` | 🚫 | GM:S 1.0.198 | GM:S 1.1.690 |
+| `YoYo_AddVirtualKey` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_CheckSecurity` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_DeleteVirtualKey` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_DisableAds` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_EnableAds` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_EnableAlphaBlend` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_EnableInAppPurchases` | 🚫 | GM:S 1.0.198 | GM:S 1.1.690 |
+| `YoYo_FacebookDialog` | 🚫 | GM:S 1.0.198 | GM:S 1.1.690 |
+| `YoYo_FacebookGraphRequest` | 🚫 | GM:S 1.0.198 | GM:S 1.1.690 |
+| `YoYo_FacebookInit` | 🚫 | GM:S 1.0.198 | GM:S 1.1.690 |
+| `YoYo_FacebookLogin` | 🚫 | GM:S 1.0.198 | GM:S 1.1.690 |
+| `YoYo_FacebookLoginStatus` | 🚫 | GM:S 1.0.198 | GM:S 1.1.690 |
+| `YoYo_FacebookLogout` | 🚫 | GM:S 1.0.198 | GM:S 1.1.690 |
+| `YoYo_GetCPUDetails` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_GetConfig` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_GetDevice` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_GetPictureSprite` | 🚫 | GM:S 1.0.198 | WAD Version 16 |
+| `YoYo_GetPlatform` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_GetPurchasedDetails` | 🚫 | GM:S 1.0.198 | GM:S 1.1.690 |
+| `YoYo_GetSessionKey` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_GetTiltX` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_GetTiltY` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_GetTiltZ` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_GetTimer` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_HideVirtualKey` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_IsKeypadOpen` | 🚫 | GM:S 1.0.198 |  |
+| `YoYo_LeaveRating` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_LoginAchievements` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_LogoutAchievements` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_MouseCheckButton` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_MouseCheckButtonPressed` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_MouseCheckButtonReleased` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_MouseX` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_MouseXRaw` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_MouseY` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_MouseYRaw` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_OF_AcceptChallenge` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_OF_AddAchievement` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_OF_AddLeaderboard` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_OF_IsOnline` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_OF_SendChallenge` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_OF_SendChallengeResult` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_OF_SendInvite` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_OF_SendSocial` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_OF_SetURL` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_OF_StartDashboard` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_OSPauseEvent` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_OpenURL` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_OpenURL_ext` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_OpenURL_full` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_PostAchievement` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_PostScore` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `YoYo_ProductPurchased` | 🚫 | GM:S 1.0.198 | GM:S 1.1.690 |
+| `YoYo_RestoreInAppPurchases` | 🚫 | GM:S 1.0.198 | GM:S 1.1.690 |
+| `YoYo_RetrieveInAppPurchases` | 🚫 | GM:S 1.0.198 | GM:S 1.1.690 |
+| `YoYo_SelectPicture` | 🚫 | GM:S 1.0.198 | WAD Version 16 |
+| `YoYo_ShowVirtualKey` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `achievement_is_online` | 🚫 | GM:S 1.0.198 | GM:S 1.1.1130 |
+| `achievement_map_achievement` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `achievement_map_leaderboard` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_another_room` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_bounce` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_cd_pause` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_cd_play` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_cd_playing` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_cd_present` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_cd_resume` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_cd_stop` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_change_object` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_color` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_create_object` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_create_object_motion` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_create_object_random` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_current_room` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_draw_arrow` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_draw_background` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_draw_ellipse` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_draw_ellipse_gradient` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_draw_font` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_draw_font_old` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_draw_gradient_hor` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_draw_gradient_vert` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_draw_health` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_draw_life` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_draw_life_images` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_draw_line` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_draw_rectangle` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_draw_score` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_draw_sprite` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_draw_text` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_draw_text_transformed` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_draw_variable` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_effect` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_end_game` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_end_sound` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_execute_script` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_fill_color` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_font` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_fullscreen` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_highscore` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_highscore_clear` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_highscore_show` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_if` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_if_aligned` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_if_collision` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_if_dice` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_if_empty` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_if_health` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_if_life` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_if_mouse` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_if_next_room` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_if_number` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_if_object` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_if_previous_room` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_if_question` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_if_score` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_if_sound` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_if_variable` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_inherited` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_kill_object` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_kill_position` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_line_color` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_linear_step` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_load_game` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_message` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_move` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_move_contact` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_move_point` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_move_random` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_move_start` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_move_to` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_next_room` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_partemit_burst` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_partemit_create` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_partemit_destroy` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_partemit_stream` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_partsyst_clear` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_partsyst_create` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_partsyst_destroy` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_parttype_color` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_parttype_create` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_parttype_create_old` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_parttype_gravity` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_parttype_life` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_parttype_secondary` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_parttype_speed` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_path` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_path_end` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_path_old` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_path_position` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_path_speed` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_potential_step` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_previous_room` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_replace_background` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_replace_sound` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_replace_sprite` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_restart_game` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_reverse_xdir` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_reverse_ydir` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_save_game` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_set_alarm` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_set_caption` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_set_cursor` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_set_friction` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_set_gravity` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_set_health` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_set_hspeed` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_set_life` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_set_motion` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_set_relative` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_set_score` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_set_sprite` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_set_timeline` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_set_timeline_position` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_set_timeline_speed` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_set_vspeed` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_show_info` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_show_video` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_sleep` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_snap` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_snapshot` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_sound` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_sprite_color` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_sprite_set` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_sprite_transform` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_timeline_pause` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_timeline_set` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_timeline_start` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_timeline_stop` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_webpage` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `action_wrap` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `ads_disable` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `ads_enable` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `ansi_char` | 🚫 | GM:S 1.0.198 |  |
+| `arccos` | 🚫 | GM:S 1.0.198 |  |
+| `arcsin` | ✅ | GM:S 1.0.198 |  |
+| `arctan` | ✅ | GM:S 1.0.198 |  |
+| `arctan2` | 🚫 | GM:S 1.0.198 |  |
+| `background_add` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `background_add_alpha` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `background_add_background` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `background_assign` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `background_create_color` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `background_create_from_screen` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `background_create_from_surface` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `background_create_gradient` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `background_delete` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `background_duplicate` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `background_exists` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `background_get_height` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `background_get_name` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `background_get_preload` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `background_get_smooth` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `background_get_texture` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `background_get_transparent` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `background_get_width` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `background_name` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `background_replace` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `background_save` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `background_set_alpha_from_background` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `cd_close_door` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `cd_init` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `cd_length` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `cd_number` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `cd_open_door` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `cd_pause` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `cd_paused` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `cd_play` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `cd_playing` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `cd_position` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `cd_present` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `cd_resume` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `cd_set_position` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `cd_set_track_position` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `cd_stop` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `cd_track` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `cd_track_length` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `cd_track_position` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `choose` | ✅ | GM:S 1.0.198 |  |
+| `clamp` | ✅ | GM:S 1.0.198 |  |
+| `clipboard_get_text` | 🚫 | GM:S 1.0.198 |  |
+| `clipboard_has_text` | 🚫 | GM:S 1.0.198 |  |
+| `clipboard_set_text` | 🚫 | GM:S 1.0.198 |  |
+| `collision_circle` | ✅ | GM:S 1.0.198 |  |
+| `collision_ellipse` | 🚫 | GM:S 1.0.198 |  |
+| `collision_line` | ✅ | GM:S 1.0.198 |  |
+| `collision_point` | ✅ | GM:S 1.0.198 |  |
+| `collision_rectangle` | ✅ | GM:S 1.0.198 |  |
+| `color_get_blue` | ✅ | GM:S 1.0.198 |  |
+| `color_get_green` | ✅ | GM:S 1.0.198 |  |
+| `color_get_hue` | ✅ | GM:S 1.0.198 |  |
+| `color_get_red` | ✅ | GM:S 1.0.198 |  |
+| `color_get_saturation` | ✅ | GM:S 1.0.198 |  |
+| `color_get_value` | ✅ | GM:S 1.0.198 |  |
+| `d3d_draw_block` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_draw_cone` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_draw_cylinder` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_draw_ellipsoid` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_draw_floor` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_draw_wall` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_end` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_light_define_ambient` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_light_define_direction` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_light_define_point` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_light_enable` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_model_block` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_model_clear` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_model_cone` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_model_create` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_model_cylinder` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_model_destroy` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_model_draw` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_model_ellipsoid` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_model_floor` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_model_load` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_model_primitive_begin` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_model_primitive_end` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_model_save` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_model_vertex` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_model_vertex_color` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_model_vertex_normal` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_model_vertex_normal_color` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_model_vertex_normal_texture` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_model_vertex_normal_texture_color` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_model_vertex_texture` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_model_vertex_texture_color` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_model_wall` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_primitive_begin` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_primitive_begin_texture` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_primitive_end` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_set_culling` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_set_depth` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_set_fog` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_set_hidden` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_set_lighting` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_set_perspective` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_set_projection` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_set_projection_ext` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_set_projection_ortho` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_set_projection_perspective` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_set_shading` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_start` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_transform_add_rotation_axis` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_transform_add_rotation_x` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_transform_add_rotation_y` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_transform_add_rotation_z` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_transform_add_scaling` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_transform_add_translation` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_transform_set_identity` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_transform_set_rotation_axis` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_transform_set_rotation_x` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_transform_set_rotation_y` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_transform_set_rotation_z` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_transform_set_scaling` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_transform_set_translation` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_transform_stack_clear` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_transform_stack_discard` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_transform_stack_empty` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_transform_stack_pop` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_transform_stack_push` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_transform_stack_top` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_vertex` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_vertex_color` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_vertex_normal` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_vertex_normal_color` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_vertex_normal_texture` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_vertex_normal_texture_color` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_vertex_texture` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `d3d_vertex_texture_color` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `date_compare_date` | 🚫 | GM:S 1.0.198 |  |
+| `date_compare_datetime` | 🚫 | GM:S 1.0.198 |  |
+| `date_compare_time` | 🚫 | GM:S 1.0.198 |  |
+| `date_create_date` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `date_create_datetime` | 🚫 | GM:S 1.0.198 |  |
+| `date_create_time` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `date_current_date` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `date_current_datetime` | 🚫 | GM:S 1.0.198 |  |
+| `date_current_time` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `date_date_of` | 🚫 | GM:S 1.0.198 |  |
+| `date_date_string` | 🚫 | GM:S 1.0.198 |  |
+| `date_datetime_string` | 🚫 | GM:S 1.0.198 |  |
+| `date_day_span` | 🚫 | GM:S 1.0.198 |  |
+| `date_days_in_month` | 🚫 | GM:S 1.0.198 |  |
+| `date_days_in_year` | 🚫 | GM:S 1.0.198 |  |
+| `date_get_day` | 🚫 | GM:S 1.0.198 |  |
+| `date_get_day_of_year` | 🚫 | GM:S 1.0.198 |  |
+| `date_get_hour` | 🚫 | GM:S 1.0.198 |  |
+| `date_get_hour_of_year` | 🚫 | GM:S 1.0.198 |  |
+| `date_get_minute` | 🚫 | GM:S 1.0.198 |  |
+| `date_get_minute_of_year` | 🚫 | GM:S 1.0.198 |  |
+| `date_get_month` | 🚫 | GM:S 1.0.198 |  |
+| `date_get_second` | 🚫 | GM:S 1.0.198 |  |
+| `date_get_second_of_year` | 🚫 | GM:S 1.0.198 |  |
+| `date_get_week` | 🚫 | GM:S 1.0.198 |  |
+| `date_get_weekday` | 🚫 | GM:S 1.0.198 |  |
+| `date_get_year` | 🚫 | GM:S 1.0.198 |  |
+| `date_hour_span` | 🚫 | GM:S 1.0.198 |  |
+| `date_inc_day` | 🚫 | GM:S 1.0.198 |  |
+| `date_inc_hour` | 🚫 | GM:S 1.0.198 |  |
+| `date_inc_minute` | 🚫 | GM:S 1.0.198 |  |
+| `date_inc_month` | 🚫 | GM:S 1.0.198 |  |
+| `date_inc_second` | 🚫 | GM:S 1.0.198 |  |
+| `date_inc_week` | 🚫 | GM:S 1.0.198 |  |
+| `date_inc_year` | 🚫 | GM:S 1.0.198 |  |
+| `date_is_today` | 🚫 | GM:S 1.0.198 |  |
+| `date_leap_year` | 🚫 | GM:S 1.0.198 |  |
+| `date_minute_span` | 🚫 | GM:S 1.0.198 |  |
+| `date_month_span` | 🚫 | GM:S 1.0.198 |  |
+| `date_second_span` | 🚫 | GM:S 1.0.198 |  |
+| `date_time_of` | 🚫 | GM:S 1.0.198 |  |
+| `date_time_string` | 🚫 | GM:S 1.0.198 |  |
+| `date_valid_date` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `date_valid_datetime` | 🚫 | GM:S 1.0.198 |  |
+| `date_valid_time` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `date_week_span` | 🚫 | GM:S 1.0.198 |  |
+| `date_year_span` | 🚫 | GM:S 1.0.198 |  |
+| `degtorad` | ✅ | GM:S 1.0.198 |  |
+| `device_get_tilt_x` | 🚫 | GM:S 1.0.198 |  |
+| `device_get_tilt_y` | 🚫 | GM:S 1.0.198 |  |
+| `device_get_tilt_z` | 🚫 | GM:S 1.0.198 |  |
+| `device_ios_get_image` | 🚫 | GM:S 1.0.198 | WAD Version 16 |
+| `device_ios_get_imagename` | 🚫 | GM:S 1.0.198 | WAD Version 16 |
+| `device_is_keypad_open` | 🚫 | GM:S 1.0.198 |  |
+| `device_mouse_check_button` | 🚫 | GM:S 1.0.198 |  |
+| `device_mouse_check_button_pressed` | 🚫 | GM:S 1.0.198 |  |
+| `device_mouse_check_button_released` | 🚫 | GM:S 1.0.198 |  |
+| `device_mouse_raw_x` | 🚫 | GM:S 1.0.198 |  |
+| `device_mouse_raw_y` | 🚫 | GM:S 1.0.198 |  |
+| `device_mouse_x` | 🚫 | GM:S 1.0.198 |  |
+| `device_mouse_y` | 🚫 | GM:S 1.0.198 |  |
+| `directory_create` | ✅ | GM:S 1.0.198 |  |
+| `directory_exists` | ✅ | GM:S 1.0.198 |  |
+| `discard_include_file` | 🚫 | GM:S 1.0.198 | GM:S 1.1.690 |
+| `display_get_colordepth` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `display_get_frequency` | 🚫 | GM:S 1.0.198 |  |
+| `display_get_height` | ✅ | GM:S 1.0.198 |  |
+| `display_get_orientation` | 🚫 | GM:S 1.0.198 |  |
+| `display_get_width` | ✅ | GM:S 1.0.198 |  |
+| `display_mouse_get_x` | 🚫 | GM:S 1.0.198 |  |
+| `display_mouse_get_y` | 🚫 | GM:S 1.0.198 |  |
+| `display_mouse_set` | 🚫 | GM:S 1.0.198 |  |
+| `display_reset` | 🚫 | GM:S 1.0.198 |  |
+| `display_set_all` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `display_set_colordepth` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `display_set_frequency` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `display_set_size` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `display_test_all` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `distance_to_object` | ✅ | GM:S 1.0.198 |  |
+| `distance_to_point` | ✅ | GM:S 1.0.198 |  |
+| `dot_product` | 🚫 | GM:S 1.0.198 |  |
+| `dot_product_3d` | 🚫 | GM:S 1.0.198 |  |
+| `dot_product_3d_normalised` | 🚫 | GM:S 1.0.198 |  |
+| `dot_product_normalised` | 🚫 | GM:S 1.0.198 |  |
+| `draw_arrow` | 🚫 | GM:S 1.0.198 |  |
+| `draw_background` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `draw_background_ext` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `draw_background_general` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `draw_background_part` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `draw_background_part_ext` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `draw_background_stretched` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `draw_background_stretched_ext` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `draw_background_tiled` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `draw_background_tiled_ext` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `draw_button` | 🚫 | GM:S 1.0.198 |  |
+| `draw_circle` | ✅ | GM:S 1.0.198 |  |
+| `draw_circle_color` | 🚫 | GM:S 1.0.198 |  |
+| `draw_clear` | ✅ | GM:S 1.0.198 |  |
+| `draw_clear_alpha` | ✅ | GM:S 1.0.198 |  |
+| `draw_ellipse` | 🚫 | GM:S 1.0.198 |  |
+| `draw_ellipse_color` | 🚫 | GM:S 1.0.198 |  |
+| `draw_enable_alphablend` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `draw_get_alpha` | ✅ | GM:S 1.0.198 |  |
+| `draw_get_color` | ✅ | GM:S 1.0.198 |  |
+| `draw_getpixel` | 🚫 | GM:S 1.0.198 |  |
+| `draw_healthbar` | ✅ | GM:S 1.0.198 |  |
+| `draw_highscore` | 🚫 | GM:S 1.0.198 |  |
+| `draw_line` | ✅ | GM:S 1.0.198 |  |
+| `draw_line_color` | ✅ | GM:S 1.0.198 |  |
+| `draw_line_width` | ✅ | GM:S 1.0.198 |  |
+| `draw_line_width_color` | ✅ | GM:S 1.0.198 |  |
+| `draw_path` | 🚫 | GM:S 1.0.198 |  |
+| `draw_point` | 🚫 | GM:S 1.0.198 |  |
+| `draw_point_color` | 🚫 | GM:S 1.0.198 |  |
+| `draw_primitive_begin` | 🚫 | GM:S 1.0.198 |  |
+| `draw_primitive_begin_texture` | 🚫 | GM:S 1.0.198 |  |
+| `draw_primitive_end` | 🚫 | GM:S 1.0.198 |  |
+| `draw_rectangle` | ✅ | GM:S 1.0.198 |  |
+| `draw_rectangle_color` | ✅ | GM:S 1.0.198 |  |
+| `draw_roundrect` | 🚫 | GM:S 1.0.198 |  |
+| `draw_roundrect_color` | 🚫 | GM:S 1.0.198 |  |
+| `draw_self` | ✅ | GM:S 1.0.198 |  |
+| `draw_set_alpha` | ✅ | GM:S 1.0.198 |  |
+| `draw_set_blend_mode` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `draw_set_blend_mode_ext` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `draw_set_circle_precision` | ✅ | GM:S 1.0.198 |  |
+| `draw_set_color` | ✅ | GM:S 1.0.198 |  |
+| `draw_set_font` | ✅ | GM:S 1.0.198 |  |
+| `draw_set_halign` | ✅ | GM:S 1.0.198 |  |
+| `draw_set_valign` | ✅ | GM:S 1.0.198 |  |
+| `draw_sprite` | ✅ | GM:S 1.0.198 |  |
+| `draw_sprite_ext` | ✅ | GM:S 1.0.198 |  |
+| `draw_sprite_general` | ✅ | GM:S 1.0.198 |  |
+| `draw_sprite_part` | ✅ | GM:S 1.0.198 |  |
+| `draw_sprite_part_ext` | ✅ | GM:S 1.0.198 |  |
+| `draw_sprite_stretched` | ✅ | GM:S 1.0.198 |  |
+| `draw_sprite_stretched_ext` | ✅ | GM:S 1.0.198 |  |
+| `draw_sprite_tiled` | ✅ | GM:S 1.0.198 |  |
+| `draw_sprite_tiled_ext` | ✅ | GM:S 1.0.198 |  |
+| `draw_surface` | ✅ | GM:S 1.0.198 |  |
+| `draw_surface_ext` | ✅ | GM:S 1.0.198 |  |
+| `draw_surface_general` | 🚫 | GM:S 1.0.198 |  |
+| `draw_surface_part` | ✅ | GM:S 1.0.198 |  |
+| `draw_surface_part_ext` | ✅ | GM:S 1.0.198 |  |
+| `draw_surface_stretched` | ✅ | GM:S 1.0.198 |  |
+| `draw_surface_stretched_ext` | 🚫 | GM:S 1.0.198 |  |
+| `draw_surface_tiled` | 🚫 | GM:S 1.0.198 |  |
+| `draw_surface_tiled_ext` | 🚫 | GM:S 1.0.198 |  |
+| `draw_text` | ✅ | GM:S 1.0.198 |  |
+| `draw_text_color` | ✅ | GM:S 1.0.198 |  |
+| `draw_text_ext` | ✅ | GM:S 1.0.198 |  |
+| `draw_text_ext_color` | 🚫 | GM:S 1.0.198 |  |
+| `draw_text_ext_transformed` | ✅ | GM:S 1.0.198 |  |
+| `draw_text_ext_transformed_color` | 🚫 | GM:S 1.0.198 |  |
+| `draw_text_transformed` | ✅ | GM:S 1.0.198 |  |
+| `draw_text_transformed_color` | 🚫 | GM:S 1.0.198 |  |
+| `draw_texture_flush` | 🚫 | GM:S 1.0.198 |  |
+| `draw_triangle` | ✅ | GM:S 1.0.198 |  |
+| `draw_triangle_color` | 🚫 | GM:S 1.0.198 |  |
+| `draw_vertex` | 🚫 | GM:S 1.0.198 |  |
+| `draw_vertex_color` | 🚫 | GM:S 1.0.198 |  |
+| `draw_vertex_texture` | 🚫 | GM:S 1.0.198 |  |
+| `draw_vertex_texture_color` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_add` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_add_disk` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_add_grid_region` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_add_region` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_clear` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_copy` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_create` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_destroy` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_get` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_get_disk_max` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_get_disk_mean` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_get_disk_min` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_get_disk_sum` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_get_max` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_get_mean` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_get_min` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_get_sum` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_height` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_multiply` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_multiply_disk` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_multiply_grid_region` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_multiply_region` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_read` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_resize` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_set` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_set_disk` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_set_grid_region` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_set_region` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_shuffle` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_value_disk_exists` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_value_disk_x` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_value_disk_y` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_value_exists` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_value_x` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_value_y` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_width` | 🚫 | GM:S 1.0.198 |  |
+| `ds_grid_write` | 🚫 | GM:S 1.0.198 |  |
+| `ds_list_add` | ✅ | GM:S 1.0.198 |  |
+| `ds_list_clear` | ✅ | GM:S 1.0.198 |  |
+| `ds_list_copy` | 🚫 | GM:S 1.0.198 |  |
+| `ds_list_create` | ✅ | GM:S 1.0.198 |  |
+| `ds_list_delete` | ✅ | GM:S 1.0.198 |  |
+| `ds_list_destroy` | ✅ | GM:S 1.0.198 |  |
+| `ds_list_empty` | ✅ | GM:S 1.0.198 |  |
+| `ds_list_find_index` | ✅ | GM:S 1.0.198 |  |
+| `ds_list_find_value` | ✅ | GM:S 1.0.198 |  |
+| `ds_list_insert` | 🚫 | GM:S 1.0.198 |  |
+| `ds_list_read` | ✅ | GM:S 1.0.198 |  |
+| `ds_list_replace` | 🚫 | GM:S 1.0.198 |  |
+| `ds_list_shuffle` | ✅ | GM:S 1.0.198 |  |
+| `ds_list_size` | ✅ | GM:S 1.0.198 |  |
+| `ds_list_sort` | 🚫 | GM:S 1.0.198 |  |
+| `ds_list_write` | ✅ | GM:S 1.0.198 |  |
+| `ds_map_add` | ✅ | GM:S 1.0.198 |  |
+| `ds_map_clear` | 🚫 | GM:S 1.0.198 |  |
+| `ds_map_copy` | 🚫 | GM:S 1.0.198 |  |
+| `ds_map_create` | ✅ | GM:S 1.0.198 |  |
+| `ds_map_delete` | 🚫 | GM:S 1.0.198 |  |
+| `ds_map_destroy` | ✅ | GM:S 1.0.198 |  |
+| `ds_map_empty` | 🚫 | GM:S 1.0.198 |  |
+| `ds_map_exists` | ✅ | GM:S 1.0.198 |  |
+| `ds_map_find_first` | ✅ | GM:S 1.0.198 |  |
+| `ds_map_find_last` | 🚫 | GM:S 1.0.198 |  |
+| `ds_map_find_next` | ✅ | GM:S 1.0.198 |  |
+| `ds_map_find_previous` | 🚫 | GM:S 1.0.198 |  |
+| `ds_map_find_value` | ✅ | GM:S 1.0.198 |  |
+| `ds_map_read` | 🚫 | GM:S 1.0.198 |  |
+| `ds_map_replace` | ✅ | GM:S 1.0.198 |  |
+| `ds_map_size` | ✅ | GM:S 1.0.198 |  |
+| `ds_map_write` | 🚫 | GM:S 1.0.198 |  |
+| `ds_priority_add` | 🚫 | GM:S 1.0.198 |  |
+| `ds_priority_change_priority` | 🚫 | GM:S 1.0.198 |  |
+| `ds_priority_clear` | 🚫 | GM:S 1.0.198 |  |
+| `ds_priority_copy` | 🚫 | GM:S 1.0.198 |  |
+| `ds_priority_create` | 🚫 | GM:S 1.0.198 |  |
+| `ds_priority_delete_max` | 🚫 | GM:S 1.0.198 |  |
+| `ds_priority_delete_min` | 🚫 | GM:S 1.0.198 |  |
+| `ds_priority_delete_value` | 🚫 | GM:S 1.0.198 |  |
+| `ds_priority_destroy` | 🚫 | GM:S 1.0.198 |  |
+| `ds_priority_empty` | 🚫 | GM:S 1.0.198 |  |
+| `ds_priority_find_max` | 🚫 | GM:S 1.0.198 |  |
+| `ds_priority_find_min` | 🚫 | GM:S 1.0.198 |  |
+| `ds_priority_find_priority` | 🚫 | GM:S 1.0.198 |  |
+| `ds_priority_read` | 🚫 | GM:S 1.0.198 |  |
+| `ds_priority_size` | 🚫 | GM:S 1.0.198 |  |
+| `ds_priority_write` | 🚫 | GM:S 1.0.198 |  |
+| `ds_queue_clear` | ✅ | GM:S 1.0.198 |  |
+| `ds_queue_copy` | ✅ | GM:S 1.0.198 |  |
+| `ds_queue_create` | ✅ | GM:S 1.0.198 |  |
+| `ds_queue_dequeue` | ✅ | GM:S 1.0.198 |  |
+| `ds_queue_destroy` | ✅ | GM:S 1.0.198 |  |
+| `ds_queue_empty` | ✅ | GM:S 1.0.198 |  |
+| `ds_queue_enqueue` | ✅ | GM:S 1.0.198 |  |
+| `ds_queue_head` | ✅ | GM:S 1.0.198 |  |
+| `ds_queue_read` | ✅ | GM:S 1.0.198 |  |
+| `ds_queue_size` | ✅ | GM:S 1.0.198 |  |
+| `ds_queue_tail` | ✅ | GM:S 1.0.198 |  |
+| `ds_queue_write` | ✅ | GM:S 1.0.198 |  |
+| `ds_set_precision` | 🚫 | GM:S 1.0.198 |  |
+| `ds_stack_clear` | 🚫 | GM:S 1.0.198 |  |
+| `ds_stack_copy` | 🚫 | GM:S 1.0.198 |  |
+| `ds_stack_create` | 🚫 | GM:S 1.0.198 |  |
+| `ds_stack_destroy` | 🚫 | GM:S 1.0.198 |  |
+| `ds_stack_empty` | 🚫 | GM:S 1.0.198 |  |
+| `ds_stack_pop` | 🚫 | GM:S 1.0.198 |  |
+| `ds_stack_push` | 🚫 | GM:S 1.0.198 |  |
+| `ds_stack_read` | 🚫 | GM:S 1.0.198 |  |
+| `ds_stack_size` | 🚫 | GM:S 1.0.198 |  |
+| `ds_stack_top` | 🚫 | GM:S 1.0.198 |  |
+| `ds_stack_write` | 🚫 | GM:S 1.0.198 |  |
+| `effect_clear` | 🚫 | GM:S 1.0.198 |  |
+| `effect_create_above` | 🚫 | GM:S 1.0.198 |  |
+| `effect_create_below` | 🚫 | GM:S 1.0.198 |  |
+| `environment_get_variable` | 🚫 | GM:S 1.0.198 |  |
+| `event_inherited` | ✅ | GM:S 1.0.198 |  |
+| `event_perform` | ✅ | GM:S 1.0.198 |  |
+| `event_perform_object` | 🚫 | GM:S 1.0.198 |  |
+| `event_user` | ✅ | GM:S 1.0.198 |  |
+| `execute_file` | 🚫 | GM:S 1.0.198 | GM:S 1.1.1130 |
+| `execute_program` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `execute_shell` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `execute_string` | 🚫 | GM:S 1.0.198 | GM:S 1.1.1130 |
+| `export_include_file` | 🚫 | GM:S 1.0.198 | GM:S 1.1.690 |
+| `export_include_file_location` | 🚫 | GM:S 1.0.198 | GM:S 1.1.690 |
+| `external_call` | 🚫 | GM:S 1.0.198 |  |
+| `external_call0` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `external_call1` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `external_call2` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `external_call3` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `external_call4` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `external_call5` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `external_call6` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `external_call7` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `external_call8` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `external_define` | 🚫 | GM:S 1.0.198 |  |
+| `external_define0` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `external_define1` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `external_define2` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `external_define3` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `external_define4` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `external_define5` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `external_define6` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `external_define7` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `external_define8` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `external_free` | 🚫 | GM:S 1.0.198 |  |
+| `facebook_dialog` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `facebook_graph_request` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `facebook_init` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `facebook_login` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `facebook_logout` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `facebook_status` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `file_attributes` | 🚫 | GM:S 1.0.198 |  |
+| `file_bin_close` | ✅ | GM:S 1.0.198 |  |
+| `file_bin_open` | ✅ | GM:S 1.0.198 |  |
+| `file_bin_position` | ✅ | GM:S 1.0.198 |  |
+| `file_bin_read_byte` | ✅ | GM:S 1.0.198 |  |
+| `file_bin_rewrite` | ✅ | GM:S 1.0.198 |  |
+| `file_bin_seek` | ✅ | GM:S 1.0.198 |  |
+| `file_bin_size` | ✅ | GM:S 1.0.198 |  |
+| `file_bin_write_byte` | ✅ | GM:S 1.0.198 |  |
+| `file_close` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `file_copy` | 🚫 | GM:S 1.0.198 |  |
+| `file_delete` | ✅ | GM:S 1.0.198 |  |
+| `file_eof` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `file_exists` | ✅ | GM:S 1.0.198 |  |
+| `file_find_close` | 🚫 | GM:S 1.0.198 |  |
+| `file_find_first` | 🚫 | GM:S 1.0.198 |  |
+| `file_find_next` | 🚫 | GM:S 1.0.198 |  |
+| `file_open_append` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `file_open_read` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `file_open_write` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `file_read_real` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `file_read_string` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `file_readln` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `file_rename` | 🚫 | GM:S 1.0.198 |  |
+| `file_text_close` | ✅ | GM:S 1.0.198 |  |
+| `file_text_eof` | ✅ | GM:S 1.0.198 |  |
+| `file_text_open_append` | 🚫 | GM:S 1.0.198 |  |
+| `file_text_open_read` | ✅ | GM:S 1.0.198 |  |
+| `file_text_open_write` | ✅ | GM:S 1.0.198 |  |
+| `file_text_read_real` | ✅ | GM:S 1.0.198 |  |
+| `file_text_read_string` | ✅ | GM:S 1.0.198 |  |
+| `file_text_readln` | ✅ | GM:S 1.0.198 |  |
+| `file_text_write_real` | ✅ | GM:S 1.0.198 |  |
+| `file_text_write_string` | ✅ | GM:S 1.0.198 |  |
+| `file_text_writeln` | ✅ | GM:S 1.0.198 |  |
+| `file_write_real` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `file_write_string` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `file_writeln` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `filename_change_ext` | 🚫 | GM:S 1.0.198 |  |
+| `filename_dir` | 🚫 | GM:S 1.0.198 |  |
+| `filename_drive` | 🚫 | GM:S 1.0.198 |  |
+| `filename_ext` | 🚫 | GM:S 1.0.198 |  |
+| `filename_name` | 🚫 | GM:S 1.0.198 |  |
+| `filename_path` | 🚫 | GM:S 1.0.198 |  |
+| `floor` | ✅ | GM:S 1.0.198 |  |
+| `font_add` | 🚫 | GM:S 1.0.198 |  |
+| `font_add_sprite` | ✅ | GM:S 1.0.198 |  |
+| `font_delete` | 🚫 | GM:S 1.0.198 |  |
+| `font_exists` | 🚫 | GM:S 1.0.198 |  |
+| `font_get_bold` | 🚫 | GM:S 1.0.198 |  |
+| `font_get_first` | 🚫 | GM:S 1.0.198 |  |
+| `font_get_fontname` | 🚫 | GM:S 1.0.198 |  |
+| `font_get_italic` | 🚫 | GM:S 1.0.198 |  |
+| `font_get_last` | 🚫 | GM:S 1.0.198 |  |
+| `font_get_name` | ✅ | GM:S 1.0.198 |  |
+| `font_get_size` | 🚫 | GM:S 1.0.198 |  |
+| `font_name` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `font_replace` | 🚫 | GM:S 1.0.198 | WAD Version 16 |
+| `font_replace_sprite` | 🚫 | GM:S 1.0.198 |  |
+| `game_end` | ✅ | GM:S 1.0.198 |  |
+| `game_load` | ✅ | GM:S 1.0.198 |  |
+| `game_restart` | ✅ | GM:S 1.0.198 |  |
+| `game_save` | ✅ | GM:S 1.0.198 |  |
+| `get_color` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `get_directory` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `get_directory_alt` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `get_integer` | 🚫 | GM:S 1.0.198 |  |
+| `get_login_async` | 🚫 | GM:S 1.0.198 |  |
+| `get_open_filename` | 🚫 | GM:S 1.0.198 |  |
+| `get_save_filename` | 🚫 | GM:S 1.0.198 |  |
+| `get_string` | 🚫 | GM:S 1.0.198 |  |
+| `get_timer` | ✅ | GM:S 1.0.198 |  |
+| `gravemakerIsLoaded` | 🚫 | GM:S 1.0.198 | WAD Version 16 |
+| `gravemakerIsLoggedIn` | 🚫 | GM:S 1.0.198 | WAD Version 16 |
+| `gravemakerLoad` | 🚫 | GM:S 1.0.198 | WAD Version 16 |
+| `gravemakerLogin` | 🚫 | GM:S 1.0.198 | WAD Version 16 |
+| `gravemakerSave` | 🚫 | GM:S 1.0.198 | WAD Version 16 |
+| `highscore_add` | 🚫 | GM:S 1.0.198 |  |
+| `highscore_add_current` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `highscore_clear` | 🚫 | GM:S 1.0.198 |  |
+| `highscore_name` | 🚫 | GM:S 1.0.198 |  |
+| `highscore_set_background` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `highscore_set_border` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `highscore_set_colors` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `highscore_set_font` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `highscore_set_strings` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `highscore_show` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `highscore_show_ext` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `highscore_value` | 🚫 | GM:S 1.0.198 |  |
+| `http_get` | 🚫 | GM:S 1.0.198 |  |
+| `http_post_string` | 🚫 | GM:S 1.0.198 |  |
+| `iap_acquire` | 🚫 | GM:S 1.0.198 |  |
+| `iap_enable` | 🚫 | GM:S 1.0.198 | GM:S 1.1.690 |
+| `iap_get_details` | 🚫 | GM:S 1.0.198 | GM:S 1.1.690 |
+| `iap_is_purchased` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `iap_restore` | 🚫 | GM:S 1.0.198 | GM:S 1.1.690 |
+| `iap_retrieve` | 🚫 | GM:S 1.0.198 | GM:S 1.1.690 |
+| `ini_close` | ✅ | GM:S 1.0.198 |  |
+| `ini_key_delete` | 🚫 | GM:S 1.0.198 |  |
+| `ini_key_exists` | 🚫 | GM:S 1.0.198 |  |
+| `ini_open` | ✅ | GM:S 1.0.198 |  |
+| `ini_read_real` | ✅ | GM:S 1.0.198 |  |
+| `ini_read_string` | ✅ | GM:S 1.0.198 |  |
+| `ini_section_delete` | 🚫 | GM:S 1.0.198 |  |
+| `ini_section_exists` | ✅ | GM:S 1.0.198 |  |
+| `ini_write_real` | ✅ | GM:S 1.0.198 |  |
+| `ini_write_string` | ✅ | GM:S 1.0.198 |  |
+| `instance_activate_all` | ✅ | GM:S 1.0.198 |  |
+| `instance_activate_object` | ✅ | GM:S 1.0.198 |  |
+| `instance_activate_region` | ✅ | GM:S 1.0.198 |  |
+| `instance_change` | ✅ | GM:S 1.0.198 |  |
+| `instance_copy` | ✅ | GM:S 1.0.198 |  |
+| `instance_create` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `instance_deactivate_all` | ✅ | GM:S 1.0.198 |  |
+| `instance_deactivate_object` | ✅ | GM:S 1.0.198 |  |
+| `instance_deactivate_region` | ✅ | GM:S 1.0.198 |  |
+| `instance_destroy` | ✅ | GM:S 1.0.198 |  |
+| `instance_exists` | ✅ | GM:S 1.0.198 |  |
+| `instance_find` | ✅ | GM:S 1.0.198 |  |
+| `instance_furthest` | 🚫 | GM:S 1.0.198 |  |
+| `instance_nearest` | ✅ | GM:S 1.0.198 |  |
+| `instance_number` | ✅ | GM:S 1.0.198 |  |
+| `instance_place` | ✅ | GM:S 1.0.198 |  |
+| `instance_position` | ✅ | GM:S 1.0.198 |  |
+| `instance_sprite` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `io_clear` | 🚫 | GM:S 1.0.198 |  |
+| `io_handle` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `irandom` | ✅ | GM:S 1.0.198 |  |
+| `irandom_range` | ✅ | GM:S 1.0.198 |  |
+| `is_real` | ✅ | GM:S 1.0.198 |  |
+| `is_string` | ✅ | GM:S 1.0.198 |  |
+| `joystick_axes` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `joystick_buttons` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `joystick_check_button` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `joystick_direction` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `joystick_exists` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `joystick_has_pov` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `joystick_name` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `joystick_pov` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `joystick_rpos` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `joystick_upos` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `joystick_vpos` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `joystick_xpos` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `joystick_ypos` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `joystick_zpos` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `json_decode` | ✅ | GM:S 1.0.198 |  |
+| `json_encode` | 🚫 | GM:S 1.0.198 |  |
+| `keyboard_check` | ✅ | GM:S 1.0.198 |  |
+| `keyboard_check_direct` | ✅ | GM:S 1.0.198 |  |
+| `keyboard_check_pressed` | ✅ | GM:S 1.0.198 |  |
+| `keyboard_check_released` | ✅ | GM:S 1.0.198 |  |
+| `keyboard_clear` | ✅ | GM:S 1.0.198 |  |
+| `keyboard_get_map` | ✅ | GM:S 1.0.198 |  |
+| `keyboard_get_numlock` | 🚫 | GM:S 1.0.198 |  |
+| `keyboard_key_press` | ✅ | GM:S 1.0.198 |  |
+| `keyboard_key_release` | ✅ | GM:S 1.0.198 |  |
+| `keyboard_set_map` | ✅ | GM:S 1.0.198 |  |
+| `keyboard_set_numlock` | 🚫 | GM:S 1.0.198 |  |
+| `keyboard_unset_map` | ✅ | GM:S 1.0.198 |  |
+| `keyboard_wait` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `lengthdir_x` | ✅ | GM:S 1.0.198 |  |
+| `lengthdir_y` | ✅ | GM:S 1.0.198 |  |
+| `load_info` | 🚫 | GM:S 1.0.198 |  |
+| `log10` | 🚫 | GM:S 1.0.198 |  |
+| `make_color` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `make_color_hsv` | ✅ | GM:S 1.0.198 |  |
+| `make_color_rgb` | ✅ | GM:S 1.0.198 |  |
+| `median` | ✅ | GM:S 1.0.198 |  |
+| `merge_color` | ✅ | GM:S 1.0.198 |  |
+| `message_alpha` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `message_background` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `message_button` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `message_button_font` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `message_caption` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `message_input_color` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `message_input_font` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `message_mouse_color` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `message_position` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `message_size` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `message_text_font` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `motion_add` | 🚫 | GM:S 1.0.198 |  |
+| `motion_set` | 🚫 | GM:S 1.0.198 |  |
+| `mouse_check_button` | 🚫 | GM:S 1.0.198 |  |
+| `mouse_check_button_pressed` | 🚫 | GM:S 1.0.198 |  |
+| `mouse_check_button_released` | 🚫 | GM:S 1.0.198 |  |
+| `mouse_clear` | 🚫 | GM:S 1.0.198 |  |
+| `mouse_wait` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `mouse_wheel_down` | 🚫 | GM:S 1.0.198 |  |
+| `mouse_wheel_up` | 🚫 | GM:S 1.0.198 |  |
+| `move_bounce` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `move_bounce_all` | 🚫 | GM:S 1.0.198 |  |
+| `move_bounce_solid` | 🚫 | GM:S 1.0.198 |  |
+| `move_contact` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `move_contact_all` | 🚫 | GM:S 1.0.198 |  |
+| `move_contact_solid` | 🚫 | GM:S 1.0.198 |  |
+| `move_outside_all` | 🚫 | GM:S 1.0.198 |  |
+| `move_outside_solid` | 🚫 | GM:S 1.0.198 |  |
+| `move_random` | 🚫 | GM:S 1.0.198 |  |
+| `move_snap` | ✅ | GM:S 1.0.198 |  |
+| `move_towards_point` | ✅ | GM:S 1.0.198 |  |
+| `move_wrap` | 🚫 | GM:S 1.0.198 |  |
+| `mp_grid_add_cell` | ✅ | GM:S 1.0.198 |  |
+| `mp_grid_add_instances` | 🚫 | GM:S 1.0.198 |  |
+| `mp_grid_add_rectangle` | ✅ | GM:S 1.0.198 |  |
+| `mp_grid_clear_all` | ✅ | GM:S 1.0.198 |  |
+| `mp_grid_clear_cell` | ✅ | GM:S 1.0.198 |  |
+| `mp_grid_clear_rectangle` | ✅ | GM:S 1.0.198 |  |
+| `mp_grid_create` | ✅ | GM:S 1.0.198 |  |
+| `mp_grid_destroy` | ✅ | GM:S 1.0.198 |  |
+| `mp_grid_draw` | ✅ | GM:S 1.0.198 |  |
+| `mp_grid_path` | ✅ | GM:S 1.0.198 |  |
+| `mp_linear_path` | 🚫 | GM:S 1.0.198 |  |
+| `mp_linear_path_object` | 🚫 | GM:S 1.0.198 |  |
+| `mp_linear_step` | ✅ | GM:S 1.0.198 |  |
+| `mp_linear_step_object` | ✅ | GM:S 1.0.198 |  |
+| `mp_potential_path` | 🚫 | GM:S 1.0.198 |  |
+| `mp_potential_path_object` | 🚫 | GM:S 1.0.198 |  |
+| `mp_potential_settings` | ✅ | GM:S 1.0.198 |  |
+| `mp_potential_step` | ✅ | GM:S 1.0.198 |  |
+| `mp_potential_step_object` | ✅ | GM:S 1.0.198 |  |
+| `mplay_connect_status` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `mplay_data_mode` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `mplay_data_read` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `mplay_data_write` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `mplay_end` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `mplay_init_ipx` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `mplay_init_modem` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `mplay_init_serial` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `mplay_init_tcpip` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `mplay_ipaddress` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `mplay_message_clear` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `mplay_message_count` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `mplay_message_id` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `mplay_message_name` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `mplay_message_player` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `mplay_message_receive` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `mplay_message_send` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `mplay_message_send_guaranteed` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `mplay_message_value` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `mplay_player_find` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `mplay_player_id` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `mplay_player_name` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `mplay_session_create` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `mplay_session_end` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `mplay_session_find` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `mplay_session_join` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `mplay_session_mode` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `mplay_session_name` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `mplay_session_status` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `object_add` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `object_delete` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `object_event_add` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `object_event_clear` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `object_exists` | 🚫 | GM:S 1.0.198 |  |
+| `object_get_depth` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `object_get_mask` | 🚫 | GM:S 1.0.198 |  |
+| `object_get_name` | 🚫 | GM:S 1.0.198 |  |
+| `object_get_parent` | 🚫 | GM:S 1.0.198 |  |
+| `object_get_persistent` | 🚫 | GM:S 1.0.198 |  |
+| `object_get_solid` | 🚫 | GM:S 1.0.198 |  |
+| `object_get_sprite` | ✅ | GM:S 1.0.198 |  |
+| `object_get_visible` | 🚫 | GM:S 1.0.198 |  |
+| `object_is_ancestor` | 🚫 | GM:S 1.0.198 |  |
+| `object_name` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `object_set_depth` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `object_set_mask` | 🚫 | GM:S 1.0.198 |  |
+| `object_set_parent` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `object_set_persistent` | 🚫 | GM:S 1.0.198 |  |
+| `object_set_solid` | 🚫 | GM:S 1.0.198 |  |
+| `object_set_sprite` | 🚫 | GM:S 1.0.198 |  |
+| `object_set_visible` | 🚫 | GM:S 1.0.198 |  |
+| `openfeint_accept_challenge` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `openfeint_send_challenge` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `openfeint_send_invite` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `openfeint_send_result` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `openfeint_send_social` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `openfeint_set_url` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `openfeint_start` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `os_get_config` | 🚫 | GM:S 1.0.198 |  |
+| `os_is_paused` | ✅ | GM:S 1.0.198 |  |
+| `parameter_count` | 🚫 | GM:S 1.0.198 |  |
+| `parameter_string` | 🚫 | GM:S 1.0.198 |  |
+| `part_attractor_clear` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `part_attractor_create` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `part_attractor_destroy` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `part_attractor_destroy_all` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `part_attractor_exists` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `part_attractor_force` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `part_attractor_position` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `part_changer_clear` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `part_changer_create` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `part_changer_destroy` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `part_changer_destroy_all` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `part_changer_exists` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `part_changer_kind` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `part_changer_region` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `part_changer_types` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `part_deflector_clear` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `part_deflector_create` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `part_deflector_destroy` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `part_deflector_destroy_all` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `part_deflector_exists` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `part_deflector_friction` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `part_deflector_kind` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `part_deflector_region` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `part_destroyer_clear` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `part_destroyer_create` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `part_destroyer_destroy` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `part_destroyer_destroy_all` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `part_destroyer_exists` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `part_destroyer_region` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `part_emitter_burst` | 🚫 | GM:S 1.0.198 |  |
+| `part_emitter_clear` | 🚫 | GM:S 1.0.198 |  |
+| `part_emitter_create` | 🚫 | GM:S 1.0.198 |  |
+| `part_emitter_destroy` | 🚫 | GM:S 1.0.198 |  |
+| `part_emitter_destroy_all` | 🚫 | GM:S 1.0.198 |  |
+| `part_emitter_exists` | 🚫 | GM:S 1.0.198 |  |
+| `part_emitter_region` | 🚫 | GM:S 1.0.198 |  |
+| `part_emitter_stream` | 🚫 | GM:S 1.0.198 |  |
+| `part_particles_clear` | 🚫 | GM:S 1.0.198 |  |
+| `part_particles_count` | 🚫 | GM:S 1.0.198 |  |
+| `part_particles_create` | 🚫 | GM:S 1.0.198 |  |
+| `part_particles_create_color` | 🚫 | GM:S 1.0.198 |  |
+| `part_system_automatic_draw` | 🚫 | GM:S 1.0.198 |  |
+| `part_system_automatic_update` | 🚫 | GM:S 1.0.198 |  |
+| `part_system_clear` | 🚫 | GM:S 1.0.198 |  |
+| `part_system_create` | 🚫 | GM:S 1.0.198 |  |
+| `part_system_depth` | 🚫 | GM:S 1.0.198 |  |
+| `part_system_destroy` | 🚫 | GM:S 1.0.198 |  |
+| `part_system_draw_order` | 🚫 | GM:S 1.0.198 |  |
+| `part_system_drawit` | 🚫 | GM:S 1.0.198 |  |
+| `part_system_exists` | 🚫 | GM:S 1.0.198 |  |
+| `part_system_position` | 🚫 | GM:S 1.0.198 |  |
+| `part_system_update` | 🚫 | GM:S 1.0.198 |  |
+| `part_type_alpha` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `part_type_alpha1` | 🚫 | GM:S 1.0.198 |  |
+| `part_type_alpha2` | 🚫 | GM:S 1.0.198 |  |
+| `part_type_alpha3` | 🚫 | GM:S 1.0.198 |  |
+| `part_type_blend` | 🚫 | GM:S 1.0.198 |  |
+| `part_type_clear` | 🚫 | GM:S 1.0.198 |  |
+| `part_type_color` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `part_type_color1` | 🚫 | GM:S 1.0.198 |  |
+| `part_type_color2` | 🚫 | GM:S 1.0.198 |  |
+| `part_type_color3` | 🚫 | GM:S 1.0.198 |  |
+| `part_type_color_hsv` | 🚫 | GM:S 1.0.198 |  |
+| `part_type_color_mix` | 🚫 | GM:S 1.0.198 |  |
+| `part_type_color_rgb` | 🚫 | GM:S 1.0.198 |  |
+| `part_type_create` | 🚫 | GM:S 1.0.198 |  |
+| `part_type_death` | 🚫 | GM:S 1.0.198 |  |
+| `part_type_destroy` | 🚫 | GM:S 1.0.198 |  |
+| `part_type_direction` | 🚫 | GM:S 1.0.198 |  |
+| `part_type_exists` | 🚫 | GM:S 1.0.198 |  |
+| `part_type_gravity` | 🚫 | GM:S 1.0.198 |  |
+| `part_type_life` | 🚫 | GM:S 1.0.198 |  |
+| `part_type_orientation` | 🚫 | GM:S 1.0.198 |  |
+| `part_type_scale` | 🚫 | GM:S 1.0.198 |  |
+| `part_type_shape` | 🚫 | GM:S 1.0.198 |  |
+| `part_type_size` | 🚫 | GM:S 1.0.198 |  |
+| `part_type_speed` | 🚫 | GM:S 1.0.198 |  |
+| `part_type_sprite` | 🚫 | GM:S 1.0.198 |  |
+| `part_type_step` | 🚫 | GM:S 1.0.198 |  |
+| `path_add` | ✅ | GM:S 1.0.198 |  |
+| `path_add_point` | ✅ | GM:S 1.0.198 |  |
+| `path_append` | 🚫 | GM:S 1.0.198 |  |
+| `path_assign` | 🚫 | GM:S 1.0.198 |  |
+| `path_change_point` | 🚫 | GM:S 1.0.198 |  |
+| `path_clear_points` | ✅ | GM:S 1.0.198 |  |
+| `path_delete` | ✅ | GM:S 1.0.198 |  |
+| `path_delete_point` | 🚫 | GM:S 1.0.198 |  |
+| `path_duplicate` | 🚫 | GM:S 1.0.198 |  |
+| `path_end` | ✅ | GM:S 1.0.198 |  |
+| `path_exists` | ✅ | GM:S 1.0.198 |  |
+| `path_flip` | 🚫 | GM:S 1.0.198 |  |
+| `path_get_closed` | 🚫 | GM:S 1.0.198 |  |
+| `path_get_kind` | 🚫 | GM:S 1.0.198 |  |
+| `path_get_length` | ✅ | GM:S 1.0.198 |  |
+| `path_get_name` | 🚫 | GM:S 1.0.198 |  |
+| `path_get_number` | 🚫 | GM:S 1.0.198 |  |
+| `path_get_point_speed` | 🚫 | GM:S 1.0.198 |  |
+| `path_get_point_x` | ✅ | GM:S 1.0.198 |  |
+| `path_get_point_y` | ✅ | GM:S 1.0.198 |  |
+| `path_get_precision` | 🚫 | GM:S 1.0.198 |  |
+| `path_get_speed` | 🚫 | GM:S 1.0.198 |  |
+| `path_get_x` | 🚫 | GM:S 1.0.198 |  |
+| `path_get_y` | 🚫 | GM:S 1.0.198 |  |
+| `path_insert_point` | 🚫 | GM:S 1.0.198 |  |
+| `path_mirror` | 🚫 | GM:S 1.0.198 |  |
+| `path_name` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `path_reverse` | 🚫 | GM:S 1.0.198 |  |
+| `path_rotate` | 🚫 | GM:S 1.0.198 |  |
+| `path_scale` | 🚫 | GM:S 1.0.198 | GM:S 1.1.690 |
+| `path_set_closed` | 🚫 | GM:S 1.0.198 |  |
+| `path_set_kind` | 🚫 | GM:S 1.0.198 |  |
+| `path_set_precision` | 🚫 | GM:S 1.0.198 |  |
+| `path_shift` | 🚫 | GM:S 1.0.198 |  |
+| `path_start` | ✅ | GM:S 1.0.198 |  |
+| `physics_apply_force` | 🚫 | GM:S 1.0.198 |  |
+| `physics_apply_impulse` | 🚫 | GM:S 1.0.198 |  |
+| `physics_apply_local_force` | 🚫 | GM:S 1.0.198 |  |
+| `physics_apply_local_impulse` | 🚫 | GM:S 1.0.198 |  |
+| `physics_apply_torque` | 🚫 | GM:S 1.0.198 |  |
+| `physics_draw_debug` | 🚫 | GM:S 1.0.198 |  |
+| `physics_fixture_add_point` | 🚫 | GM:S 1.0.198 |  |
+| `physics_fixture_bind` | 🚫 | GM:S 1.0.198 |  |
+| `physics_fixture_create` | 🚫 | GM:S 1.0.198 |  |
+| `physics_fixture_delete` | 🚫 | GM:S 1.0.198 |  |
+| `physics_fixture_set_angular_damping` | 🚫 | GM:S 1.0.198 |  |
+| `physics_fixture_set_box_shape` | 🚫 | GM:S 1.0.198 |  |
+| `physics_fixture_set_circle_shape` | 🚫 | GM:S 1.0.198 |  |
+| `physics_fixture_set_collision_group` | 🚫 | GM:S 1.0.198 |  |
+| `physics_fixture_set_density` | 🚫 | GM:S 1.0.198 |  |
+| `physics_fixture_set_friction` | 🚫 | GM:S 1.0.198 |  |
+| `physics_fixture_set_kinematic` | 🚫 | GM:S 1.0.198 |  |
+| `physics_fixture_set_linear_damping` | 🚫 | GM:S 1.0.198 |  |
+| `physics_fixture_set_polygon_shape` | 🚫 | GM:S 1.0.198 |  |
+| `physics_fixture_set_restitution` | 🚫 | GM:S 1.0.198 |  |
+| `physics_fixture_set_sensor` | 🚫 | GM:S 1.0.198 |  |
+| `physics_joint_delete` | 🚫 | GM:S 1.0.198 |  |
+| `physics_joint_distance_create` | 🚫 | GM:S 1.0.198 |  |
+| `physics_joint_enable_motor` | 🚫 | GM:S 1.0.198 |  |
+| `physics_joint_gear_create` | 🚫 | GM:S 1.0.198 |  |
+| `physics_joint_get_value` | 🚫 | GM:S 1.0.198 |  |
+| `physics_joint_prismatic_create` | 🚫 | GM:S 1.0.198 |  |
+| `physics_joint_pulley_create` | 🚫 | GM:S 1.0.198 |  |
+| `physics_joint_revolute_create` | 🚫 | GM:S 1.0.198 |  |
+| `physics_joint_set_value` | 🚫 | GM:S 1.0.198 |  |
+| `physics_mass_properties` | 🚫 | GM:S 1.0.198 |  |
+| `physics_test_overlap` | 🚫 | GM:S 1.0.198 |  |
+| `physics_world_create` | 🚫 | GM:S 1.0.198 |  |
+| `physics_world_draw_debug` | 🚫 | GM:S 1.0.198 |  |
+| `physics_world_gravity` | 🚫 | GM:S 1.0.198 |  |
+| `physics_world_update_iterations` | 🚫 | GM:S 1.0.198 |  |
+| `physics_world_update_speed` | 🚫 | GM:S 1.0.198 |  |
+| `place_empty` | ✅ | GM:S 1.0.198 |  |
+| `place_free` | ✅ | GM:S 1.0.198 |  |
+| `place_meeting` | ✅ | GM:S 1.0.198 |  |
+| `place_snapped` | 🚫 | GM:S 1.0.198 |  |
+| `point_direction` | ✅ | GM:S 1.0.198 |  |
+| `point_distance` | ✅ | GM:S 1.0.198 |  |
+| `point_distance_3d` | 🚫 | GM:S 1.0.198 |  |
+| `position_change` | 🚫 | GM:S 1.0.198 |  |
+| `position_destroy` | 🚫 | GM:S 1.0.198 |  |
+| `position_empty` | 🚫 | GM:S 1.0.198 |  |
+| `position_meeting` | ✅ | GM:S 1.0.198 |  |
+| `power` | ✅ | GM:S 1.0.198 |  |
+| `radtodeg` | ✅ | GM:S 1.0.198 |  |
+| `random` | ✅ | GM:S 1.0.198 |  |
+| `random_get_seed` | 🚫 | GM:S 1.0.198 |  |
+| `random_range` | ✅ | GM:S 1.0.198 |  |
+| `random_set_seed` | 🚫 | GM:S 1.0.198 |  |
+| `randomize` | ✅ | GM:S 1.0.198 |  |
+| `registry_exists` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `registry_exists_ext` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `registry_read_real` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `registry_read_real_ext` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `registry_read_string` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `registry_read_string_ext` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `registry_set_root` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `registry_write_real` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `registry_write_real_ext` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `registry_write_string` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `registry_write_string_ext` | 🚫 | GM:S 1.0.198 | WAD Version 15 |
+| `room_add` | 🚫 | GM:S 1.0.198 |  |
+| `room_assign` | 🚫 | GM:S 1.0.198 |  |
+| `room_duplicate` | 🚫 | GM:S 1.0.198 |  |
+| `room_exists` | ✅ | GM:S 1.0.198 |  |
+| `room_get_name` | ✅ | GM:S 1.0.198 |  |
+| `room_goto` | ✅ | GM:S 1.0.198 |  |
+| `room_goto_next` | ✅ | GM:S 1.0.198 |  |
+| `room_goto_previous` | ✅ | GM:S 1.0.198 |  |
+| `room_instance_add` | 🚫 | GM:S 1.0.198 |  |
+| `room_instance_clear` | 🚫 | GM:S 1.0.198 |  |
+| `room_name` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `room_next` | ✅ | GM:S 1.0.198 |  |
+| `room_previous` | ✅ | GM:S 1.0.198 |  |
+| `room_restart` | ✅ | GM:S 1.0.198 |  |
+| `room_set_background` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `room_set_background_color` | 🚫 | GM:S 1.0.198 |  |
+| `room_set_caption` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `room_set_code` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `room_set_height` | 🚫 | GM:S 1.0.198 |  |
+| `room_set_persistent` | ✅ | GM:S 1.0.198 |  |
+| `room_set_view` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `room_set_view_enabled` | 🚫 | GM:S 1.0.198 |  |
+| `room_set_width` | 🚫 | GM:S 1.0.198 |  |
+| `room_tile_add` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `room_tile_add_ext` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `room_tile_clear` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `round` | ✅ | GM:S 1.0.198 |  |
+| `screen_redraw` | 🚫 | GM:S 1.0.198 | GM:S 1.1.690 |
+| `screen_refresh` | 🚫 | GM:S 1.0.198 | GM:S 1.1.690 |
+| `screen_save` | 🚫 | GM:S 1.0.198 |  |
+| `screen_save_part` | 🚫 | GM:S 1.0.198 |  |
+| `screen_wait_vsync` | 🚫 | GM:S 1.0.198 | GM:S 1.1.690 |
+| `script_execute` | ✅ | GM:S 1.0.198 |  |
+| `script_exists` | 🚫 | GM:S 1.0.198 |  |
+| `script_get_name` | 🚫 | GM:S 1.0.198 |  |
+| `script_get_text` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `script_name` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `set_application_title` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `set_automatic_draw` | 🚫 | GM:S 1.0.198 | GM:S 1.1.690 |
+| `set_program_priority` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `set_synchronization` | 🚫 | GM:S 1.0.198 | GM:S 1.1.690 |
+| `shop_leave_rating` | 🚫 | GM:S 1.0.198 |  |
+| `show_debug_message` | ✅ | GM:S 1.0.198 |  |
+| `show_error` | 🚫 | GM:S 1.0.198 |  |
+| `show_image` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `show_info` | 🚫 | GM:S 1.0.198 |  |
+| `show_menu` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `show_menu_pos` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `show_message` | 🚫 | GM:S 1.0.198 |  |
+| `show_message_ext` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `show_question` | 🚫 | GM:S 1.0.198 |  |
+| `show_text` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `show_video` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sleep` | 🚫 | GM:S 1.0.198 |  |
+| `sound_3d_set_sound_cone` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_3d_set_sound_distance` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_3d_set_sound_position` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_3d_set_sound_velocity` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_add` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_background_tempo` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_delete` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_discard` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_effect_chorus` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_effect_compressor` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_effect_echo` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_effect_equalizer` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_effect_flanger` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_effect_gargle` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_effect_reverb` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_effect_set` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_exists` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_fade` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_get_kind` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_get_name` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_get_preload` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_global_volume` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_isplaying` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_loop` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_name` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_pan` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_play` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_replace` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_restore` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_set_search_directory` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_stop` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_stop_all` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sound_volume` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `splash_set_adapt` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `splash_set_border` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `splash_set_caption` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `splash_set_color` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `splash_set_cursor` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `splash_set_fullscreen` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `splash_set_interrupt` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `splash_set_main` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `splash_set_scale` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `splash_set_size` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `splash_set_stop_key` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `splash_set_stop_mouse` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `splash_set_top` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `splash_show_image` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `splash_show_text` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `splash_show_video` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sprite_add` | ✅ | GM:S 1.0.198 |  |
+| `sprite_add_alpha` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sprite_add_from_screen` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sprite_add_from_surface` | 🚫 | GM:S 1.0.198 |  |
+| `sprite_add_sprite` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sprite_assign` | 🚫 | GM:S 1.0.198 |  |
+| `sprite_collision_mask` | 🚫 | GM:S 1.0.198 |  |
+| `sprite_create_from_screen` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sprite_create_from_surface` | ✅ | GM:S 1.0.198 |  |
+| `sprite_delete` | ✅ | GM:S 1.0.198 |  |
+| `sprite_duplicate` | 🚫 | GM:S 1.0.198 |  |
+| `sprite_exists` | ✅ | GM:S 1.0.198 |  |
+| `sprite_get_bbox_bottom` | 🚫 | GM:S 1.0.198 |  |
+| `sprite_get_bbox_left` | 🚫 | GM:S 1.0.198 |  |
+| `sprite_get_bbox_mode` | 🚫 | GM:S 1.0.198 |  |
+| `sprite_get_bbox_right` | 🚫 | GM:S 1.0.198 |  |
+| `sprite_get_bbox_top` | 🚫 | GM:S 1.0.198 |  |
+| `sprite_get_height` | ✅ | GM:S 1.0.198 |  |
+| `sprite_get_name` | ✅ | GM:S 1.0.198 |  |
+| `sprite_get_number` | ✅ | GM:S 1.0.198 |  |
+| `sprite_get_precise` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sprite_get_preload` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sprite_get_smooth` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sprite_get_texture` | 🚫 | GM:S 1.0.198 |  |
+| `sprite_get_transparent` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sprite_get_width` | ✅ | GM:S 1.0.198 |  |
+| `sprite_get_xoffset` | ✅ | GM:S 1.0.198 |  |
+| `sprite_get_yoffset` | ✅ | GM:S 1.0.198 |  |
+| `sprite_merge` | 🚫 | GM:S 1.0.198 |  |
+| `sprite_name` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sprite_replace` | 🚫 | GM:S 1.0.198 |  |
+| `sprite_replace_alpha` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sprite_replace_sprite` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `sprite_save` | 🚫 | GM:S 1.0.198 |  |
+| `sprite_save_strip` | 🚫 | GM:S 1.0.198 |  |
+| `sprite_set_alpha_from_sprite` | 🚫 | GM:S 1.0.198 |  |
+| `sprite_set_bbox` | 🚫 | GM:S 1.0.198 |  |
+| `sprite_set_bbox_mode` | 🚫 | GM:S 1.0.198 |  |
+| `sprite_set_cache_size` | 🚫 | GM:S 1.0.198 |  |
+| `sprite_set_cache_size_ext` | 🚫 | GM:S 1.0.198 |  |
+| `sprite_set_offset` | ✅ | GM:S 1.0.198 |  |
+| `sprite_set_precise` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `string` | ✅ | GM:S 1.0.198 |  |
+| `string_byte_at` | 🚫 | GM:S 1.0.198 |  |
+| `string_byte_length` | ✅ | GM:S 1.0.198 |  |
+| `string_char_at` | ✅ | GM:S 1.0.198 |  |
+| `string_copy` | ✅ | GM:S 1.0.198 |  |
+| `string_count` | ✅ | GM:S 1.0.198 |  |
+| `string_delete` | ✅ | GM:S 1.0.198 |  |
+| `string_digits` | ✅ | GM:S 1.0.198 |  |
+| `string_format` | ✅ | GM:S 1.0.198 |  |
+| `string_height` | ✅ | GM:S 1.0.198 |  |
+| `string_height_ext` | ✅ | GM:S 1.0.198 |  |
+| `string_insert` | ✅ | GM:S 1.0.198 |  |
+| `string_length` | ✅ | GM:S 1.0.198 |  |
+| `string_letters` | ✅ | GM:S 1.0.198 |  |
+| `string_lettersdigits` | ✅ | GM:S 1.0.198 |  |
+| `string_lower` | ✅ | GM:S 1.0.198 |  |
+| `string_pos` | ✅ | GM:S 1.0.198 |  |
+| `string_repeat` | ✅ | GM:S 1.0.198 |  |
+| `string_replace` | ✅ | GM:S 1.0.198 |  |
+| `string_replace_all` | ✅ | GM:S 1.0.198 |  |
+| `string_upper` | ✅ | GM:S 1.0.198 |  |
+| `string_width` | ✅ | GM:S 1.0.198 |  |
+| `string_width_ext` | ✅ | GM:S 1.0.198 |  |
+| `surface_copy` | ✅ | GM:S 1.0.198 |  |
+| `surface_copy_part` | ✅ | GM:S 1.0.198 |  |
+| `surface_create` | ✅ | GM:S 1.0.198 |  |
+| `surface_exists` | ✅ | GM:S 1.0.198 |  |
+| `surface_free` | ✅ | GM:S 1.0.198 |  |
+| `surface_get_height` | ✅ | GM:S 1.0.198 |  |
+| `surface_get_texture` | 🚫 | GM:S 1.0.198 |  |
+| `surface_get_width` | ✅ | GM:S 1.0.198 |  |
+| `surface_getpixel` | 🚫 | GM:S 1.0.198 |  |
+| `surface_reset_target` | ✅ | GM:S 1.0.198 |  |
+| `surface_save` | 🚫 | GM:S 1.0.198 |  |
+| `surface_save_part` | 🚫 | GM:S 1.0.198 |  |
+| `surface_set_target` | ✅ | GM:S 1.0.198 |  |
+| `texture_exists` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `texture_get_height` | 🚫 | GM:S 1.0.198 |  |
+| `texture_get_width` | 🚫 | GM:S 1.0.198 |  |
+| `texture_preload` | 🚫 | GM:S 1.0.198 |  |
+| `texture_set_blending` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `texture_set_interpolation` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `texture_set_priority` | 🚫 | GM:S 1.0.198 |  |
+| `texture_set_repeat` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `tile_add` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `tile_delete` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `tile_delete_at` | 🚫 | GM:S 1.0.198 | WAD Version 14 |
+| `tile_exists` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `tile_find` | 🚫 | GM:S 1.0.198 | WAD Version 14 |
+| `tile_get_alpha` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `tile_get_background` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `tile_get_blend` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `tile_get_depth` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `tile_get_height` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `tile_get_left` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `tile_get_top` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `tile_get_visible` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `tile_get_width` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `tile_get_x` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `tile_get_xscale` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `tile_get_y` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `tile_get_yscale` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `tile_layer_delete` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `tile_layer_delete_at` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `tile_layer_depth` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `tile_layer_find` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `tile_layer_hide` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `tile_layer_shift` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `tile_layer_show` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `tile_set_alpha` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `tile_set_background` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `tile_set_blend` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `tile_set_depth` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `tile_set_position` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `tile_set_region` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `tile_set_scale` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `tile_set_visible` | ✅ | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `timeline_add` | 🚫 | GM:S 1.0.198 |  |
+| `timeline_delete` | 🚫 | GM:S 1.0.198 |  |
+| `timeline_exists` | ✅ | GM:S 1.0.198 |  |
+| `timeline_get_name` | ✅ | GM:S 1.0.198 |  |
+| `timeline_moment_add` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `timeline_moment_clear` | 🚫 | GM:S 1.0.198 |  |
+| `timeline_name` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `transition_define` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `transition_exists` | 🚫 | GM:S 1.0.198 | GameMaker Version 2024.14.4.268 |
+| `url_open` | 🚫 | GM:S 1.0.198 |  |
+| `url_open_ext` | 🚫 | GM:S 1.0.198 |  |
+| `url_open_full` | 🚫 | GM:S 1.0.198 |  |
+| `variable_global_array2_get` | 🚫 | GM:S 1.0.198 | WAD Version 16 |
+| `variable_global_array2_set` | 🚫 | GM:S 1.0.198 | WAD Version 16 |
+| `variable_global_array_get` | 🚫 | GM:S 1.0.198 | WAD Version 16 |
+| `variable_global_array_set` | 🚫 | GM:S 1.0.198 | WAD Version 16 |
+| `variable_global_exists` | ✅ | GM:S 1.0.198 |  |
+| `variable_global_get` | ✅ | GM:S 1.0.198 |  |
+| `variable_global_set` | ✅ | GM:S 1.0.198 |  |
+| `variable_local_array2_get` | 🚫 | GM:S 1.0.198 | WAD Version 16 |
+| `variable_local_array2_set` | 🚫 | GM:S 1.0.198 | WAD Version 16 |
+| `variable_local_array_get` | 🚫 | GM:S 1.0.198 | WAD Version 16 |
+| `variable_local_array_set` | 🚫 | GM:S 1.0.198 | WAD Version 16 |
+| `variable_local_exists` | 🚫 | GM:S 1.0.198 | WAD Version 16 |
+| `variable_local_get` | 🚫 | GM:S 1.0.198 | WAD Version 16 |
+| `variable_local_set` | 🚫 | GM:S 1.0.198 | WAD Version 16 |
+| `virtual_key_add` | 🚫 | GM:S 1.0.198 |  |
+| `virtual_key_delete` | 🚫 | GM:S 1.0.198 |  |
+| `virtual_key_hide` | 🚫 | GM:S 1.0.198 |  |
+| `virtual_key_show` | 🚫 | GM:S 1.0.198 |  |
+| `window_center` | ✅ | GM:S 1.0.198 |  |
+| `window_default` | 🚫 | GM:S 1.0.198 |  |
+| `window_get_caption` | 🚫 | GM:S 1.0.198 |  |
+| `window_get_color` | 🚫 | GM:S 1.0.198 |  |
+| `window_get_cursor` | 🚫 | GM:S 1.0.198 |  |
+| `window_get_fullscreen` | ✅ | GM:S 1.0.198 |  |
+| `window_get_height` | ✅ | GM:S 1.0.198 |  |
+| `window_get_showborder` | 🚫 | GM:S 1.0.198 |  |
+| `window_get_showicons` | 🚫 | GM:S 1.0.198 |  |
+| `window_get_sizeable` | 🚫 | GM:S 1.0.198 |  |
+| `window_get_stayontop` | 🚫 | GM:S 1.0.198 |  |
+| `window_get_visible` | 🚫 | GM:S 1.0.198 |  |
+| `window_get_width` | ✅ | GM:S 1.0.198 |  |
+| `window_get_x` | 🚫 | GM:S 1.0.198 |  |
+| `window_get_y` | 🚫 | GM:S 1.0.198 |  |
+| `window_handle` | 🚫 | GM:S 1.0.198 |  |
+| `window_mouse_get_x` | 🚫 | GM:S 1.0.198 |  |
+| `window_mouse_get_y` | 🚫 | GM:S 1.0.198 |  |
+| `window_mouse_set` | 🚫 | GM:S 1.0.198 |  |
+| `window_set_caption` | ✅ | GM:S 1.0.198 |  |
+| `window_set_color` | 🚫 | GM:S 1.0.198 |  |
+| `window_set_cursor` | 🚫 | GM:S 1.0.198 |  |
+| `window_set_fullscreen` | ✅ | GM:S 1.0.198 |  |
+| `window_set_position` | 🚫 | GM:S 1.0.198 |  |
+| `window_set_rectangle` | 🚫 | GM:S 1.0.198 |  |
+| `window_set_showborder` | 🚫 | GM:S 1.0.198 |  |
+| `window_set_showicons` | 🚫 | GM:S 1.0.198 |  |
+| `window_set_size` | ✅ | GM:S 1.0.198 |  |
+| `window_set_sizeable` | 🚫 | GM:S 1.0.198 |  |
+| `window_set_stayontop` | 🚫 | GM:S 1.0.198 |  |
+| `window_set_visible` | 🚫 | GM:S 1.0.198 |  |
+| `window_view_mouse_get_x` | 🚫 | GM:S 1.0.198 |  |
+| `window_view_mouse_get_y` | 🚫 | GM:S 1.0.198 |  |
+| `window_view_mouse_set` | 🚫 | GM:S 1.0.198 |  |
+| `window_views_mouse_get_x` | 🚫 | GM:S 1.0.198 |  |
+| `window_views_mouse_get_y` | 🚫 | GM:S 1.0.198 |  |
+| `window_views_mouse_set` | 🚫 | GM:S 1.0.198 |  |
+| `abs` | ✅ | GM:S 1.1.690 |  |
+| `achievement_available` | 🚫 | GM:S 1.1.690 |  |
+| `achievement_login` | 🚫 | GM:S 1.1.690 |  |
+| `achievement_logout` | 🚫 | GM:S 1.1.690 |  |
+| `achievement_post` | 🚫 | GM:S 1.1.690 |  |
+| `achievement_post_score` | 🚫 | GM:S 1.1.690 |  |
+| `ads_engagement_active` | 🚫 | GM:S 1.1.690 | GameMaker Version 2024.14.4.268 |
+| `ads_engagement_available` | 🚫 | GM:S 1.1.690 | GameMaker Version 2024.14.4.268 |
+| `ads_engagement_launch` | 🚫 | GM:S 1.1.690 | GameMaker Version 2024.14.4.268 |
+| `ads_get_display_height` | 🚫 | GM:S 1.1.690 | GameMaker Version 2024.14.4.268 |
+| `ads_get_display_width` | 🚫 | GM:S 1.1.690 | GameMaker Version 2024.14.4.268 |
+| `ads_move` | 🚫 | GM:S 1.1.690 | GameMaker Version 2024.14.4.268 |
+| `ads_setup` | 🚫 | GM:S 1.1.690 | GameMaker Version 2024.14.4.268 |
+| `analytics_event` | 🚫 | GM:S 1.1.690 |  |
+| `analytics_event_ext` | 🚫 | GM:S 1.1.690 |  |
+| `audio_channel_num` | ✅ | GM:S 1.1.690 |  |
+| `audio_emitter_create` | 🚫 | GM:S 1.1.690 |  |
+| `audio_emitter_exists` | 🚫 | GM:S 1.1.690 |  |
+| `audio_emitter_falloff` | 🚫 | GM:S 1.1.690 |  |
+| `audio_emitter_free` | 🚫 | GM:S 1.1.690 |  |
+| `audio_emitter_gain` | 🚫 | GM:S 1.1.690 |  |
+| `audio_emitter_pitch` | 🚫 | GM:S 1.1.690 |  |
+| `audio_emitter_position` | 🚫 | GM:S 1.1.690 |  |
+| `audio_emitter_velocity` | 🚫 | GM:S 1.1.690 |  |
+| `audio_exists` | ✅ | GM:S 1.1.690 |  |
+| `audio_falloff_set_model` | 🚫 | GM:S 1.1.690 |  |
+| `audio_get_type` | 🚫 | GM:S 1.1.690 |  |
+| `audio_is_playing` | ✅ | GM:S 1.1.690 |  |
+| `audio_listener_orientation` | 🚫 | GM:S 1.1.690 |  |
+| `audio_listener_position` | 🚫 | GM:S 1.1.690 |  |
+| `audio_listener_velocity` | 🚫 | GM:S 1.1.690 |  |
+| `audio_master_gain` | ✅ | GM:S 1.1.690 |  |
+| `audio_pause_all` | ✅ | GM:S 1.1.690 |  |
+| `audio_pause_music` | 🚫 | GM:S 1.1.690 |  |
+| `audio_pause_sound` | ✅ | GM:S 1.1.690 |  |
+| `audio_play_music` | ✅ | GM:S 1.1.690 |  |
+| `audio_play_sound` | ✅ | GM:S 1.1.690 |  |
+| `audio_play_sound_at` | 🚫 | GM:S 1.1.690 |  |
+| `audio_play_sound_on` | 🚫 | GM:S 1.1.690 |  |
+| `audio_resume_all` | ✅ | GM:S 1.1.690 |  |
+| `audio_resume_music` | 🚫 | GM:S 1.1.690 |  |
+| `audio_resume_sound` | ✅ | GM:S 1.1.690 |  |
+| `audio_sound_length` | ✅ | GM:S 1.1.690 |  |
+| `audio_stop_all` | ✅ | GM:S 1.1.690 |  |
+| `audio_stop_music` | ✅ | GM:S 1.1.690 |  |
+| `audio_stop_sound` | ✅ | GM:S 1.1.690 |  |
+| `background_replace_alpha` | 🚫 | GM:S 1.1.690 | GameMaker Version 2024.14.4.268 |
+| `background_replace_background` | 🚫 | GM:S 1.1.690 | GameMaker Version 2024.14.4.268 |
+| `base64_decode` | ✅ | GM:S 1.1.690 |  |
+| `base64_encode` | ✅ | GM:S 1.1.690 |  |
+| `ceil` | ✅ | GM:S 1.1.690 |  |
+| `chr` | ✅ | GM:S 1.1.690 |  |
+| `clickable_add` | 🚫 | GM:S 1.1.690 |  |
+| `clickable_add_ext` | 🚫 | GM:S 1.1.690 |  |
+| `clickable_change` | 🚫 | GM:S 1.1.690 |  |
+| `clickable_change_ext` | 🚫 | GM:S 1.1.690 |  |
+| `clickable_delete` | 🚫 | GM:S 1.1.690 |  |
+| `cos` | ✅ | GM:S 1.1.690 |  |
+| `device_mouse_dbclick_enable` | 🚫 | GM:S 1.1.690 |  |
+| `display_get_dpi_x` | 🚫 | GM:S 1.1.690 |  |
+| `display_get_dpi_y` | 🚫 | GM:S 1.1.690 |  |
+| `display_get_gui_height` | ✅ | GM:S 1.1.690 |  |
+| `display_get_gui_width` | ✅ | GM:S 1.1.690 |  |
+| `display_set_gui_size` | ✅ | GM:S 1.1.690 |  |
+| `draw_sprite_pos` | ✅ | GM:S 1.1.690 |  |
+| `exp` | 🚫 | GM:S 1.1.690 |  |
+| `facebook_launch_offerwall` | 🚫 | GM:S 1.1.690 | GameMaker Version 2024.14.4.268 |
+| `facebook_post_message` | 🚫 | GM:S 1.1.690 | GameMaker Version 2024.14.4.268 |
+| `facebook_send_invite` | 🚫 | GM:S 1.1.690 | GameMaker Version 2024.14.4.268 |
+| `font_add_sprite_ext` | ✅ | GM:S 1.1.690 |  |
+| `font_replace_sprite_ext` | 🚫 | GM:S 1.1.690 |  |
+| `font_set_cache_size` | 🚫 | GM:S 1.1.690 |  |
+| `frac` | ✅ | GM:S 1.1.690 |  |
+| `get_integer_async` | 🚫 | GM:S 1.1.690 |  |
+| `get_open_filename_ext` | 🚫 | GM:S 1.1.690 |  |
+| `get_save_filename_ext` | 🚫 | GM:S 1.1.690 |  |
+| `get_string_async` | 🚫 | GM:S 1.1.690 |  |
+| `iap_activate` | 🚫 | GM:S 1.1.690 |  |
+| `iap_consume` | 🚫 | GM:S 1.1.690 |  |
+| `iap_event_queue` | 🚫 | GM:S 1.1.690 | GameMaker Version 2024.14.4.268 |
+| `iap_files_purchased` | 🚫 | GM:S 1.1.690 | GameMaker Version 2024.14.4.268 |
+| `iap_is_downloaded` | 🚫 | GM:S 1.1.690 | GameMaker Version 2024.14.4.268 |
+| `iap_product_details` | 🚫 | GM:S 1.1.690 |  |
+| `iap_product_files` | 🚫 | GM:S 1.1.690 | GameMaker Version 2024.14.4.268 |
+| `iap_product_status` | 🚫 | GM:S 1.1.690 | GameMaker Version 2024.14.4.268 |
+| `iap_restore_all` | 🚫 | GM:S 1.1.690 |  |
+| `iap_status` | 🚫 | GM:S 1.1.690 |  |
+| `iap_store_status` | 🚫 | GM:S 1.1.690 | GameMaker Version 2024.14.4.268 |
+| `lerp` | ✅ | GM:S 1.1.690 |  |
+| `ln` | 🚫 | GM:S 1.1.690 |  |
+| `log2` | ✅ | GM:S 1.1.690 |  |
+| `logn` | 🚫 | GM:S 1.1.690 |  |
+| `max` | ✅ | GM:S 1.1.690 |  |
+| `max3` | 🚫 | GM:S 1.1.690 | GameMaker Version 2024.14.4.268 |
+| `md5_file` | 🚫 | GM:S 1.1.690 |  |
+| `md5_string_unicode` | 🚫 | GM:S 1.1.690 |  |
+| `md5_string_utf8` | 🚫 | GM:S 1.1.690 |  |
+| `mean` | 🚫 | GM:S 1.1.690 |  |
+| `min` | ✅ | GM:S 1.1.690 |  |
+| `min3` | 🚫 | GM:S 1.1.690 | GameMaker Version 2024.14.4.268 |
+| `ord` | ✅ | GM:S 1.1.690 |  |
+| `os_get_language` | ✅ | GM:S 1.1.690 |  |
+| `os_is_network_connected` | 🚫 | GM:S 1.1.690 |  |
+| `os_lock_orientation` | 🚫 | GM:S 1.1.690 |  |
+| `os_powersave_enable` | 🚫 | GM:S 1.1.690 |  |
+| `path_rescale` | 🚫 | GM:S 1.1.690 |  |
+| `physics_fixture_set_awake` | 🚫 | GM:S 1.1.690 |  |
+| `physics_pause_enable` | 🚫 | GM:S 1.1.690 |  |
+| `pocketchange_display_reward` | 🚫 | GM:S 1.1.690 | WAD Version 16 |
+| `pocketchange_display_shop` | 🚫 | GM:S 1.1.690 | WAD Version 16 |
+| `real` | ✅ | GM:S 1.1.690 |  |
+| `sha1_file` | 🚫 | GM:S 1.1.690 |  |
+| `sha1_string_unicode` | 🚫 | GM:S 1.1.690 |  |
+| `sha1_string_utf8` | 🚫 | GM:S 1.1.690 |  |
+| `show_message_async` | 🚫 | GM:S 1.1.690 |  |
+| `show_question_async` | 🚫 | GM:S 1.1.690 |  |
+| `sign` | ✅ | GM:S 1.1.690 |  |
+| `sin` | ✅ | GM:S 1.1.690 |  |
+| `sprite_get_tpe` | 🚫 | GM:S 1.1.690 |  |
+| `sqr` | ✅ | GM:S 1.1.690 |  |
+| `sqrt` | ✅ | GM:S 1.1.690 |  |
+| `tan` | 🚫 | GM:S 1.1.690 |  |
+| `url_get_domain` | 🚫 | GM:S 1.1.690 |  |
+| `win8_appbar_add_element` | 🚫 | GM:S 1.1.690 |  |
+| `win8_appbar_enable` | 🚫 | GM:S 1.1.690 |  |
+| `win8_appbar_remove_element` | 🚫 | GM:S 1.1.690 |  |
+| `win8_device_touchscreen_available` | 🚫 | GM:S 1.1.690 |  |
+| `win8_livetile_badge_clear` | 🚫 | GM:S 1.1.690 |  |
+| `win8_livetile_badge_notification` | 🚫 | GM:S 1.1.690 |  |
+| `win8_livetile_queue_enable` | 🚫 | GM:S 1.1.690 |  |
+| `win8_livetile_tile_clear` | 🚫 | GM:S 1.1.690 |  |
+| `win8_livetile_tile_notification` | 🚫 | GM:S 1.1.690 |  |
+| `win8_search_add_suggestions` | 🚫 | GM:S 1.1.690 |  |
+| `win8_search_disable` | 🚫 | GM:S 1.1.690 |  |
+| `win8_search_enable` | 🚫 | GM:S 1.1.690 |  |
+| `win8_secondarytile_badge_notification` | 🚫 | GM:S 1.1.690 |  |
+| `win8_secondarytile_delete` | 🚫 | GM:S 1.1.690 |  |
+| `win8_secondarytile_notification` | 🚫 | GM:S 1.1.690 | GM:S 1.1.1130 |
+| `win8_secondarytile_pin` | 🚫 | GM:S 1.1.690 |  |
+| `win8_settingscharm_add_entry` | 🚫 | GM:S 1.1.690 |  |
+| `win8_settingscharm_add_html_entry` | 🚫 | GM:S 1.1.690 |  |
+| `win8_settingscharm_remove_entry` | 🚫 | GM:S 1.1.690 |  |
+| `win8_share_file` | 🚫 | GM:S 1.1.690 |  |
+| `win8_share_image` | 🚫 | GM:S 1.1.690 |  |
+| `win8_share_screenshot` | 🚫 | GM:S 1.1.690 |  |
+| `win8_share_text` | 🚫 | GM:S 1.1.690 |  |
+| `win8_share_url` | 🚫 | GM:S 1.1.690 |  |
+| `winphone_tile_back_content` | 🚫 | GM:S 1.1.690 |  |
+| `winphone_tile_back_image` | 🚫 | GM:S 1.1.690 |  |
+| `winphone_tile_back_title` | 🚫 | GM:S 1.1.690 |  |
+| `winphone_tile_background_color` | 🚫 | GM:S 1.1.690 |  |
+| `winphone_tile_count` | 🚫 | GM:S 1.1.690 |  |
+| `winphone_tile_cycle_images` | 🚫 | GM:S 1.1.690 |  |
+| `winphone_tile_front_image` | 🚫 | GM:S 1.1.690 |  |
+| `winphone_tile_icon_image` | 🚫 | GM:S 1.1.690 |  |
+| `winphone_tile_small_background_image` | 🚫 | GM:S 1.1.690 |  |
+| `winphone_tile_small_icon_image` | 🚫 | GM:S 1.1.690 |  |
+| `winphone_tile_title` | 🚫 | GM:S 1.1.690 |  |
+| `winphone_tile_wide_content` | 🚫 | GM:S 1.1.690 |  |
+| `achievement_show_achievements` | 🚫 | GM:S 1.1.827 |  |
+| `achievement_show_leaderboards` | 🚫 | GM:S 1.1.827 |  |
+| `ads_interstitial_available` | 🚫 | GM:S 1.1.827 | GameMaker Version 2024.14.4.268 |
+| `ads_interstitial_display` | 🚫 | GM:S 1.1.827 | GameMaker Version 2024.14.4.268 |
+| `asset_get_index` | ✅ | GM:S 1.1.827 |  |
+| `asset_get_type` | 🚫 | GM:S 1.1.827 |  |
+| `audio_music_gain` | ✅ | GM:S 1.1.827 |  |
+| `audio_sound_gain` | ✅ | GM:S 1.1.827 |  |
+| `audio_sound_pitch` | ✅ | GM:S 1.1.827 |  |
+| `audio_system` | 🚫 | GM:S 1.1.827 |  |
+| `buffer_base64_decode` | ✅ | GM:S 1.1.827 |  |
+| `buffer_base64_decode_ex` | 🚫 | GM:S 1.1.827 | GM:S 1.1.867 |
+| `buffer_base64_encode` | ✅ | GM:S 1.1.827 |  |
+| `buffer_copy` | 🚫 | GM:S 1.1.827 |  |
+| `buffer_create` | ✅ | GM:S 1.1.827 |  |
+| `buffer_delete` | ✅ | GM:S 1.1.827 |  |
+| `buffer_fill` | 🚫 | GM:S 1.1.827 |  |
+| `buffer_get_size` | ✅ | GM:S 1.1.827 |  |
+| `buffer_get_surface` | ✅ | GM:S 1.1.827 |  |
+| `buffer_load` | ✅ | GM:S 1.1.827 |  |
+| `buffer_load_ex` | 🚫 | GM:S 1.1.827 | GM:S 1.1.867 |
+| `buffer_md5` | ✅ | GM:S 1.1.827 |  |
+| `buffer_peek` | 🚫 | GM:S 1.1.827 |  |
+| `buffer_poke` | 🚫 | GM:S 1.1.827 |  |
+| `buffer_read` | ✅ | GM:S 1.1.827 |  |
+| `buffer_resize` | 🚫 | GM:S 1.1.827 |  |
+| `buffer_save` | ✅ | GM:S 1.1.827 |  |
+| `buffer_save_ex` | 🚫 | GM:S 1.1.827 | GM:S 1.1.867 |
+| `buffer_seek` | ✅ | GM:S 1.1.827 |  |
+| `buffer_sha1` | ✅ | GM:S 1.1.827 |  |
+| `buffer_sizeof` | 🚫 | GM:S 1.1.827 |  |
+| `buffer_tell` | ✅ | GM:S 1.1.827 |  |
+| `buffer_write` | ✅ | GM:S 1.1.827 |  |
+| `cloud_file_save` | 🚫 | GM:S 1.1.827 |  |
+| `cloud_string_save` | 🚫 | GM:S 1.1.827 |  |
+| `cloud_synchronise` | 🚫 | GM:S 1.1.827 |  |
+| `d3d_set_zwriteenable` | 🚫 | GM:S 1.1.827 | GameMaker Version 2024.14.4.268 |
+| `draw_get_alpha_test` | 🚫 | GM:S 1.1.827 | GameMaker Version 2024.14.4.268 |
+| `draw_get_alpha_test_ref_value` | 🚫 | GM:S 1.1.827 | GameMaker Version 2024.14.4.268 |
+| `draw_set_alpha_test` | ✅ | GM:S 1.1.827 | GameMaker Version 2024.14.4.268 |
+| `draw_set_alpha_test_ref_value` | ✅ | GM:S 1.1.827 | GameMaker Version 2024.14.4.268 |
+| `draw_set_color_write_enable` | ✅ | GM:S 1.1.827 | GameMaker Version 2024.14.4.268 |
+| `facebook_accesstoken` | 🚫 | GM:S 1.1.827 | GameMaker Version 2024.14.4.268 |
+| `facebook_user_id` | 🚫 | GM:S 1.1.827 | GameMaker Version 2024.14.4.268 |
+| `file_text_eoln` | 🚫 | GM:S 1.1.827 |  |
+| `gamepad_axis_count` | ✅ | GM:S 1.1.827 |  |
+| `gamepad_axis_value` | ✅ | GM:S 1.1.827 |  |
+| `gamepad_button_check` | ✅ | GM:S 1.1.827 |  |
+| `gamepad_button_check_pressed` | ✅ | GM:S 1.1.827 |  |
+| `gamepad_button_check_released` | ✅ | GM:S 1.1.827 |  |
+| `gamepad_button_count` | ✅ | GM:S 1.1.827 |  |
+| `gamepad_button_value` | ✅ | GM:S 1.1.827 |  |
+| `gamepad_get_axis_deadzone` | ✅ | GM:S 1.1.827 |  |
+| `gamepad_get_button_threshold` | ✅ | GM:S 1.1.827 |  |
+| `gamepad_get_description` | ✅ | GM:S 1.1.827 |  |
+| `gamepad_get_device_count` | ✅ | GM:S 1.1.827 |  |
+| `gamepad_is_connected` | ✅ | GM:S 1.1.827 |  |
+| `gamepad_is_supported` | ✅ | GM:S 1.1.827 |  |
+| `gamepad_set_axis_deadzone` | ✅ | GM:S 1.1.827 |  |
+| `gamepad_set_button_threshold` | ✅ | GM:S 1.1.827 |  |
+| `immersion_play_effect` | 🚫 | GM:S 1.1.827 | WAD Version 16 |
+| `immersion_stop` | 🚫 | GM:S 1.1.827 | WAD Version 16 |
+| `math_set_epsilon` | 🚫 | GM:S 1.1.827 |  |
+| `string_set_byte_at` | 🚫 | GM:S 1.1.827 |  |
+| `win8_license_initialize_sandbox` | 🚫 | GM:S 1.1.827 |  |
+| `win8_license_trial_version` | 🚫 | GM:S 1.1.827 |  |
+| `winphone_tile_back_content_wide` | 🚫 | GM:S 1.1.827 |  |
+| `winphone_tile_back_image_wide` | 🚫 | GM:S 1.1.827 |  |
+| `winphone_tile_front_image_small` | 🚫 | GM:S 1.1.827 |  |
+| `winphone_tile_front_image_wide` | 🚫 | GM:S 1.1.827 |  |
+| `buffer_base64_decode_ext` | 🚫 | GM:S 1.1.867 |  |
+| `buffer_load_ext` | 🚫 | GM:S 1.1.867 |  |
+| `buffer_save_ext` | ✅ | GM:S 1.1.867 |  |
+| `buffer_set_surface` | 🚫 | GM:S 1.1.867 |  |
+| `draw_enable_drawevent` | 🚫 | GM:S 1.1.867 |  |
+| `gamepad_set_vibration` | 🚫 | GM:S 1.1.867 |  |
+| `network_connect` | 🚫 | GM:S 1.1.867 |  |
+| `network_connect_raw` | 🚫 | GM:S 1.1.867 |  |
+| `network_create_server` | 🚫 | GM:S 1.1.867 |  |
+| `network_create_socket` | 🚫 | GM:S 1.1.867 |  |
+| `network_destroy` | 🚫 | GM:S 1.1.867 |  |
+| `network_receive_packet` | 🚫 | GM:S 1.1.867 | WAD Version 15 |
+| `network_resolve` | 🚫 | GM:S 1.1.867 |  |
+| `network_send_broadcast` | 🚫 | GM:S 1.1.867 |  |
+| `network_send_packet` | 🚫 | GM:S 1.1.867 |  |
+| `network_send_raw` | 🚫 | GM:S 1.1.867 |  |
+| `network_send_udp` | 🚫 | GM:S 1.1.867 |  |
+| `network_set_timeout` | 🚫 | GM:S 1.1.867 |  |
+| `achievement_get_challenges` | 🚫 | GM:S 1.1.1130 |  |
+| `achievement_get_pic` | 🚫 | GM:S 1.1.1130 |  |
+| `achievement_load_friends` | 🚫 | GM:S 1.1.1130 |  |
+| `achievement_load_leaderboard` | 🚫 | GM:S 1.1.1130 |  |
+| `achievement_load_progress` | 🚫 | GM:S 1.1.1130 |  |
+| `achievement_login_status` | 🚫 | GM:S 1.1.1130 |  |
+| `achievement_reset` | 🚫 | GM:S 1.1.1130 |  |
+| `achievement_send_challenge` | 🚫 | GM:S 1.1.1130 |  |
+| `achievement_show_challenge_notifications` | 🚫 | GM:S 1.1.1130 |  |
+| `action_colour` | ✅ | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `action_fill_colour` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `action_line_colour` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `action_parttype_colour` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `action_sprite_colour` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `ads_event` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `ads_event_preload` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `ads_set_reward_callback` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `array_height_2d` | ✅ | GM:S 1.1.1130 |  |
+| `array_length_1d` | ✅ | GM:S 1.1.1130 |  |
+| `array_length_2d` | ✅ | GM:S 1.1.1130 |  |
+| `audio_music_is_playing` | ✅ | GM:S 1.1.1130 |  |
+| `background_get_uvs` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `code_is_compiled` | 🚫 | GM:S 1.1.1130 |  |
+| `colour_get_blue` | ✅ | GM:S 1.1.1130 |  |
+| `colour_get_green` | ✅ | GM:S 1.1.1130 |  |
+| `colour_get_hue` | ✅ | GM:S 1.1.1130 |  |
+| `colour_get_red` | ✅ | GM:S 1.1.1130 |  |
+| `colour_get_saturation` | ✅ | GM:S 1.1.1130 |  |
+| `colour_get_value` | ✅ | GM:S 1.1.1130 |  |
+| `d3d_model_vertex_colour` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `d3d_model_vertex_normal_texture_colour` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `d3d_model_vertex_texture_colour` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `d3d_vertex_colour` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `d3d_vertex_normal_colour` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `d3d_vertex_normal_texture_colour` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `d3d_vertex_texture_colour` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `draw_circle_colour` | 🚫 | GM:S 1.1.1130 |  |
+| `draw_ellipse_colour` | 🚫 | GM:S 1.1.1130 |  |
+| `draw_get_colour` | ✅ | GM:S 1.1.1130 |  |
+| `draw_line_colour` | ✅ | GM:S 1.1.1130 |  |
+| `draw_line_width_colour` | ✅ | GM:S 1.1.1130 |  |
+| `draw_point_colour` | 🚫 | GM:S 1.1.1130 |  |
+| `draw_rectangle_colour` | ✅ | GM:S 1.1.1130 |  |
+| `draw_roundrect_colour` | 🚫 | GM:S 1.1.1130 |  |
+| `draw_set_colour` | ✅ | GM:S 1.1.1130 |  |
+| `draw_text_colour` | ✅ | GM:S 1.1.1130 |  |
+| `draw_text_ext_colour` | 🚫 | GM:S 1.1.1130 |  |
+| `draw_text_ext_transformed_colour` | 🚫 | GM:S 1.1.1130 |  |
+| `draw_text_transformed_colour` | 🚫 | GM:S 1.1.1130 |  |
+| `draw_triangle_colour` | 🚫 | GM:S 1.1.1130 |  |
+| `draw_vertex_colour` | 🚫 | GM:S 1.1.1130 |  |
+| `ds_grid_sort` | 🚫 | GM:S 1.1.1130 |  |
+| `file_text_open_from_string` | 🚫 | GM:S 1.1.1130 |  |
+| `font_get_texture` | 🚫 | GM:S 1.1.1130 |  |
+| `font_get_uvs` | 🚫 | GM:S 1.1.1130 |  |
+| `game_load_buffer` | 🚫 | GM:S 1.1.1130 |  |
+| `game_save_buffer` | 🚫 | GM:S 1.1.1130 |  |
+| `ini_open_from_string` | 🚫 | GM:S 1.1.1130 |  |
+| `is_array` | ✅ | GM:S 1.1.1130 |  |
+| `make_colour` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `make_colour_hsv` | ✅ | GM:S 1.1.1130 |  |
+| `make_colour_rgb` | ✅ | GM:S 1.1.1130 |  |
+| `merge_colour` | ✅ | GM:S 1.1.1130 |  |
+| `physics_fixture_set_edge_shape` | 🚫 | GM:S 1.1.1130 |  |
+| `playhaven_add_notification_badge` | 🚫 | GM:S 1.1.1130 | WAD Version 16 |
+| `playhaven_hide_notification_badge` | 🚫 | GM:S 1.1.1130 | WAD Version 16 |
+| `playhaven_position_notification_badge` | 🚫 | GM:S 1.1.1130 | WAD Version 16 |
+| `playhaven_update_notification_badge` | 🚫 | GM:S 1.1.1130 | WAD Version 16 |
+| `shader_enable_corner_id` | 🚫 | GM:S 1.1.1130 |  |
+| `shader_get_sampler_index` | 🚫 | GM:S 1.1.1130 |  |
+| `shader_get_uniform` | 🚫 | GM:S 1.1.1130 |  |
+| `shader_is_compiled` | 🚫 | GM:S 1.1.1130 |  |
+| `shader_reset` | 🚫 | GM:S 1.1.1130 |  |
+| `shader_set` | 🚫 | GM:S 1.1.1130 |  |
+| `shader_set_uniform_f` | 🚫 | GM:S 1.1.1130 |  |
+| `shader_set_uniform_f_array` | 🚫 | GM:S 1.1.1130 |  |
+| `shader_set_uniform_i` | 🚫 | GM:S 1.1.1130 |  |
+| `shader_set_uniform_i_array` | 🚫 | GM:S 1.1.1130 |  |
+| `shader_set_uniform_matrix` | 🚫 | GM:S 1.1.1130 |  |
+| `shader_set_uniform_matrix_array` | 🚫 | GM:S 1.1.1130 |  |
+| `shaders_are_supported` | 🚫 | GM:S 1.1.1130 |  |
+| `show_debug_overlay` | 🚫 | GM:S 1.1.1130 |  |
+| `sprite_get_uvs` | 🚫 | GM:S 1.1.1130 |  |
+| `steam_activate_overlay` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_clear_achievement` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_create_leaderboard` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_download_friends_scores` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_download_scores` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_download_scores_around_user` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_file_delete` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_file_exists` | ✅ | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_file_persisted` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_file_read` | ✅ | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_file_share` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_file_size` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_file_write` | ✅ | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_file_write_file` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_get_achievement` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_get_persona_name` | ✅ | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_get_quota_free` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_get_quota_total` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_get_stat_avg_rate` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_get_stat_float` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_get_stat_int` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_get_user_steam_id` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_initialised` | ✅ | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_is_cloud_enabled_for_account` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_is_cloud_enabled_for_app` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_is_overlay_activated` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_is_overlay_enabled` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_is_screenshot_requested` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_is_user_logged_on` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_publish_workshop_file` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_reset_all_stats` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_reset_all_stats_achievements` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_send_screenshot` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_set_achievement` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_set_stat_avg_rate` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_set_stat_float` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_set_stat_int` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_stats_ready` | ✅ | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_upload_score` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_user_installed_dlc` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `steam_user_owns_dlc` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `surface_set_target_ext` | 🚫 | GM:S 1.1.1130 |  |
+| `texture_get_texel_height` | 🚫 | GM:S 1.1.1130 |  |
+| `texture_get_texel_width` | 🚫 | GM:S 1.1.1130 |  |
+| `texture_set_interpolation_ext` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `texture_set_repeat_ext` | 🚫 | GM:S 1.1.1130 | GameMaker Version 2024.14.4.268 |
+| `texture_set_stage` | 🚫 | GM:S 1.1.1130 |  |
+| `vertex_argb` | 🚫 | GM:S 1.1.1130 |  |
+| `vertex_begin` | 🚫 | GM:S 1.1.1130 |  |
+| `vertex_colour` | 🚫 | GM:S 1.1.1130 |  |
+| `vertex_create_buffer` | 🚫 | GM:S 1.1.1130 |  |
+| `vertex_create_buffer_ext` | 🚫 | GM:S 1.1.1130 |  |
+| `vertex_delete_buffer` | 🚫 | GM:S 1.1.1130 |  |
+| `vertex_end` | 🚫 | GM:S 1.1.1130 |  |
+| `vertex_float1` | 🚫 | GM:S 1.1.1130 |  |
+| `vertex_float2` | 🚫 | GM:S 1.1.1130 |  |
+| `vertex_float3` | 🚫 | GM:S 1.1.1130 |  |
+| `vertex_float4` | 🚫 | GM:S 1.1.1130 |  |
+| `vertex_format_add_colour` | 🚫 | GM:S 1.1.1130 |  |
+| `vertex_format_add_custom` | 🚫 | GM:S 1.1.1130 |  |
+| `vertex_format_add_normal` | 🚫 | GM:S 1.1.1130 |  |
+| `vertex_format_add_position` | 🚫 | GM:S 1.1.1130 |  |
+| `vertex_format_add_position_3d` | 🚫 | GM:S 1.1.1130 |  |
+| `vertex_format_add_textcoord` | 🚫 | GM:S 1.1.1130 |  |
+| `vertex_format_begin` | 🚫 | GM:S 1.1.1130 |  |
+| `vertex_format_end` | 🚫 | GM:S 1.1.1130 |  |
+| `vertex_freeze` | 🚫 | GM:S 1.1.1130 |  |
+| `vertex_normal` | 🚫 | GM:S 1.1.1130 |  |
+| `vertex_position` | 🚫 | GM:S 1.1.1130 |  |
+| `vertex_position_3d` | 🚫 | GM:S 1.1.1130 |  |
+| `vertex_submit` | 🚫 | GM:S 1.1.1130 |  |
+| `vertex_texcoord` | 🚫 | GM:S 1.1.1130 |  |
+| `vertex_ubyte4` | 🚫 | GM:S 1.1.1130 |  |
+| `win8_livetile_notification_begin` | 🚫 | GM:S 1.1.1130 |  |
+| `win8_livetile_notification_end` | 🚫 | GM:S 1.1.1130 |  |
+| `win8_livetile_notification_expiry` | 🚫 | GM:S 1.1.1130 |  |
+| `win8_livetile_notification_image_add` | 🚫 | GM:S 1.1.1130 |  |
+| `win8_livetile_notification_secondary_begin` | 🚫 | GM:S 1.1.1130 |  |
+| `win8_livetile_notification_tag` | 🚫 | GM:S 1.1.1130 |  |
+| `win8_livetile_notification_text_add` | 🚫 | GM:S 1.1.1130 |  |
+| `window_get_colour` | 🚫 | GM:S 1.1.1130 |  |
+| `window_has_focus` | ✅ | GM:S 1.1.1130 |  |
+| `window_set_colour` | 🚫 | GM:S 1.1.1130 |  |
+| `winphone_license_trial_version` | 🚫 | GM:S 1.1.1130 |  |
+| `achievement_event` | 🚫 | WAD Version 14 |  |
+| `achievement_get_info` | 🚫 | WAD Version 14 |  |
+| `achievement_increment` | 🚫 | WAD Version 14 |  |
+| `achievement_show` | 🚫 | WAD Version 14 |  |
+| `angle_difference` | ✅ | WAD Version 14 |  |
+| `application_get_position` | 🚫 | WAD Version 14 |  |
+| `application_surface_draw_enable` | ✅ | WAD Version 14 |  |
+| `application_surface_enable` | ✅ | WAD Version 14 |  |
+| `application_surface_is_enabled` | 🚫 | WAD Version 14 |  |
+| `array_get` | ✅ | WAD Version 14 |  |
+| `array_get_2D` | 🚫 | WAD Version 14 | GameMaker Version 2024.14.4.268 |
+| `array_set` | 🚫 | WAD Version 14 |  |
+| `array_set_2D` | 🚫 | WAD Version 14 |  |
+| `array_set_2D_post` | 🚫 | WAD Version 14 |  |
+| `array_set_2D_pre` | 🚫 | WAD Version 14 |  |
+| `array_set_post` | 🚫 | WAD Version 14 |  |
+| `array_set_pre` | 🚫 | WAD Version 14 |  |
+| `audio_create_buffer_sound` | 🚫 | WAD Version 14 |  |
+| `audio_create_play_queue` | 🚫 | WAD Version 14 |  |
+| `audio_emitter_get_gain` | 🚫 | WAD Version 14 |  |
+| `audio_emitter_get_listener_mask` | 🚫 | WAD Version 14 |  |
+| `audio_emitter_get_pitch` | 🚫 | WAD Version 14 |  |
+| `audio_emitter_get_vx` | 🚫 | WAD Version 14 |  |
+| `audio_emitter_get_vy` | 🚫 | WAD Version 14 |  |
+| `audio_emitter_get_vz` | 🚫 | WAD Version 14 |  |
+| `audio_emitter_get_x` | 🚫 | WAD Version 14 |  |
+| `audio_emitter_get_y` | 🚫 | WAD Version 14 |  |
+| `audio_emitter_get_z` | 🚫 | WAD Version 14 |  |
+| `audio_emitter_set_listener_mask` | 🚫 | WAD Version 14 |  |
+| `audio_free_buffer_sound` | 🚫 | WAD Version 14 |  |
+| `audio_free_play_queue` | 🚫 | WAD Version 14 |  |
+| `audio_get_listener_count` | 🚫 | WAD Version 14 |  |
+| `audio_get_listener_info` | 🚫 | WAD Version 14 |  |
+| `audio_get_listener_mask` | 🚫 | WAD Version 14 |  |
+| `audio_get_master_gain` | 🚫 | WAD Version 14 |  |
+| `audio_get_name` | 🚫 | WAD Version 14 |  |
+| `audio_get_recorder_count` | 🚫 | WAD Version 14 |  |
+| `audio_get_recorder_info` | 🚫 | WAD Version 14 |  |
+| `audio_group_is_loaded` | ✅ | WAD Version 14 |  |
+| `audio_group_load` | ✅ | WAD Version 14 |  |
+| `audio_group_load_progress` | 🚫 | WAD Version 14 |  |
+| `audio_group_name` | 🚫 | WAD Version 14 |  |
+| `audio_group_set_gain` | 🚫 | WAD Version 14 |  |
+| `audio_group_stop_all` | 🚫 | WAD Version 14 |  |
+| `audio_group_unload` | 🚫 | WAD Version 14 |  |
+| `audio_is_paused` | ✅ | WAD Version 14 |  |
+| `audio_listener_get_data` | 🚫 | WAD Version 14 |  |
+| `audio_listener_set_orientation` | 🚫 | WAD Version 14 |  |
+| `audio_listener_set_position` | 🚫 | WAD Version 14 |  |
+| `audio_listener_set_velocity` | 🚫 | WAD Version 14 |  |
+| `audio_queue_sound` | 🚫 | WAD Version 14 |  |
+| `audio_set_listener_mask` | 🚫 | WAD Version 14 |  |
+| `audio_set_master_gain` | 🚫 | WAD Version 14 |  |
+| `audio_sound_get_gain` | ✅ | WAD Version 14 |  |
+| `audio_sound_get_listener_mask` | 🚫 | WAD Version 14 |  |
+| `audio_sound_get_pitch` | ✅ | WAD Version 14 |  |
+| `audio_sound_get_track_position` | ✅ | WAD Version 14 |  |
+| `audio_sound_set_listener_mask` | 🚫 | WAD Version 14 |  |
+| `audio_sound_set_track_position` | ✅ | WAD Version 14 |  |
+| `audio_start_recording` | 🚫 | WAD Version 14 |  |
+| `audio_stop_recording` | 🚫 | WAD Version 14 |  |
+| `background_create_colour` | 🚫 | WAD Version 14 | GameMaker Version 2024.14.4.268 |
+| `buffer_async_group_begin` | 🚫 | WAD Version 14 |  |
+| `buffer_async_group_end` | 🚫 | WAD Version 14 |  |
+| `buffer_async_group_option` | 🚫 | WAD Version 14 |  |
+| `buffer_copy_from_vertex_buffer` | 🚫 | WAD Version 14 |  |
+| `buffer_create_from_vertex_buffer` | 🚫 | WAD Version 14 |  |
+| `buffer_create_from_vertex_buffer_ext` | 🚫 | WAD Version 14 |  |
+| `buffer_get_address` | 🚫 | WAD Version 14 |  |
+| `buffer_load_async` | 🚫 | WAD Version 14 |  |
+| `buffer_load_partial` | 🚫 | WAD Version 14 |  |
+| `buffer_save_async` | 🚫 | WAD Version 14 |  |
+| `clickable_exists` | 🚫 | WAD Version 14 |  |
+| `clickable_set_style` | 🚫 | WAD Version 14 |  |
+| `d3d_transform_vertex` | 🚫 | WAD Version 14 | GameMaker Version 2024.14.4.268 |
+| `darccos` | 🚫 | WAD Version 14 |  |
+| `darcsin` | 🚫 | WAD Version 14 |  |
+| `darctan` | ✅ | WAD Version 14 |  |
+| `darctan2` | ✅ | WAD Version 14 |  |
+| `date_get_timezone` | 🚫 | WAD Version 14 |  |
+| `date_set_timezone` | 🚫 | WAD Version 14 |  |
+| `dcos` | ✅ | WAD Version 14 |  |
+| `device_mouse_x_to_gui` | 🚫 | WAD Version 14 |  |
+| `device_mouse_y_to_gui` | 🚫 | WAD Version 14 |  |
+| `directory_destroy` | ✅ | WAD Version 14 |  |
+| `display_set_gui_maximise` | ✅ | WAD Version 14 |  |
+| `draw_enable_swf_aa` | 🚫 | WAD Version 14 |  |
+| `draw_get_swf_aa_level` | 🚫 | WAD Version 14 |  |
+| `draw_getpixel_ext` | 🚫 | WAD Version 14 |  |
+| `draw_roundrect_color_ext` | 🚫 | WAD Version 14 |  |
+| `draw_roundrect_colour_ext` | 🚫 | WAD Version 14 |  |
+| `draw_roundrect_ext` | 🚫 | WAD Version 14 |  |
+| `draw_set_colour_write_enable` | ✅ | WAD Version 14 | GameMaker Version 2024.14.4.268 |
+| `draw_set_swf_aa_level` | 🚫 | WAD Version 14 |  |
+| `draw_skeleton` | 🚫 | WAD Version 14 |  |
+| `draw_skeleton_collision` | 🚫 | WAD Version 14 |  |
+| `draw_skeleton_time` | 🚫 | WAD Version 14 |  |
+| `draw_vertex_texture_colour` | 🚫 | WAD Version 14 |  |
+| `ds_exists` | 🚫 | WAD Version 14 |  |
+| `ds_grid_set_post` | 🚫 | WAD Version 14 |  |
+| `ds_grid_set_pre` | 🚫 | WAD Version 14 |  |
+| `ds_list_mark_as_list` | 🚫 | WAD Version 14 |  |
+| `ds_list_mark_as_map` | 🚫 | WAD Version 14 |  |
+| `ds_list_set` | 🚫 | WAD Version 14 |  |
+| `ds_list_set_post` | 🚫 | WAD Version 14 |  |
+| `ds_list_set_pre` | 🚫 | WAD Version 14 |  |
+| `ds_map_add_list` | 🚫 | WAD Version 14 |  |
+| `ds_map_add_map` | 🚫 | WAD Version 14 |  |
+| `ds_map_replace_list` | 🚫 | WAD Version 14 |  |
+| `ds_map_replace_map` | 🚫 | WAD Version 14 |  |
+| `ds_map_secure_load` | 🚫 | WAD Version 14 |  |
+| `ds_map_secure_save` | 🚫 | WAD Version 14 |  |
+| `ds_map_set` | ✅ | WAD Version 14 |  |
+| `ds_map_set_post` | 🚫 | WAD Version 14 |  |
+| `ds_map_set_pre` | 🚫 | WAD Version 14 |  |
+| `dsin` | ✅ | WAD Version 14 |  |
+| `dtan` | 🚫 | WAD Version 14 |  |
+| `extension_stubfunc_real` | 🚫 | WAD Version 14 |  |
+| `extension_stubfunc_string` | 🚫 | WAD Version 14 |  |
+| `facebook_check_permission` | 🚫 | WAD Version 14 | GameMaker Version 2024.14.4.268 |
+| `facebook_request_publish_permissions` | 🚫 | WAD Version 14 | GameMaker Version 2024.14.4.268 |
+| `facebook_request_read_permissions` | 🚫 | WAD Version 14 | GameMaker Version 2024.14.4.268 |
+| `frustum_build` | 🚫 | WAD Version 14 | GameMaker Version 2024.14.4.268 |
+| `frustum_test_sphere` | 🚫 | WAD Version 14 | GameMaker Version 2024.14.4.268 |
+| `gamepad_set_color` | 🚫 | WAD Version 14 |  |
+| `gamepad_set_colour` | 🚫 | WAD Version 14 |  |
+| `gml_release_mode` | 🚫 | WAD Version 14 |  |
+| `http_get_file` | 🚫 | WAD Version 14 |  |
+| `http_request` | 🚫 | WAD Version 14 |  |
+| `iap_enumerate_products` | 🚫 | WAD Version 14 |  |
+| `iap_purchase_details` | 🚫 | WAD Version 14 |  |
+| `is_int32` | ✅ | WAD Version 14 |  |
+| `is_int64` | ✅ | WAD Version 14 |  |
+| `is_matrix` | 🚫 | WAD Version 14 | GameMaker Version 2024.14.4.268 |
+| `is_ptr` | 🚫 | WAD Version 14 |  |
+| `is_undefined` | ✅ | WAD Version 14 |  |
+| `is_vec3` | 🚫 | WAD Version 14 | GameMaker Version 2024.14.4.268 |
+| `is_vec4` | 🚫 | WAD Version 14 | GameMaker Version 2024.14.4.268 |
+| `matrix_build` | 🚫 | WAD Version 14 |  |
+| `matrix_get` | 🚫 | WAD Version 14 |  |
+| `matrix_multiply` | ✅ | WAD Version 14 |  |
+| `matrix_set` | 🚫 | WAD Version 14 |  |
+| `mp_grid_get_cell` | ✅ | WAD Version 14 |  |
+| `mp_grid_to_ds_grid` | 🚫 | WAD Version 14 |  |
+| `object_get_physics` | 🚫 | WAD Version 14 |  |
+| `os_get_info` | 🚫 | WAD Version 14 |  |
+| `os_get_region` | ✅ | WAD Version 14 |  |
+| `part_particles_create_colour` | 🚫 | WAD Version 14 |  |
+| `part_type_colour` | 🚫 | WAD Version 14 | GameMaker Version 2024.14.4.268 |
+| `part_type_colour1` | 🚫 | WAD Version 14 |  |
+| `part_type_colour2` | 🚫 | WAD Version 14 |  |
+| `part_type_colour3` | 🚫 | WAD Version 14 |  |
+| `part_type_colour_hsv` | 🚫 | WAD Version 14 |  |
+| `part_type_colour_mix` | 🚫 | WAD Version 14 |  |
+| `part_type_colour_rgb` | 🚫 | WAD Version 14 |  |
+| `physics_apply_angular_impulse` | 🚫 | WAD Version 14 |  |
+| `physics_fixture_bind_ext` | 🚫 | WAD Version 14 |  |
+| `physics_fixture_set_chain_shape` | 🚫 | WAD Version 14 |  |
+| `physics_get_density` | 🚫 | WAD Version 14 |  |
+| `physics_get_friction` | 🚫 | WAD Version 14 |  |
+| `physics_get_restitution` | 🚫 | WAD Version 14 |  |
+| `physics_joint_friction_create` | 🚫 | WAD Version 14 |  |
+| `physics_joint_rope_create` | 🚫 | WAD Version 14 |  |
+| `physics_joint_weld_create` | 🚫 | WAD Version 14 |  |
+| `physics_joint_wheel_create` | 🚫 | WAD Version 14 |  |
+| `physics_particle_count` | 🚫 | WAD Version 14 |  |
+| `physics_particle_create` | 🚫 | WAD Version 14 |  |
+| `physics_particle_delete` | 🚫 | WAD Version 14 |  |
+| `physics_particle_delete_region_box` | 🚫 | WAD Version 14 |  |
+| `physics_particle_delete_region_circle` | 🚫 | WAD Version 14 |  |
+| `physics_particle_delete_region_poly` | 🚫 | WAD Version 14 |  |
+| `physics_particle_draw` | 🚫 | WAD Version 14 |  |
+| `physics_particle_draw_ext` | 🚫 | WAD Version 14 |  |
+| `physics_particle_get_damping` | 🚫 | WAD Version 14 |  |
+| `physics_particle_get_data` | 🚫 | WAD Version 14 |  |
+| `physics_particle_get_data_particle` | 🚫 | WAD Version 14 |  |
+| `physics_particle_get_density` | 🚫 | WAD Version 14 |  |
+| `physics_particle_get_gravity_scale` | 🚫 | WAD Version 14 |  |
+| `physics_particle_get_group_flags` | 🚫 | WAD Version 14 |  |
+| `physics_particle_get_max_count` | 🚫 | WAD Version 14 |  |
+| `physics_particle_get_radius` | 🚫 | WAD Version 14 |  |
+| `physics_particle_group_add_point` | 🚫 | WAD Version 14 |  |
+| `physics_particle_group_begin` | 🚫 | WAD Version 14 |  |
+| `physics_particle_group_box` | 🚫 | WAD Version 14 |  |
+| `physics_particle_group_circle` | 🚫 | WAD Version 14 |  |
+| `physics_particle_group_count` | 🚫 | WAD Version 14 |  |
+| `physics_particle_group_delete` | 🚫 | WAD Version 14 |  |
+| `physics_particle_group_end` | 🚫 | WAD Version 14 |  |
+| `physics_particle_group_get_ang_vel` | 🚫 | WAD Version 14 |  |
+| `physics_particle_group_get_angle` | 🚫 | WAD Version 14 |  |
+| `physics_particle_group_get_centre_x` | 🚫 | WAD Version 14 |  |
+| `physics_particle_group_get_centre_y` | 🚫 | WAD Version 14 |  |
+| `physics_particle_group_get_data` | 🚫 | WAD Version 14 |  |
+| `physics_particle_group_get_inertia` | 🚫 | WAD Version 14 |  |
+| `physics_particle_group_get_mass` | 🚫 | WAD Version 14 |  |
+| `physics_particle_group_get_vel_x` | 🚫 | WAD Version 14 |  |
+| `physics_particle_group_get_vel_y` | 🚫 | WAD Version 14 |  |
+| `physics_particle_group_get_x` | 🚫 | WAD Version 14 |  |
+| `physics_particle_group_get_y` | 🚫 | WAD Version 14 |  |
+| `physics_particle_group_join` | 🚫 | WAD Version 14 |  |
+| `physics_particle_group_polygon` | 🚫 | WAD Version 14 |  |
+| `physics_particle_set_category_flags` | 🚫 | WAD Version 14 |  |
+| `physics_particle_set_damping` | 🚫 | WAD Version 14 |  |
+| `physics_particle_set_density` | 🚫 | WAD Version 14 |  |
+| `physics_particle_set_flags` | 🚫 | WAD Version 14 |  |
+| `physics_particle_set_gravity_scale` | 🚫 | WAD Version 14 |  |
+| `physics_particle_set_group_flags` | 🚫 | WAD Version 14 |  |
+| `physics_particle_set_max_count` | 🚫 | WAD Version 14 |  |
+| `physics_particle_set_radius` | 🚫 | WAD Version 14 |  |
+| `physics_remove_fixture` | 🚫 | WAD Version 14 |  |
+| `physics_set_density` | 🚫 | WAD Version 14 |  |
+| `physics_set_friction` | 🚫 | WAD Version 14 |  |
+| `physics_set_restitution` | 🚫 | WAD Version 14 |  |
+| `player_launch_args` | 🚫 | WAD Version 14 | WAD Version 15 |
+| `player_restarted` | 🚫 | WAD Version 14 | WAD Version 15 |
+| `player_run` | 🚫 | WAD Version 14 | WAD Version 15 |
+| `point_in_circle` | ✅ | WAD Version 14 |  |
+| `point_in_rectangle` | ✅ | WAD Version 14 |  |
+| `point_in_triangle` | 🚫 | WAD Version 14 |  |
+| `ps4_share_screenshot_enable` | 🚫 | WAD Version 14 |  |
+| `ps4_share_video_enable` | 🚫 | WAD Version 14 |  |
+| `push_cancel_local_notification` | 🚫 | WAD Version 14 |  |
+| `push_get_first_local_notification` | 🚫 | WAD Version 14 |  |
+| `push_get_next_local_notification` | 🚫 | WAD Version 14 |  |
+| `push_local_notification` | 🚫 | WAD Version 14 |  |
+| `rectangle_in_circle` | 🚫 | WAD Version 14 |  |
+| `rectangle_in_rectangle` | ✅ | WAD Version 14 |  |
+| `rectangle_in_triangle` | 🚫 | WAD Version 14 |  |
+| `room_set_background_colour` | 🚫 | WAD Version 14 |  |
+| `skeleton_animation_clear` | 🚫 | WAD Version 14 |  |
+| `skeleton_animation_get` | 🚫 | WAD Version 14 |  |
+| `skeleton_animation_get_duration` | 🚫 | WAD Version 14 |  |
+| `skeleton_animation_get_ext` | 🚫 | WAD Version 14 |  |
+| `skeleton_animation_list` | 🚫 | WAD Version 14 |  |
+| `skeleton_animation_mix` | 🚫 | WAD Version 14 |  |
+| `skeleton_animation_set` | 🚫 | WAD Version 14 |  |
+| `skeleton_animation_set_ext` | 🚫 | WAD Version 14 |  |
+| `skeleton_attachment_create` | 🚫 | WAD Version 14 |  |
+| `skeleton_attachment_get` | 🚫 | WAD Version 14 |  |
+| `skeleton_attachment_set` | 🚫 | WAD Version 14 |  |
+| `skeleton_bone_data_get` | 🚫 | WAD Version 14 |  |
+| `skeleton_bone_data_set` | 🚫 | WAD Version 14 |  |
+| `skeleton_bone_state_get` | 🚫 | WAD Version 14 |  |
+| `skeleton_bone_state_set` | 🚫 | WAD Version 14 |  |
+| `skeleton_collision_draw_set` | 🚫 | WAD Version 14 |  |
+| `skeleton_skin_get` | 🚫 | WAD Version 14 |  |
+| `skeleton_skin_list` | 🚫 | WAD Version 14 |  |
+| `skeleton_skin_set` | 🚫 | WAD Version 14 |  |
+| `skeleton_slot_data` | 🚫 | WAD Version 14 |  |
+| `string_ord_at` | 🚫 | WAD Version 14 |  |
+| `surface_create_ext` | 🚫 | WAD Version 14 |  |
+| `surface_getpixel_ext` | 🚫 | WAD Version 14 |  |
+| `surface_resize` | ✅ | WAD Version 14 |  |
+| `tile_get_count` | 🚫 | WAD Version 14 | GameMaker Version 2024.14.4.268 |
+| `tile_get_id` | 🚫 | WAD Version 14 | GameMaker Version 2024.14.4.268 |
+| `tile_get_ids` | 🚫 | WAD Version 14 | GameMaker Version 2024.14.4.268 |
+| `tile_get_ids_at_depth` | ✅ | WAD Version 14 | GameMaker Version 2024.14.4.268 |
+| `timeline_clear` | 🚫 | WAD Version 14 |  |
+| `timeline_max_moment` | ✅ | WAD Version 14 |  |
+| `timeline_moment_add_script` | 🚫 | WAD Version 14 |  |
+| `timeline_size` | ✅ | WAD Version 14 |  |
+| `vertex_create_buffer_from_buffer` | 🚫 | WAD Version 14 |  |
+| `vertex_create_buffer_from_buffer_ext` | 🚫 | WAD Version 14 |  |
+| `vertex_get_number` | 🚫 | WAD Version 14 |  |
+| `win8_settingscharm_add_xaml_entry` | 🚫 | WAD Version 14 |  |
+| `win8_settingscharm_get_xaml_property` | 🚫 | WAD Version 14 |  |
+| `win8_settingscharm_set_xaml_property` | 🚫 | WAD Version 14 |  |
+| `window_device` | 🚫 | WAD Version 14 |  |
+| `winphone_tile_background_colour` | 🚫 | WAD Version 14 |  |
+| `zip_unzip` | 🚫 | WAD Version 14 |  |
+| `$ERROR` | 🚫 | WAD Version 15 |  |
+| `@@ForInIterator@@` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `@@ForInIteratorDelete@@` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `@@ForInIteratorGetNext@@` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `@@GlobalScope@@` | 🚫 | WAD Version 15 |  |
+| `@@NewArray@@` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `@@NewGMLArray@@` | ✅ | WAD Version 15 |  |
+| `@@NewObject@@` | 🚫 | WAD Version 15 |  |
+| `@@NewProperty@@` | 🚫 | WAD Version 15 |  |
+| `@@Other@@` | ✅ | WAD Version 15 |  |
+| `@@This@@` | ✅ | WAD Version 15 |  |
+| `@@delete@@` | 🚫 | WAD Version 15 |  |
+| `@@finish_catch@@` | 🚫 | WAD Version 15 |  |
+| `@@finish_finally@@` | 🚫 | WAD Version 15 |  |
+| `@@instanceof@@` | 🚫 | WAD Version 15 |  |
+| `@@new@@` | 🚫 | WAD Version 15 |  |
+| `@@script_ref@@` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `@@throw@@` | 🚫 | WAD Version 15 |  |
+| `@@try_hook@@` | 🚫 | WAD Version 15 |  |
+| `@@try_unhook@@` | 🚫 | WAD Version 15 |  |
+| `@@typeof@@` | 🚫 | WAD Version 15 |  |
+| `ERROR` | 🚫 | WAD Version 15 |  |
+| `F_GPIO_Set_Function` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `alarm_get` | ✅ | WAD Version 15 |  |
+| `alarm_set` | ✅ | WAD Version 15 |  |
+| `audio_create_stream` | ✅ | WAD Version 15 |  |
+| `audio_create_sync_group` | 🚫 | WAD Version 15 |  |
+| `audio_debug` | 🚫 | WAD Version 15 |  |
+| `audio_delete` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `audio_destroy_stream` | ✅ | WAD Version 15 |  |
+| `audio_destroy_sync_group` | 🚫 | WAD Version 15 |  |
+| `audio_pause_sync_group` | 🚫 | WAD Version 15 |  |
+| `audio_play_in_sync_group` | 🚫 | WAD Version 15 |  |
+| `audio_resume_sync_group` | 🚫 | WAD Version 15 |  |
+| `audio_start_sync_group` | 🚫 | WAD Version 15 |  |
+| `audio_stop_sync_group` | 🚫 | WAD Version 15 |  |
+| `audio_sync_group_debug` | 🚫 | WAD Version 15 |  |
+| `audio_sync_group_get_track_pos` | 🚫 | WAD Version 15 |  |
+| `audio_sync_group_is_playing` | 🚫 | WAD Version 15 |  |
+| `background_flush` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `background_flush_multi` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `background_prefetch` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `background_prefetch_multi` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `browser_input_capture` | 🚫 | WAD Version 15 |  |
+| `buffer_exists` | 🚫 | WAD Version 15 |  |
+| `camera_apply` | 🚫 | WAD Version 15 |  |
+| `camera_create` | 🚫 | WAD Version 15 |  |
+| `camera_create_view` | 🚫 | WAD Version 15 |  |
+| `camera_destroy` | 🚫 | WAD Version 15 |  |
+| `camera_get_active` | 🚫 | WAD Version 15 |  |
+| `camera_get_begin_script` | 🚫 | WAD Version 15 |  |
+| `camera_get_default` | 🚫 | WAD Version 15 |  |
+| `camera_get_end_script` | 🚫 | WAD Version 15 |  |
+| `camera_get_proj_mat` | 🚫 | WAD Version 15 |  |
+| `camera_get_update_script` | 🚫 | WAD Version 15 |  |
+| `camera_get_view_angle` | 🚫 | WAD Version 15 |  |
+| `camera_get_view_border_x` | ✅ | WAD Version 15 |  |
+| `camera_get_view_border_y` | ✅ | WAD Version 15 |  |
+| `camera_get_view_height` | ✅ | WAD Version 15 |  |
+| `camera_get_view_mat` | 🚫 | WAD Version 15 |  |
+| `camera_get_view_speed_x` | 🚫 | WAD Version 15 |  |
+| `camera_get_view_speed_y` | 🚫 | WAD Version 15 |  |
+| `camera_get_view_target` | ✅ | WAD Version 15 |  |
+| `camera_get_view_width` | ✅ | WAD Version 15 |  |
+| `camera_get_view_x` | ✅ | WAD Version 15 |  |
+| `camera_get_view_y` | ✅ | WAD Version 15 |  |
+| `camera_set_begin_script` | 🚫 | WAD Version 15 |  |
+| `camera_set_default` | 🚫 | WAD Version 15 |  |
+| `camera_set_end_script` | 🚫 | WAD Version 15 |  |
+| `camera_set_proj_mat` | 🚫 | WAD Version 15 |  |
+| `camera_set_update_script` | 🚫 | WAD Version 15 |  |
+| `camera_set_view_angle` | 🚫 | WAD Version 15 |  |
+| `camera_set_view_border` | ✅ | WAD Version 15 |  |
+| `camera_set_view_mat` | 🚫 | WAD Version 15 |  |
+| `camera_set_view_pos` | ✅ | WAD Version 15 |  |
+| `camera_set_view_size` | 🚫 | WAD Version 15 |  |
+| `camera_set_view_speed` | 🚫 | WAD Version 15 |  |
+| `camera_set_view_target` | ✅ | WAD Version 15 |  |
+| `d3d_model_vertex_normal_colour` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `debug_event` | 🚫 | WAD Version 15 |  |
+| `display_get_windows_alternate_sync` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `display_get_windows_vertex_buffer_method` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `display_set_ui_visibility` | 🚫 | WAD Version 15 |  |
+| `display_set_windows_alternate_sync` | 🚫 | WAD Version 15 |  |
+| `display_set_windows_vertex_buffer_method` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `draw_flush` | 🚫 | WAD Version 15 |  |
+| `draw_get_lighting` | 🚫 | WAD Version 15 |  |
+| `draw_light_define_ambient` | 🚫 | WAD Version 15 |  |
+| `draw_light_define_direction` | 🚫 | WAD Version 15 |  |
+| `draw_light_define_point` | 🚫 | WAD Version 15 |  |
+| `draw_light_enable` | 🚫 | WAD Version 15 |  |
+| `draw_light_get` | 🚫 | WAD Version 15 |  |
+| `draw_light_get_ambient` | 🚫 | WAD Version 15 |  |
+| `draw_set_lighting` | 🚫 | WAD Version 15 |  |
+| `draw_tile` | 🚫 | WAD Version 15 |  |
+| `ds_map_secure_load_buffer` | 🚫 | WAD Version 15 |  |
+| `ds_map_secure_save_buffer` | 🚫 | WAD Version 15 |  |
+| `game_get_speed` | ✅ | WAD Version 15 |  |
+| `game_set_speed` | 🚫 | WAD Version 15 |  |
+| `gpio_clear` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `gpio_get` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `gpio_set` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `gpio_set_mode` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `gpu_get_alphatestenable` | 🚫 | WAD Version 15 |  |
+| `gpu_get_alphatestfunc` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `gpu_get_alphatestref` | 🚫 | WAD Version 15 |  |
+| `gpu_get_blendenable` | 🚫 | WAD Version 15 |  |
+| `gpu_get_blendmode` | 🚫 | WAD Version 15 |  |
+| `gpu_get_blendmode_dest` | 🚫 | WAD Version 15 |  |
+| `gpu_get_blendmode_destalpha` | 🚫 | WAD Version 15 |  |
+| `gpu_get_blendmode_ext` | 🚫 | WAD Version 15 |  |
+| `gpu_get_blendmode_ext_sepalpha` | 🚫 | WAD Version 15 |  |
+| `gpu_get_blendmode_src` | 🚫 | WAD Version 15 |  |
+| `gpu_get_blendmode_srcalpha` | 🚫 | WAD Version 15 |  |
+| `gpu_get_colorwriteenable` | 🚫 | WAD Version 15 |  |
+| `gpu_get_cullmode` | 🚫 | WAD Version 15 |  |
+| `gpu_get_fog` | 🚫 | WAD Version 15 |  |
+| `gpu_get_state` | 🚫 | WAD Version 15 |  |
+| `gpu_get_texfilter` | 🚫 | WAD Version 15 |  |
+| `gpu_get_texfilter_ext` | 🚫 | WAD Version 15 |  |
+| `gpu_get_texrepeat` | 🚫 | WAD Version 15 |  |
+| `gpu_get_texrepeat_ext` | 🚫 | WAD Version 15 |  |
+| `gpu_get_zfunc` | 🚫 | WAD Version 15 |  |
+| `gpu_get_ztestenable` | 🚫 | WAD Version 15 |  |
+| `gpu_get_zwriteenable` | 🚫 | WAD Version 15 |  |
+| `gpu_pop_state` | 🚫 | WAD Version 15 |  |
+| `gpu_push_state` | 🚫 | WAD Version 15 |  |
+| `gpu_set_alphatestenable` | 🚫 | WAD Version 15 |  |
+| `gpu_set_alphatestfunc` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `gpu_set_alphatestref` | 🚫 | WAD Version 15 |  |
+| `gpu_set_blendenable` | 🚫 | WAD Version 15 |  |
+| `gpu_set_blendmode` | 🚫 | WAD Version 15 |  |
+| `gpu_set_blendmode_ext` | 🚫 | WAD Version 15 |  |
+| `gpu_set_blendmode_ext_sepalpha` | 🚫 | WAD Version 15 |  |
+| `gpu_set_colorwriteenable` | 🚫 | WAD Version 15 |  |
+| `gpu_set_cullmode` | 🚫 | WAD Version 15 |  |
+| `gpu_set_fog` | 🚫 | WAD Version 15 |  |
+| `gpu_set_state` | 🚫 | WAD Version 15 |  |
+| `gpu_set_texfilter` | 🚫 | WAD Version 15 |  |
+| `gpu_set_texfilter_ext` | 🚫 | WAD Version 15 |  |
+| `gpu_set_texrepeat` | 🚫 | WAD Version 15 |  |
+| `gpu_set_texrepeat_ext` | 🚫 | WAD Version 15 |  |
+| `gpu_set_zfunc` | 🚫 | WAD Version 15 |  |
+| `gpu_set_ztestenable` | 🚫 | WAD Version 15 |  |
+| `gpu_set_zwriteenable` | 🚫 | WAD Version 15 |  |
+| `instance_create_depth` | ✅ | WAD Version 15 |  |
+| `instance_create_layer` | ✅ | WAD Version 15 |  |
+| `instance_id_get` | 🚫 | WAD Version 15 |  |
+| `int64` | 🚫 | WAD Version 15 |  |
+| `is_bool` | ✅ | WAD Version 15 |  |
+| `layer_add_instance` | 🚫 | WAD Version 15 |  |
+| `layer_background_alpha` | ✅ | WAD Version 15 |  |
+| `layer_background_blend` | ✅ | WAD Version 15 |  |
+| `layer_background_change` | ✅ | WAD Version 15 |  |
+| `layer_background_create` | ✅ | WAD Version 15 |  |
+| `layer_background_destroy` | 🚫 | WAD Version 15 |  |
+| `layer_background_exists` | ✅ | WAD Version 15 |  |
+| `layer_background_get_alpha` | 🚫 | WAD Version 15 |  |
+| `layer_background_get_blend` | 🚫 | WAD Version 15 |  |
+| `layer_background_get_htiled` | 🚫 | WAD Version 15 |  |
+| `layer_background_get_id` | ✅ | WAD Version 15 |  |
+| `layer_background_get_index` | 🚫 | WAD Version 15 |  |
+| `layer_background_get_speed` | 🚫 | WAD Version 15 |  |
+| `layer_background_get_sprite` | 🚫 | WAD Version 15 |  |
+| `layer_background_get_visible` | 🚫 | WAD Version 15 |  |
+| `layer_background_get_vtiled` | 🚫 | WAD Version 15 |  |
+| `layer_background_get_xscale` | 🚫 | WAD Version 15 |  |
+| `layer_background_get_yscale` | 🚫 | WAD Version 15 |  |
+| `layer_background_htiled` | ✅ | WAD Version 15 |  |
+| `layer_background_index` | 🚫 | WAD Version 15 |  |
+| `layer_background_speed` | 🚫 | WAD Version 15 |  |
+| `layer_background_visible` | ✅ | WAD Version 15 |  |
+| `layer_background_vtiled` | ✅ | WAD Version 15 |  |
+| `layer_background_xscale` | ✅ | WAD Version 15 |  |
+| `layer_background_yscale` | ✅ | WAD Version 15 |  |
+| `layer_create` | ✅ | WAD Version 15 |  |
+| `layer_depth` | ✅ | WAD Version 15 |  |
+| `layer_destroy` | ✅ | WAD Version 15 |  |
+| `layer_element_move` | 🚫 | WAD Version 15 |  |
+| `layer_exists` | ✅ | WAD Version 15 |  |
+| `layer_force_draw_depth` | ✅ | WAD Version 15 |  |
+| `layer_get_all` | ✅ | WAD Version 15 |  |
+| `layer_get_all_elements` | ✅ | WAD Version 15 |  |
+| `layer_get_depth` | ✅ | WAD Version 15 |  |
+| `layer_get_element_layer` | 🚫 | WAD Version 15 |  |
+| `layer_get_element_type` | ✅ | WAD Version 15 |  |
+| `layer_get_forced_depth` | ✅ | WAD Version 15 |  |
+| `layer_get_hspeed` | ✅ | WAD Version 15 |  |
+| `layer_get_id` | ✅ | WAD Version 15 |  |
+| `layer_get_name` | ✅ | WAD Version 15 |  |
+| `layer_get_script_begin` | 🚫 | WAD Version 15 |  |
+| `layer_get_script_end` | 🚫 | WAD Version 15 |  |
+| `layer_get_shader` | 🚫 | WAD Version 15 |  |
+| `layer_get_target_room` | 🚫 | WAD Version 15 |  |
+| `layer_get_visible` | ✅ | WAD Version 15 |  |
+| `layer_get_vspeed` | ✅ | WAD Version 15 |  |
+| `layer_get_x` | ✅ | WAD Version 15 |  |
+| `layer_get_y` | ✅ | WAD Version 15 |  |
+| `layer_has_instance` | 🚫 | WAD Version 15 |  |
+| `layer_hspeed` | ✅ | WAD Version 15 |  |
+| `layer_is_draw_depth_forced` | ✅ | WAD Version 15 |  |
+| `layer_remove_instance` | 🚫 | WAD Version 15 | WAD Version 16 |
+| `layer_reset_target_room` | 🚫 | WAD Version 15 |  |
+| `layer_script_begin` | 🚫 | WAD Version 15 |  |
+| `layer_script_end` | 🚫 | WAD Version 15 |  |
+| `layer_set_target_room` | 🚫 | WAD Version 15 |  |
+| `layer_set_visible` | ✅ | WAD Version 15 |  |
+| `layer_shader` | 🚫 | WAD Version 15 |  |
+| `layer_sprite_alpha` | 🚫 | WAD Version 15 |  |
+| `layer_sprite_angle` | 🚫 | WAD Version 15 |  |
+| `layer_sprite_blend` | 🚫 | WAD Version 15 |  |
+| `layer_sprite_change` | 🚫 | WAD Version 15 |  |
+| `layer_sprite_create` | 🚫 | WAD Version 15 |  |
+| `layer_sprite_destroy` | ✅ | WAD Version 15 |  |
+| `layer_sprite_exists` | 🚫 | WAD Version 15 |  |
+| `layer_sprite_get_alpha` | 🚫 | WAD Version 15 |  |
+| `layer_sprite_get_angle` | ✅ | WAD Version 15 |  |
+| `layer_sprite_get_blend` | 🚫 | WAD Version 15 |  |
+| `layer_sprite_get_id` | 🚫 | WAD Version 15 |  |
+| `layer_sprite_get_index` | ✅ | WAD Version 15 |  |
+| `layer_sprite_get_speed` | ✅ | WAD Version 15 |  |
+| `layer_sprite_get_sprite` | ✅ | WAD Version 15 |  |
+| `layer_sprite_get_x` | ✅ | WAD Version 15 |  |
+| `layer_sprite_get_xscale` | ✅ | WAD Version 15 |  |
+| `layer_sprite_get_y` | ✅ | WAD Version 15 |  |
+| `layer_sprite_get_yscale` | ✅ | WAD Version 15 |  |
+| `layer_sprite_index` | 🚫 | WAD Version 15 |  |
+| `layer_sprite_speed` | 🚫 | WAD Version 15 |  |
+| `layer_sprite_x` | 🚫 | WAD Version 15 |  |
+| `layer_sprite_xscale` | 🚫 | WAD Version 15 |  |
+| `layer_sprite_y` | 🚫 | WAD Version 15 |  |
+| `layer_sprite_yscale` | 🚫 | WAD Version 15 |  |
+| `layer_tile_alpha` | ✅ | WAD Version 15 |  |
+| `layer_tile_blend` | 🚫 | WAD Version 15 |  |
+| `layer_tile_change` | 🚫 | WAD Version 15 |  |
+| `layer_tile_create` | 🚫 | WAD Version 15 |  |
+| `layer_tile_destroy` | 🚫 | WAD Version 15 |  |
+| `layer_tile_exists` | 🚫 | WAD Version 15 |  |
+| `layer_tile_get_alpha` | 🚫 | WAD Version 15 |  |
+| `layer_tile_get_blend` | 🚫 | WAD Version 15 |  |
+| `layer_tile_get_region` | 🚫 | WAD Version 15 |  |
+| `layer_tile_get_sprite` | 🚫 | WAD Version 15 |  |
+| `layer_tile_get_visible` | 🚫 | WAD Version 15 |  |
+| `layer_tile_get_x` | 🚫 | WAD Version 15 |  |
+| `layer_tile_get_xscale` | 🚫 | WAD Version 15 |  |
+| `layer_tile_get_y` | 🚫 | WAD Version 15 |  |
+| `layer_tile_get_yscale` | 🚫 | WAD Version 15 |  |
+| `layer_tile_region` | 🚫 | WAD Version 15 |  |
+| `layer_tile_visible` | ✅ | WAD Version 15 |  |
+| `layer_tile_x` | 🚫 | WAD Version 15 |  |
+| `layer_tile_xscale` | 🚫 | WAD Version 15 |  |
+| `layer_tile_y` | 🚫 | WAD Version 15 |  |
+| `layer_tile_yscale` | 🚫 | WAD Version 15 |  |
+| `layer_tilemap_create` | 🚫 | WAD Version 15 |  |
+| `layer_tilemap_destroy` | 🚫 | WAD Version 15 |  |
+| `layer_tilemap_exists` | 🚫 | WAD Version 15 |  |
+| `layer_tilemap_get_id` | ✅ | WAD Version 15 |  |
+| `layer_vspeed` | ✅ | WAD Version 15 |  |
+| `layer_x` | ✅ | WAD Version 15 |  |
+| `layer_y` | ✅ | WAD Version 15 |  |
+| `load_csv` | 🚫 | WAD Version 15 |  |
+| `matchmaking_add_create_param` | 🚫 | WAD Version 15 |  |
+| `matchmaking_add_find_param` | 🚫 | WAD Version 15 |  |
+| `matchmaking_join_invite` | 🚫 | WAD Version 15 |  |
+| `matchmaking_reset_create_params` | 🚫 | WAD Version 15 |  |
+| `matchmaking_reset_find_params` | 🚫 | WAD Version 15 |  |
+| `matchmaking_send_invites` | 🚫 | WAD Version 15 |  |
+| `matchmaking_session_create` | 🚫 | WAD Version 15 |  |
+| `matchmaking_session_find` | 🚫 | WAD Version 15 |  |
+| `matchmaking_session_get_owner` | 🚫 | WAD Version 15 |  |
+| `matchmaking_session_get_users` | 🚫 | WAD Version 15 |  |
+| `matchmaking_session_join` | 🚫 | WAD Version 15 |  |
+| `matchmaking_session_leave` | 🚫 | WAD Version 15 |  |
+| `matchmaking_session_set_closed` | 🚫 | WAD Version 15 |  |
+| `matchmaking_session_set_open` | 🚫 | WAD Version 15 |  |
+| `matchmaking_session_update` | 🚫 | WAD Version 15 |  |
+| `matchmaking_start` | 🚫 | WAD Version 15 |  |
+| `matchmaking_stop` | 🚫 | WAD Version 15 |  |
+| `matchmaking_tick_invites` | 🚫 | WAD Version 15 |  |
+| `math_get_epsilon` | 🚫 | WAD Version 15 |  |
+| `matrix_build_identity` | ✅ | WAD Version 15 |  |
+| `matrix_build_lookat` | ✅ | WAD Version 15 |  |
+| `matrix_build_projection_ortho` | ✅ | WAD Version 15 |  |
+| `matrix_build_projection_perspective` | 🚫 | WAD Version 15 |  |
+| `matrix_build_projection_perspective_fov` | ✅ | WAD Version 15 |  |
+| `matrix_stack_clear` | 🚫 | WAD Version 15 |  |
+| `matrix_stack_is_empty` | 🚫 | WAD Version 15 |  |
+| `matrix_stack_pop` | 🚫 | WAD Version 15 |  |
+| `matrix_stack_push` | 🚫 | WAD Version 15 |  |
+| `matrix_stack_set` | 🚫 | WAD Version 15 |  |
+| `matrix_stack_top` | 🚫 | WAD Version 15 |  |
+| `matrix_transform_vertex` | 🚫 | WAD Version 15 |  |
+| `network_create_server_raw` | 🚫 | WAD Version 15 |  |
+| `network_create_socket_ext` | 🚫 | WAD Version 15 |  |
+| `network_send_udp_raw` | 🚫 | WAD Version 15 |  |
+| `network_set_config` | 🚫 | WAD Version 15 |  |
+| `object_set_collisions` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `path_get_time` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `psn_check_free_space` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `psn_check_np_availability` | 🚫 | WAD Version 15 |  |
+| `psn_content_restriction_add` | 🚫 | WAD Version 15 |  |
+| `psn_default_user` | ✅ | WAD Version 15 |  |
+| `psn_default_user_name` | 🚫 | WAD Version 15 |  |
+| `psn_delete_tus_data` | 🚫 | WAD Version 15 |  |
+| `psn_exit_np_libs` | 🚫 | WAD Version 15 |  |
+| `psn_get_avatar_url` | 🚫 | WAD Version 15 |  |
+| `psn_get_entitlement_list` | 🚫 | WAD Version 15 |  |
+| `psn_get_friends_scores` | 🚫 | WAD Version 15 |  |
+| `psn_get_leaderboard_score` | ✅ | WAD Version 15 |  |
+| `psn_get_leaderboard_score_range` | 🚫 | WAD Version 15 |  |
+| `psn_get_tus_data` | 🚫 | WAD Version 15 |  |
+| `psn_get_tus_variable` | 🚫 | WAD Version 15 |  |
+| `psn_init_np_libs` | ✅ | WAD Version 15 |  |
+| `psn_init_trophy` | 🚫 | WAD Version 15 |  |
+| `psn_load_modules` | 🚫 | WAD Version 15 |  |
+| `psn_name_for_pad` | 🚫 | WAD Version 15 |  |
+| `psn_name_for_user` | 🚫 | WAD Version 15 |  |
+| `psn_net_check` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `psn_np_check_plus` | 🚫 | WAD Version 15 |  |
+| `psn_np_commerce_dialog_open` | 🚫 | WAD Version 15 |  |
+| `psn_np_commerce_dialog_tick` | 🚫 | WAD Version 15 |  |
+| `psn_np_notify_plus_feature` | 🚫 | WAD Version 15 |  |
+| `psn_np_status` | 🚫 | WAD Version 15 |  |
+| `psn_post_leaderboard_score` | 🚫 | WAD Version 15 |  |
+| `psn_post_leaderboard_score_comment` | 🚫 | WAD Version 15 |  |
+| `psn_set_content_restriction` | 🚫 | WAD Version 15 |  |
+| `psn_set_tus_data` | 🚫 | WAD Version 15 |  |
+| `psn_set_tus_variable` | 🚫 | WAD Version 15 |  |
+| `psn_setup_trophies` | ✅ | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `psn_show_error_dialog` | 🚫 | WAD Version 15 |  |
+| `psn_tick` | 🚫 | WAD Version 15 |  |
+| `psn_tick_error_dialog` | 🚫 | WAD Version 15 |  |
+| `psn_unlock_trophy` | 🚫 | WAD Version 15 |  |
+| `psn_user_for_pad` | 🚫 | WAD Version 15 |  |
+| `ptr` | 🚫 | WAD Version 15 |  |
+| `random_use_old_version` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `room_get_camera` | 🚫 | WAD Version 15 |  |
+| `sprite_flush` | 🚫 | WAD Version 15 |  |
+| `sprite_flush_multi` | 🚫 | WAD Version 15 |  |
+| `sprite_prefetch` | 🚫 | WAD Version 15 |  |
+| `sprite_prefetch_multi` | 🚫 | WAD Version 15 |  |
+| `steam_activate_overlay_browser` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_activate_overlay_store` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_activate_overlay_user` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_available_languages` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_current_game_language` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_get_app_id` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_get_user_account_id` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_get_user_persona_name` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_create_item` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_create_query_all` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_create_query_all_ex` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_create_query_user` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_create_query_user_ex` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_download` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_get_item_install_info` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_get_item_update_info` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_get_item_update_progress` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_get_subscribed_items` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_num_subscribed_items` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_query_add_excluded_tag` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_query_add_required_tag` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_query_set_allow_cached_response` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_query_set_cloud_filename_filter` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_query_set_match_any_tag` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_query_set_ranked_by_trend_days` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_query_set_return_long_description` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_query_set_return_total_only` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_query_set_search_text` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_request_item_details` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_send_query` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_set_item_content` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_set_item_description` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_set_item_preview` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_set_item_tags` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_set_item_title` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_set_item_visibility` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_start_item_update` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_submit_item_update` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_subscribe_item` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_ugc_unsubscribe_item` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_upload_score_buffer` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_upload_score_buffer_ext` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `steam_upload_score_ext` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `surface_create_special` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `testFailed` | 🚫 | WAD Version 15 |  |
+| `texture_get_uvs` | 🚫 | WAD Version 15 |  |
+| `texture_global_scale` | 🚫 | WAD Version 15 |  |
+| `tile_get_empty` | 🚫 | WAD Version 15 |  |
+| `tile_get_flip` | 🚫 | WAD Version 15 |  |
+| `tile_get_index` | 🚫 | WAD Version 15 |  |
+| `tile_get_mirror` | 🚫 | WAD Version 15 |  |
+| `tile_get_rotate` | 🚫 | WAD Version 15 |  |
+| `tile_set_empty` | 🚫 | WAD Version 15 |  |
+| `tile_set_flip` | 🚫 | WAD Version 15 |  |
+| `tile_set_index` | 🚫 | WAD Version 15 |  |
+| `tile_set_mirror` | 🚫 | WAD Version 15 |  |
+| `tile_set_rotate` | 🚫 | WAD Version 15 |  |
+| `tilemap_clear` | 🚫 | WAD Version 15 |  |
+| `tilemap_draw` | 🚫 | WAD Version 15 | WAD Version 16 |
+| `tilemap_get` | 🚫 | WAD Version 15 |  |
+| `tilemap_get_at_pixel` | 🚫 | WAD Version 15 |  |
+| `tilemap_get_cell_x_at_pixel` | 🚫 | WAD Version 15 |  |
+| `tilemap_get_cell_y_at_pixel` | 🚫 | WAD Version 15 |  |
+| `tilemap_get_frame` | 🚫 | WAD Version 15 |  |
+| `tilemap_get_global_mask` | 🚫 | WAD Version 15 |  |
+| `tilemap_get_height` | 🚫 | WAD Version 15 |  |
+| `tilemap_get_mask` | 🚫 | WAD Version 15 |  |
+| `tilemap_get_tile_height` | 🚫 | WAD Version 15 |  |
+| `tilemap_get_tile_width` | 🚫 | WAD Version 15 |  |
+| `tilemap_get_tileset` | 🚫 | WAD Version 15 |  |
+| `tilemap_get_width` | 🚫 | WAD Version 15 |  |
+| `tilemap_get_x` | ✅ | WAD Version 15 |  |
+| `tilemap_get_y` | ✅ | WAD Version 15 |  |
+| `tilemap_set` | 🚫 | WAD Version 15 |  |
+| `tilemap_set_at_pixel` | 🚫 | WAD Version 15 |  |
+| `tilemap_set_global_mask` | 🚫 | WAD Version 15 |  |
+| `tilemap_set_mask` | 🚫 | WAD Version 15 |  |
+| `tilemap_tileset` | 🚫 | WAD Version 15 |  |
+| `tilemap_x` | ✅ | WAD Version 15 |  |
+| `tilemap_y` | ✅ | WAD Version 15 |  |
+| `uwp_check_privilege` | 🚫 | WAD Version 15 |  |
+| `uwp_is_constrained` | 🚫 | WAD Version 15 |  |
+| `uwp_is_suspending` | 🚫 | WAD Version 15 |  |
+| `uwp_license_trial_time_remaining` | 🚫 | WAD Version 15 |  |
+| `uwp_license_trial_user` | 🚫 | WAD Version 15 |  |
+| `uwp_license_trial_version` | 🚫 | WAD Version 15 |  |
+| `uwp_show_help` | 🚫 | WAD Version 15 |  |
+| `uwp_suspend` | 🚫 | WAD Version 15 |  |
+| `uwp_was_terminated` | 🚫 | WAD Version 15 |  |
+| `vertex_format_add_texcoord` | 🚫 | WAD Version 15 |  |
+| `vertex_format_delete` | 🚫 | WAD Version 15 |  |
+| `vertex_get_buffer_size` | 🚫 | WAD Version 15 |  |
+| `video_close` | 🚫 | WAD Version 15 |  |
+| `video_draw` | 🚫 | WAD Version 15 |  |
+| `video_open` | 🚫 | WAD Version 15 |  |
+| `view_get_camera` | ✅ | WAD Version 15 |  |
+| `view_get_hport` | 🚫 | WAD Version 15 |  |
+| `view_get_surface_id` | 🚫 | WAD Version 15 |  |
+| `view_get_visible` | 🚫 | WAD Version 15 |  |
+| `view_get_wport` | 🚫 | WAD Version 15 |  |
+| `view_get_xport` | 🚫 | WAD Version 15 |  |
+| `view_get_yport` | 🚫 | WAD Version 15 |  |
+| `view_set_camera` | 🚫 | WAD Version 15 |  |
+| `view_set_hport` | 🚫 | WAD Version 15 |  |
+| `view_set_surface_id` | 🚫 | WAD Version 15 |  |
+| `view_set_visible` | 🚫 | WAD Version 15 |  |
+| `view_set_wport` | 🚫 | WAD Version 15 |  |
+| `view_set_xport` | 🚫 | WAD Version 15 |  |
+| `view_set_yport` | 🚫 | WAD Version 15 |  |
+| `window_get_visible_rects` | 🚫 | WAD Version 15 |  |
+| `window_set_max_height` | 🚫 | WAD Version 15 |  |
+| `window_set_max_width` | 🚫 | WAD Version 15 |  |
+| `window_set_min_height` | 🚫 | WAD Version 15 |  |
+| `window_set_min_width` | 🚫 | WAD Version 15 |  |
+| `xboxlive_agegroup_for_user` | 🚫 | WAD Version 15 |  |
+| `xboxlive_appdisplayname_for_user` | 🚫 | WAD Version 15 |  |
+| `xboxlive_chat_add_user_to_channel` | 🚫 | WAD Version 15 |  |
+| `xboxlive_chat_remove_user_from_channel` | 🚫 | WAD Version 15 |  |
+| `xboxlive_chat_set_muted` | 🚫 | WAD Version 15 |  |
+| `xboxlive_fire_event` | 🚫 | WAD Version 15 |  |
+| `xboxlive_gamedisplayname_for_user` | 🚫 | WAD Version 15 |  |
+| `xboxlive_gamerscore_for_user` | 🚫 | WAD Version 15 |  |
+| `xboxlive_generate_player_session_id` | 🚫 | WAD Version 15 |  |
+| `xboxlive_get_activating_user` | 🚫 | WAD Version 15 |  |
+| `xboxlive_get_file_error` | 🚫 | WAD Version 15 |  |
+| `xboxlive_get_savedata_user` | 🚫 | WAD Version 15 |  |
+| `xboxlive_get_stats_for_user` | 🚫 | WAD Version 15 |  |
+| `xboxlive_get_user` | 🚫 | WAD Version 15 |  |
+| `xboxlive_get_user_count` | 🚫 | WAD Version 15 |  |
+| `xboxlive_matchmaking_create` | 🚫 | WAD Version 15 |  |
+| `xboxlive_matchmaking_find` | 🚫 | WAD Version 15 |  |
+| `xboxlive_matchmaking_join_invite` | 🚫 | WAD Version 15 |  |
+| `xboxlive_matchmaking_send_invites` | 🚫 | WAD Version 15 |  |
+| `xboxlive_matchmaking_session_get_users` | 🚫 | WAD Version 15 |  |
+| `xboxlive_matchmaking_session_leave` | 🚫 | WAD Version 15 |  |
+| `xboxlive_matchmaking_set_joinable_session` | 🚫 | WAD Version 15 |  |
+| `xboxlive_matchmaking_start` | 🚫 | WAD Version 15 |  |
+| `xboxlive_matchmaking_stop` | 🚫 | WAD Version 15 |  |
+| `xboxlive_pad_count_for_user` | 🚫 | WAD Version 15 |  |
+| `xboxlive_pad_for_user` | 🚫 | WAD Version 15 |  |
+| `xboxlive_read_player_leaderboard` | 🚫 | WAD Version 15 |  |
+| `xboxlive_reputation_for_user` | 🚫 | WAD Version 15 |  |
+| `xboxlive_set_rich_presence` | 🚫 | WAD Version 15 |  |
+| `xboxlive_set_savedata_user` | 🚫 | WAD Version 15 |  |
+| `xboxlive_set_service_configuration_id` | 🚫 | WAD Version 15 |  |
+| `xboxlive_show_account_picker` | 🚫 | WAD Version 15 |  |
+| `xboxlive_show_profile_card_for_user` | 🚫 | WAD Version 15 |  |
+| `xboxlive_sponsor_for_user` | 🚫 | WAD Version 15 |  |
+| `xboxlive_sprite_add_from_gamerpicture` | 🚫 | WAD Version 15 |  |
+| `xboxlive_stats_setup` | 🚫 | WAD Version 15 |  |
+| `xboxlive_user_for_pad` | 🚫 | WAD Version 15 |  |
+| `xboxlive_user_id_for_user` | 🚫 | WAD Version 15 |  |
+| `xboxlive_user_is_active` | 🚫 | WAD Version 15 |  |
+| `xboxlive_user_is_guest` | 🚫 | WAD Version 15 |  |
+| `xboxlive_user_is_remote` | 🚫 | WAD Version 15 |  |
+| `xboxlive_user_is_signed_in` | 🚫 | WAD Version 15 |  |
+| `xboxone_agegroup_for_user` | 🚫 | WAD Version 15 |  |
+| `xboxone_appdisplayname_for_user` | 🚫 | WAD Version 15 |  |
+| `xboxone_chat_add_user_to_channel` | 🚫 | WAD Version 15 |  |
+| `xboxone_chat_remove_user_from_channel` | 🚫 | WAD Version 15 |  |
+| `xboxone_chat_set_muted` | 🚫 | WAD Version 15 |  |
+| `xboxone_check_privilege` | 🚫 | WAD Version 15 |  |
+| `xboxone_fire_event` | 🚫 | WAD Version 15 |  |
+| `xboxone_gamedisplayname_for_user` | 🚫 | WAD Version 15 |  |
+| `xboxone_gamerscore_for_user` | 🚫 | WAD Version 15 |  |
+| `xboxone_generate_player_session_id` | 🚫 | WAD Version 15 |  |
+| `xboxone_get_activating_user` | 🚫 | WAD Version 15 |  |
+| `xboxone_get_file_error` | 🚫 | WAD Version 15 |  |
+| `xboxone_get_savedata_user` | 🚫 | WAD Version 15 |  |
+| `xboxone_get_stats_for_user` | 🚫 | WAD Version 15 |  |
+| `xboxone_get_user` | 🚫 | WAD Version 15 |  |
+| `xboxone_get_user_count` | 🚫 | WAD Version 15 |  |
+| `xboxone_is_constrained` | 🚫 | WAD Version 15 |  |
+| `xboxone_is_suspending` | 🚫 | WAD Version 15 |  |
+| `xboxone_license_trial_time_remaining` | 🚫 | WAD Version 15 |  |
+| `xboxone_license_trial_user` | 🚫 | WAD Version 15 |  |
+| `xboxone_license_trial_version` | 🚫 | WAD Version 15 |  |
+| `xboxone_matchmaking_create` | 🚫 | WAD Version 15 |  |
+| `xboxone_matchmaking_find` | 🚫 | WAD Version 15 |  |
+| `xboxone_matchmaking_join_invite` | 🚫 | WAD Version 15 |  |
+| `xboxone_matchmaking_send_invites` | 🚫 | WAD Version 15 |  |
+| `xboxone_matchmaking_session_get_users` | 🚫 | WAD Version 15 |  |
+| `xboxone_matchmaking_session_leave` | 🚫 | WAD Version 15 |  |
+| `xboxone_matchmaking_set_joinable_session` | 🚫 | WAD Version 15 |  |
+| `xboxone_matchmaking_start` | 🚫 | WAD Version 15 |  |
+| `xboxone_matchmaking_stop` | 🚫 | WAD Version 15 |  |
+| `xboxone_package_check_license` | 🚫 | WAD Version 15 |  |
+| `xboxone_pad_count_for_user` | 🚫 | WAD Version 15 |  |
+| `xboxone_pad_for_user` | 🚫 | WAD Version 15 |  |
+| `xboxone_read_player_leaderboard` | 🚫 | WAD Version 15 |  |
+| `xboxone_reputation_for_user` | 🚫 | WAD Version 15 |  |
+| `xboxone_set_rich_presence` | 🚫 | WAD Version 15 |  |
+| `xboxone_set_savedata_user` | 🚫 | WAD Version 15 |  |
+| `xboxone_set_service_configuration_id` | 🚫 | WAD Version 15 |  |
+| `xboxone_show_account_picker` | 🚫 | WAD Version 15 |  |
+| `xboxone_show_help` | 🚫 | WAD Version 15 |  |
+| `xboxone_show_profile_card_for_user` | 🚫 | WAD Version 15 |  |
+| `xboxone_sponsor_for_user` | 🚫 | WAD Version 15 |  |
+| `xboxone_sprite_add_from_gamerpicture` | 🚫 | WAD Version 15 |  |
+| `xboxone_stats_setup` | 🚫 | WAD Version 15 |  |
+| `xboxone_suspend` | 🚫 | WAD Version 15 |  |
+| `xboxone_user_for_pad` | 🚫 | WAD Version 15 |  |
+| `xboxone_user_id_for_user` | 🚫 | WAD Version 15 |  |
+| `xboxone_user_is_active` | 🚫 | WAD Version 15 |  |
+| `xboxone_user_is_guest` | 🚫 | WAD Version 15 |  |
+| `xboxone_user_is_remote` | 🚫 | WAD Version 15 |  |
+| `xboxone_user_is_signed_in` | 🚫 | WAD Version 15 |  |
+| `xboxone_was_terminated` | 🚫 | WAD Version 15 |  |
+| `yyg_player_launch_args` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `yyg_player_restarted` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `yyg_player_run` | 🚫 | WAD Version 15 | GameMaker Version 2024.14.4.268 |
+| `@@Null@@` | 🚫 | WAD Version 16 |  |
+| `array_copy` | 🚫 | WAD Version 16 |  |
+| `array_create` | ✅ | WAD Version 16 |  |
+| `array_equals` | 🚫 | WAD Version 16 |  |
+| `buffer_get_alignment` | 🚫 | WAD Version 16 |  |
+| `buffer_get_type` | 🚫 | WAD Version 16 |  |
+| `collision_shape` | 🚫 | WAD Version 16 | GameMaker Version 2024.14.4.268 |
+| `d3d_model_load_buffer` | 🚫 | WAD Version 16 | GameMaker Version 2024.14.4.268 |
+| `d3d_model_save_buffer` | 🚫 | WAD Version 16 | GameMaker Version 2024.14.4.268 |
+| `debug_get_callstack` | 🚫 | WAD Version 16 |  |
+| `dot_product_3d_normalized` | 🚫 | WAD Version 16 |  |
+| `dot_product_normalized` | 🚫 | WAD Version 16 |  |
+| `draw_shape` | 🚫 | WAD Version 16 | GameMaker Version 2024.14.4.268 |
+| `draw_shape_string` | 🚫 | WAD Version 16 | GameMaker Version 2024.14.4.268 |
+| `draw_skeleton_instance` | 🚫 | WAD Version 16 |  |
+| `draw_tilemap` | ✅ | WAD Version 16 |  |
+| `font_get_dynamic_texture_size` | 🚫 | WAD Version 16 | GameMaker Version 2024.14.4.268 |
+| `font_set_dynamic_texture_size` | 🚫 | WAD Version 16 | GameMaker Version 2024.14.4.268 |
+| `gesture_double_tap_distance` | 🚫 | WAD Version 16 |  |
+| `gesture_double_tap_time` | 🚫 | WAD Version 16 |  |
+| `gesture_drag_distance` | 🚫 | WAD Version 16 |  |
+| `gesture_drag_time` | 🚫 | WAD Version 16 |  |
+| `gesture_flick_speed` | 🚫 | WAD Version 16 |  |
+| `gesture_get_double_tap_distance` | 🚫 | WAD Version 16 |  |
+| `gesture_get_double_tap_time` | 🚫 | WAD Version 16 |  |
+| `gesture_get_drag_distance` | 🚫 | WAD Version 16 |  |
+| `gesture_get_drag_time` | 🚫 | WAD Version 16 |  |
+| `gesture_get_flick_speed` | 🚫 | WAD Version 16 |  |
+| `gesture_get_pinch_angle_away` | 🚫 | WAD Version 16 |  |
+| `gesture_get_pinch_angle_towards` | 🚫 | WAD Version 16 |  |
+| `gesture_get_pinch_distance` | 🚫 | WAD Version 16 |  |
+| `gesture_get_rotate_angle` | 🚫 | WAD Version 16 |  |
+| `gesture_get_rotate_time` | 🚫 | WAD Version 16 |  |
+| `gesture_get_tap_count` | 🚫 | WAD Version 16 |  |
+| `gesture_pinch_angle_away` | 🚫 | WAD Version 16 |  |
+| `gesture_pinch_angle_towards` | 🚫 | WAD Version 16 |  |
+| `gesture_pinch_distance` | 🚫 | WAD Version 16 |  |
+| `gesture_rotate_angle` | 🚫 | WAD Version 16 |  |
+| `gesture_rotate_time` | 🚫 | WAD Version 16 |  |
+| `gesture_tap_count` | 🚫 | WAD Version 16 |  |
+| `gpu_get_colourwriteenable` | 🚫 | WAD Version 16 |  |
+| `gpu_get_tex_filter` | 🚫 | WAD Version 16 |  |
+| `gpu_get_tex_filter_ext` | 🚫 | WAD Version 16 |  |
+| `gpu_get_tex_max_aniso` | 🚫 | WAD Version 16 |  |
+| `gpu_get_tex_max_aniso_ext` | 🚫 | WAD Version 16 |  |
+| `gpu_get_tex_max_mip` | 🚫 | WAD Version 16 |  |
+| `gpu_get_tex_max_mip_ext` | 🚫 | WAD Version 16 |  |
+| `gpu_get_tex_min_mip` | 🚫 | WAD Version 16 |  |
+| `gpu_get_tex_min_mip_ext` | 🚫 | WAD Version 16 |  |
+| `gpu_get_tex_mip_bias` | 🚫 | WAD Version 16 |  |
+| `gpu_get_tex_mip_bias_ext` | 🚫 | WAD Version 16 |  |
+| `gpu_get_tex_mip_enable` | 🚫 | WAD Version 16 |  |
+| `gpu_get_tex_mip_enable_ext` | 🚫 | WAD Version 16 |  |
+| `gpu_get_tex_mip_filter` | 🚫 | WAD Version 16 |  |
+| `gpu_get_tex_mip_filter_ext` | 🚫 | WAD Version 16 |  |
+| `gpu_get_tex_repeat` | 🚫 | WAD Version 16 |  |
+| `gpu_get_tex_repeat_ext` | 🚫 | WAD Version 16 |  |
+| `gpu_set_colourwriteenable` | 🚫 | WAD Version 16 |  |
+| `gpu_set_tex_filter` | 🚫 | WAD Version 16 |  |
+| `gpu_set_tex_filter_ext` | 🚫 | WAD Version 16 |  |
+| `gpu_set_tex_max_aniso` | 🚫 | WAD Version 16 |  |
+| `gpu_set_tex_max_aniso_ext` | 🚫 | WAD Version 16 |  |
+| `gpu_set_tex_max_mip` | 🚫 | WAD Version 16 |  |
+| `gpu_set_tex_max_mip_ext` | 🚫 | WAD Version 16 |  |
+| `gpu_set_tex_min_mip` | 🚫 | WAD Version 16 |  |
+| `gpu_set_tex_min_mip_ext` | 🚫 | WAD Version 16 |  |
+| `gpu_set_tex_mip_bias` | 🚫 | WAD Version 16 |  |
+| `gpu_set_tex_mip_bias_ext` | 🚫 | WAD Version 16 |  |
+| `gpu_set_tex_mip_enable` | 🚫 | WAD Version 16 |  |
+| `gpu_set_tex_mip_enable_ext` | 🚫 | WAD Version 16 |  |
+| `gpu_set_tex_mip_filter` | 🚫 | WAD Version 16 |  |
+| `gpu_set_tex_mip_filter_ext` | 🚫 | WAD Version 16 |  |
+| `gpu_set_tex_repeat` | 🚫 | WAD Version 16 |  |
+| `gpu_set_tex_repeat_ext` | 🚫 | WAD Version 16 |  |
+| `instance_activate_layer` | ✅ | WAD Version 16 |  |
+| `instance_deactivate_layer` | ✅ | WAD Version 16 |  |
+| `instance_deactivate_region_special` | 🚫 | WAD Version 16 | GameMaker Version 2024.14.4.268 |
+| `layer_background_get_stretch` | 🚫 | WAD Version 16 |  |
+| `layer_background_sprite` | ✅ | WAD Version 16 |  |
+| `layer_background_stretch` | ✅ | WAD Version 16 |  |
+| `layer_destroy_instances` | 🚫 | WAD Version 16 |  |
+| `layer_get_id_at_depth` | ✅ | WAD Version 16 |  |
+| `layer_instance_get_instance` | 🚫 | WAD Version 16 |  |
+| `os_check_permission` | 🚫 | WAD Version 16 |  |
+| `os_request_permission` | 🚫 | WAD Version 16 |  |
+| `part_system_create_layer` | 🚫 | WAD Version 16 |  |
+| `part_system_get_layer` | 🚫 | WAD Version 16 |  |
+| `part_system_layer` | 🚫 | WAD Version 16 |  |
+| `randomise` | ✅ | WAD Version 16 |  |
+| `room_get_viewport` | 🚫 | WAD Version 16 |  |
+| `room_set_camera` | 🚫 | WAD Version 16 |  |
+| `room_set_viewport` | 🚫 | WAD Version 16 |  |
+| `shader_current` | 🚫 | WAD Version 16 |  |
+| `skeleton_animation_get_frame` | 🚫 | WAD Version 16 |  |
+| `skeleton_animation_get_frames` | 🚫 | WAD Version 16 |  |
+| `skeleton_animation_set_frame` | 🚫 | WAD Version 16 |  |
+| `skeleton_get_bounds` | 🚫 | WAD Version 16 |  |
+| `skeleton_get_minmax` | 🚫 | WAD Version 16 |  |
+| `skeleton_get_num_bounds` | 🚫 | WAD Version 16 |  |
+| `sprite_get_speed` | 🚫 | WAD Version 16 |  |
+| `sprite_get_speed_type` | 🚫 | WAD Version 16 |  |
+| `sprite_set_speed` | 🚫 | WAD Version 16 |  |
+| `string_hash_to_newline` | ✅ | WAD Version 16 |  |
+| `typeof` | 🚫 | WAD Version 16 |  |
+| `variable_instance_exists` | ✅ | WAD Version 16 |  |
+| `variable_instance_get` | ✅ | WAD Version 16 |  |
+| `variable_instance_get_names` | 🚫 | WAD Version 16 |  |
+| `variable_instance_set` | ✅ | WAD Version 16 |  |
+| `vertex_color` | 🚫 | WAD Version 16 |  |
+| `vertex_format_add_color` | 🚫 | WAD Version 16 |  |
+| `video_set_volume` | 🚫 | WAD Version 16 |  |
+| `$FAIL` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `$PRINT` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `@@CopyStatic@@` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `@@GetInstance@@` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `@@Global@@` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `@@NewGMLObject@@` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `@@NullObject@@` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `@@SetStatic@@` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `@@array_get@@` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `@@array_get_2D@@` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `@@array_set_owner@@` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `@@string@@` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `animcurve_channel_evaluate` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `animcurve_channel_new` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `animcurve_create` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `animcurve_destroy` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `animcurve_exists` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `animcurve_get` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `animcurve_get_channel` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `animcurve_get_channel_index` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `animcurve_point_new` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `application_surface_is_draw_enabled` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `array_all` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `array_any` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `array_concat` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `array_contains` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `array_contains_ext` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `array_copy_while` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `array_create_ext` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `array_delete` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `array_filter` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `array_filter_ext` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `array_find_index` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `array_first` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `array_foreach` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `array_get_index` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `array_insert` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `array_intersection` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `array_last` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `array_length` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `array_map` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `array_map_ext` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `array_pop` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `array_push` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `array_reduce` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `array_resize` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `array_reverse` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `array_reverse_ext` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `array_shift` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `array_shuffle` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `array_shuffle_ext` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `array_sort` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `array_union` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `array_unique` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `array_unique_ext` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `asset_add_tags` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `asset_clear_tags` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `asset_get_ids` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `asset_get_tags` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `asset_has_any_tag` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `asset_has_tags` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `asset_remove_tags` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `audio_bus_clear_emitters` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `audio_bus_create` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `audio_bus_get_emitters` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `audio_effect_create` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `audio_emitter_bus` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `audio_emitter_get_bus` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `audio_group_get_assets` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `audio_group_get_gain` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `audio_play_sound_ext` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `audio_sound_get_asset` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `audio_sound_get_audio_group` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `audio_sound_get_loop` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `audio_sound_get_loop_end` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `audio_sound_get_loop_start` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `audio_sound_is_playable` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `audio_sound_loop` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `audio_sound_loop_end` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `audio_sound_loop_start` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `audio_sync_group_is_paused` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `audio_system_is_available` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `audio_system_is_initialised` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `audio_throw_on_error` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `bool` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `buffer_compress` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `buffer_copy_stride` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `buffer_crc32` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `buffer_decompress` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `buffer_get_surface_depth` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `buffer_get_used_size` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `buffer_set_surface_depth` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `buffer_set_used_size` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `call_cancel` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `call_later` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `camera_copy_transforms` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `collision_circle_list` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `collision_ellipse_list` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `collision_line_list` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `collision_point_list` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `collision_rectangle_list` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `db_to_lin` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `dbg_add_font_glyphs` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `dbg_button` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `dbg_checkbox` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `dbg_color` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `dbg_colour` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `dbg_control_delete` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `dbg_control_exists` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `dbg_drop_down` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `dbg_get_gamepad_input` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `dbg_same_line` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `dbg_section` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `dbg_section_delete` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `dbg_section_exists` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `dbg_set_section` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `dbg_set_view` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `dbg_slider` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `dbg_slider_int` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `dbg_sprite` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `dbg_sprite_button` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `dbg_text` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `dbg_text_input` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `dbg_text_separator` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `dbg_view` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `dbg_view_delete` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `dbg_view_exists` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `dbg_watch` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `debug_input_playback` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `debug_input_record` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `debug_input_save` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `display_get_sleep_margin` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `display_get_timing_method` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `display_set_gui_maximize` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `display_set_sleep_margin` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `display_set_timing_method` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `draw_clear_depth` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `draw_clear_ext` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `draw_clear_stencil` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `draw_enable_skeleton_blend_override` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `draw_enable_skeleton_blendmodes` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `draw_enable_svg_aa` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `draw_get_circle_precision` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `draw_get_enable_skeleton_blend_override` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `draw_get_enable_skeleton_blendmodes` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `draw_get_font` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `draw_get_halign` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `draw_get_svg_aa_level` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `draw_get_valign` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `draw_set_svg_aa_level` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ds_grid_to_mp_grid` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ds_list_is_list` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ds_list_is_map` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ds_map_is_list` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ds_map_is_map` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ds_map_keys_to_array` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ds_map_values_to_array` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `effect_create_depth` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `effect_create_layer` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `event_perform_async` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `exception_unhandled_handler` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `extension_exists` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `extension_get_option_count` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `extension_get_option_names` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `extension_get_option_value` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `extension_get_options` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `extension_get_version` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_calculate_layout` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_create_node` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_delete_node` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_get_rounding_scale` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_get_child` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_get_child_hash` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_get_data` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_get_measure_function` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_get_name` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_get_num_children` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_get_parent` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_get_struct` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_insert_child` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_layout_get_position` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_remove_all_children` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_remove_child` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_set_data` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_set_measure_function` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_set_name` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_get_align_content` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_get_align_items` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_get_align_self` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_get_aspect_ratio` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_get_border` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_get_direction` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_get_display` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_get_flex` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_get_flex_basis` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_get_flex_direction` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_get_flex_grow` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_get_flex_shrink` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_get_flex_wrap` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_get_gap` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_get_height` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_get_justify_content` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_get_margin` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_get_max_height` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_get_max_width` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_get_min_height` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_get_min_width` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_get_padding` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_get_position` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_get_position_type` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_get_width` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_set_align_content` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_set_align_items` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_set_align_self` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_set_aspect_ratio` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_set_border` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_set_direction` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_set_display` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_set_flex` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_set_flex_basis` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_set_flex_direction` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_set_flex_grow` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_set_flex_shrink` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_set_flex_wrap` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_set_gap` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_set_height` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_set_justify_content` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_set_margin` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_set_max_height` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_set_max_width` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_set_min_height` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_set_min_width` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_set_padding` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_set_position` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_set_position_type` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_node_style_set_width` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `flexpanel_set_rounding_scale` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `font_add_enable_aa` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `font_add_get_enable_aa` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `font_cache_glyph` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `font_enable_effects` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `font_enable_sdf` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `font_get_info` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `font_get_sdf_enabled` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `font_get_sdf_spread` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `font_sdf_spread` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `fx_create` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `fx_get_name` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `fx_get_parameter` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `fx_get_parameter_names` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `fx_get_parameters` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `fx_get_single_layer` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `fx_set_parameter` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `fx_set_parameters` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `fx_set_single_layer` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `game_change` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gamepad_add_hardware_mapping_from_file` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gamepad_add_hardware_mapping_from_string` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gamepad_enumerate` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gamepad_get_guid` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `gamepad_get_hardware_mappings` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gamepad_get_mapping` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gamepad_get_option` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gamepad_hat_count` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `gamepad_hat_value` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `gamepad_remove_mapping` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gamepad_set_option` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gamepad_test_mapping` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gc_collect` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gc_enable` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gc_get_stats` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gc_get_target_frame_time` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gc_is_enabled` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gc_target_frame_time` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gif_add_surface` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gif_open` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gif_save` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gif_save_buffer` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gpu_get_blendequation` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gpu_get_blendequation_sepalpha` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gpu_get_depth` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gpu_get_scissor` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gpu_get_sprite_cull` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gpu_get_stencil_depth_fail` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gpu_get_stencil_enable` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gpu_get_stencil_fail` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gpu_get_stencil_func` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gpu_get_stencil_pass` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gpu_get_stencil_read_mask` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gpu_get_stencil_ref` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gpu_get_stencil_write_mask` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gpu_set_blendequation` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gpu_set_blendequation_sepalpha` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gpu_set_depth` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gpu_set_scissor` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gpu_set_sprite_cull` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gpu_set_stencil_depth_fail` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gpu_set_stencil_enable` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gpu_set_stencil_fail` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gpu_set_stencil_func` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gpu_set_stencil_pass` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gpu_set_stencil_read_mask` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gpu_set_stencil_ref` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gpu_set_stencil_write_mask` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gx_share` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gxc_file_sync` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gxc_pause_movie_recording` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gxc_payment` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gxc_resume_movie_recording` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gxc_rewarded_ad` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gxc_start_movie_recording` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `gxc_stop_movie_recording` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `handle_parse` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `http_get_connect_timeout` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `http_get_request_crossorigin` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `http_set_connect_timeout` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `http_set_request_crossorigin` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `instance_place_list` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `instance_position_list` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `instanceof` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `is_callable` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `is_debug_overlay_open` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `is_handle` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `is_infinity` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `is_instanceof` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `is_keyboard_used_debug_overlay` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `is_method` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `is_mouse_over_debug_overlay` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `is_nan` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `is_numeric` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `is_struct` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `json_parse` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `json_stringify` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `keyboard_virtual_height` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `keyboard_virtual_hide` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `keyboard_virtual_set_position` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `keyboard_virtual_show` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `keyboard_virtual_status` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_clear_fx` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_enable_fx` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_fx_is_enabled` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_get_flexpanel_node` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_get_fx` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_get_type` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_particle_alpha` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_particle_angle` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_particle_blend` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_particle_get_alpha` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_particle_get_angle` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_particle_get_blend` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_particle_get_id` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_particle_get_instance` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_particle_get_system` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_particle_get_x` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_particle_get_xscale` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_particle_get_y` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_particle_get_yscale` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_particle_x` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_particle_xscale` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_particle_y` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_particle_yscale` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_sequence_angle` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_sequence_create` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_sequence_destroy` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_sequence_exists` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_sequence_get_angle` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_sequence_get_headdir` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_sequence_get_headpos` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_sequence_get_instance` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_sequence_get_length` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_sequence_get_sequence` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_sequence_get_speedscale` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_sequence_get_x` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_sequence_get_xscale` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_sequence_get_y` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_sequence_get_yscale` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_sequence_headdir` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_sequence_headpos` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_sequence_is_finished` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_sequence_is_paused` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_sequence_pause` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_sequence_play` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_sequence_speedscale` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_sequence_x` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_sequence_xscale` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_sequence_y` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_sequence_yscale` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_set_fx` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_alpha` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_angle` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_blend` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_charspacing` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_create` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_destroy` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_exists` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_font` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_frameh` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_framew` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_get_alpha` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_get_angle` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_get_blend` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_get_charspacing` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_get_font` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_get_frameh` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_get_framew` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_get_halign` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_get_id` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_get_linespacing` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_get_origin` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_get_paragraphspacing` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_get_text` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_get_valign` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_get_wrap` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_get_wrapmode` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_get_x` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_get_xorigin` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_get_xscale` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_get_y` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_get_yorigin` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_get_yscale` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_halign` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_linespacing` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_origin` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_paragraphspacing` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_text` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_valign` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_wrap` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_wrapmode` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_x` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_xorigin` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_xscale` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_y` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_yorigin` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_text_yscale` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_tilemap_get_colmask` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `layer_tilemap_set_colmask` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `lin_to_db` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `mac_refresh_receipt_validation` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `matchmaking_send_invites_no_ui` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `matchmaking_session_invite_start` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `matchmaking_session_set_hidden` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `matrix_inverse` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `method` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `method_call` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `method_get_index` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `method_get_self` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `move_and_collide` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ms_iap_AcquireLicenseForDurables` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ms_iap_AcquireLicenseForPackage` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ms_iap_CanAcquireLicenseForPackage` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ms_iap_CanAcquireLicenseForStoreId` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ms_iap_DownloadAndInstallPackages` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ms_iap_EnumeratePackages` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ms_iap_MountPackage` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ms_iap_QueryAddOnLicenses` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ms_iap_QueryAssociatedProducts` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ms_iap_QueryConsumableBalanceRemaining` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ms_iap_QueryEntitledProducts` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ms_iap_QueryGameLicense` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ms_iap_QueryProductForCurrentGame` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ms_iap_QueryProductForPackage` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ms_iap_QueryProducts` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ms_iap_ReleaseLicenseForDurables` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ms_iap_ReleaseLicenseForPackage` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ms_iap_ReportConsumableFulfillment` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ms_iap_ShowAssociatedProductsUI` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ms_iap_ShowProductPageUI` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ms_iap_ShowPurchaseUI` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ms_iap_ShowRateAndReviewUI` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ms_iap_ShowRedeemTokenUI` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ms_iap_UnmountPackage` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `network_connect_async` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `network_connect_raw_async` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `os_set_orientation_lock` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `part_emitter_delay` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `part_emitter_enable` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `part_emitter_interval` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `part_emitter_relative` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `part_particles_burst` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `part_system_angle` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `part_system_color` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `part_system_colour` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `part_system_get_info` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `part_system_global_space` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `part_type_size_x` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `part_type_size_y` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `part_type_subimage` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `particle_add` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `particle_delete` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `particle_exists` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `particle_get_info` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `physics_debug` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `physics_raycast` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ps4_gamepad_reset_color` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ps4_gamepad_reset_colour` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ps4_touchpad_mouse_enable` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ps5_gamepad_get_trigger_effect_state` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ps5_gamepad_reset_color` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ps5_gamepad_reset_colour` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ps5_gamepad_set_trigger_effect_feedback` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ps5_gamepad_set_trigger_effect_off` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ps5_gamepad_set_trigger_effect_vibration` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ps5_gamepad_set_trigger_effect_weapon` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ps5_gamepad_set_vibration_mode` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ps5_get_game_presets` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ps5_set_high_frame_rate` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ps5_share_features_disable` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ps5_share_features_enable` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ps5_touchpad_mouse_enable` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `psn_account_id_for_pad` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `psn_addcont_mount` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `psn_addcont_unmount` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `psn_age_level_for_pad` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `psn_communication_restriction_status` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `psn_country_for_user` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `psn_disable_notice_screen_skip_flag_auto_set` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `psn_get_trophy_unlock_state` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `psn_init_leaderboard` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `psn_mask_profanity` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `psn_matchmaking_create_game_session` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `psn_notice_screen_skip_flag` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `psn_np_commerce_dialog_open_on_product` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `psn_post_uds_event` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `psn_save_data_backup` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `psn_set_notice_screen_skip_flag` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `psn_webapi_request` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `push_get_application_badge_number` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `push_set_application_badge_number` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `ref_create` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `rollback_chat` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `rollback_create_game` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `rollback_define_extra_network_latency` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `rollback_define_input` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `rollback_define_input_frame_delay` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `rollback_define_mock_input` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `rollback_define_player` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `rollback_display_events` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `rollback_get_info` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `rollback_get_input` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `rollback_get_player_prefs` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `rollback_join_game` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `rollback_leave_game` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `rollback_set_player_prefs` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `rollback_start_game` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `rollback_sync_on_frame` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `rollback_use_late_join` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `rollback_use_manual_start` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `rollback_use_player_prefs` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `rollback_use_random_input` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `room_get_info` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `scheduler_resolution_get` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `scheduler_resolution_set` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `script_execute_ext` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `sequence_create` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `sequence_destroy` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `sequence_exists` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `sequence_get` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `sequence_get_objects` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `sequence_instance_exists` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `sequence_instance_override_object` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `sequence_keyframe_new` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `sequence_keyframedata_new` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `sequence_track_new` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `shader_get_name` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `shader_set_uniform_f_buffer` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `show_debug_log` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `show_debug_message_ext` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `skeleton_animation_get_event_frames` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `skeleton_animation_get_position` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `skeleton_animation_is_finished` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `skeleton_animation_is_looping` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `skeleton_animation_set_position` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `skeleton_attachment_create_color` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `skeleton_attachment_create_colour` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `skeleton_attachment_destroy` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `skeleton_attachment_exists` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `skeleton_attachment_replace` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `skeleton_attachment_replace_color` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `skeleton_attachment_replace_colour` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `skeleton_bone_list` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `skeleton_find_slot` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `skeleton_skin_create` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `skeleton_slot_alpha_get` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `skeleton_slot_color_get` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `skeleton_slot_color_set` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `skeleton_slot_colour_get` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `skeleton_slot_colour_set` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `skeleton_slot_data_instance` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `skeleton_slot_list` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `sphere_is_visible` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `sprite_add_ext` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `sprite_get_convex_hull` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `sprite_get_info` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `sprite_get_nineslice` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `sprite_nineslice_create` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `sprite_set_nineslice` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `static_get` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `static_set` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `string_concat` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `string_concat_ext` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `string_ends_with` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `string_ext` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `string_foreach` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `string_join` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `string_join_ext` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `string_last_pos` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `string_last_pos_ext` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `string_pos_ext` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `string_split` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `string_split_ext` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `string_starts_with` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `string_trim` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `string_trim_end` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `string_trim_start` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `struct_exists` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `struct_exists_from_hash` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `struct_foreach` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `struct_get` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `struct_get_from_hash` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `struct_get_names` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `struct_names_count` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `struct_remove` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `struct_remove_from_hash` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `struct_set` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `struct_set_from_hash` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `surface_depth_disable` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `surface_format_is_supported` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `surface_get_depth_disable` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `surface_get_format` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `surface_get_target` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `surface_get_target_depth` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `surface_get_target_ext` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `surface_get_texture_depth` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `surface_has_depth` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_accounts_close_user` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_accounts_get_accounts` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_accounts_get_handle` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_accounts_get_netid` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_accounts_get_nickname` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_accounts_get_online_token` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_accounts_is_user_online` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_accounts_is_user_open` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_accounts_login_user` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_accounts_network_service_available` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_accounts_open_preselected_user` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_accounts_open_user` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_accounts_select_account` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_add_ssl_certificate` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_bnvib_get_length` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_bnvib_get_loop_end_position` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_bnvib_get_loop_interval` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_bnvib_get_loop_start_position` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_bnvib_get_sampling_rate` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_bnvib_get_value` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_bnvib_is_looping` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_bnvib_load` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_bnvib_unload` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_check_profanity` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_acceleration` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_angle` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_angular_velocity` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_direction` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_enable_sensor_fusion` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_get_default_joycon_assignment` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_get_gyro_zero_drift_mode` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_get_handheld_activation_mode` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_get_sensor_fusion_params` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_get_sixaxis_handle_count` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_get_supported_styles` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_is_at_rest` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_is_sensor_fusion_enabled` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_joycon_get_holdtype` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_joycon_left_connected` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_joycon_right_connected` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_joycon_set_holdtype` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_reset_sensor_fusion_params` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_set_default_joycon_assignment` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_set_gyro_zero_drift_mode` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_set_handheld_activation_mode` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_set_sensor_fusion_params` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_set_supported_styles` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_show_strap_guide` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_start_lr_assignment` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_stop_lr_assignment` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_support_get_player_count` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_support_get_selected_id` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_support_set_all` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_support_set_defaults` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_support_set_explain_text` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_support_set_identification_color` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_support_set_identification_colour` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_support_set_left_justify` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_support_set_maintain_connections` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_support_set_permit_joycon_dual` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_support_set_player_max` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_support_set_player_min` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_support_set_show_explain_text` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_support_set_show_identification_colors` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_support_set_show_identification_colours` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_support_set_singleplayer_only` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_support_show` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_vibrate_hd` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_controller_vibration_permitted` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_error_begin` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_error_end` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_error_get_os_code_info` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_error_set_application_code` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_error_set_dialog_message` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_error_set_fullscreen_message` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_error_set_language_code` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_error_show_os_code` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_free_communication_available` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_free_communication_end` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_free_communication_start` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_gameserver_login_user` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_gameserver_logout_user` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_get_operation_mode` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_get_performance_config` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_get_performance_mode` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_irsensor_cluster_config_set_defaults` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_irsensor_cluster_config_set_external_light_filtering` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_irsensor_cluster_config_set_object_intensity_min` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_irsensor_cluster_config_set_object_pixel_count_max` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_irsensor_cluster_config_set_object_pixel_count_min` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_irsensor_cluster_config_set_window_of_interest` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_irsensor_cluster_create_state_buffer` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_irsensor_common_config_is_negative_image_used` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_irsensor_common_config_set_all` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_irsensor_common_config_set_exposure_time` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_irsensor_common_config_set_gain` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_irsensor_common_config_set_light_target` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_irsensor_get_mode` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_irsensor_hand_config_set_mode` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_irsensor_hand_create_state_buffers` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_irsensor_image_config_set_defaults` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_irsensor_image_config_set_external_light_filtering` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_irsensor_image_config_set_format` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_irsensor_image_config_set_orig_format` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_irsensor_image_config_set_trimming_format` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_irsensor_image_config_set_trimming_start` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_irsensor_image_create_state_buffers` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_irsensor_moment_config_set_defaults` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_irsensor_moment_config_set_preprocess` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_irsensor_moment_config_set_preprocess_intensity_threshold` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_irsensor_moment_config_set_window_of_interest` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_irsensor_moment_create_state_buffer` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_irsensor_set_mode` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_language_get_desired_language` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_leaderboard_get_scores` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_leaderboard_post_common_data` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_leaderboard_post_score` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_mask_profanity` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_matchmaking_session_autojoin` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_matchmaking_session_close_participation` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_matchmaking_session_create` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_matchmaking_session_find` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_matchmaking_session_join` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_matchmaking_session_leave` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_matchmaking_session_open_participation` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_matchmaking_session_update_description` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_matchmaking_start` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_matchmaking_stop` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_mount_aoc_content` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_npln_leaderboard_delete_score` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_npln_leaderboard_get_scores_near` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_npln_leaderboard_get_scores_near_user` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_npln_leaderboard_get_scores_of_friends` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_npln_leaderboard_get_scores_of_users` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_npln_leaderboard_get_scores_range` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_npln_leaderboard_get_user_data` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_npln_leaderboard_set_score` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_npln_leaderboard_set_user_data` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_npln_login_prearranged_user` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_npln_session_create` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_npln_session_create_alias` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_npln_session_destroy` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_npln_session_find` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_npln_session_join` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_npln_session_join_alias` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_npln_session_matchmake` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_npln_session_send_data` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_npln_session_send_reliable` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_npln_session_stream_close` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_npln_session_stream_open` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_npln_session_stream_send` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_npln_session_update` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_query_store` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_recording_disable` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_recording_enable` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_save_data_commit` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_save_data_mount` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_save_data_unmount` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_screenshot_disable` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_screenshot_enable` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_screenshot_set_orientation` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_set_cpu_boost_mode` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_set_local_network_mode` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_set_net_autoconnect` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_set_performance_config` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_show_store` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_show_store_aoc_list` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_show_store_product_details` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `switch_theme_set` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `tag_get_asset_ids` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `tag_get_assets` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `texture_debug_messages` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `texture_flush` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `texture_is_ready` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `texture_prefetch` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `texturegroup_add` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `texturegroup_delete` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `texturegroup_exists` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `texturegroup_get_fonts` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `texturegroup_get_names` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `texturegroup_get_sprites` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `texturegroup_get_status` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `texturegroup_get_textures` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `texturegroup_get_tilesets` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `texturegroup_load` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `texturegroup_set_mode` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `texturegroup_unload` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `tilemap_set_height` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `tilemap_set_width` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `tileset_get_info` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `tileset_get_name` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `tileset_get_texture` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `tileset_get_uvs` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `time_bpm_to_seconds` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `time_seconds_to_bpm` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `time_source_create` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `time_source_destroy` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `time_source_exists` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `time_source_get_children` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `time_source_get_parent` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `time_source_get_period` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `time_source_get_reps_completed` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `time_source_get_reps_remaining` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `time_source_get_state` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `time_source_get_time_remaining` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `time_source_get_units` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `time_source_pause` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `time_source_reconfigure` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `time_source_reset` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `time_source_resume` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `time_source_start` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `time_source_stop` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `uwp_appbar_add_element` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `uwp_appbar_enable` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `uwp_appbar_remove_element` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `uwp_device_touchscreen_available` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `uwp_get_app_receipt` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `uwp_livetile_badge_clear` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `uwp_livetile_badge_notification` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `uwp_livetile_notification_begin` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `uwp_livetile_notification_end` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `uwp_livetile_notification_expiry` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `uwp_livetile_notification_image_add` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `uwp_livetile_notification_secondary_begin` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `uwp_livetile_notification_tag` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `uwp_livetile_notification_template_add` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `uwp_livetile_notification_text_add` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `uwp_livetile_queue_enable` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `uwp_livetile_tile_clear` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `uwp_secondarytile_badge_clear` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `uwp_secondarytile_badge_notification` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `uwp_secondarytile_delete` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `uwp_secondarytile_pin` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `uwp_secondarytile_tile_clear` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `variable_clone` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `variable_get_hash` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `variable_instance_names_count` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `variable_struct_exists` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `variable_struct_get` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `variable_struct_get_names` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `variable_struct_names_count` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `variable_struct_remove` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `variable_struct_set` | ✅ | GameMaker Version 2024.14.4.268 |  |
+| `variable_struct_set_post` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `variable_struct_set_pre` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `vector_sprite_cache_get_limit` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `vector_sprite_cache_get_max_used` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `vector_sprite_cache_get_oldest_entry_age` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `vector_sprite_cache_get_prune_age` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `vector_sprite_cache_get_prune_fraction` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `vector_sprite_cache_get_used` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `vector_sprite_cache_limit` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `vector_sprite_cache_prune_age` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `vector_sprite_cache_prune_fraction` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `vertex_buffer_exists` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `vertex_format_exists` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `vertex_format_get_info` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `vertex_submit_ext` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `vertex_update_buffer_from_buffer` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `vertex_update_buffer_from_vertex` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `video_enable_loop` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `video_get_duration` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `video_get_format` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `video_get_position` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `video_get_status` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `video_get_volume` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `video_is_looping` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `video_pause` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `video_resume` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `video_seek_to` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `wallpaper_set_config` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `wallpaper_set_subscriptions` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `weak_ref_alive` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `weak_ref_any_alive` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `weak_ref_create` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `window_enable_borderless_fullscreen` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `window_get_borderless_fullscreen` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `window_minimise` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `window_minimize` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `window_mouse_get_delta_x` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `window_mouse_get_delta_y` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `window_mouse_get_locked` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `window_mouse_set_locked` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `window_post_message` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `window_restore` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxlive_achievement_load_friends` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxlive_achievement_load_leaderboard` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxlive_achievement_show_achievements` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxlive_achievements_set_progress` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxlive_chat_add_user` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxlive_chat_get_muted` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxlive_chat_remove_user` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxlive_chat_set_communication_relationship` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxlive_gamertag_for_user` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxlive_get_achievement` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxlive_get_achievements` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxlive_get_store_id` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxlive_get_token_and_signature` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxlive_matchmaking_join_session` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxlive_matchmaking_set_find_timeout` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxlive_stats_add_user` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxlive_stats_delete_stat` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxlive_stats_flush_user` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxlive_stats_get_leaderboard` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxlive_stats_get_social_leaderboard` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxlive_stats_get_stat` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxlive_stats_get_stat_names` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxlive_stats_remove_user` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxlive_stats_set_stat_int` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxlive_stats_set_stat_real` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxlive_stats_set_stat_string` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxlive_user_is_signing_in` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxlive_verify_string_async` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_achievements_set_progress` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_chat_add_user` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_chat_get_muted` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_chat_remove_user` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_chat_set_communication_relationship` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_classic_gamertag_for_user` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_find_controller_for_user` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_get_achievement` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_get_achievements` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_matchmaking_join_session` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_matchmaking_set_find_timeout` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_modern_gamertag_for_user` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_modern_gamertag_suffix_for_user` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_set_savedata_uwp_compatibility` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_stats_add_user` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_stats_delete_stat` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_stats_flush_user` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_stats_get_leaderboard` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_stats_get_social_leaderboard` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_stats_get_stat` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_stats_get_stat_names` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_stats_remove_user` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_stats_set_stat_int` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_stats_set_stat_real` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_stats_set_stat_string` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_streaming_get_info` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_streaming_get_show_controls` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_streaming_is_enabled` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_streaming_set_show_controls` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_unique_modern_gamertag_for_user` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_update_recent_players` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxone_verify_string_async` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxseriesxs_get_high_frame_rate` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxseriesxs_set_high_frame_rate` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `xboxseriesxs_supports_high_frame_rate` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `zip_add_file` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `zip_create` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `zip_save` | 🚫 | GameMaker Version 2024.14.4.268 |  |
+| `zip_unzip_async` | 🚫 | GameMaker Version 2024.14.4.268 |  |
 
