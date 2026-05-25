@@ -6,7 +6,7 @@ Type | Name | Condition
 boolean | Is Debugger Disabled? |
 unsigned2 | WAD Version |
 
-If the WAD Version >= 8 and the remaining bytes are 84:
+If the 8 >= WAD Version and the remaining bytes are 84:
 
 Type | Name | Condition
 --- | --- | ---
