@@ -1,6 +1,6 @@
 **Progress:** 631/3759 (16.786379356211757%)
 
-| GML Function | Implemented? | Added In | Removed In |
+| GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
 | `MCI_command` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `YoYo_AchievementsAvailable` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |

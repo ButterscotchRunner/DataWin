@@ -1,6 +1,6 @@
 **Progress:** 118/233 (50.64377682403433%)
 
-| GML Built-In Variable | Implemented? | Added In | Removed In |
+| GML Variable | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
 | `alarm` | ✅ | GM:S 1.0.98 |  |
 | `argument` | ✅ | GM:S 1.0.98 |  |
