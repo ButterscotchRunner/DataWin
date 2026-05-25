@@ -1,15 +1,9 @@
-**Progress:** 118/211 (55.92417061611374%)
+**Progress:** 107/182 (58.791208791208796%)
 
-Tested against GameMaker WAD Version 15
+Tested against GameMaker WAD Version 8
 
 | GML Built-In Variable | Implemented? |
 | - | - |
-| `os_type` | ✅ |
-| `os_device` | 🚫 |
-| `os_version` | 🚫 |
-| `os_browser` | 🚫 |
-| `browser_width` | 🚫 |
-| `browser_height` | 🚫 |
 | `argument_relative` | 🚫 |
 | `argument` | ✅ |
 | `argument0` | ✅ |
@@ -29,12 +23,6 @@ Tested against GameMaker WAD Version 15
 | `argument14` | ✅ |
 | `argument15` | ✅ |
 | `argument_count` | ✅ |
-| `debug_mode` | ✅ |
-| `pointer_invalid` | 🚫 |
-| `pointer_null` | 🚫 |
-| `undefined` | ✅ |
-| `null` | 🚫 |
-| `room` | ✅ |
 | `room_first` | ✅ |
 | `room_last` | 🚫 |
 | `transition_kind` | 🚫 |
@@ -43,10 +31,6 @@ Tested against GameMaker WAD Version 15
 | `lives` | ✅ |
 | `health` | ✅ |
 | `game_id` | 🚫 |
-| `game_guid` | 🚫 |
-| `game_display_name` | 🚫 |
-| `game_project_name` | 🚫 |
-| `game_save_id` | 🚫 |
 | `working_directory` | ✅ |
 | `temp_directory` | 🚫 |
 | `program_directory` | 🚫 |
@@ -59,8 +43,6 @@ Tested against GameMaker WAD Version 15
 | `room_persistent` | ✅ |
 | `background_color` | ✅ |
 | `background_showcolor` | 🚫 |
-| `background_colour` | ✅ |
-| `background_showcolour` | 🚫 |
 | `background_visible` | ✅ |
 | `background_foreground` | 🚫 |
 | `background_index` | ✅ |
@@ -93,8 +75,6 @@ Tested against GameMaker WAD Version 15
 | `view_hspeed` | ✅ |
 | `view_vspeed` | ✅ |
 | `view_object` | ✅ |
-| `view_surface_id` | 🚫 |
-| `view_camera` | ✅ |
 | `mouse_x` | 🚫 |
 | `mouse_y` | 🚫 |
 | `mouse_button` | 🚫 |
@@ -110,8 +90,6 @@ Tested against GameMaker WAD Version 15
 | `caption_score` | 🚫 |
 | `caption_lives` | 🚫 |
 | `caption_health` | 🚫 |
-| `fps` | ✅ |
-| `fps_real` | 🚫 |
 | `current_time` | ✅ |
 | `current_year` | 🚫 |
 | `current_month` | 🚫 |
@@ -129,9 +107,6 @@ Tested against GameMaker WAD Version 15
 | `error_last` | 🚫 |
 | `gamemaker_registered` | 🚫 |
 | `gamemaker_pro` | 🚫 |
-| `application_surface` | ✅ |
-| `x` | ✅ |
-| `y` | ✅ |
 | `xprevious` | ✅ |
 | `yprevious` | ✅ |
 | `xstart` | ✅ |
@@ -144,7 +119,6 @@ Tested against GameMaker WAD Version 15
 | `gravity` | ✅ |
 | `gravity_direction` | ✅ |
 | `object_index` | ✅ |
-| `id` | ✅ |
 | `alarm` | ✅ |
 | `solid` | ✅ |
 | `visible` | ✅ |
@@ -182,7 +156,6 @@ Tested against GameMaker WAD Version 15
 | `timeline_running` | ✅ |
 | `timeline_loop` | ✅ |
 | `async_load` | ✅ |
-| `iap_data` | 🚫 |
 | `phy_rotation` | 🚫 |
 | `phy_position_x` | 🚫 |
 | `phy_position_y` | 🚫 |
@@ -191,8 +164,6 @@ Tested against GameMaker WAD Version 15
 | `phy_linear_velocity_y` | 🚫 |
 | `phy_speed_x` | 🚫 |
 | `phy_speed_y` | 🚫 |
-| `phy_angular_damping` | 🚫 |
-| `phy_linear_damping` | 🚫 |
 | `phy_bullet` | 🚫 |
 | `phy_fixed_rotation` | 🚫 |
 | `phy_active` | 🚫 |
@@ -200,19 +171,19 @@ Tested against GameMaker WAD Version 15
 | `phy_inertia` | 🚫 |
 | `phy_com_x` | 🚫 |
 | `phy_com_y` | 🚫 |
-| `phy_speed` | 🚫 |
 | `phy_dynamic` | 🚫 |
 | `phy_kinematic` | 🚫 |
 | `phy_sleeping` | 🚫 |
-| `phy_position_xprevious` | 🚫 |
-| `phy_position_yprevious` | 🚫 |
 | `phy_collision_points` | 🚫 |
 | `phy_collision_x` | 🚫 |
 | `phy_collision_y` | 🚫 |
 | `phy_col_normal_x` | 🚫 |
 | `phy_col_normal_y` | 🚫 |
 | `display_aa` | 🚫 |
-| `delta_time` | 🚫 |
-| `webgl_enabled` | 🚫 |
-| `layer` | ✅ |
+| `os_type` | ✅ |
+| `os_device` | 🚫 |
+| `os_version` | 🚫 |
+| `os_browser` | 🚫 |
+| `browser_width` | 🚫 |
+| `browser_height` | 🚫 |
 
