@@ -2,199 +2,199 @@
 
 | GML Built-In Variable | Implemented? | Added In |
 | - | - | - |
-| `alarm` | ✅ | GameMaker: Studio 1.0.198 |
-| `argument` | ✅ | GameMaker: Studio 1.0.198 |
-| `argument0` | ✅ | GameMaker: Studio 1.0.198 |
-| `argument1` | ✅ | GameMaker: Studio 1.0.198 |
-| `argument10` | ✅ | GameMaker: Studio 1.0.198 |
-| `argument11` | ✅ | GameMaker: Studio 1.0.198 |
-| `argument12` | ✅ | GameMaker: Studio 1.0.198 |
-| `argument13` | ✅ | GameMaker: Studio 1.0.198 |
-| `argument14` | ✅ | GameMaker: Studio 1.0.198 |
-| `argument15` | ✅ | GameMaker: Studio 1.0.198 |
-| `argument2` | ✅ | GameMaker: Studio 1.0.198 |
-| `argument3` | ✅ | GameMaker: Studio 1.0.198 |
-| `argument4` | ✅ | GameMaker: Studio 1.0.198 |
-| `argument5` | ✅ | GameMaker: Studio 1.0.198 |
-| `argument6` | ✅ | GameMaker: Studio 1.0.198 |
-| `argument7` | ✅ | GameMaker: Studio 1.0.198 |
-| `argument8` | ✅ | GameMaker: Studio 1.0.198 |
-| `argument9` | ✅ | GameMaker: Studio 1.0.198 |
-| `argument_count` | ✅ | GameMaker: Studio 1.0.198 |
-| `argument_relative` | 🚫 | GameMaker: Studio 1.0.198 |
-| `async_load` | ✅ | GameMaker: Studio 1.0.198 |
-| `background_alpha` | ✅ | GameMaker: Studio 1.0.198 |
-| `background_blend` | 🚫 | GameMaker: Studio 1.0.198 |
-| `background_color` | ✅ | GameMaker: Studio 1.0.198 |
-| `background_foreground` | 🚫 | GameMaker: Studio 1.0.198 |
-| `background_height` | ✅ | GameMaker: Studio 1.0.198 |
-| `background_hspeed` | ✅ | GameMaker: Studio 1.0.198 |
-| `background_htiled` | 🚫 | GameMaker: Studio 1.0.198 |
-| `background_index` | ✅ | GameMaker: Studio 1.0.198 |
-| `background_showcolor` | 🚫 | GameMaker: Studio 1.0.198 |
-| `background_visible` | ✅ | GameMaker: Studio 1.0.198 |
-| `background_vspeed` | ✅ | GameMaker: Studio 1.0.198 |
-| `background_vtiled` | 🚫 | GameMaker: Studio 1.0.198 |
-| `background_width` | ✅ | GameMaker: Studio 1.0.198 |
-| `background_x` | ✅ | GameMaker: Studio 1.0.198 |
-| `background_xscale` | 🚫 | GameMaker: Studio 1.0.198 |
-| `background_y` | ✅ | GameMaker: Studio 1.0.198 |
-| `background_yscale` | 🚫 | GameMaker: Studio 1.0.198 |
-| `bbox_bottom` | ✅ | GameMaker: Studio 1.0.198 |
-| `bbox_left` | ✅ | GameMaker: Studio 1.0.198 |
-| `bbox_right` | ✅ | GameMaker: Studio 1.0.198 |
-| `bbox_top` | ✅ | GameMaker: Studio 1.0.198 |
-| `browser_height` | 🚫 | GameMaker: Studio 1.0.198 |
-| `browser_width` | 🚫 | GameMaker: Studio 1.0.198 |
-| `caption_health` | 🚫 | GameMaker: Studio 1.0.198 |
-| `caption_lives` | 🚫 | GameMaker: Studio 1.0.198 |
-| `caption_score` | 🚫 | GameMaker: Studio 1.0.198 |
-| `current_day` | 🚫 | GameMaker: Studio 1.0.198 |
-| `current_hour` | 🚫 | GameMaker: Studio 1.0.198 |
-| `current_minute` | 🚫 | GameMaker: Studio 1.0.198 |
-| `current_month` | 🚫 | GameMaker: Studio 1.0.198 |
-| `current_second` | 🚫 | GameMaker: Studio 1.0.198 |
-| `current_time` | ✅ | GameMaker: Studio 1.0.198 |
-| `current_weekday` | 🚫 | GameMaker: Studio 1.0.198 |
-| `current_year` | 🚫 | GameMaker: Studio 1.0.198 |
-| `cursor_sprite` | 🚫 | GameMaker: Studio 1.0.198 |
-| `depth` | ✅ | GameMaker: Studio 1.0.198 |
-| `direction` | ✅ | GameMaker: Studio 1.0.198 |
-| `display_aa` | 🚫 | GameMaker: Studio 1.0.198 |
-| `error_last` | 🚫 | GameMaker: Studio 1.0.198 |
-| `error_occurred` | 🚫 | GameMaker: Studio 1.0.198 |
-| `event_action` | 🚫 | GameMaker: Studio 1.0.198 |
-| `event_number` | 🚫 | GameMaker: Studio 1.0.198 |
-| `event_object` | 🚫 | GameMaker: Studio 1.0.198 |
-| `event_type` | 🚫 | GameMaker: Studio 1.0.198 |
-| `friction` | ✅ | GameMaker: Studio 1.0.198 |
-| `game_id` | 🚫 | GameMaker: Studio 1.0.198 |
-| `gamemaker_pro` | 🚫 | GameMaker: Studio 1.0.198 |
-| `gamemaker_registered` | 🚫 | GameMaker: Studio 1.0.198 |
-| `gravity` | ✅ | GameMaker: Studio 1.0.198 |
-| `gravity_direction` | ✅ | GameMaker: Studio 1.0.198 |
-| `health` | ✅ | GameMaker: Studio 1.0.198 |
-| `hspeed` | ✅ | GameMaker: Studio 1.0.198 |
-| `image_alpha` | ✅ | GameMaker: Studio 1.0.198 |
-| `image_angle` | ✅ | GameMaker: Studio 1.0.198 |
-| `image_blend` | ✅ | GameMaker: Studio 1.0.198 |
-| `image_index` | ✅ | GameMaker: Studio 1.0.198 |
-| `image_number` | ✅ | GameMaker: Studio 1.0.198 |
-| `image_single` | ✅ | GameMaker: Studio 1.0.198 |
-| `image_speed` | ✅ | GameMaker: Studio 1.0.198 |
-| `image_xscale` | ✅ | GameMaker: Studio 1.0.198 |
-| `image_yscale` | ✅ | GameMaker: Studio 1.0.198 |
-| `instance_count` | 🚫 | GameMaker: Studio 1.0.198 |
-| `instance_id` | 🚫 | GameMaker: Studio 1.0.198 |
-| `keyboard_key` | ✅ | GameMaker: Studio 1.0.198 |
-| `keyboard_lastchar` | ✅ | GameMaker: Studio 1.0.198 |
-| `keyboard_lastkey` | ✅ | GameMaker: Studio 1.0.198 |
-| `keyboard_string` | 🚫 | GameMaker: Studio 1.0.198 |
-| `lives` | ✅ | GameMaker: Studio 1.0.198 |
-| `mask_index` | ✅ | GameMaker: Studio 1.0.198 |
-| `mouse_button` | 🚫 | GameMaker: Studio 1.0.198 |
-| `mouse_lastbutton` | 🚫 | GameMaker: Studio 1.0.198 |
-| `mouse_x` | 🚫 | GameMaker: Studio 1.0.198 |
-| `mouse_y` | 🚫 | GameMaker: Studio 1.0.198 |
-| `object_index` | ✅ | GameMaker: Studio 1.0.198 |
-| `os_browser` | 🚫 | GameMaker: Studio 1.0.198 |
-| `os_device` | 🚫 | GameMaker: Studio 1.0.198 |
-| `os_type` | ✅ | GameMaker: Studio 1.0.198 |
-| `os_version` | 🚫 | GameMaker: Studio 1.0.198 |
-| `path_endaction` | ✅ | GameMaker: Studio 1.0.198 |
-| `path_index` | ✅ | GameMaker: Studio 1.0.198 |
-| `path_orientation` | ✅ | GameMaker: Studio 1.0.198 |
-| `path_position` | ✅ | GameMaker: Studio 1.0.198 |
-| `path_positionprevious` | ✅ | GameMaker: Studio 1.0.198 |
-| `path_scale` | ✅ | GameMaker: Studio 1.0.198 |
-| `path_speed` | ✅ | GameMaker: Studio 1.0.198 |
-| `persistent` | ✅ | GameMaker: Studio 1.0.198 |
-| `phy_active` | 🚫 | GameMaker: Studio 1.0.198 |
-| `phy_angular_velocity` | 🚫 | GameMaker: Studio 1.0.198 |
-| `phy_bullet` | 🚫 | GameMaker: Studio 1.0.198 |
-| `phy_col_normal_x` | 🚫 | GameMaker: Studio 1.0.198 |
-| `phy_col_normal_y` | 🚫 | GameMaker: Studio 1.0.198 |
-| `phy_collision_points` | 🚫 | GameMaker: Studio 1.0.198 |
-| `phy_collision_x` | 🚫 | GameMaker: Studio 1.0.198 |
-| `phy_collision_y` | 🚫 | GameMaker: Studio 1.0.198 |
-| `phy_com_x` | 🚫 | GameMaker: Studio 1.0.198 |
-| `phy_com_y` | 🚫 | GameMaker: Studio 1.0.198 |
-| `phy_dynamic` | 🚫 | GameMaker: Studio 1.0.198 |
-| `phy_fixed_rotation` | 🚫 | GameMaker: Studio 1.0.198 |
-| `phy_inertia` | 🚫 | GameMaker: Studio 1.0.198 |
-| `phy_kinematic` | 🚫 | GameMaker: Studio 1.0.198 |
-| `phy_linear_velocity_x` | 🚫 | GameMaker: Studio 1.0.198 |
-| `phy_linear_velocity_y` | 🚫 | GameMaker: Studio 1.0.198 |
-| `phy_mass` | 🚫 | GameMaker: Studio 1.0.198 |
-| `phy_position_x` | 🚫 | GameMaker: Studio 1.0.198 |
-| `phy_position_y` | 🚫 | GameMaker: Studio 1.0.198 |
-| `phy_rotation` | 🚫 | GameMaker: Studio 1.0.198 |
-| `phy_sleeping` | 🚫 | GameMaker: Studio 1.0.198 |
-| `phy_speed_x` | 🚫 | GameMaker: Studio 1.0.198 |
-| `phy_speed_y` | 🚫 | GameMaker: Studio 1.0.198 |
-| `program_directory` | 🚫 | GameMaker: Studio 1.0.198 |
-| `room_caption` | 🚫 | GameMaker: Studio 1.0.198 |
-| `room_first` | ✅ | GameMaker: Studio 1.0.198 |
-| `room_height` | ✅ | GameMaker: Studio 1.0.198 |
-| `room_last` | 🚫 | GameMaker: Studio 1.0.198 |
-| `room_persistent` | ✅ | GameMaker: Studio 1.0.198 |
-| `room_speed` | ✅ | GameMaker: Studio 1.0.198 |
-| `room_width` | ✅ | GameMaker: Studio 1.0.198 |
-| `score` | ✅ | GameMaker: Studio 1.0.198 |
-| `secure_mode` | 🚫 | GameMaker: Studio 1.0.198 |
-| `show_health` | 🚫 | GameMaker: Studio 1.0.198 |
-| `show_lives` | 🚫 | GameMaker: Studio 1.0.198 |
-| `show_score` | 🚫 | GameMaker: Studio 1.0.198 |
-| `solid` | ✅ | GameMaker: Studio 1.0.198 |
-| `speed` | ✅ | GameMaker: Studio 1.0.198 |
-| `sprite_height` | ✅ | GameMaker: Studio 1.0.198 |
-| `sprite_index` | ✅ | GameMaker: Studio 1.0.198 |
-| `sprite_width` | ✅ | GameMaker: Studio 1.0.198 |
-| `sprite_xoffset` | ✅ | GameMaker: Studio 1.0.198 |
-| `sprite_yoffset` | ✅ | GameMaker: Studio 1.0.198 |
-| `temp_directory` | 🚫 | GameMaker: Studio 1.0.198 |
-| `timeline_index` | ✅ | GameMaker: Studio 1.0.198 |
-| `timeline_loop` | ✅ | GameMaker: Studio 1.0.198 |
-| `timeline_position` | ✅ | GameMaker: Studio 1.0.198 |
-| `timeline_running` | ✅ | GameMaker: Studio 1.0.198 |
-| `timeline_speed` | ✅ | GameMaker: Studio 1.0.198 |
-| `transition_kind` | 🚫 | GameMaker: Studio 1.0.198 |
-| `transition_steps` | 🚫 | GameMaker: Studio 1.0.198 |
-| `view_angle` | ✅ | GameMaker: Studio 1.0.198 |
-| `view_current` | ✅ | GameMaker: Studio 1.0.198 |
-| `view_enabled` | 🚫 | GameMaker: Studio 1.0.198 |
-| `view_hborder` | ✅ | GameMaker: Studio 1.0.198 |
-| `view_hport` | ✅ | GameMaker: Studio 1.0.198 |
-| `view_hspeed` | ✅ | GameMaker: Studio 1.0.198 |
-| `view_hview` | ✅ | GameMaker: Studio 1.0.198 |
-| `view_object` | ✅ | GameMaker: Studio 1.0.198 |
-| `view_vborder` | ✅ | GameMaker: Studio 1.0.198 |
-| `view_visible` | ✅ | GameMaker: Studio 1.0.198 |
-| `view_vspeed` | ✅ | GameMaker: Studio 1.0.198 |
-| `view_wport` | ✅ | GameMaker: Studio 1.0.198 |
-| `view_wview` | ✅ | GameMaker: Studio 1.0.198 |
-| `view_xport` | ✅ | GameMaker: Studio 1.0.198 |
-| `view_xview` | ✅ | GameMaker: Studio 1.0.198 |
-| `view_yport` | ✅ | GameMaker: Studio 1.0.198 |
-| `view_yview` | ✅ | GameMaker: Studio 1.0.198 |
-| `visible` | ✅ | GameMaker: Studio 1.0.198 |
-| `vspeed` | ✅ | GameMaker: Studio 1.0.198 |
-| `working_directory` | ✅ | GameMaker: Studio 1.0.198 |
-| `xprevious` | ✅ | GameMaker: Studio 1.0.198 |
-| `xstart` | ✅ | GameMaker: Studio 1.0.198 |
-| `yprevious` | ✅ | GameMaker: Studio 1.0.198 |
-| `ystart` | ✅ | GameMaker: Studio 1.0.198 |
-| `debug_mode` | ✅ | GameMaker: Studio 1.1.690 |
-| `delta_time` | 🚫 | GameMaker: Studio 1.1.690 |
-| `fps` | ✅ | GameMaker: Studio 1.1.690 |
-| `game_guid` | 🚫 | GameMaker: Studio 1.1.690 |
-| `id` | ✅ | GameMaker: Studio 1.1.690 |
-| `room` | ✅ | GameMaker: Studio 1.1.690 |
-| `view_surface_id` | 🚫 | GameMaker: Studio 1.1.690 |
-| `webgl_enabled` | 🚫 | GameMaker: Studio 1.1.690 |
-| `x` | ✅ | GameMaker: Studio 1.1.690 |
-| `y` | ✅ | GameMaker: Studio 1.1.690 |
-| `fps_real` | 🚫 | WAD Version 13 |
+| `alarm` | ✅ | GM:S 1.0.198 |
+| `argument` | ✅ | GM:S 1.0.198 |
+| `argument0` | ✅ | GM:S 1.0.198 |
+| `argument1` | ✅ | GM:S 1.0.198 |
+| `argument10` | ✅ | GM:S 1.0.198 |
+| `argument11` | ✅ | GM:S 1.0.198 |
+| `argument12` | ✅ | GM:S 1.0.198 |
+| `argument13` | ✅ | GM:S 1.0.198 |
+| `argument14` | ✅ | GM:S 1.0.198 |
+| `argument15` | ✅ | GM:S 1.0.198 |
+| `argument2` | ✅ | GM:S 1.0.198 |
+| `argument3` | ✅ | GM:S 1.0.198 |
+| `argument4` | ✅ | GM:S 1.0.198 |
+| `argument5` | ✅ | GM:S 1.0.198 |
+| `argument6` | ✅ | GM:S 1.0.198 |
+| `argument7` | ✅ | GM:S 1.0.198 |
+| `argument8` | ✅ | GM:S 1.0.198 |
+| `argument9` | ✅ | GM:S 1.0.198 |
+| `argument_count` | ✅ | GM:S 1.0.198 |
+| `argument_relative` | 🚫 | GM:S 1.0.198 |
+| `async_load` | ✅ | GM:S 1.0.198 |
+| `background_alpha` | ✅ | GM:S 1.0.198 |
+| `background_blend` | 🚫 | GM:S 1.0.198 |
+| `background_color` | ✅ | GM:S 1.0.198 |
+| `background_foreground` | 🚫 | GM:S 1.0.198 |
+| `background_height` | ✅ | GM:S 1.0.198 |
+| `background_hspeed` | ✅ | GM:S 1.0.198 |
+| `background_htiled` | 🚫 | GM:S 1.0.198 |
+| `background_index` | ✅ | GM:S 1.0.198 |
+| `background_showcolor` | 🚫 | GM:S 1.0.198 |
+| `background_visible` | ✅ | GM:S 1.0.198 |
+| `background_vspeed` | ✅ | GM:S 1.0.198 |
+| `background_vtiled` | 🚫 | GM:S 1.0.198 |
+| `background_width` | ✅ | GM:S 1.0.198 |
+| `background_x` | ✅ | GM:S 1.0.198 |
+| `background_xscale` | 🚫 | GM:S 1.0.198 |
+| `background_y` | ✅ | GM:S 1.0.198 |
+| `background_yscale` | 🚫 | GM:S 1.0.198 |
+| `bbox_bottom` | ✅ | GM:S 1.0.198 |
+| `bbox_left` | ✅ | GM:S 1.0.198 |
+| `bbox_right` | ✅ | GM:S 1.0.198 |
+| `bbox_top` | ✅ | GM:S 1.0.198 |
+| `browser_height` | 🚫 | GM:S 1.0.198 |
+| `browser_width` | 🚫 | GM:S 1.0.198 |
+| `caption_health` | 🚫 | GM:S 1.0.198 |
+| `caption_lives` | 🚫 | GM:S 1.0.198 |
+| `caption_score` | 🚫 | GM:S 1.0.198 |
+| `current_day` | 🚫 | GM:S 1.0.198 |
+| `current_hour` | 🚫 | GM:S 1.0.198 |
+| `current_minute` | 🚫 | GM:S 1.0.198 |
+| `current_month` | 🚫 | GM:S 1.0.198 |
+| `current_second` | 🚫 | GM:S 1.0.198 |
+| `current_time` | ✅ | GM:S 1.0.198 |
+| `current_weekday` | 🚫 | GM:S 1.0.198 |
+| `current_year` | 🚫 | GM:S 1.0.198 |
+| `cursor_sprite` | 🚫 | GM:S 1.0.198 |
+| `depth` | ✅ | GM:S 1.0.198 |
+| `direction` | ✅ | GM:S 1.0.198 |
+| `display_aa` | 🚫 | GM:S 1.0.198 |
+| `error_last` | 🚫 | GM:S 1.0.198 |
+| `error_occurred` | 🚫 | GM:S 1.0.198 |
+| `event_action` | 🚫 | GM:S 1.0.198 |
+| `event_number` | 🚫 | GM:S 1.0.198 |
+| `event_object` | 🚫 | GM:S 1.0.198 |
+| `event_type` | 🚫 | GM:S 1.0.198 |
+| `friction` | ✅ | GM:S 1.0.198 |
+| `game_id` | 🚫 | GM:S 1.0.198 |
+| `gamemaker_pro` | 🚫 | GM:S 1.0.198 |
+| `gamemaker_registered` | 🚫 | GM:S 1.0.198 |
+| `gravity` | ✅ | GM:S 1.0.198 |
+| `gravity_direction` | ✅ | GM:S 1.0.198 |
+| `health` | ✅ | GM:S 1.0.198 |
+| `hspeed` | ✅ | GM:S 1.0.198 |
+| `image_alpha` | ✅ | GM:S 1.0.198 |
+| `image_angle` | ✅ | GM:S 1.0.198 |
+| `image_blend` | ✅ | GM:S 1.0.198 |
+| `image_index` | ✅ | GM:S 1.0.198 |
+| `image_number` | ✅ | GM:S 1.0.198 |
+| `image_single` | ✅ | GM:S 1.0.198 |
+| `image_speed` | ✅ | GM:S 1.0.198 |
+| `image_xscale` | ✅ | GM:S 1.0.198 |
+| `image_yscale` | ✅ | GM:S 1.0.198 |
+| `instance_count` | 🚫 | GM:S 1.0.198 |
+| `instance_id` | 🚫 | GM:S 1.0.198 |
+| `keyboard_key` | ✅ | GM:S 1.0.198 |
+| `keyboard_lastchar` | ✅ | GM:S 1.0.198 |
+| `keyboard_lastkey` | ✅ | GM:S 1.0.198 |
+| `keyboard_string` | 🚫 | GM:S 1.0.198 |
+| `lives` | ✅ | GM:S 1.0.198 |
+| `mask_index` | ✅ | GM:S 1.0.198 |
+| `mouse_button` | 🚫 | GM:S 1.0.198 |
+| `mouse_lastbutton` | 🚫 | GM:S 1.0.198 |
+| `mouse_x` | 🚫 | GM:S 1.0.198 |
+| `mouse_y` | 🚫 | GM:S 1.0.198 |
+| `object_index` | ✅ | GM:S 1.0.198 |
+| `os_browser` | 🚫 | GM:S 1.0.198 |
+| `os_device` | 🚫 | GM:S 1.0.198 |
+| `os_type` | ✅ | GM:S 1.0.198 |
+| `os_version` | 🚫 | GM:S 1.0.198 |
+| `path_endaction` | ✅ | GM:S 1.0.198 |
+| `path_index` | ✅ | GM:S 1.0.198 |
+| `path_orientation` | ✅ | GM:S 1.0.198 |
+| `path_position` | ✅ | GM:S 1.0.198 |
+| `path_positionprevious` | ✅ | GM:S 1.0.198 |
+| `path_scale` | ✅ | GM:S 1.0.198 |
+| `path_speed` | ✅ | GM:S 1.0.198 |
+| `persistent` | ✅ | GM:S 1.0.198 |
+| `phy_active` | 🚫 | GM:S 1.0.198 |
+| `phy_angular_velocity` | 🚫 | GM:S 1.0.198 |
+| `phy_bullet` | 🚫 | GM:S 1.0.198 |
+| `phy_col_normal_x` | 🚫 | GM:S 1.0.198 |
+| `phy_col_normal_y` | 🚫 | GM:S 1.0.198 |
+| `phy_collision_points` | 🚫 | GM:S 1.0.198 |
+| `phy_collision_x` | 🚫 | GM:S 1.0.198 |
+| `phy_collision_y` | 🚫 | GM:S 1.0.198 |
+| `phy_com_x` | 🚫 | GM:S 1.0.198 |
+| `phy_com_y` | 🚫 | GM:S 1.0.198 |
+| `phy_dynamic` | 🚫 | GM:S 1.0.198 |
+| `phy_fixed_rotation` | 🚫 | GM:S 1.0.198 |
+| `phy_inertia` | 🚫 | GM:S 1.0.198 |
+| `phy_kinematic` | 🚫 | GM:S 1.0.198 |
+| `phy_linear_velocity_x` | 🚫 | GM:S 1.0.198 |
+| `phy_linear_velocity_y` | 🚫 | GM:S 1.0.198 |
+| `phy_mass` | 🚫 | GM:S 1.0.198 |
+| `phy_position_x` | 🚫 | GM:S 1.0.198 |
+| `phy_position_y` | 🚫 | GM:S 1.0.198 |
+| `phy_rotation` | 🚫 | GM:S 1.0.198 |
+| `phy_sleeping` | 🚫 | GM:S 1.0.198 |
+| `phy_speed_x` | 🚫 | GM:S 1.0.198 |
+| `phy_speed_y` | 🚫 | GM:S 1.0.198 |
+| `program_directory` | 🚫 | GM:S 1.0.198 |
+| `room_caption` | 🚫 | GM:S 1.0.198 |
+| `room_first` | ✅ | GM:S 1.0.198 |
+| `room_height` | ✅ | GM:S 1.0.198 |
+| `room_last` | 🚫 | GM:S 1.0.198 |
+| `room_persistent` | ✅ | GM:S 1.0.198 |
+| `room_speed` | ✅ | GM:S 1.0.198 |
+| `room_width` | ✅ | GM:S 1.0.198 |
+| `score` | ✅ | GM:S 1.0.198 |
+| `secure_mode` | 🚫 | GM:S 1.0.198 |
+| `show_health` | 🚫 | GM:S 1.0.198 |
+| `show_lives` | 🚫 | GM:S 1.0.198 |
+| `show_score` | 🚫 | GM:S 1.0.198 |
+| `solid` | ✅ | GM:S 1.0.198 |
+| `speed` | ✅ | GM:S 1.0.198 |
+| `sprite_height` | ✅ | GM:S 1.0.198 |
+| `sprite_index` | ✅ | GM:S 1.0.198 |
+| `sprite_width` | ✅ | GM:S 1.0.198 |
+| `sprite_xoffset` | ✅ | GM:S 1.0.198 |
+| `sprite_yoffset` | ✅ | GM:S 1.0.198 |
+| `temp_directory` | 🚫 | GM:S 1.0.198 |
+| `timeline_index` | ✅ | GM:S 1.0.198 |
+| `timeline_loop` | ✅ | GM:S 1.0.198 |
+| `timeline_position` | ✅ | GM:S 1.0.198 |
+| `timeline_running` | ✅ | GM:S 1.0.198 |
+| `timeline_speed` | ✅ | GM:S 1.0.198 |
+| `transition_kind` | 🚫 | GM:S 1.0.198 |
+| `transition_steps` | 🚫 | GM:S 1.0.198 |
+| `view_angle` | ✅ | GM:S 1.0.198 |
+| `view_current` | ✅ | GM:S 1.0.198 |
+| `view_enabled` | 🚫 | GM:S 1.0.198 |
+| `view_hborder` | ✅ | GM:S 1.0.198 |
+| `view_hport` | ✅ | GM:S 1.0.198 |
+| `view_hspeed` | ✅ | GM:S 1.0.198 |
+| `view_hview` | ✅ | GM:S 1.0.198 |
+| `view_object` | ✅ | GM:S 1.0.198 |
+| `view_vborder` | ✅ | GM:S 1.0.198 |
+| `view_visible` | ✅ | GM:S 1.0.198 |
+| `view_vspeed` | ✅ | GM:S 1.0.198 |
+| `view_wport` | ✅ | GM:S 1.0.198 |
+| `view_wview` | ✅ | GM:S 1.0.198 |
+| `view_xport` | ✅ | GM:S 1.0.198 |
+| `view_xview` | ✅ | GM:S 1.0.198 |
+| `view_yport` | ✅ | GM:S 1.0.198 |
+| `view_yview` | ✅ | GM:S 1.0.198 |
+| `visible` | ✅ | GM:S 1.0.198 |
+| `vspeed` | ✅ | GM:S 1.0.198 |
+| `working_directory` | ✅ | GM:S 1.0.198 |
+| `xprevious` | ✅ | GM:S 1.0.198 |
+| `xstart` | ✅ | GM:S 1.0.198 |
+| `yprevious` | ✅ | GM:S 1.0.198 |
+| `ystart` | ✅ | GM:S 1.0.198 |
+| `debug_mode` | ✅ | GM:S 1.1.690 |
+| `delta_time` | 🚫 | GM:S 1.1.690 |
+| `fps` | ✅ | GM:S 1.1.690 |
+| `game_guid` | 🚫 | GM:S 1.1.690 |
+| `id` | ✅ | GM:S 1.1.690 |
+| `room` | ✅ | GM:S 1.1.690 |
+| `view_surface_id` | 🚫 | GM:S 1.1.690 |
+| `webgl_enabled` | 🚫 | GM:S 1.1.690 |
+| `x` | ✅ | GM:S 1.1.690 |
+| `y` | ✅ | GM:S 1.1.690 |
+| `fps_real` | 🚫 | GM:S 1.1.1130 |
 | `application_surface` | ✅ | WAD Version 14 |
 | `background_colour` | ✅ | WAD Version 14 |
 | `background_showcolour` | 🚫 | WAD Version 14 |
