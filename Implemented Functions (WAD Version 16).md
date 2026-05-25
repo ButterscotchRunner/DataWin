@@ -1,4 +1,4 @@
-**Progress:** 586/2619 (22.374952271859488%)
+**Progress:** 598/2619 (22.83314242077129%)
 
 Tested against GameMaker WAD Version 16
 
@@ -77,18 +77,18 @@ Tested against GameMaker WAD Version 16
 | `ds_stack_top` | 🚫 |
 | `ds_stack_write` | 🚫 |
 | `ds_stack_read` | 🚫 |
-| `ds_queue_create` | 🚫 |
-| `ds_queue_destroy` | 🚫 |
-| `ds_queue_clear` | 🚫 |
-| `ds_queue_copy` | 🚫 |
-| `ds_queue_size` | 🚫 |
-| `ds_queue_empty` | 🚫 |
-| `ds_queue_enqueue` | 🚫 |
-| `ds_queue_dequeue` | 🚫 |
-| `ds_queue_head` | 🚫 |
-| `ds_queue_tail` | 🚫 |
-| `ds_queue_write` | 🚫 |
-| `ds_queue_read` | 🚫 |
+| `ds_queue_create` | ✅ |
+| `ds_queue_destroy` | ✅ |
+| `ds_queue_clear` | ✅ |
+| `ds_queue_copy` | ✅ |
+| `ds_queue_size` | ✅ |
+| `ds_queue_empty` | ✅ |
+| `ds_queue_enqueue` | ✅ |
+| `ds_queue_dequeue` | ✅ |
+| `ds_queue_head` | ✅ |
+| `ds_queue_tail` | ✅ |
+| `ds_queue_write` | ✅ |
+| `ds_queue_read` | ✅ |
 | `ds_list_create` | ✅ |
 | `ds_list_destroy` | ✅ |
 | `ds_list_clear` | ✅ |
