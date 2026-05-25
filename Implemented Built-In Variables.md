@@ -196,18 +196,18 @@
 | `view_surface_id` | 🚫 | GM:S 1.1.622 |  |
 | `webgl_enabled` | 🚫 | GM:S 1.1.622 |  |
 | `fps_real` | 🚫 | GM:S 1.1.1130 |  |
-| `application_surface` | ✅ | WAD Version 14 |  |
+| `phy_position_xprevious` | 🚫 | GM:S 1.2.1135 |  |
+| `phy_position_yprevious` | 🚫 | GM:S 1.2.1135 |  |
+| `phy_speed` | 🚫 | GM:S 1.2.1135 |  |
+| `application_surface` | ✅ | GM:S 1.3.1307 |  |
+| `iap_data` | 🚫 | GM:S 1.3.1307 |  |
 | `background_colour` | ✅ | WAD Version 14 | GM 2024.14.4.268 |
 | `background_showcolour` | 🚫 | WAD Version 14 | GM 2024.14.4.268 |
 | `game_display_name` | 🚫 | WAD Version 14 |  |
 | `game_project_name` | 🚫 | WAD Version 14 |  |
 | `game_save_id` | 🚫 | WAD Version 14 |  |
-| `iap_data` | 🚫 | WAD Version 14 |  |
 | `phy_angular_damping` | 🚫 | WAD Version 14 |  |
 | `phy_linear_damping` | 🚫 | WAD Version 14 |  |
-| `phy_position_xprevious` | 🚫 | WAD Version 14 |  |
-| `phy_position_yprevious` | 🚫 | WAD Version 14 |  |
-| `phy_speed` | 🚫 | WAD Version 14 |  |
 | `pointer_invalid` | 🚫 | WAD Version 14 |  |
 | `pointer_null` | 🚫 | WAD Version 14 |  |
 | `undefined` | ✅ | WAD Version 14 |  |

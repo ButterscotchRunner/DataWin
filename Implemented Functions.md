@@ -1842,42 +1842,249 @@
 | `window_has_focus` | ✅ | GM:S 1.1.1086 |  |
 | `winphone_license_trial_version` | 🚫 | GM:S 1.1.1086 |  |
 | `show_debug_overlay` | 🚫 | GM:S 1.1.1130 |  |
-| `achievement_event` | 🚫 | WAD Version 14 |  |
-| `achievement_get_info` | 🚫 | WAD Version 14 |  |
-| `achievement_increment` | 🚫 | WAD Version 14 |  |
-| `achievement_show` | 🚫 | WAD Version 14 |  |
-| `angle_difference` | ✅ | WAD Version 14 |  |
-| `application_get_position` | 🚫 | WAD Version 14 |  |
-| `application_surface_draw_enable` | ✅ | WAD Version 14 |  |
-| `application_surface_enable` | ✅ | WAD Version 14 |  |
-| `application_surface_is_enabled` | 🚫 | WAD Version 14 |  |
-| `array_get` | ✅ | WAD Version 14 |  |
-| `array_get_2D` | 🚫 | WAD Version 14 | GM 2024.14.4.268 |
-| `array_set` | 🚫 | WAD Version 14 |  |
-| `array_set_2D` | 🚫 | WAD Version 14 |  |
-| `array_set_2D_post` | 🚫 | WAD Version 14 |  |
-| `array_set_2D_pre` | 🚫 | WAD Version 14 |  |
-| `array_set_post` | 🚫 | WAD Version 14 |  |
-| `array_set_pre` | 🚫 | WAD Version 14 |  |
+| `audio_is_paused` | ✅ | GM:S 1.2.1135 |  |
+| `clickable_exists` | 🚫 | GM:S 1.2.1135 |  |
+| `ds_exists` | 🚫 | GM:S 1.2.1135 |  |
+| `object_get_physics` | 🚫 | GM:S 1.2.1135 |  |
+| `physics_fixture_bind_ext` | 🚫 | GM:S 1.2.1135 |  |
+| `physics_get_density` | 🚫 | GM:S 1.2.1135 |  |
+| `physics_get_friction` | 🚫 | GM:S 1.2.1135 |  |
+| `physics_get_restitution` | 🚫 | GM:S 1.2.1135 |  |
+| `physics_remove_fixture` | 🚫 | GM:S 1.2.1135 |  |
+| `physics_set_density` | 🚫 | GM:S 1.2.1135 |  |
+| `physics_set_friction` | 🚫 | GM:S 1.2.1135 |  |
+| `physics_set_restitution` | 🚫 | GM:S 1.2.1135 |  |
+| `achievement_event` | 🚫 | GM:S 1.2.1146 |  |
+| `achievement_get_info` | 🚫 | GM:S 1.2.1146 |  |
+| `achievement_show` | 🚫 | GM:S 1.2.1146 |  |
+| `d3d_transform_vertex` | 🚫 | GM:S 1.2.1146 | GM 2024.14.4.268 |
+| `os_get_info` | 🚫 | GM:S 1.2.1146 |  |
+| `win8_settingscharm_add_xaml_entry` | 🚫 | GM:S 1.2.1146 |  |
+| `win8_settingscharm_get_xaml_property` | 🚫 | GM:S 1.2.1146 |  |
+| `win8_settingscharm_set_xaml_property` | 🚫 | GM:S 1.2.1146 |  |
+| `achievement_increment` | 🚫 | GM:S 1.2.1214 |  |
+| `draw_getpixel_ext` | 🚫 | GM:S 1.2.1214 |  |
+| `ds_list_mark_as_list` | 🚫 | GM:S 1.2.1214 |  |
+| `ds_list_mark_as_map` | 🚫 | GM:S 1.2.1214 |  |
+| `ds_map_add_list` | 🚫 | GM:S 1.2.1214 |  |
+| `ds_map_add_map` | 🚫 | GM:S 1.2.1214 |  |
+| `ds_map_replace_list` | 🚫 | GM:S 1.2.1214 |  |
+| `ds_map_replace_map` | 🚫 | GM:S 1.2.1214 |  |
+| `frustum_build` | 🚫 | GM:S 1.2.1214 | GM 2024.14.4.268 |
+| `frustum_test_sphere` | 🚫 | GM:S 1.2.1214 | GM 2024.14.4.268 |
+| `matrix_build` | 🚫 | GM:S 1.2.1214 |  |
+| `matrix_get` | 🚫 | GM:S 1.2.1214 |  |
+| `matrix_multiply` | ✅ | GM:S 1.2.1214 |  |
+| `matrix_set` | 🚫 | GM:S 1.2.1214 |  |
+| `surface_getpixel_ext` | 🚫 | GM:S 1.2.1214 |  |
+| `buffer_get_address` | 🚫 | GM:S 1.2.1264 |  |
+| `ds_grid_set_post` | 🚫 | GM:S 1.2.1264 |  |
+| `ds_grid_set_pre` | 🚫 | GM:S 1.2.1264 |  |
+| `ds_list_set` | 🚫 | GM:S 1.2.1264 |  |
+| `ds_list_set_post` | 🚫 | GM:S 1.2.1264 |  |
+| `ds_list_set_pre` | 🚫 | GM:S 1.2.1264 |  |
+| `ds_map_set` | ✅ | GM:S 1.2.1264 |  |
+| `ds_map_set_post` | 🚫 | GM:S 1.2.1264 |  |
+| `ds_map_set_pre` | 🚫 | GM:S 1.2.1264 |  |
+| `gml_release_mode` | 🚫 | GM:S 1.2.1264 |  |
+| `http_request` | 🚫 | GM:S 1.2.1264 |  |
+| `os_get_region` | ✅ | GM:S 1.2.1264 |  |
+| `timeline_clear` | 🚫 | GM:S 1.2.1264 |  |
+| `timeline_moment_add_script` | 🚫 | GM:S 1.2.1264 |  |
+| `array_get` | ✅ | GM:S 1.2.1279 |  |
+| `array_get_2D` | 🚫 | GM:S 1.2.1279 | GM 2024.14.4.268 |
+| `array_set` | 🚫 | GM:S 1.2.1279 |  |
+| `array_set_2D` | 🚫 | GM:S 1.2.1279 |  |
+| `array_set_2D_post` | 🚫 | GM:S 1.2.1279 |  |
+| `array_set_2D_pre` | 🚫 | GM:S 1.2.1279 |  |
+| `array_set_post` | 🚫 | GM:S 1.2.1279 |  |
+| `array_set_pre` | 🚫 | GM:S 1.2.1279 |  |
+| `angle_difference` | ✅ | GM:S 1.3.1307 |  |
+| `application_get_position` | 🚫 | GM:S 1.3.1307 |  |
+| `application_surface_draw_enable` | ✅ | GM:S 1.3.1307 |  |
+| `background_create_colour` | 🚫 | GM:S 1.3.1307 | GM 2024.14.4.268 |
+| `darccos` | 🚫 | GM:S 1.3.1307 |  |
+| `darcsin` | 🚫 | GM:S 1.3.1307 |  |
+| `darctan` | ✅ | GM:S 1.3.1307 |  |
+| `darctan2` | ✅ | GM:S 1.3.1307 |  |
+| `dcos` | ✅ | GM:S 1.3.1307 |  |
+| `device_mouse_x_to_gui` | 🚫 | GM:S 1.3.1307 |  |
+| `device_mouse_y_to_gui` | 🚫 | GM:S 1.3.1307 |  |
+| `draw_roundrect_color_ext` | 🚫 | GM:S 1.3.1307 |  |
+| `draw_roundrect_ext` | 🚫 | GM:S 1.3.1307 |  |
+| `draw_set_colour_write_enable` | ✅ | GM:S 1.3.1307 | GM 2024.14.4.268 |
+| `draw_skeleton` | 🚫 | GM:S 1.3.1307 |  |
+| `draw_skeleton_collision` | 🚫 | GM:S 1.3.1307 |  |
+| `draw_vertex_texture_colour` | 🚫 | GM:S 1.3.1307 |  |
+| `ds_map_secure_load` | 🚫 | GM:S 1.3.1307 |  |
+| `ds_map_secure_save` | 🚫 | GM:S 1.3.1307 |  |
+| `dsin` | ✅ | GM:S 1.3.1307 |  |
+| `dtan` | 🚫 | GM:S 1.3.1307 |  |
+| `http_get_file` | 🚫 | GM:S 1.3.1307 |  |
+| `iap_enumerate_products` | 🚫 | GM:S 1.3.1307 |  |
+| `iap_purchase_details` | 🚫 | GM:S 1.3.1307 |  |
+| `is_int32` | ✅ | GM:S 1.3.1307 |  |
+| `is_int64` | ✅ | GM:S 1.3.1307 |  |
+| `is_matrix` | 🚫 | GM:S 1.3.1307 | GM 2024.14.4.268 |
+| `is_ptr` | 🚫 | GM:S 1.3.1307 |  |
+| `is_undefined` | ✅ | GM:S 1.3.1307 |  |
+| `is_vec3` | 🚫 | GM:S 1.3.1307 | GM 2024.14.4.268 |
+| `is_vec4` | 🚫 | GM:S 1.3.1307 | GM 2024.14.4.268 |
+| `mp_grid_get_cell` | ✅ | GM:S 1.3.1307 |  |
+| `mp_grid_to_ds_grid` | 🚫 | GM:S 1.3.1307 |  |
+| `part_particles_create_colour` | 🚫 | GM:S 1.3.1307 |  |
+| `part_type_colour` | 🚫 | GM:S 1.3.1307 | GM 2024.14.4.268 |
+| `part_type_colour1` | 🚫 | GM:S 1.3.1307 |  |
+| `part_type_colour2` | 🚫 | GM:S 1.3.1307 |  |
+| `part_type_colour3` | 🚫 | GM:S 1.3.1307 |  |
+| `part_type_colour_hsv` | 🚫 | GM:S 1.3.1307 |  |
+| `part_type_colour_mix` | 🚫 | GM:S 1.3.1307 |  |
+| `part_type_colour_rgb` | 🚫 | GM:S 1.3.1307 |  |
+| `player_run` | 🚫 | GM:S 1.3.1307 | WAD Version 15 |
+| `point_in_circle` | ✅ | GM:S 1.3.1307 |  |
+| `point_in_rectangle` | ✅ | GM:S 1.3.1307 |  |
+| `point_in_triangle` | 🚫 | GM:S 1.3.1307 |  |
+| `push_local_notification` | 🚫 | GM:S 1.3.1307 |  |
+| `rectangle_in_circle` | 🚫 | GM:S 1.3.1307 |  |
+| `rectangle_in_rectangle` | ✅ | GM:S 1.3.1307 |  |
+| `rectangle_in_triangle` | 🚫 | GM:S 1.3.1307 |  |
+| `room_set_background_colour` | 🚫 | GM:S 1.3.1307 |  |
+| `skeleton_animation_get` | 🚫 | GM:S 1.3.1307 |  |
+| `skeleton_animation_get_ext` | 🚫 | GM:S 1.3.1307 |  |
+| `skeleton_animation_mix` | 🚫 | GM:S 1.3.1307 |  |
+| `skeleton_animation_set` | 🚫 | GM:S 1.3.1307 |  |
+| `skeleton_animation_set_ext` | 🚫 | GM:S 1.3.1307 |  |
+| `skeleton_attachment_create` | 🚫 | GM:S 1.3.1307 |  |
+| `skeleton_attachment_get` | 🚫 | GM:S 1.3.1307 |  |
+| `skeleton_attachment_set` | 🚫 | GM:S 1.3.1307 |  |
+| `skeleton_bone_data_get` | 🚫 | GM:S 1.3.1307 |  |
+| `skeleton_bone_data_set` | 🚫 | GM:S 1.3.1307 |  |
+| `skeleton_bone_state_get` | 🚫 | GM:S 1.3.1307 |  |
+| `skeleton_bone_state_set` | 🚫 | GM:S 1.3.1307 |  |
+| `skeleton_collision_draw_set` | 🚫 | GM:S 1.3.1307 |  |
+| `skeleton_skin_get` | 🚫 | GM:S 1.3.1307 |  |
+| `skeleton_skin_set` | 🚫 | GM:S 1.3.1307 |  |
+| `surface_resize` | ✅ | GM:S 1.3.1307 |  |
+| `tile_get_count` | 🚫 | GM:S 1.3.1307 | GM 2024.14.4.268 |
+| `tile_get_id` | 🚫 | GM:S 1.3.1307 | GM 2024.14.4.268 |
+| `tile_get_ids` | 🚫 | GM:S 1.3.1307 | GM 2024.14.4.268 |
+| `tile_get_ids_at_depth` | ✅ | GM:S 1.3.1307 | GM 2024.14.4.268 |
+| `timeline_max_moment` | ✅ | GM:S 1.3.1307 |  |
+| `timeline_size` | ✅ | GM:S 1.3.1307 |  |
+| `window_device` | 🚫 | GM:S 1.3.1307 |  |
+| `winphone_tile_background_colour` | 🚫 | GM:S 1.3.1307 |  |
+| `zip_unzip` | 🚫 | GM:S 1.3.1307 |  |
+| `buffer_async_group_begin` | 🚫 | GM:S 1.3.1336 |  |
+| `buffer_async_group_end` | 🚫 | GM:S 1.3.1336 |  |
+| `buffer_load_async` | 🚫 | GM:S 1.3.1336 |  |
+| `buffer_save_async` | 🚫 | GM:S 1.3.1336 |  |
+| `clickable_set_style` | 🚫 | GM:S 1.3.1336 |  |
+| `display_set_gui_maximise` | ✅ | GM:S 1.3.1336 |  |
+| `application_surface_enable` | ✅ | GM:S 1.3.1344 |  |
+| `application_surface_is_enabled` | 🚫 | GM:S 1.3.1344 |  |
+| `date_get_timezone` | 🚫 | GM:S 1.3.1373 |  |
+| `date_set_timezone` | 🚫 | GM:S 1.3.1373 |  |
+| `draw_enable_swf_aa` | 🚫 | GM:S 1.3.1373 |  |
+| `draw_get_swf_aa_level` | 🚫 | GM:S 1.3.1373 |  |
+| `draw_roundrect_colour_ext` | 🚫 | GM:S 1.3.1373 |  |
+| `draw_set_swf_aa_level` | 🚫 | GM:S 1.3.1373 |  |
+| `draw_skeleton_time` | 🚫 | GM:S 1.3.1373 |  |
+| `extension_stubfunc_real` | 🚫 | GM:S 1.3.1373 |  |
+| `extension_stubfunc_string` | 🚫 | GM:S 1.3.1373 |  |
+| `gamepad_set_color` | 🚫 | GM:S 1.3.1373 |  |
+| `gamepad_set_colour` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_apply_angular_impulse` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_fixture_set_chain_shape` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_joint_friction_create` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_joint_rope_create` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_joint_weld_create` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_joint_wheel_create` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_count` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_create` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_delete` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_delete_region_box` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_delete_region_circle` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_delete_region_poly` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_draw` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_draw_ext` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_get_damping` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_get_data` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_get_data_particle` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_get_density` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_get_gravity_scale` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_get_group_flags` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_get_max_count` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_get_radius` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_group_add_point` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_group_begin` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_group_box` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_group_circle` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_group_count` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_group_delete` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_group_end` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_group_get_ang_vel` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_group_get_angle` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_group_get_centre_x` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_group_get_centre_y` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_group_get_data` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_group_get_inertia` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_group_get_mass` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_group_get_vel_x` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_group_get_vel_y` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_group_get_x` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_group_get_y` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_group_join` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_group_polygon` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_set_category_flags` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_set_damping` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_set_density` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_set_flags` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_set_gravity_scale` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_set_group_flags` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_set_max_count` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_set_radius` | 🚫 | GM:S 1.3.1373 |  |
+| `push_cancel_local_notification` | 🚫 | GM:S 1.3.1373 |  |
+| `push_get_first_local_notification` | 🚫 | GM:S 1.3.1373 |  |
+| `push_get_next_local_notification` | 🚫 | GM:S 1.3.1373 |  |
+| `skeleton_animation_get_duration` | 🚫 | GM:S 1.3.1373 |  |
+| `string_ord_at` | 🚫 | GM:S 1.3.1373 |  |
+| `facebook_check_permission` | 🚫 | GM:S 1.3.1409 | GM 2024.14.4.268 |
+| `facebook_request_publish_permissions` | 🚫 | GM:S 1.3.1409 | GM 2024.14.4.268 |
+| `facebook_request_read_permissions` | 🚫 | GM:S 1.3.1409 | GM 2024.14.4.268 |
+| `audio_emitter_get_gain` | 🚫 | GM:S 1.4.1398 |  |
+| `audio_emitter_get_listener_mask` | 🚫 | GM:S 1.4.1398 |  |
+| `audio_emitter_get_pitch` | 🚫 | GM:S 1.4.1398 |  |
+| `audio_emitter_get_vx` | 🚫 | GM:S 1.4.1398 |  |
+| `audio_emitter_get_vy` | 🚫 | GM:S 1.4.1398 |  |
+| `audio_emitter_get_vz` | 🚫 | GM:S 1.4.1398 |  |
+| `audio_emitter_get_x` | 🚫 | GM:S 1.4.1398 |  |
+| `audio_emitter_get_y` | 🚫 | GM:S 1.4.1398 |  |
+| `audio_emitter_get_z` | 🚫 | GM:S 1.4.1398 |  |
+| `audio_emitter_set_listener_mask` | 🚫 | GM:S 1.4.1398 |  |
+| `audio_get_listener_count` | 🚫 | GM:S 1.4.1398 |  |
+| `audio_get_listener_info` | 🚫 | GM:S 1.4.1398 |  |
+| `audio_get_listener_mask` | 🚫 | GM:S 1.4.1398 |  |
+| `audio_get_master_gain` | 🚫 | GM:S 1.4.1398 |  |
+| `audio_get_name` | 🚫 | GM:S 1.4.1398 |  |
+| `audio_listener_get_data` | 🚫 | GM:S 1.4.1398 |  |
+| `audio_listener_set_orientation` | 🚫 | GM:S 1.4.1398 |  |
+| `audio_listener_set_position` | 🚫 | GM:S 1.4.1398 |  |
+| `audio_listener_set_velocity` | 🚫 | GM:S 1.4.1398 |  |
+| `audio_set_listener_mask` | 🚫 | GM:S 1.4.1398 |  |
+| `audio_set_master_gain` | 🚫 | GM:S 1.4.1398 |  |
+| `audio_sound_get_gain` | ✅ | GM:S 1.4.1398 |  |
+| `audio_sound_get_listener_mask` | 🚫 | GM:S 1.4.1398 |  |
+| `audio_sound_get_pitch` | ✅ | GM:S 1.4.1398 |  |
+| `audio_sound_get_track_position` | ✅ | GM:S 1.4.1398 |  |
+| `audio_sound_set_listener_mask` | 🚫 | GM:S 1.4.1398 |  |
+| `audio_sound_set_track_position` | ✅ | GM:S 1.4.1398 |  |
+| `skeleton_animation_list` | 🚫 | GM:S 1.4.1398 |  |
+| `skeleton_skin_list` | 🚫 | GM:S 1.4.1398 |  |
+| `skeleton_slot_data` | 🚫 | GM:S 1.4.1398 |  |
 | `audio_create_buffer_sound` | 🚫 | WAD Version 14 |  |
 | `audio_create_play_queue` | 🚫 | WAD Version 14 |  |
-| `audio_emitter_get_gain` | 🚫 | WAD Version 14 |  |
-| `audio_emitter_get_listener_mask` | 🚫 | WAD Version 14 |  |
-| `audio_emitter_get_pitch` | 🚫 | WAD Version 14 |  |
-| `audio_emitter_get_vx` | 🚫 | WAD Version 14 |  |
-| `audio_emitter_get_vy` | 🚫 | WAD Version 14 |  |
-| `audio_emitter_get_vz` | 🚫 | WAD Version 14 |  |
-| `audio_emitter_get_x` | 🚫 | WAD Version 14 |  |
-| `audio_emitter_get_y` | 🚫 | WAD Version 14 |  |
-| `audio_emitter_get_z` | 🚫 | WAD Version 14 |  |
-| `audio_emitter_set_listener_mask` | 🚫 | WAD Version 14 |  |
 | `audio_free_buffer_sound` | 🚫 | WAD Version 14 |  |
 | `audio_free_play_queue` | 🚫 | WAD Version 14 |  |
-| `audio_get_listener_count` | 🚫 | WAD Version 14 |  |
-| `audio_get_listener_info` | 🚫 | WAD Version 14 |  |
-| `audio_get_listener_mask` | 🚫 | WAD Version 14 |  |
-| `audio_get_master_gain` | 🚫 | WAD Version 14 |  |
-| `audio_get_name` | 🚫 | WAD Version 14 |  |
 | `audio_get_recorder_count` | 🚫 | WAD Version 14 |  |
 | `audio_get_recorder_info` | 🚫 | WAD Version 14 |  |
 | `audio_group_is_loaded` | ✅ | WAD Version 14 |  |
@@ -1887,231 +2094,24 @@
 | `audio_group_set_gain` | 🚫 | WAD Version 14 |  |
 | `audio_group_stop_all` | 🚫 | WAD Version 14 |  |
 | `audio_group_unload` | 🚫 | WAD Version 14 |  |
-| `audio_is_paused` | ✅ | WAD Version 14 |  |
-| `audio_listener_get_data` | 🚫 | WAD Version 14 |  |
-| `audio_listener_set_orientation` | 🚫 | WAD Version 14 |  |
-| `audio_listener_set_position` | 🚫 | WAD Version 14 |  |
-| `audio_listener_set_velocity` | 🚫 | WAD Version 14 |  |
 | `audio_queue_sound` | 🚫 | WAD Version 14 |  |
-| `audio_set_listener_mask` | 🚫 | WAD Version 14 |  |
-| `audio_set_master_gain` | 🚫 | WAD Version 14 |  |
-| `audio_sound_get_gain` | ✅ | WAD Version 14 |  |
-| `audio_sound_get_listener_mask` | 🚫 | WAD Version 14 |  |
-| `audio_sound_get_pitch` | ✅ | WAD Version 14 |  |
-| `audio_sound_get_track_position` | ✅ | WAD Version 14 |  |
-| `audio_sound_set_listener_mask` | 🚫 | WAD Version 14 |  |
-| `audio_sound_set_track_position` | ✅ | WAD Version 14 |  |
 | `audio_start_recording` | 🚫 | WAD Version 14 |  |
 | `audio_stop_recording` | 🚫 | WAD Version 14 |  |
-| `background_create_colour` | 🚫 | WAD Version 14 | GM 2024.14.4.268 |
-| `buffer_async_group_begin` | 🚫 | WAD Version 14 |  |
-| `buffer_async_group_end` | 🚫 | WAD Version 14 |  |
 | `buffer_async_group_option` | 🚫 | WAD Version 14 |  |
 | `buffer_copy_from_vertex_buffer` | 🚫 | WAD Version 14 |  |
 | `buffer_create_from_vertex_buffer` | 🚫 | WAD Version 14 |  |
 | `buffer_create_from_vertex_buffer_ext` | 🚫 | WAD Version 14 |  |
-| `buffer_get_address` | 🚫 | WAD Version 14 |  |
-| `buffer_load_async` | 🚫 | WAD Version 14 |  |
 | `buffer_load_partial` | 🚫 | WAD Version 14 |  |
-| `buffer_save_async` | 🚫 | WAD Version 14 |  |
-| `clickable_exists` | 🚫 | WAD Version 14 |  |
-| `clickable_set_style` | 🚫 | WAD Version 14 |  |
-| `d3d_transform_vertex` | 🚫 | WAD Version 14 | GM 2024.14.4.268 |
-| `darccos` | 🚫 | WAD Version 14 |  |
-| `darcsin` | 🚫 | WAD Version 14 |  |
-| `darctan` | ✅ | WAD Version 14 |  |
-| `darctan2` | ✅ | WAD Version 14 |  |
-| `date_get_timezone` | 🚫 | WAD Version 14 |  |
-| `date_set_timezone` | 🚫 | WAD Version 14 |  |
-| `dcos` | ✅ | WAD Version 14 |  |
-| `device_mouse_x_to_gui` | 🚫 | WAD Version 14 |  |
-| `device_mouse_y_to_gui` | 🚫 | WAD Version 14 |  |
 | `directory_destroy` | ✅ | WAD Version 14 |  |
-| `display_set_gui_maximise` | ✅ | WAD Version 14 |  |
-| `draw_enable_swf_aa` | 🚫 | WAD Version 14 |  |
-| `draw_get_swf_aa_level` | 🚫 | WAD Version 14 |  |
-| `draw_getpixel_ext` | 🚫 | WAD Version 14 |  |
-| `draw_roundrect_color_ext` | 🚫 | WAD Version 14 |  |
-| `draw_roundrect_colour_ext` | 🚫 | WAD Version 14 |  |
-| `draw_roundrect_ext` | 🚫 | WAD Version 14 |  |
-| `draw_set_colour_write_enable` | ✅ | WAD Version 14 | GM 2024.14.4.268 |
-| `draw_set_swf_aa_level` | 🚫 | WAD Version 14 |  |
-| `draw_skeleton` | 🚫 | WAD Version 14 |  |
-| `draw_skeleton_collision` | 🚫 | WAD Version 14 |  |
-| `draw_skeleton_time` | 🚫 | WAD Version 14 |  |
-| `draw_vertex_texture_colour` | 🚫 | WAD Version 14 |  |
-| `ds_exists` | 🚫 | WAD Version 14 |  |
-| `ds_grid_set_post` | 🚫 | WAD Version 14 |  |
-| `ds_grid_set_pre` | 🚫 | WAD Version 14 |  |
-| `ds_list_mark_as_list` | 🚫 | WAD Version 14 |  |
-| `ds_list_mark_as_map` | 🚫 | WAD Version 14 |  |
-| `ds_list_set` | 🚫 | WAD Version 14 |  |
-| `ds_list_set_post` | 🚫 | WAD Version 14 |  |
-| `ds_list_set_pre` | 🚫 | WAD Version 14 |  |
-| `ds_map_add_list` | 🚫 | WAD Version 14 |  |
-| `ds_map_add_map` | 🚫 | WAD Version 14 |  |
-| `ds_map_replace_list` | 🚫 | WAD Version 14 |  |
-| `ds_map_replace_map` | 🚫 | WAD Version 14 |  |
-| `ds_map_secure_load` | 🚫 | WAD Version 14 |  |
-| `ds_map_secure_save` | 🚫 | WAD Version 14 |  |
-| `ds_map_set` | ✅ | WAD Version 14 |  |
-| `ds_map_set_post` | 🚫 | WAD Version 14 |  |
-| `ds_map_set_pre` | 🚫 | WAD Version 14 |  |
-| `dsin` | ✅ | WAD Version 14 |  |
-| `dtan` | 🚫 | WAD Version 14 |  |
-| `extension_stubfunc_real` | 🚫 | WAD Version 14 |  |
-| `extension_stubfunc_string` | 🚫 | WAD Version 14 |  |
-| `facebook_check_permission` | 🚫 | WAD Version 14 | GM 2024.14.4.268 |
-| `facebook_request_publish_permissions` | 🚫 | WAD Version 14 | GM 2024.14.4.268 |
-| `facebook_request_read_permissions` | 🚫 | WAD Version 14 | GM 2024.14.4.268 |
-| `frustum_build` | 🚫 | WAD Version 14 | GM 2024.14.4.268 |
-| `frustum_test_sphere` | 🚫 | WAD Version 14 | GM 2024.14.4.268 |
-| `gamepad_set_color` | 🚫 | WAD Version 14 |  |
-| `gamepad_set_colour` | 🚫 | WAD Version 14 |  |
-| `gml_release_mode` | 🚫 | WAD Version 14 |  |
-| `http_get_file` | 🚫 | WAD Version 14 |  |
-| `http_request` | 🚫 | WAD Version 14 |  |
-| `iap_enumerate_products` | 🚫 | WAD Version 14 |  |
-| `iap_purchase_details` | 🚫 | WAD Version 14 |  |
-| `is_int32` | ✅ | WAD Version 14 |  |
-| `is_int64` | ✅ | WAD Version 14 |  |
-| `is_matrix` | 🚫 | WAD Version 14 | GM 2024.14.4.268 |
-| `is_ptr` | 🚫 | WAD Version 14 |  |
-| `is_undefined` | ✅ | WAD Version 14 |  |
-| `is_vec3` | 🚫 | WAD Version 14 | GM 2024.14.4.268 |
-| `is_vec4` | 🚫 | WAD Version 14 | GM 2024.14.4.268 |
-| `matrix_build` | 🚫 | WAD Version 14 |  |
-| `matrix_get` | 🚫 | WAD Version 14 |  |
-| `matrix_multiply` | ✅ | WAD Version 14 |  |
-| `matrix_set` | 🚫 | WAD Version 14 |  |
-| `mp_grid_get_cell` | ✅ | WAD Version 14 |  |
-| `mp_grid_to_ds_grid` | 🚫 | WAD Version 14 |  |
-| `object_get_physics` | 🚫 | WAD Version 14 |  |
-| `os_get_info` | 🚫 | WAD Version 14 |  |
-| `os_get_region` | ✅ | WAD Version 14 |  |
-| `part_particles_create_colour` | 🚫 | WAD Version 14 |  |
-| `part_type_colour` | 🚫 | WAD Version 14 | GM 2024.14.4.268 |
-| `part_type_colour1` | 🚫 | WAD Version 14 |  |
-| `part_type_colour2` | 🚫 | WAD Version 14 |  |
-| `part_type_colour3` | 🚫 | WAD Version 14 |  |
-| `part_type_colour_hsv` | 🚫 | WAD Version 14 |  |
-| `part_type_colour_mix` | 🚫 | WAD Version 14 |  |
-| `part_type_colour_rgb` | 🚫 | WAD Version 14 |  |
-| `physics_apply_angular_impulse` | 🚫 | WAD Version 14 |  |
-| `physics_fixture_bind_ext` | 🚫 | WAD Version 14 |  |
-| `physics_fixture_set_chain_shape` | 🚫 | WAD Version 14 |  |
-| `physics_get_density` | 🚫 | WAD Version 14 |  |
-| `physics_get_friction` | 🚫 | WAD Version 14 |  |
-| `physics_get_restitution` | 🚫 | WAD Version 14 |  |
-| `physics_joint_friction_create` | 🚫 | WAD Version 14 |  |
-| `physics_joint_rope_create` | 🚫 | WAD Version 14 |  |
-| `physics_joint_weld_create` | 🚫 | WAD Version 14 |  |
-| `physics_joint_wheel_create` | 🚫 | WAD Version 14 |  |
-| `physics_particle_count` | 🚫 | WAD Version 14 |  |
-| `physics_particle_create` | 🚫 | WAD Version 14 |  |
-| `physics_particle_delete` | 🚫 | WAD Version 14 |  |
-| `physics_particle_delete_region_box` | 🚫 | WAD Version 14 |  |
-| `physics_particle_delete_region_circle` | 🚫 | WAD Version 14 |  |
-| `physics_particle_delete_region_poly` | 🚫 | WAD Version 14 |  |
-| `physics_particle_draw` | 🚫 | WAD Version 14 |  |
-| `physics_particle_draw_ext` | 🚫 | WAD Version 14 |  |
-| `physics_particle_get_damping` | 🚫 | WAD Version 14 |  |
-| `physics_particle_get_data` | 🚫 | WAD Version 14 |  |
-| `physics_particle_get_data_particle` | 🚫 | WAD Version 14 |  |
-| `physics_particle_get_density` | 🚫 | WAD Version 14 |  |
-| `physics_particle_get_gravity_scale` | 🚫 | WAD Version 14 |  |
-| `physics_particle_get_group_flags` | 🚫 | WAD Version 14 |  |
-| `physics_particle_get_max_count` | 🚫 | WAD Version 14 |  |
-| `physics_particle_get_radius` | 🚫 | WAD Version 14 |  |
-| `physics_particle_group_add_point` | 🚫 | WAD Version 14 |  |
-| `physics_particle_group_begin` | 🚫 | WAD Version 14 |  |
-| `physics_particle_group_box` | 🚫 | WAD Version 14 |  |
-| `physics_particle_group_circle` | 🚫 | WAD Version 14 |  |
-| `physics_particle_group_count` | 🚫 | WAD Version 14 |  |
-| `physics_particle_group_delete` | 🚫 | WAD Version 14 |  |
-| `physics_particle_group_end` | 🚫 | WAD Version 14 |  |
-| `physics_particle_group_get_ang_vel` | 🚫 | WAD Version 14 |  |
-| `physics_particle_group_get_angle` | 🚫 | WAD Version 14 |  |
-| `physics_particle_group_get_centre_x` | 🚫 | WAD Version 14 |  |
-| `physics_particle_group_get_centre_y` | 🚫 | WAD Version 14 |  |
-| `physics_particle_group_get_data` | 🚫 | WAD Version 14 |  |
-| `physics_particle_group_get_inertia` | 🚫 | WAD Version 14 |  |
-| `physics_particle_group_get_mass` | 🚫 | WAD Version 14 |  |
-| `physics_particle_group_get_vel_x` | 🚫 | WAD Version 14 |  |
-| `physics_particle_group_get_vel_y` | 🚫 | WAD Version 14 |  |
-| `physics_particle_group_get_x` | 🚫 | WAD Version 14 |  |
-| `physics_particle_group_get_y` | 🚫 | WAD Version 14 |  |
-| `physics_particle_group_join` | 🚫 | WAD Version 14 |  |
-| `physics_particle_group_polygon` | 🚫 | WAD Version 14 |  |
-| `physics_particle_set_category_flags` | 🚫 | WAD Version 14 |  |
-| `physics_particle_set_damping` | 🚫 | WAD Version 14 |  |
-| `physics_particle_set_density` | 🚫 | WAD Version 14 |  |
-| `physics_particle_set_flags` | 🚫 | WAD Version 14 |  |
-| `physics_particle_set_gravity_scale` | 🚫 | WAD Version 14 |  |
-| `physics_particle_set_group_flags` | 🚫 | WAD Version 14 |  |
-| `physics_particle_set_max_count` | 🚫 | WAD Version 14 |  |
-| `physics_particle_set_radius` | 🚫 | WAD Version 14 |  |
-| `physics_remove_fixture` | 🚫 | WAD Version 14 |  |
-| `physics_set_density` | 🚫 | WAD Version 14 |  |
-| `physics_set_friction` | 🚫 | WAD Version 14 |  |
-| `physics_set_restitution` | 🚫 | WAD Version 14 |  |
 | `player_launch_args` | 🚫 | WAD Version 14 | WAD Version 15 |
 | `player_restarted` | 🚫 | WAD Version 14 | WAD Version 15 |
-| `player_run` | 🚫 | WAD Version 14 | WAD Version 15 |
-| `point_in_circle` | ✅ | WAD Version 14 |  |
-| `point_in_rectangle` | ✅ | WAD Version 14 |  |
-| `point_in_triangle` | 🚫 | WAD Version 14 |  |
 | `ps4_share_screenshot_enable` | 🚫 | WAD Version 14 |  |
 | `ps4_share_video_enable` | 🚫 | WAD Version 14 |  |
-| `push_cancel_local_notification` | 🚫 | WAD Version 14 |  |
-| `push_get_first_local_notification` | 🚫 | WAD Version 14 |  |
-| `push_get_next_local_notification` | 🚫 | WAD Version 14 |  |
-| `push_local_notification` | 🚫 | WAD Version 14 |  |
-| `rectangle_in_circle` | 🚫 | WAD Version 14 |  |
-| `rectangle_in_rectangle` | ✅ | WAD Version 14 |  |
-| `rectangle_in_triangle` | 🚫 | WAD Version 14 |  |
-| `room_set_background_colour` | 🚫 | WAD Version 14 |  |
 | `skeleton_animation_clear` | 🚫 | WAD Version 14 |  |
-| `skeleton_animation_get` | 🚫 | WAD Version 14 |  |
-| `skeleton_animation_get_duration` | 🚫 | WAD Version 14 |  |
-| `skeleton_animation_get_ext` | 🚫 | WAD Version 14 |  |
-| `skeleton_animation_list` | 🚫 | WAD Version 14 |  |
-| `skeleton_animation_mix` | 🚫 | WAD Version 14 |  |
-| `skeleton_animation_set` | 🚫 | WAD Version 14 |  |
-| `skeleton_animation_set_ext` | 🚫 | WAD Version 14 |  |
-| `skeleton_attachment_create` | 🚫 | WAD Version 14 |  |
-| `skeleton_attachment_get` | 🚫 | WAD Version 14 |  |
-| `skeleton_attachment_set` | 🚫 | WAD Version 14 |  |
-| `skeleton_bone_data_get` | 🚫 | WAD Version 14 |  |
-| `skeleton_bone_data_set` | 🚫 | WAD Version 14 |  |
-| `skeleton_bone_state_get` | 🚫 | WAD Version 14 |  |
-| `skeleton_bone_state_set` | 🚫 | WAD Version 14 |  |
-| `skeleton_collision_draw_set` | 🚫 | WAD Version 14 |  |
-| `skeleton_skin_get` | 🚫 | WAD Version 14 |  |
-| `skeleton_skin_list` | 🚫 | WAD Version 14 |  |
-| `skeleton_skin_set` | 🚫 | WAD Version 14 |  |
-| `skeleton_slot_data` | 🚫 | WAD Version 14 |  |
-| `string_ord_at` | 🚫 | WAD Version 14 |  |
 | `surface_create_ext` | 🚫 | WAD Version 14 |  |
-| `surface_getpixel_ext` | 🚫 | WAD Version 14 |  |
-| `surface_resize` | ✅ | WAD Version 14 |  |
-| `tile_get_count` | 🚫 | WAD Version 14 | GM 2024.14.4.268 |
-| `tile_get_id` | 🚫 | WAD Version 14 | GM 2024.14.4.268 |
-| `tile_get_ids` | 🚫 | WAD Version 14 | GM 2024.14.4.268 |
-| `tile_get_ids_at_depth` | ✅ | WAD Version 14 | GM 2024.14.4.268 |
-| `timeline_clear` | 🚫 | WAD Version 14 |  |
-| `timeline_max_moment` | ✅ | WAD Version 14 |  |
-| `timeline_moment_add_script` | 🚫 | WAD Version 14 |  |
-| `timeline_size` | ✅ | WAD Version 14 |  |
 | `vertex_create_buffer_from_buffer` | 🚫 | WAD Version 14 |  |
 | `vertex_create_buffer_from_buffer_ext` | 🚫 | WAD Version 14 |  |
 | `vertex_get_number` | 🚫 | WAD Version 14 |  |
-| `win8_settingscharm_add_xaml_entry` | 🚫 | WAD Version 14 |  |
-| `win8_settingscharm_get_xaml_property` | 🚫 | WAD Version 14 |  |
-| `win8_settingscharm_set_xaml_property` | 🚫 | WAD Version 14 |  |
-| `window_device` | 🚫 | WAD Version 14 |  |
-| `winphone_tile_background_colour` | 🚫 | WAD Version 14 |  |
-| `zip_unzip` | 🚫 | WAD Version 14 |  |
 | `$ERROR` | 🚫 | WAD Version 15 |  |
 | `@@ForInIterator@@` | 🚫 | WAD Version 15 | GM 2024.14.4.268 |
 | `@@ForInIteratorDelete@@` | 🚫 | WAD Version 15 | GM 2024.14.4.268 |
