@@ -1,4 +1,4 @@
-# Data types
+# Common types
 
 ## Common concepts
 
@@ -24,20 +24,25 @@ Text is Unicode, encoded using the UTF-8 standard.
 ## void
 An unknown value that uses a single word. Usually used for padding.
 
-## unsigned1
-A single word representing an unsigned integer. Can store from 0 to 255, inclusive.
+## Data types
 
-## unsigned2
-Two words representing an unsigned integer. Can store from 0 to 65,535, inclusive.
+All of these are affected by endianness.
 
-## unsigned4
-Four words representing an unsigned integer. Can store from 0 to 4,294,967,295, inclusive.
+Name | Word size | Notes
+--- | --- | ---
+u8 | 1 | Unsigned 8-bit integer. Can store from 0 to 255, inclusive.
+u16 | 2 | Unsigned 16-bit integer. Can store from 0 to 65,535, inclusive.
+u32 | 4 | Unsigned 32-bit integer. Can store from 0 to 4,294,967,295, inclusive.
+u64 | 8 | Unsigned 64-bit integer. Can store from 0 to 18,446,744,073,709,551,615, inclusive.
+s8 | 1 | Signed 8-bit integer. Can store from -128 to 127, inclusive.
+s16 | 2 | Signed 16-bit integer. Can store from -32,768 to 32,767, inclusive.
+s32 | 4 | Signed 32-bit integer. Can store from -2,147,483,648 to 2,147,483,647, inclusive.
+s64 | 8 | Signed 64-bit integer. Can store from -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807, inclusive.
+b32 | 4 | binary32 from IEEE 754
+b64 | 8 | binary64 from IEEE 754
 
 ## boolean
-unsigned1. 0 is "false", while any other number is "true", though 1 is preferred for "true".
+u8. 0 is "false", while any other number is "true", though 1 is preferred for "true".
 
 ## nullUTF8
 A string of text, terminated with a word of 0.
-
-## binary32
-Single-precision floating point number from IEEE 754. Takes up four words.

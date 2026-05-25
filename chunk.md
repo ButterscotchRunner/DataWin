@@ -3,9 +3,9 @@ Chunk follow a type-length-value structure:
 
 Type | Name
 --- | ---
-unsigned4 | Chunk Type ID
-unsigned4 | Chunk Length
-void[Chunk Length] | Chunk Data
+u32 | Chunk Type ID
+u32 | Chunk Length
+void\[Chunk Length\] | Chunk Data
 
 ## Chunk Type ID
 A four-word identifier that specifies the type of the chunk.
