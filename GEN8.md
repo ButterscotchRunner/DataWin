@@ -1,7 +1,30 @@
 # GEN8
 General info of data.
 
-## Contents
+Type | Name | Condition
+--- | --- | ---
+boolean | Is Debugger Disabled? |
+unsigned2 | WAD Version |
+
+If the WAD Version >= 8 and the remaining bytes are 84:
+
+Type | Name | Condition
+--- | --- | ---
+nullUTF8* | File Name |
+unsigned4 | Last Object |
+unsigned4 | Last Tile |
+unsigned4 | Game ID |
+unsigned1[16] | DirectPlay GUID |
+unsigned4[2] | Default Window Size (Width, Height) |
+unsigned4 | Information |
+unsigned4 | License CRC32 |
+unsigned1[16] | License MD5 |
+void[4] | Unknown | Not read by the Runner
+unsigned4 | Room Order Count |
+signed4[roomOrderCount] | The order of the rooms |
+
+Anything Else:
+
 Type | Name | Condition
 --- | --- | ---
 boolean | Is Debugger Disabled? |
