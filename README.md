@@ -1,6 +1,6 @@
 # datawin
 
-* [Data types](/types.md)
+* [Common types](/types.md)
 * [Chunk](/chunk.md)
 * [FORM](/FORM.md)
   * [GEN8](/GEN8.md)
