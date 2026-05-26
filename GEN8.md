@@ -11,7 +11,7 @@ If the 8 >= WAD Version and the remaining bytes are 84:
 
 Type | Name | Condition
 --- | --- | ---
-nullUTF8* | File Name |
+string* | File Name |
 u32 | Last Object |
 u32 | Last Tile |
 u32 | Game ID |
@@ -28,13 +28,13 @@ Anything Else:
 
 Type | Name | Condition
 --- | --- | ---
-nullUTF8* | File Name |
-nullUTF8* | Configuration | WAD Version is 9 or greater
+string* | File Name |
+string* | Configuration | WAD Version is 9 or greater
 u32 | Last Object |
 u32 | Last Tile |
 u32 | Game ID |
 u8[16] | DirectPlay GUID |
-nullUTF8* | Game Name | WAD Version is 9 or greater
+string* | Game Name | WAD Version is 9 or greater
 u32[4] | GameMaker Version (Major, Minor, Release, Build) | WAD Version is 9 or greater
 u32[2] | Default Window Size (Width, Height) |
 u32 | Information |
@@ -44,7 +44,7 @@ s32 | Timestamp | WAD Version is 8 (or less?)
 s32 | Timestamp | WAD Version is 12 or less
 u64 | Timestamp | WAD Version is 13 or greater
 void[4] | Padding | WAD Version is 12 or less
-nullUTF8* | Display Name |
+string* | Display Name |
 u64 | Active Targets | WAD Version is 11 or greater
 u64 | Function Classifications | WAD Version is 12 or greater
 u32 | Steam App ID | WAD Version is 13 or greater

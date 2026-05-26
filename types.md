@@ -44,5 +44,5 @@ b64 | 8 | binary64 from IEEE 754
 ## boolean
 u8. 0 is "false", while any other number is "true", though 1 is preferred for "true".
 
-## nullUTF8
-A string of text, terminated with a word of 0.
+## string
+A variable-length string of text, terminated with a word of 0.
