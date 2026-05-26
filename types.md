@@ -14,12 +14,10 @@ Most of the data files use little-endian encoding, though the PlayStation 3 runn
 This also affect chunk IDs, which means they're probably stored as an unsigned 4-word number instead of 4 characters.
 
 ### Pointers
+
 All pointers are absolute positions, with 0 being the start of the file.
 
 Pointers are signified by the aterisk \* symbol after the type name.
-
-### Text
-Text is Unicode, encoded using the UTF-8 standard.
 
 ## void
 An unknown value that uses a single word. Usually used for padding.
@@ -45,4 +43,7 @@ b64 | 8 | binary64 from IEEE 754
 u8. 0 is "false", while any other number is "true", though 1 is preferred for "true".
 
 ## string
-A variable-length string of text, terminated with a word of 0.
+
+A variable-length string of UTF-8 text, the first four bytes are the length of the string, the string is null terminated.
+
+When the string is a pointer (`string*`), it will be pointing to the beginning of the string (excluding the length of the string) on the `STRG` chunk.
