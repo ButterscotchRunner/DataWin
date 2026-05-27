@@ -1,4 +1,4 @@
-**Progress:** 631/3759 (16.786379356211757%)
+**Progress:** 632/3759 (16.81298217611067%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -871,7 +871,7 @@
 | `object_delete` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `object_event_add` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `object_event_clear` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
-| `object_exists` | 🚫 | GM:S 1.0.98 |  |
+| `object_exists` | ✅ | GM:S 1.0.98 |  |
 | `object_get_depth` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `object_get_mask` | 🚫 | GM:S 1.0.98 |  |
 | `object_get_name` | 🚫 | GM:S 1.0.98 |  |
