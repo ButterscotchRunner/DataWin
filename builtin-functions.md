@@ -1,4 +1,4 @@
-**Progress:** 651/3759 (17.318435754189945%)
+**Progress:** 654/3759 (17.39824421388667%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -890,8 +890,8 @@
 | `object_set_sprite` | 🚫 | GM:S 1.0.98 |  |
 | `object_set_visible` | 🚫 | GM:S 1.0.98 |  |
 | `ord` | ✅ | GM:S 1.0.98 |  |
-| `parameter_count` | 🚫 | GM:S 1.0.98 |  |
-| `parameter_string` | 🚫 | GM:S 1.0.98 |  |
+| `parameter_count` | ✅ | GM:S 1.0.98 |  |
+| `parameter_string` | ✅ | GM:S 1.0.98 |  |
 | `part_attractor_clear` | 🚫 | GM:S 1.0.98 | WAD Version 15 |
 | `part_attractor_create` | 🚫 | GM:S 1.0.98 | WAD Version 15 |
 | `part_attractor_destroy` | 🚫 | GM:S 1.0.98 | WAD Version 15 |
@@ -3030,7 +3030,7 @@
 | `fx_set_parameter` | 🚫 | GM 2024.14.4.268 |  |
 | `fx_set_parameters` | 🚫 | GM 2024.14.4.268 |  |
 | `fx_set_single_layer` | 🚫 | GM 2024.14.4.268 |  |
-| `game_change` | 🚫 | GM 2024.14.4.268 |  |
+| `game_change` | ✅ | GM 2024.14.4.268 |  |
 | `gamepad_add_hardware_mapping_from_file` | 🚫 | GM 2024.14.4.268 |  |
 | `gamepad_add_hardware_mapping_from_string` | 🚫 | GM 2024.14.4.268 |  |
 | `gamepad_enumerate` | 🚫 | GM 2024.14.4.268 |  |
