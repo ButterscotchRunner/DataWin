@@ -1,4 +1,4 @@
-**Progress:** 632/3759 (16.81298217611067%)
+**Progress:** 636/3759 (16.919393455706306%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1202,11 +1202,11 @@
 | `sprite_delete` | ✅ | GM:S 1.0.98 |  |
 | `sprite_duplicate` | 🚫 | GM:S 1.0.98 |  |
 | `sprite_exists` | ✅ | GM:S 1.0.98 |  |
-| `sprite_get_bbox_bottom` | 🚫 | GM:S 1.0.98 |  |
-| `sprite_get_bbox_left` | 🚫 | GM:S 1.0.98 |  |
+| `sprite_get_bbox_bottom` | ✅ | GM:S 1.0.98 |  |
+| `sprite_get_bbox_left` | ✅ | GM:S 1.0.98 |  |
 | `sprite_get_bbox_mode` | 🚫 | GM:S 1.0.98 |  |
-| `sprite_get_bbox_right` | 🚫 | GM:S 1.0.98 |  |
-| `sprite_get_bbox_top` | 🚫 | GM:S 1.0.98 |  |
+| `sprite_get_bbox_right` | ✅ | GM:S 1.0.98 |  |
+| `sprite_get_bbox_top` | ✅ | GM:S 1.0.98 |  |
 | `sprite_get_height` | ✅ | GM:S 1.0.98 |  |
 | `sprite_get_name` | ✅ | GM:S 1.0.98 |  |
 | `sprite_get_number` | ✅ | GM:S 1.0.98 |  |
