@@ -1,4 +1,4 @@
-**Progress:** 118/233 (50.64377682403433%)
+**Progress:** 125/233 (53.648068669527895%)
 
 | GML Variable | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -48,14 +48,14 @@
 | `caption_health` | 🚫 | GM:S 1.0.98 |  |
 | `caption_lives` | 🚫 | GM:S 1.0.98 |  |
 | `caption_score` | 🚫 | GM:S 1.0.98 |  |
-| `current_day` | 🚫 | GM:S 1.0.98 |  |
-| `current_hour` | 🚫 | GM:S 1.0.98 |  |
-| `current_minute` | 🚫 | GM:S 1.0.98 |  |
-| `current_month` | 🚫 | GM:S 1.0.98 |  |
-| `current_second` | 🚫 | GM:S 1.0.98 |  |
+| `current_day` | ✅ | GM:S 1.0.98 |  |
+| `current_hour` | ✅ | GM:S 1.0.98 |  |
+| `current_minute` | ✅ | GM:S 1.0.98 |  |
+| `current_month` | ✅ | GM:S 1.0.98 |  |
+| `current_second` | ✅ | GM:S 1.0.98 |  |
 | `current_time` | ✅ | GM:S 1.0.98 |  |
-| `current_weekday` | 🚫 | GM:S 1.0.98 |  |
-| `current_year` | 🚫 | GM:S 1.0.98 |  |
+| `current_weekday` | ✅ | GM:S 1.0.98 |  |
+| `current_year` | ✅ | GM:S 1.0.98 |  |
 | `cursor_sprite` | 🚫 | GM:S 1.0.98 |  |
 | `depth` | ✅ | GM:S 1.0.98 |  |
 | `direction` | ✅ | GM:S 1.0.98 |  |

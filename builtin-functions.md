@@ -1,4 +1,4 @@
-**Progress:** 645/3759 (17.158818834796488%)
+**Progress:** 651/3759 (17.318435754189945%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -62,7 +62,7 @@
 | `YoYo_ShowVirtualKey` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `abs` | ✅ | GM:S 1.0.98 |  |
 | `action_another_room` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
-| `action_bounce` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
+| `action_bounce` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `action_cd_pause` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `action_cd_play` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `action_cd_playing` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
@@ -127,10 +127,10 @@
 | `action_load_game` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `action_message` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `action_move` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
-| `action_move_contact` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
+| `action_move_contact` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `action_move_point` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `action_move_random` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
-| `action_move_start` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
+| `action_move_start` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `action_move_to` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `action_next_room` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `action_partemit_burst` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
@@ -152,7 +152,7 @@
 | `action_path_old` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `action_path_position` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `action_path_speed` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
-| `action_potential_step` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
+| `action_potential_step` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `action_previous_room` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `action_replace_background` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `action_replace_sound` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
@@ -587,7 +587,7 @@
 | `effect_clear` | 🚫 | GM:S 1.0.98 |  |
 | `effect_create_above` | 🚫 | GM:S 1.0.98 |  |
 | `effect_create_below` | 🚫 | GM:S 1.0.98 |  |
-| `environment_get_variable` | 🚫 | GM:S 1.0.98 |  |
+| `environment_get_variable` | ✅ | GM:S 1.0.98 |  |
 | `event_inherited` | ✅ | GM:S 1.0.98 |  |
 | `event_perform` | ✅ | GM:S 1.0.98 |  |
 | `event_perform_object` | 🚫 | GM:S 1.0.98 |  |
@@ -812,7 +812,7 @@
 | `move_bounce_solid` | 🚫 | GM:S 1.0.98 |  |
 | `move_contact` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `move_contact_all` | 🚫 | GM:S 1.0.98 |  |
-| `move_contact_solid` | 🚫 | GM:S 1.0.98 |  |
+| `move_contact_solid` | ✅ | GM:S 1.0.98 |  |
 | `move_outside_all` | 🚫 | GM:S 1.0.98 |  |
 | `move_outside_solid` | 🚫 | GM:S 1.0.98 |  |
 | `move_random` | 🚫 | GM:S 1.0.98 |  |
