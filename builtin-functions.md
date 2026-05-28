@@ -1,4 +1,4 @@
-**Progress:** 636/3759 (16.919393455706306%)
+**Progress:** 645/3759 (17.158818834796488%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -104,18 +104,18 @@
 | `action_highscore_clear` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `action_highscore_show` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `action_if` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
-| `action_if_aligned` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
-| `action_if_collision` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
+| `action_if_aligned` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
+| `action_if_collision` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `action_if_dice` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
-| `action_if_empty` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
+| `action_if_empty` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `action_if_health` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `action_if_life` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
-| `action_if_mouse` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
-| `action_if_next_room` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
-| `action_if_number` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
-| `action_if_object` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
-| `action_if_previous_room` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
-| `action_if_question` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
+| `action_if_mouse` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
+| `action_if_next_room` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
+| `action_if_number` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
+| `action_if_object` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
+| `action_if_previous_room` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
+| `action_if_question` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `action_if_score` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `action_if_sound` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `action_if_variable` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
