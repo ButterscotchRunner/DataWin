@@ -1,4 +1,4 @@
-**Progress:** 654/3759 (17.39824421388667%)
+**Progress:** 655/3759 (17.424847033785582%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -463,7 +463,7 @@
 | `draw_text` | ✅ | GM:S 1.0.98 |  |
 | `draw_text_color` | ✅ | GM:S 1.0.98 |  |
 | `draw_text_ext` | ✅ | GM:S 1.0.98 |  |
-| `draw_text_ext_color` | 🚫 | GM:S 1.0.98 |  |
+| `draw_text_ext_color` | ✅ | GM:S 1.0.98 |  |
 | `draw_text_ext_transformed` | ✅ | GM:S 1.0.98 |  |
 | `draw_text_ext_transformed_color` | 🚫 | GM:S 1.0.98 |  |
 | `draw_text_transformed` | ✅ | GM:S 1.0.98 |  |
