@@ -1,4 +1,4 @@
-**Progress:** 655/3759 (17.424847033785582%)
+**Progress:** 656/3759 (17.45144985368449%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -187,7 +187,7 @@
 | `action_sprite_transform` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `action_webpage` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `action_wrap` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
-| `arccos` | 🚫 | GM:S 1.0.98 |  |
+| `arccos` | ✅ | GM:S 1.0.98 |  |
 | `arcsin` | ✅ | GM:S 1.0.98 |  |
 | `arctan` | ✅ | GM:S 1.0.98 |  |
 | `arctan2` | 🚫 | GM:S 1.0.98 |  |
