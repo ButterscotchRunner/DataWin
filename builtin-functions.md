@@ -1,4 +1,4 @@
-**Progress:** 667/3759 (17.744080872572493%)
+**Progress:** 671/3759 (17.85049215216813%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -634,9 +634,9 @@
 | `file_delete` | ✅ | GM:S 1.0.98 |  |
 | `file_eof` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `file_exists` | ✅ | GM:S 1.0.98 |  |
-| `file_find_close` | 🚫 | GM:S 1.0.98 |  |
-| `file_find_first` | 🚫 | GM:S 1.0.98 |  |
-| `file_find_next` | 🚫 | GM:S 1.0.98 |  |
+| `file_find_close` | ✅ | GM:S 1.0.98 |  |
+| `file_find_first` | ✅ | GM:S 1.0.98 |  |
+| `file_find_next` | ✅ | GM:S 1.0.98 |  |
 | `file_open_append` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `file_open_read` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
 | `file_open_write` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
@@ -2817,7 +2817,7 @@
 | `array_length` | ✅ | GM 2024.14.4.268 |  |
 | `array_map` | 🚫 | GM 2024.14.4.268 |  |
 | `array_map_ext` | 🚫 | GM 2024.14.4.268 |  |
-| `array_pop` | 🚫 | GM 2024.14.4.268 |  |
+| `array_pop` | ✅ | GM 2024.14.4.268 |  |
 | `array_push` | ✅ | GM 2024.14.4.268 |  |
 | `array_reduce` | 🚫 | GM 2024.14.4.268 |  |
 | `array_resize` | ✅ | GM 2024.14.4.268 |  |
