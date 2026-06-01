@@ -1,4 +1,4 @@
-**Progress:** 125/233 (53.648068669527895%)
+**Progress:** 126/233 (54.077253218884124%)
 
 | GML Variable | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -191,7 +191,7 @@
 | `timeline_loop` | ✅ | GM:S 1.0.198 |  |
 | `timeline_running` | ✅ | GM:S 1.0.198 |  |
 | `debug_mode` | ✅ | GM:S 1.1.622 |  |
-| `delta_time` | 🚫 | GM:S 1.1.622 |  |
+| `delta_time` | ✅ | GM:S 1.1.622 |  |
 | `game_guid` | 🚫 | GM:S 1.1.622 | GM 2024.14.4.268 |
 | `view_surface_id` | 🚫 | GM:S 1.1.622 |  |
 | `webgl_enabled` | 🚫 | GM:S 1.1.622 |  |
