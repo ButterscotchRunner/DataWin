@@ -1,4 +1,4 @@
-**Progress:** 666/3759 (17.71747805267358%)
+**Progress:** 667/3759 (17.744080872572493%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2513,7 +2513,7 @@
 | `tilemap_clear` | 🚫 | WAD Version 15 |  |
 | `tilemap_draw` | 🚫 | WAD Version 15 | WAD Version 16 |
 | `tilemap_get` | 🚫 | WAD Version 15 |  |
-| `tilemap_get_at_pixel` | 🚫 | WAD Version 15 |  |
+| `tilemap_get_at_pixel` | ✅ | WAD Version 15 |  |
 | `tilemap_get_cell_x_at_pixel` | 🚫 | WAD Version 15 |  |
 | `tilemap_get_cell_y_at_pixel` | 🚫 | WAD Version 15 |  |
 | `tilemap_get_frame` | 🚫 | WAD Version 15 |  |
