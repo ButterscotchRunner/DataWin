@@ -1,4 +1,4 @@
-**Progress:** 665/3759 (17.690875232774676%)
+**Progress:** 666/3759 (17.71747805267358%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1673,7 +1673,7 @@
 | `file_text_open_from_string` | 🚫 | GM:S 1.1.913 |  |
 | `game_load_buffer` | 🚫 | GM:S 1.1.913 |  |
 | `game_save_buffer` | 🚫 | GM:S 1.1.913 |  |
-| `ini_open_from_string` | 🚫 | GM:S 1.1.913 |  |
+| `ini_open_from_string` | ✅ | GM:S 1.1.913 |  |
 | `playhaven_add_notification_badge` | 🚫 | GM:S 1.1.913 | WAD Version 16 |
 | `playhaven_hide_notification_badge` | 🚫 | GM:S 1.1.913 | WAD Version 16 |
 | `playhaven_position_notification_badge` | 🚫 | GM:S 1.1.913 | WAD Version 16 |
