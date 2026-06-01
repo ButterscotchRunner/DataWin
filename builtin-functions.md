@@ -1,4 +1,4 @@
-**Progress:** 657/3759 (17.4780526735834%)
+**Progress:** 665/3759 (17.690875232774676%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2625,8 +2625,8 @@
 | `xboxone_get_stats_for_user` | 🚫 | WAD Version 15 |  |
 | `xboxone_get_user` | 🚫 | WAD Version 15 |  |
 | `xboxone_get_user_count` | 🚫 | WAD Version 15 |  |
-| `xboxone_is_constrained` | 🚫 | WAD Version 15 |  |
-| `xboxone_is_suspending` | 🚫 | WAD Version 15 |  |
+| `xboxone_is_constrained` | ✅ | WAD Version 15 |  |
+| `xboxone_is_suspending` | ✅ | WAD Version 15 |  |
 | `xboxone_license_trial_time_remaining` | 🚫 | WAD Version 15 |  |
 | `xboxone_license_trial_user` | 🚫 | WAD Version 15 |  |
 | `xboxone_license_trial_version` | 🚫 | WAD Version 15 |  |
@@ -2645,21 +2645,21 @@
 | `xboxone_read_player_leaderboard` | 🚫 | WAD Version 15 |  |
 | `xboxone_reputation_for_user` | 🚫 | WAD Version 15 |  |
 | `xboxone_set_rich_presence` | 🚫 | WAD Version 15 |  |
-| `xboxone_set_savedata_user` | 🚫 | WAD Version 15 |  |
+| `xboxone_set_savedata_user` | ✅ | WAD Version 15 |  |
 | `xboxone_set_service_configuration_id` | 🚫 | WAD Version 15 |  |
-| `xboxone_show_account_picker` | 🚫 | WAD Version 15 |  |
+| `xboxone_show_account_picker` | ✅ | WAD Version 15 |  |
 | `xboxone_show_help` | 🚫 | WAD Version 15 |  |
 | `xboxone_show_profile_card_for_user` | 🚫 | WAD Version 15 |  |
 | `xboxone_sponsor_for_user` | 🚫 | WAD Version 15 |  |
 | `xboxone_sprite_add_from_gamerpicture` | 🚫 | WAD Version 15 |  |
 | `xboxone_stats_setup` | 🚫 | WAD Version 15 |  |
-| `xboxone_suspend` | 🚫 | WAD Version 15 |  |
+| `xboxone_suspend` | ✅ | WAD Version 15 |  |
 | `xboxone_user_for_pad` | 🚫 | WAD Version 15 |  |
 | `xboxone_user_id_for_user` | 🚫 | WAD Version 15 |  |
 | `xboxone_user_is_active` | 🚫 | WAD Version 15 |  |
 | `xboxone_user_is_guest` | 🚫 | WAD Version 15 |  |
 | `xboxone_user_is_remote` | 🚫 | WAD Version 15 |  |
-| `xboxone_user_is_signed_in` | 🚫 | WAD Version 15 |  |
+| `xboxone_user_is_signed_in` | ✅ | WAD Version 15 |  |
 | `xboxone_was_terminated` | 🚫 | WAD Version 15 |  |
 | `yyg_player_launch_args` | 🚫 | WAD Version 15 | GM 2024.14.4.268 |
 | `yyg_player_restarted` | 🚫 | WAD Version 15 | GM 2024.14.4.268 |
@@ -3722,7 +3722,7 @@
 | `xboxlive_stats_set_stat_string` | 🚫 | GM 2024.14.4.268 |  |
 | `xboxlive_user_is_signing_in` | 🚫 | GM 2024.14.4.268 |  |
 | `xboxlive_verify_string_async` | 🚫 | GM 2024.14.4.268 |  |
-| `xboxone_achievements_set_progress` | 🚫 | GM 2024.14.4.268 |  |
+| `xboxone_achievements_set_progress` | ✅ | GM 2024.14.4.268 |  |
 | `xboxone_chat_add_user` | 🚫 | GM 2024.14.4.268 |  |
 | `xboxone_chat_get_muted` | 🚫 | GM 2024.14.4.268 |  |
 | `xboxone_chat_remove_user` | 🚫 | GM 2024.14.4.268 |  |
@@ -3736,7 +3736,7 @@
 | `xboxone_modern_gamertag_for_user` | 🚫 | GM 2024.14.4.268 |  |
 | `xboxone_modern_gamertag_suffix_for_user` | 🚫 | GM 2024.14.4.268 |  |
 | `xboxone_set_savedata_uwp_compatibility` | 🚫 | GM 2024.14.4.268 |  |
-| `xboxone_stats_add_user` | 🚫 | GM 2024.14.4.268 |  |
+| `xboxone_stats_add_user` | ✅ | GM 2024.14.4.268 |  |
 | `xboxone_stats_delete_stat` | 🚫 | GM 2024.14.4.268 |  |
 | `xboxone_stats_flush_user` | 🚫 | GM 2024.14.4.268 |  |
 | `xboxone_stats_get_leaderboard` | 🚫 | GM 2024.14.4.268 |  |
