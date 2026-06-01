@@ -22,23 +22,23 @@
 | `argument9` | ✅ | GM:S 1.0.98 |  |
 | `argument_relative` | 🚫 | GM:S 1.0.98 |  |
 | `async_load` | ✅ | GM:S 1.0.98 |  |
-| `background_alpha` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
-| `background_blend` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
-| `background_color` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
-| `background_foreground` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
-| `background_height` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
-| `background_hspeed` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
-| `background_htiled` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
-| `background_index` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
-| `background_showcolor` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
-| `background_visible` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
-| `background_vspeed` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
-| `background_vtiled` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
-| `background_width` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
-| `background_x` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
-| `background_xscale` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
-| `background_y` | ✅ | GM:S 1.0.98 | GM 2024.14.4.268 |
-| `background_yscale` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
+| `background_alpha` | ✅ | GM:S 1.0.98 | GM 2024.4.0.168 |
+| `background_blend` | 🚫 | GM:S 1.0.98 | GM 2024.4.0.168 |
+| `background_color` | ✅ | GM:S 1.0.98 | GM 2024.4.0.168 |
+| `background_foreground` | 🚫 | GM:S 1.0.98 | GM 2024.4.0.168 |
+| `background_height` | ✅ | GM:S 1.0.98 | GM 2024.4.0.168 |
+| `background_hspeed` | ✅ | GM:S 1.0.98 | GM 2024.4.0.168 |
+| `background_htiled` | 🚫 | GM:S 1.0.98 | GM 2024.4.0.168 |
+| `background_index` | ✅ | GM:S 1.0.98 | GM 2024.4.0.168 |
+| `background_showcolor` | 🚫 | GM:S 1.0.98 | GM 2024.4.0.168 |
+| `background_visible` | ✅ | GM:S 1.0.98 | GM 2024.4.0.168 |
+| `background_vspeed` | ✅ | GM:S 1.0.98 | GM 2024.4.0.168 |
+| `background_vtiled` | 🚫 | GM:S 1.0.98 | GM 2024.4.0.168 |
+| `background_width` | ✅ | GM:S 1.0.98 | GM 2024.4.0.168 |
+| `background_x` | ✅ | GM:S 1.0.98 | GM 2024.4.0.168 |
+| `background_xscale` | 🚫 | GM:S 1.0.98 | GM 2024.4.0.168 |
+| `background_y` | ✅ | GM:S 1.0.98 | GM 2024.4.0.168 |
+| `background_yscale` | 🚫 | GM:S 1.0.98 | GM 2024.4.0.168 |
 | `bbox_bottom` | ✅ | GM:S 1.0.98 |  |
 | `bbox_left` | ✅ | GM:S 1.0.98 |  |
 | `bbox_right` | ✅ | GM:S 1.0.98 |  |
@@ -139,7 +139,7 @@
 | `room_speed` | ✅ | GM:S 1.0.98 |  |
 | `room_width` | ✅ | GM:S 1.0.98 |  |
 | `score` | ✅ | GM:S 1.0.98 |  |
-| `secure_mode` | 🚫 | GM:S 1.0.98 | GM 2024.14.4.268 |
+| `secure_mode` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `show_health` | 🚫 | GM:S 1.0.98 |  |
 | `show_lives` | 🚫 | GM:S 1.0.98 |  |
 | `show_score` | 🚫 | GM:S 1.0.98 |  |
@@ -192,7 +192,7 @@
 | `timeline_running` | ✅ | GM:S 1.0.198 |  |
 | `debug_mode` | ✅ | GM:S 1.1.622 |  |
 | `delta_time` | ✅ | GM:S 1.1.622 |  |
-| `game_guid` | 🚫 | GM:S 1.1.622 | GM 2024.14.4.268 |
+| `game_guid` | 🚫 | GM:S 1.1.622 | GM:S 2.3.1.406 |
 | `view_surface_id` | 🚫 | GM:S 1.1.622 |  |
 | `webgl_enabled` | 🚫 | GM:S 1.1.622 |  |
 | `fps_real` | 🚫 | GM:S 1.1.1130 |  |
@@ -201,8 +201,8 @@
 | `phy_speed` | 🚫 | GM:S 1.2.1135 |  |
 | `application_surface` | ✅ | GM:S 1.3.1307 |  |
 | `iap_data` | 🚫 | GM:S 1.3.1307 |  |
-| `background_colour` | ✅ | WAD Version 14 | GM 2024.14.4.268 |
-| `background_showcolour` | 🚫 | WAD Version 14 | GM 2024.14.4.268 |
+| `background_colour` | ✅ | WAD Version 14 | GM 2024.4.0.168 |
+| `background_showcolour` | 🚫 | WAD Version 14 | GM 2024.4.0.168 |
 | `game_display_name` | 🚫 | WAD Version 14 |  |
 | `game_project_name` | 🚫 | WAD Version 14 |  |
 | `game_save_id` | 🚫 | WAD Version 14 |  |
@@ -216,23 +216,23 @@
 | `view_camera` | ✅ | WAD Version 15 |  |
 | `event_data` | 🚫 | WAD Version 16 |  |
 | `font_texture_page_size` | 🚫 | WAD Version 16 |  |
-| `NaN` | 🚫 | GM 2024.14.4.268 |  |
-| `audio_bus_main` | 🚫 | GM 2024.14.4.268 |  |
-| `cache_directory` | 🚫 | GM 2024.14.4.268 |  |
-| `collision_space` | 🚫 | GM 2024.14.4.268 |  |
-| `drawn_by_sequence` | 🚫 | GM 2024.14.4.268 |  |
-| `in_collision_tree` | 🚫 | GM 2024.14.4.268 |  |
-| `in_sequence` | 🚫 | GM 2024.14.4.268 |  |
-| `infinity` | 🚫 | GM 2024.14.4.268 |  |
-| `managed` | 🚫 | GM 2024.14.4.268 |  |
-| `on_ui_layer` | 🚫 | GM 2024.14.4.268 |  |
-| `rollback_api_server` | 🚫 | GM 2024.14.4.268 |  |
-| `rollback_confirmed_frame` | 🚫 | GM 2024.14.4.268 |  |
-| `rollback_current_frame` | 🚫 | GM 2024.14.4.268 |  |
-| `rollback_event_id` | 🚫 | GM 2024.14.4.268 |  |
-| `rollback_event_param` | 🚫 | GM 2024.14.4.268 |  |
-| `rollback_game_running` | 🚫 | GM 2024.14.4.268 |  |
-| `sequence_instance` | 🚫 | GM 2024.14.4.268 |  |
-| `wallpaper_config` | 🚫 | GM 2024.14.4.268 |  |
-| `wallpaper_subscription_data` | 🚫 | GM 2024.14.4.268 |  |
+| `in_collision_tree` | 🚫 | GM:S 2.2.2.326 |  |
+| `NaN` | 🚫 | GM:S 2.2.3.341 |  |
+| `infinity` | 🚫 | GM:S 2.2.3.341 |  |
+| `in_sequence` | 🚫 | GM:S 2.3.0.401 |  |
+| `sequence_instance` | 🚫 | GM:S 2.3.0.401 |  |
+| `managed` | 🚫 | GM 2022.5.0.8 |  |
+| `rollback_current_frame` | 🚫 | GM 2022.5.0.8 |  |
+| `rollback_event_id` | 🚫 | GM 2022.5.0.8 |  |
+| `rollback_event_param` | 🚫 | GM 2022.5.0.8 |  |
+| `rollback_game_running` | 🚫 | GM 2022.5.0.8 |  |
+| `rollback_api_server` | 🚫 | GM 2022.6.0.23 |  |
+| `rollback_confirmed_frame` | 🚫 | GM 2022.6.0.23 |  |
+| `drawn_by_sequence` | 🚫 | GM 2022.8.0.50 |  |
+| `audio_bus_main` | 🚫 | GM 2022.11.0.73 |  |
+| `wallpaper_config` | 🚫 | GM 2023.4.0.113 |  |
+| `cache_directory` | 🚫 | GM 2023.11.0.157 |  |
+| `wallpaper_subscription_data` | 🚫 | GM 2023.11.0.157 |  |
+| `on_ui_layer` | 🚫 | GM 2024.13.0.238 |  |
+| `collision_space` | 🚫 | GM 2024.14.0.251 |  |
 
