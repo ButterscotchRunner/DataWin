@@ -1,4 +1,4 @@
-**Progress:** 656/3759 (17.45144985368449%)
+**Progress:** 657/3759 (17.4780526735834%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1893,7 +1893,7 @@
 | `timeline_moment_add_script` | 🚫 | GM:S 1.2.1264 |  |
 | `array_get` | ✅ | GM:S 1.2.1279 |  |
 | `array_get_2D` | 🚫 | GM:S 1.2.1279 | GM 2024.14.4.268 |
-| `array_set` | 🚫 | GM:S 1.2.1279 |  |
+| `array_set` | ✅ | GM:S 1.2.1279 |  |
 | `array_set_2D` | 🚫 | GM:S 1.2.1279 |  |
 | `array_set_2D_post` | 🚫 | GM:S 1.2.1279 |  |
 | `array_set_2D_pre` | 🚫 | GM:S 1.2.1279 |  |
