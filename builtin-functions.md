@@ -1,4 +1,4 @@
-**Progress:** 677/3783 (17.89584985461274%)
+**Progress:** 680/3783 (17.975151995770553%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1380,7 +1380,7 @@
 | `ansi_char` | 🚫 | GM:S 1.0.129 |  |
 | `get_login_async` | 🚫 | GM:S 1.0.129 |  |
 | `json_decode` | ✅ | GM:S 1.0.129 |  |
-| `json_encode` | 🚫 | GM:S 1.0.129 |  |
+| `json_encode` | ✅ | GM:S 1.0.129 |  |
 | `string_byte_at` | 🚫 | GM:S 1.0.129 |  |
 | `string_byte_length` | ✅ | GM:S 1.0.129 |  |
 | `achievement_is_online` | 🚫 | GM:S 1.0.198 | GM:S 1.1.1013 |
@@ -1884,8 +1884,8 @@
 | `ds_list_set_post` | 🚫 | GM:S 1.2.1264 |  |
 | `ds_list_set_pre` | 🚫 | GM:S 1.2.1264 |  |
 | `ds_map_set` | ✅ | GM:S 1.2.1264 |  |
-| `ds_map_set_post` | 🚫 | GM:S 1.2.1264 |  |
-| `ds_map_set_pre` | 🚫 | GM:S 1.2.1264 |  |
+| `ds_map_set_post` | ✅ | GM:S 1.2.1264 |  |
+| `ds_map_set_pre` | ✅ | GM:S 1.2.1264 |  |
 | `gml_release_mode` | 🚫 | GM:S 1.2.1264 |  |
 | `http_request` | 🚫 | GM:S 1.2.1264 |  |
 | `os_get_region` | ✅ | GM:S 1.2.1264 |  |
