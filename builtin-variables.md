@@ -1,4 +1,4 @@
-**Progress:** 126/233 (54.077253218884124%)
+**Progress:** 128/233 (54.93562231759657%)
 
 | GML Variable | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -84,7 +84,7 @@
 | `image_speed` | ✅ | GM:S 1.0.98 |  |
 | `image_xscale` | ✅ | GM:S 1.0.98 |  |
 | `image_yscale` | ✅ | GM:S 1.0.98 |  |
-| `instance_count` | 🚫 | GM:S 1.0.98 |  |
+| `instance_count` | ✅ | GM:S 1.0.98 |  |
 | `instance_id` | 🚫 | GM:S 1.0.98 |  |
 | `keyboard_key` | ✅ | GM:S 1.0.98 |  |
 | `keyboard_lastchar` | ✅ | GM:S 1.0.98 |  |
@@ -134,7 +134,7 @@
 | `room_caption` | 🚫 | GM:S 1.0.98 |  |
 | `room_first` | ✅ | GM:S 1.0.98 |  |
 | `room_height` | ✅ | GM:S 1.0.98 |  |
-| `room_last` | 🚫 | GM:S 1.0.98 |  |
+| `room_last` | ✅ | GM:S 1.0.98 |  |
 | `room_persistent` | ✅ | GM:S 1.0.98 |  |
 | `room_speed` | ✅ | GM:S 1.0.98 |  |
 | `room_width` | ✅ | GM:S 1.0.98 |  |

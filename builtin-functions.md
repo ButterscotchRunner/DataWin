@@ -1,4 +1,4 @@
-**Progress:** 671/3783 (17.73724557229712%)
+**Progress:** 672/3783 (17.763679619349723%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -3053,7 +3053,7 @@
 | `variable_instance_names_count` | 🚫 | GM:S 2.2.3.341 |  |
 | `extension_get_string` | 🚫 | GM:S 2.2.4.364 | GM 2022.6.0.23 |
 | `switch_set_cpu_boost_mode` | 🚫 | GM:S 2.2.4.372 |  |
-| `@@CopyStatic@@` | 🚫 | GM:S 2.3.0.401 |  |
+| `@@CopyStatic@@` | ✅ | GM:S 2.3.0.401 |  |
 | `@@GetInstance@@` | 🚫 | GM:S 2.3.0.401 |  |
 | `@@Global@@` | ✅ | GM:S 2.3.0.401 |  |
 | `@@NewGMLObject@@` | ✅ | GM:S 2.3.0.401 |  |
