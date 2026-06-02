@@ -1,4 +1,4 @@
-**Progress:** 681/3783 (18.001586042823156%)
+**Progress:** 682/3783 (18.02802008987576%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -103,7 +103,7 @@
 | `action_highscore` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `action_highscore_clear` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `action_highscore_show` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `action_if` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `action_if` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `action_if_aligned` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `action_if_collision` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `action_if_dice` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
