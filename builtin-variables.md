@@ -1,4 +1,4 @@
-**Progress:** 128/233 (54.93562231759657%)
+**Progress:** 130/233 (55.793991416309005%)
 
 | GML Variable | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -36,9 +36,9 @@
 | `background_vtiled` | 🚫 | GM:S 1.0.98 | GM 2024.4.0.168 |
 | `background_width` | ✅ | GM:S 1.0.98 | GM 2024.4.0.168 |
 | `background_x` | ✅ | GM:S 1.0.98 | GM 2024.4.0.168 |
-| `background_xscale` | 🚫 | GM:S 1.0.98 | GM 2024.4.0.168 |
+| `background_xscale` | ✅ | GM:S 1.0.98 | GM 2024.4.0.168 |
 | `background_y` | ✅ | GM:S 1.0.98 | GM 2024.4.0.168 |
-| `background_yscale` | 🚫 | GM:S 1.0.98 | GM 2024.4.0.168 |
+| `background_yscale` | ✅ | GM:S 1.0.98 | GM 2024.4.0.168 |
 | `bbox_bottom` | ✅ | GM:S 1.0.98 |  |
 | `bbox_left` | ✅ | GM:S 1.0.98 |  |
 | `bbox_right` | ✅ | GM:S 1.0.98 |  |

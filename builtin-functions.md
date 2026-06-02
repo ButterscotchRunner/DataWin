@@ -1,4 +1,4 @@
-**Progress:** 680/3783 (17.975151995770553%)
+**Progress:** 681/3783 (18.001586042823156%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -658,7 +658,7 @@
 | `file_write_real` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `file_write_string` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `file_writeln` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `filename_change_ext` | 🚫 | GM:S 1.0.98 |  |
+| `filename_change_ext` | ✅ | GM:S 1.0.98 |  |
 | `filename_dir` | 🚫 | GM:S 1.0.98 |  |
 | `filename_drive` | 🚫 | GM:S 1.0.98 |  |
 | `filename_ext` | 🚫 | GM:S 1.0.98 |  |
