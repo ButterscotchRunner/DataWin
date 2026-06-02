@@ -1,4 +1,4 @@
-**Progress:** 673/3783 (17.790113666402327%)
+**Progress:** 677/3783 (17.89584985461274%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1974,10 +1974,10 @@
 | `window_device` | 🚫 | GM:S 1.3.1307 |  |
 | `winphone_tile_background_colour` | 🚫 | GM:S 1.3.1307 |  |
 | `zip_unzip` | 🚫 | GM:S 1.3.1307 |  |
-| `buffer_async_group_begin` | 🚫 | GM:S 1.3.1336 |  |
-| `buffer_async_group_end` | 🚫 | GM:S 1.3.1336 |  |
-| `buffer_load_async` | 🚫 | GM:S 1.3.1336 |  |
-| `buffer_save_async` | 🚫 | GM:S 1.3.1336 |  |
+| `buffer_async_group_begin` | ✅ | GM:S 1.3.1336 |  |
+| `buffer_async_group_end` | ✅ | GM:S 1.3.1336 |  |
+| `buffer_load_async` | ✅ | GM:S 1.3.1336 |  |
+| `buffer_save_async` | ✅ | GM:S 1.3.1336 |  |
 | `clickable_set_style` | 🚫 | GM:S 1.3.1336 |  |
 | `display_set_gui_maximise` | ✅ | GM:S 1.3.1336 |  |
 | `application_surface_enable` | ✅ | GM:S 1.3.1344 |  |
