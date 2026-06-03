@@ -1,4 +1,4 @@
-**Progress:** 686/3783 (18.133756278086175%)
+**Progress:** 698/3783 (18.450964842717422%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2158,22 +2158,22 @@
 | `browser_input_capture` | 🚫 | WAD Version 15 |  |
 | `buffer_exists` | 🚫 | WAD Version 15 |  |
 | `camera_apply` | 🚫 | WAD Version 15 |  |
-| `camera_create` | 🚫 | WAD Version 15 |  |
-| `camera_create_view` | 🚫 | WAD Version 15 |  |
-| `camera_destroy` | 🚫 | WAD Version 15 |  |
-| `camera_get_active` | 🚫 | WAD Version 15 |  |
+| `camera_create` | ✅ | WAD Version 15 |  |
+| `camera_create_view` | ✅ | WAD Version 15 |  |
+| `camera_destroy` | ✅ | WAD Version 15 |  |
+| `camera_get_active` | ✅ | WAD Version 15 |  |
 | `camera_get_begin_script` | 🚫 | WAD Version 15 |  |
-| `camera_get_default` | 🚫 | WAD Version 15 |  |
+| `camera_get_default` | ✅ | WAD Version 15 |  |
 | `camera_get_end_script` | 🚫 | WAD Version 15 |  |
 | `camera_get_proj_mat` | 🚫 | WAD Version 15 |  |
 | `camera_get_update_script` | 🚫 | WAD Version 15 |  |
-| `camera_get_view_angle` | 🚫 | WAD Version 15 |  |
+| `camera_get_view_angle` | ✅ | WAD Version 15 |  |
 | `camera_get_view_border_x` | ✅ | WAD Version 15 |  |
 | `camera_get_view_border_y` | ✅ | WAD Version 15 |  |
 | `camera_get_view_height` | ✅ | WAD Version 15 |  |
 | `camera_get_view_mat` | 🚫 | WAD Version 15 |  |
-| `camera_get_view_speed_x` | 🚫 | WAD Version 15 |  |
-| `camera_get_view_speed_y` | 🚫 | WAD Version 15 |  |
+| `camera_get_view_speed_x` | ✅ | WAD Version 15 |  |
+| `camera_get_view_speed_y` | ✅ | WAD Version 15 |  |
 | `camera_get_view_target` | ✅ | WAD Version 15 |  |
 | `camera_get_view_width` | ✅ | WAD Version 15 |  |
 | `camera_get_view_x` | ✅ | WAD Version 15 |  |
@@ -2183,12 +2183,12 @@
 | `camera_set_end_script` | 🚫 | WAD Version 15 |  |
 | `camera_set_proj_mat` | 🚫 | WAD Version 15 |  |
 | `camera_set_update_script` | 🚫 | WAD Version 15 |  |
-| `camera_set_view_angle` | 🚫 | WAD Version 15 |  |
+| `camera_set_view_angle` | ✅ | WAD Version 15 |  |
 | `camera_set_view_border` | ✅ | WAD Version 15 |  |
 | `camera_set_view_mat` | 🚫 | WAD Version 15 |  |
 | `camera_set_view_pos` | ✅ | WAD Version 15 |  |
-| `camera_set_view_size` | 🚫 | WAD Version 15 |  |
-| `camera_set_view_speed` | 🚫 | WAD Version 15 |  |
+| `camera_set_view_size` | ✅ | WAD Version 15 |  |
+| `camera_set_view_speed` | ✅ | WAD Version 15 |  |
 | `camera_set_view_target` | ✅ | WAD Version 15 |  |
 | `d3d_model_vertex_normal_colour` | 🚫 | WAD Version 15 | GM:S 2.3.1.406 |
 | `debug_event` | 🚫 | WAD Version 15 |  |
@@ -2555,7 +2555,7 @@
 | `view_get_wport` | 🚫 | WAD Version 15 |  |
 | `view_get_xport` | 🚫 | WAD Version 15 |  |
 | `view_get_yport` | 🚫 | WAD Version 15 |  |
-| `view_set_camera` | 🚫 | WAD Version 15 |  |
+| `view_set_camera` | ✅ | WAD Version 15 |  |
 | `view_set_hport` | 🚫 | WAD Version 15 |  |
 | `view_set_surface_id` | 🚫 | WAD Version 15 |  |
 | `view_set_visible` | 🚫 | WAD Version 15 |  |
