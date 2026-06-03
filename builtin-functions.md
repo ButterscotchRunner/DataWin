@@ -1,4 +1,4 @@
-**Progress:** 682/3783 (18.02802008987576%)
+**Progress:** 686/3783 (18.133756278086175%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -182,7 +182,7 @@
 | `action_snap` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `action_snapshot` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `action_sound` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `action_sprite_color` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `action_sprite_color` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `action_sprite_set` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `action_sprite_transform` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `action_webpage` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
@@ -813,8 +813,8 @@
 | `move_contact` | 🚫 | GM:S 1.0.98 | GM:S 2.3.0.401 |
 | `move_contact_all` | 🚫 | GM:S 1.0.98 |  |
 | `move_contact_solid` | ✅ | GM:S 1.0.98 |  |
-| `move_outside_all` | 🚫 | GM:S 1.0.98 |  |
-| `move_outside_solid` | 🚫 | GM:S 1.0.98 |  |
+| `move_outside_all` | ✅ | GM:S 1.0.98 |  |
+| `move_outside_solid` | ✅ | GM:S 1.0.98 |  |
 | `move_random` | 🚫 | GM:S 1.0.98 |  |
 | `move_snap` | ✅ | GM:S 1.0.98 |  |
 | `move_towards_point` | ✅ | GM:S 1.0.98 |  |
@@ -1791,7 +1791,7 @@
 | `action_fill_colour` | 🚫 | GM:S 1.1.1076 | GM:S 2.3.1.406 |
 | `action_line_colour` | 🚫 | GM:S 1.1.1076 | GM:S 2.3.1.406 |
 | `action_parttype_colour` | 🚫 | GM:S 1.1.1076 | GM:S 2.3.1.406 |
-| `action_sprite_colour` | 🚫 | GM:S 1.1.1076 | GM:S 2.3.1.406 |
+| `action_sprite_colour` | ✅ | GM:S 1.1.1076 | GM:S 2.3.1.406 |
 | `background_get_uvs` | 🚫 | GM:S 1.1.1076 | GM:S 2.3.1.406 |
 | `colour_get_blue` | ✅ | GM:S 1.1.1076 |  |
 | `colour_get_green` | ✅ | GM:S 1.1.1076 |  |
