@@ -1,4 +1,4 @@
-**Progress:** 130/233 (55.793991416309005%)
+**Progress:** 135/233 (57.93991416309014%)
 
 | GML Variable | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -92,10 +92,10 @@
 | `keyboard_string` | 🚫 | GM:S 1.0.98 |  |
 | `lives` | ✅ | GM:S 1.0.98 |  |
 | `mask_index` | ✅ | GM:S 1.0.98 |  |
-| `mouse_button` | 🚫 | GM:S 1.0.98 |  |
-| `mouse_lastbutton` | 🚫 | GM:S 1.0.98 |  |
-| `mouse_x` | 🚫 | GM:S 1.0.98 |  |
-| `mouse_y` | 🚫 | GM:S 1.0.98 |  |
+| `mouse_button` | ✅ | GM:S 1.0.98 |  |
+| `mouse_lastbutton` | ✅ | GM:S 1.0.98 |  |
+| `mouse_x` | ✅ | GM:S 1.0.98 |  |
+| `mouse_y` | ✅ | GM:S 1.0.98 |  |
 | `object_index` | ✅ | GM:S 1.0.98 |  |
 | `os_device` | 🚫 | GM:S 1.0.98 |  |
 | `os_type` | ✅ | GM:S 1.0.98 |  |
@@ -193,7 +193,7 @@
 | `debug_mode` | ✅ | GM:S 1.1.622 |  |
 | `delta_time` | ✅ | GM:S 1.1.622 |  |
 | `game_guid` | 🚫 | GM:S 1.1.622 | GM:S 2.3.1.406 |
-| `view_surface_id` | 🚫 | GM:S 1.1.622 |  |
+| `view_surface_id` | ✅ | GM:S 1.1.622 |  |
 | `webgl_enabled` | 🚫 | GM:S 1.1.622 |  |
 | `fps_real` | 🚫 | GM:S 1.1.1130 |  |
 | `phy_position_xprevious` | 🚫 | GM:S 1.2.1135 |  |

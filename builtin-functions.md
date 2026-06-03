@@ -1,4 +1,4 @@
-**Progress:** 699/3783 (18.477398889770026%)
+**Progress:** 710/3783 (18.768173407348666%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -802,10 +802,10 @@
 | `min3` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `motion_add` | 🚫 | GM:S 1.0.98 |  |
 | `motion_set` | 🚫 | GM:S 1.0.98 |  |
-| `mouse_check_button` | 🚫 | GM:S 1.0.98 |  |
-| `mouse_check_button_pressed` | 🚫 | GM:S 1.0.98 |  |
-| `mouse_check_button_released` | 🚫 | GM:S 1.0.98 |  |
-| `mouse_clear` | 🚫 | GM:S 1.0.98 |  |
+| `mouse_check_button` | ✅ | GM:S 1.0.98 |  |
+| `mouse_check_button_pressed` | ✅ | GM:S 1.0.98 |  |
+| `mouse_check_button_released` | ✅ | GM:S 1.0.98 |  |
+| `mouse_clear` | ✅ | GM:S 1.0.98 |  |
 | `mouse_wait` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `move_bounce` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `move_bounce_all` | 🚫 | GM:S 1.0.98 |  |
@@ -1374,8 +1374,8 @@
 | `window_views_mouse_set` | 🚫 | GM:S 1.0.98 |  |
 | `YoYo_MouseXRaw` | 🚫 | GM:S 1.0.114 | GM 2023.11.0.157 |
 | `YoYo_MouseYRaw` | 🚫 | GM:S 1.0.114 | GM 2023.11.0.157 |
-| `mouse_wheel_down` | 🚫 | GM:S 1.0.114 |  |
-| `mouse_wheel_up` | 🚫 | GM:S 1.0.114 |  |
+| `mouse_wheel_down` | ✅ | GM:S 1.0.114 |  |
+| `mouse_wheel_up` | ✅ | GM:S 1.0.114 |  |
 | `sprite_save_strip` | 🚫 | GM:S 1.0.114 |  |
 | `ansi_char` | 🚫 | GM:S 1.0.129 |  |
 | `get_login_async` | 🚫 | GM:S 1.0.129 |  |
@@ -1400,13 +1400,13 @@
 | `device_ios_get_image` | 🚫 | GM:S 1.0.198 | WAD Version 16 |
 | `device_ios_get_imagename` | 🚫 | GM:S 1.0.198 | WAD Version 16 |
 | `device_is_keypad_open` | 🚫 | GM:S 1.0.198 |  |
-| `device_mouse_check_button` | 🚫 | GM:S 1.0.198 |  |
+| `device_mouse_check_button` | ✅ | GM:S 1.0.198 |  |
 | `device_mouse_check_button_pressed` | 🚫 | GM:S 1.0.198 |  |
 | `device_mouse_check_button_released` | 🚫 | GM:S 1.0.198 |  |
 | `device_mouse_raw_x` | 🚫 | GM:S 1.0.198 |  |
 | `device_mouse_raw_y` | 🚫 | GM:S 1.0.198 |  |
-| `device_mouse_x` | 🚫 | GM:S 1.0.198 |  |
-| `device_mouse_y` | 🚫 | GM:S 1.0.198 |  |
+| `device_mouse_x` | ✅ | GM:S 1.0.198 |  |
+| `device_mouse_y` | ✅ | GM:S 1.0.198 |  |
 | `draw_enable_alphablend` | ✅ | GM:S 1.0.198 | GM:S 2.3.1.406 |
 | `draw_texture_flush` | 🚫 | GM:S 1.0.198 |  |
 | `facebook_dialog` | 🚫 | GM:S 1.0.198 | GM:S 2.2.2.326 |
@@ -1908,8 +1908,8 @@
 | `darctan` | ✅ | GM:S 1.3.1307 |  |
 | `darctan2` | ✅ | GM:S 1.3.1307 |  |
 | `dcos` | ✅ | GM:S 1.3.1307 |  |
-| `device_mouse_x_to_gui` | 🚫 | GM:S 1.3.1307 |  |
-| `device_mouse_y_to_gui` | 🚫 | GM:S 1.3.1307 |  |
+| `device_mouse_x_to_gui` | ✅ | GM:S 1.3.1307 |  |
+| `device_mouse_y_to_gui` | ✅ | GM:S 1.3.1307 |  |
 | `draw_roundrect_color_ext` | 🚫 | GM:S 1.3.1307 |  |
 | `draw_roundrect_ext` | 🚫 | GM:S 1.3.1307 |  |
 | `draw_set_colour_write_enable` | ✅ | GM:S 1.3.1307 | GM:S 2.3.1.406 |
