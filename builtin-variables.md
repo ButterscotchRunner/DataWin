@@ -1,4 +1,4 @@
-**Progress:** 135/233 (57.93991416309014%)
+**Progress:** 136/233 (58.36909871244635%)
 
 | GML Variable | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -85,7 +85,7 @@
 | `image_xscale` | ✅ | GM:S 1.0.98 |  |
 | `image_yscale` | ✅ | GM:S 1.0.98 |  |
 | `instance_count` | ✅ | GM:S 1.0.98 |  |
-| `instance_id` | 🚫 | GM:S 1.0.98 |  |
+| `instance_id` | ✅ | GM:S 1.0.98 |  |
 | `keyboard_key` | ✅ | GM:S 1.0.98 |  |
 | `keyboard_lastchar` | ✅ | GM:S 1.0.98 |  |
 | `keyboard_lastkey` | ✅ | GM:S 1.0.98 |  |
