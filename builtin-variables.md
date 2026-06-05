@@ -1,4 +1,4 @@
-**Progress:** 136/233 (58.36909871244635%)
+**Progress:** 137/233 (58.798283261802574%)
 
 | GML Variable | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -158,7 +158,7 @@
 | `transition_steps` | 🚫 | GM:S 1.0.98 |  |
 | `view_angle` | ✅ | GM:S 1.0.98 |  |
 | `view_current` | ✅ | GM:S 1.0.98 |  |
-| `view_enabled` | 🚫 | GM:S 1.0.98 |  |
+| `view_enabled` | ✅ | GM:S 1.0.98 |  |
 | `view_hborder` | ✅ | GM:S 1.0.98 |  |
 | `view_hport` | ✅ | GM:S 1.0.98 |  |
 | `view_hspeed` | ✅ | GM:S 1.0.98 |  |
