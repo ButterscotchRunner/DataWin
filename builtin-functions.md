@@ -1,4 +1,4 @@
-**Progress:** 711/3783 (18.79460745440127%)
+**Progress:** 712/3783 (18.821041501453873%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -92,7 +92,7 @@
 | `action_draw_sprite` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `action_draw_text` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `action_draw_text_transformed` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `action_draw_variable` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `action_draw_variable` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `action_effect` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `action_end_game` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `action_end_sound` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
