@@ -1,4 +1,4 @@
-**Progress:** 713/3783 (18.847475548506477%)
+**Progress:** 728/3783 (19.243986254295535%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1213,7 +1213,7 @@
 | `sprite_get_precise` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `sprite_get_preload` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `sprite_get_smooth` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `sprite_get_texture` | 🚫 | GM:S 1.0.98 |  |
+| `sprite_get_texture` | ✅ | GM:S 1.0.98 |  |
 | `sprite_get_transparent` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `sprite_get_width` | ✅ | GM:S 1.0.98 |  |
 | `sprite_get_xoffset` | ✅ | GM:S 1.0.98 |  |
@@ -1736,10 +1736,10 @@
 | `array_length_1D` | 🚫 | GM:S 1.1.1013 | GM:S 1.1.1044 |
 | `array_length_2D` | 🚫 | GM:S 1.1.1013 | GM:S 1.1.1044 |
 | `is_array` | ✅ | GM:S 1.1.1013 |  |
-| `shader_get_uniform` | 🚫 | GM:S 1.1.1013 |  |
-| `shader_set` | 🚫 | GM:S 1.1.1013 |  |
+| `shader_get_uniform` | ✅ | GM:S 1.1.1013 |  |
+| `shader_set` | ✅ | GM:S 1.1.1013 |  |
 | `shader_set_texture` | 🚫 | GM:S 1.1.1013 | GM:S 1.1.1044 |
-| `shader_set_uniform_f` | 🚫 | GM:S 1.1.1013 |  |
+| `shader_set_uniform_f` | ✅ | GM:S 1.1.1013 |  |
 | `shader_set_uniform_i` | 🚫 | GM:S 1.1.1013 |  |
 | `shader_set_uniform_i1` | 🚫 | GM:S 1.1.1013 | GM:S 1.1.1044 |
 | `shader_set_uniform_matrix` | 🚫 | GM:S 1.1.1013 |  |
@@ -1752,11 +1752,11 @@
 | `array_length_1d` | ✅ | GM:S 1.1.1044 |  |
 | `array_length_2d` | ✅ | GM:S 1.1.1044 |  |
 | `physics_fixture_set_edge_shape` | 🚫 | GM:S 1.1.1044 |  |
-| `shader_get_sampler_index` | 🚫 | GM:S 1.1.1044 |  |
-| `shader_reset` | 🚫 | GM:S 1.1.1044 |  |
-| `texture_get_texel_height` | 🚫 | GM:S 1.1.1044 |  |
-| `texture_get_texel_width` | 🚫 | GM:S 1.1.1044 |  |
-| `texture_set_stage` | 🚫 | GM:S 1.1.1044 |  |
+| `shader_get_sampler_index` | ✅ | GM:S 1.1.1044 |  |
+| `shader_reset` | ✅ | GM:S 1.1.1044 |  |
+| `texture_get_texel_height` | ✅ | GM:S 1.1.1044 |  |
+| `texture_get_texel_width` | ✅ | GM:S 1.1.1044 |  |
+| `texture_set_stage` | ✅ | GM:S 1.1.1044 |  |
 | `vertex_begin` | 🚫 | GM:S 1.1.1044 |  |
 | `vertex_colour` | 🚫 | GM:S 1.1.1044 |  |
 | `vertex_create_buffer` | 🚫 | GM:S 1.1.1044 |  |
@@ -1785,7 +1785,7 @@
 | `achievement_get_challenges` | 🚫 | GM:S 1.1.1058 |  |
 | `achievement_show_challenge_notifications` | 🚫 | GM:S 1.1.1058 |  |
 | `code_is_compiled` | 🚫 | GM:S 1.1.1058 |  |
-| `shader_is_compiled` | 🚫 | GM:S 1.1.1058 |  |
+| `shader_is_compiled` | ✅ | GM:S 1.1.1058 |  |
 | `surface_set_target_ext` | 🚫 | GM:S 1.1.1058 |  |
 | `action_colour` | ✅ | GM:S 1.1.1076 | GM:S 2.3.1.406 |
 | `action_fill_colour` | 🚫 | GM:S 1.1.1076 | GM:S 2.3.1.406 |
@@ -1822,7 +1822,7 @@
 | `draw_triangle_colour` | 🚫 | GM:S 1.1.1076 |  |
 | `draw_vertex_colour` | 🚫 | GM:S 1.1.1076 |  |
 | `font_get_texture` | 🚫 | GM:S 1.1.1076 |  |
-| `font_get_uvs` | 🚫 | GM:S 1.1.1076 |  |
+| `font_get_uvs` | ✅ | GM:S 1.1.1076 |  |
 | `make_colour` | 🚫 | GM:S 1.1.1076 | GM:S 2.3.1.406 |
 | `make_colour_hsv` | ✅ | GM:S 1.1.1076 |  |
 | `make_colour_rgb` | ✅ | GM:S 1.1.1076 |  |
@@ -1831,14 +1831,14 @@
 | `shader_set_uniform_f_array` | 🚫 | GM:S 1.1.1076 |  |
 | `shader_set_uniform_i_array` | 🚫 | GM:S 1.1.1076 |  |
 | `shader_set_uniform_matrix_array` | 🚫 | GM:S 1.1.1076 |  |
-| `sprite_get_uvs` | 🚫 | GM:S 1.1.1076 |  |
+| `sprite_get_uvs` | ✅ | GM:S 1.1.1076 |  |
 | `texture_set_interpolation_ext` | 🚫 | GM:S 1.1.1076 | GM:S 2.3.1.406 |
 | `texture_set_repeat_ext` | 🚫 | GM:S 1.1.1076 | GM:S 2.3.1.406 |
 | `vertex_argb` | 🚫 | GM:S 1.1.1076 |  |
 | `vertex_freeze` | 🚫 | GM:S 1.1.1076 |  |
 | `window_get_colour` | 🚫 | GM:S 1.1.1076 |  |
 | `window_set_colour` | 🚫 | GM:S 1.1.1076 |  |
-| `shaders_are_supported` | 🚫 | GM:S 1.1.1086 |  |
+| `shaders_are_supported` | ✅ | GM:S 1.1.1086 |  |
 | `window_has_focus` | ✅ | GM:S 1.1.1086 |  |
 | `winphone_license_trial_version` | 🚫 | GM:S 1.1.1086 |  |
 | `show_debug_overlay` | 🚫 | GM:S 1.1.1130 |  |
@@ -2756,7 +2756,7 @@
 | `room_get_viewport` | 🚫 | WAD Version 16 |  |
 | `room_set_camera` | 🚫 | WAD Version 16 |  |
 | `room_set_viewport` | 🚫 | WAD Version 16 |  |
-| `shader_current` | 🚫 | WAD Version 16 |  |
+| `shader_current` | ✅ | WAD Version 16 |  |
 | `skeleton_animation_get_frame` | 🚫 | WAD Version 16 |  |
 | `skeleton_animation_get_frames` | 🚫 | WAD Version 16 |  |
 | `skeleton_animation_set_frame` | 🚫 | WAD Version 16 |  |
@@ -2837,7 +2837,7 @@
 | `keyboard_virtual_hide` | 🚫 | GM:S 2.1.5.246 |  |
 | `keyboard_virtual_show` | 🚫 | GM:S 2.1.5.246 |  |
 | `keyboard_virtual_status` | 🚫 | GM:S 2.1.5.246 |  |
-| `shader_get_name` | 🚫 | GM:S 2.1.5.246 |  |
+| `shader_get_name` | ✅ | GM:S 2.1.5.246 |  |
 | `switch_accounts_close_user` | 🚫 | GM:S 2.1.5.246 |  |
 | `switch_accounts_get_accounts` | 🚫 | GM:S 2.1.5.246 |  |
 | `switch_accounts_get_nickname` | 🚫 | GM:S 2.1.5.246 |  |
