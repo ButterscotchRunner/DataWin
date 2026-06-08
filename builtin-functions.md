@@ -1,4 +1,4 @@
-**Progress:** 728/3783 (19.243986254295535%)
+**Progress:** 730/3783 (19.296854348400743%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1740,7 +1740,7 @@
 | `shader_set` | ✅ | GM:S 1.1.1013 |  |
 | `shader_set_texture` | 🚫 | GM:S 1.1.1013 | GM:S 1.1.1044 |
 | `shader_set_uniform_f` | ✅ | GM:S 1.1.1013 |  |
-| `shader_set_uniform_i` | 🚫 | GM:S 1.1.1013 |  |
+| `shader_set_uniform_i` | ✅ | GM:S 1.1.1013 |  |
 | `shader_set_uniform_i1` | 🚫 | GM:S 1.1.1013 | GM:S 1.1.1044 |
 | `shader_set_uniform_matrix` | 🚫 | GM:S 1.1.1013 |  |
 | `steam_is_overlay_activated` | 🚫 | GM:S 1.1.1013 | GM 2022.2.0.487 |
@@ -2498,7 +2498,7 @@
 | `steam_upload_score_ext` | 🚫 | WAD Version 15 | GM 2022.2.0.487 |
 | `surface_create_special` | 🚫 | WAD Version 15 | GM:S 2.3.1.406 |
 | `testFailed` | 🚫 | WAD Version 15 |  |
-| `texture_get_uvs` | 🚫 | WAD Version 15 |  |
+| `texture_get_uvs` | ✅ | WAD Version 15 |  |
 | `texture_global_scale` | 🚫 | WAD Version 15 |  |
 | `tile_get_empty` | 🚫 | WAD Version 15 |  |
 | `tile_get_flip` | 🚫 | WAD Version 15 |  |
