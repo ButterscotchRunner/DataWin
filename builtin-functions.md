@@ -1,4 +1,4 @@
-**Progress:** 730/3783 (19.296854348400743%)
+**Progress:** 732/3783 (19.34972244250595%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2181,11 +2181,11 @@
 | `camera_set_begin_script` | 🚫 | WAD Version 15 |  |
 | `camera_set_default` | 🚫 | WAD Version 15 |  |
 | `camera_set_end_script` | 🚫 | WAD Version 15 |  |
-| `camera_set_proj_mat` | 🚫 | WAD Version 15 |  |
+| `camera_set_proj_mat` | ✅ | WAD Version 15 |  |
 | `camera_set_update_script` | 🚫 | WAD Version 15 |  |
 | `camera_set_view_angle` | ✅ | WAD Version 15 |  |
 | `camera_set_view_border` | ✅ | WAD Version 15 |  |
-| `camera_set_view_mat` | 🚫 | WAD Version 15 |  |
+| `camera_set_view_mat` | ✅ | WAD Version 15 |  |
 | `camera_set_view_pos` | ✅ | WAD Version 15 |  |
 | `camera_set_view_size` | ✅ | WAD Version 15 |  |
 | `camera_set_view_speed` | ✅ | WAD Version 15 |  |
