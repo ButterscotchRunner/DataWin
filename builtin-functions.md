@@ -1,4 +1,4 @@
-**Progress:** 732/3783 (19.34972244250595%)
+**Progress:** 733/3783 (19.376156489558554%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1258,7 +1258,7 @@
 | `surface_exists` | ✅ | GM:S 1.0.98 |  |
 | `surface_free` | ✅ | GM:S 1.0.98 |  |
 | `surface_get_height` | ✅ | GM:S 1.0.98 |  |
-| `surface_get_texture` | 🚫 | GM:S 1.0.98 |  |
+| `surface_get_texture` | ✅ | GM:S 1.0.98 |  |
 | `surface_get_width` | ✅ | GM:S 1.0.98 |  |
 | `surface_getpixel` | 🚫 | GM:S 1.0.98 |  |
 | `surface_reset_target` | ✅ | GM:S 1.0.98 |  |
