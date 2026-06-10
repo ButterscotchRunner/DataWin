@@ -1,4 +1,4 @@
-**Progress:** 137/233 (58.798283261802574%)
+**Progress:** 138/233 (59.227467811158796%)
 
 | GML Variable | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -89,7 +89,7 @@
 | `keyboard_key` | ✅ | GM:S 1.0.98 |  |
 | `keyboard_lastchar` | ✅ | GM:S 1.0.98 |  |
 | `keyboard_lastkey` | ✅ | GM:S 1.0.98 |  |
-| `keyboard_string` | 🚫 | GM:S 1.0.98 |  |
+| `keyboard_string` | ✅ | GM:S 1.0.98 |  |
 | `lives` | ✅ | GM:S 1.0.98 |  |
 | `mask_index` | ✅ | GM:S 1.0.98 |  |
 | `mouse_button` | ✅ | GM:S 1.0.98 |  |

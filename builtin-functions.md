@@ -1,4 +1,4 @@
-**Progress:** 733/3783 (19.376156489558554%)
+**Progress:** 736/3783 (19.455458630716365%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -800,7 +800,7 @@
 | `message_text_font` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `min` | ✅ | GM:S 1.0.98 |  |
 | `min3` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `motion_add` | 🚫 | GM:S 1.0.98 |  |
+| `motion_add` | ✅ | GM:S 1.0.98 |  |
 | `motion_set` | 🚫 | GM:S 1.0.98 |  |
 | `mouse_check_button` | ✅ | GM:S 1.0.98 |  |
 | `mouse_check_button_pressed` | ✅ | GM:S 1.0.98 |  |
@@ -808,8 +808,8 @@
 | `mouse_clear` | ✅ | GM:S 1.0.98 |  |
 | `mouse_wait` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `move_bounce` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `move_bounce_all` | 🚫 | GM:S 1.0.98 |  |
-| `move_bounce_solid` | 🚫 | GM:S 1.0.98 |  |
+| `move_bounce_all` | ✅ | GM:S 1.0.98 |  |
+| `move_bounce_solid` | ✅ | GM:S 1.0.98 |  |
 | `move_contact` | 🚫 | GM:S 1.0.98 | GM:S 2.3.0.401 |
 | `move_contact_all` | 🚫 | GM:S 1.0.98 |  |
 | `move_contact_solid` | ✅ | GM:S 1.0.98 |  |
