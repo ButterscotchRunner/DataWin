@@ -1,4 +1,4 @@
-**Progress:** 753/3783 (19.904837430610627%)
+**Progress:** 764/3783 (20.195611948189267%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -983,27 +983,27 @@
 | `path_end` | ✅ | GM:S 1.0.98 |  |
 | `path_exists` | ✅ | GM:S 1.0.98 |  |
 | `path_flip` | 🚫 | GM:S 1.0.98 |  |
-| `path_get_closed` | 🚫 | GM:S 1.0.98 |  |
-| `path_get_kind` | 🚫 | GM:S 1.0.98 |  |
+| `path_get_closed` | ✅ | GM:S 1.0.98 |  |
+| `path_get_kind` | ✅ | GM:S 1.0.98 |  |
 | `path_get_length` | ✅ | GM:S 1.0.98 |  |
 | `path_get_name` | 🚫 | GM:S 1.0.98 |  |
-| `path_get_number` | 🚫 | GM:S 1.0.98 |  |
-| `path_get_point_speed` | 🚫 | GM:S 1.0.98 |  |
+| `path_get_number` | ✅ | GM:S 1.0.98 |  |
+| `path_get_point_speed` | ✅ | GM:S 1.0.98 |  |
 | `path_get_point_x` | ✅ | GM:S 1.0.98 |  |
 | `path_get_point_y` | ✅ | GM:S 1.0.98 |  |
-| `path_get_precision` | 🚫 | GM:S 1.0.98 |  |
-| `path_get_speed` | 🚫 | GM:S 1.0.98 |  |
-| `path_get_x` | 🚫 | GM:S 1.0.98 |  |
-| `path_get_y` | 🚫 | GM:S 1.0.98 |  |
+| `path_get_precision` | ✅ | GM:S 1.0.98 |  |
+| `path_get_speed` | ✅ | GM:S 1.0.98 |  |
+| `path_get_x` | ✅ | GM:S 1.0.98 |  |
+| `path_get_y` | ✅ | GM:S 1.0.98 |  |
 | `path_insert_point` | 🚫 | GM:S 1.0.98 |  |
 | `path_mirror` | 🚫 | GM:S 1.0.98 |  |
 | `path_name` | 🚫 | GM:S 1.0.98 | GM:S 2.3.6.464 |
 | `path_reverse` | 🚫 | GM:S 1.0.98 |  |
 | `path_rotate` | 🚫 | GM:S 1.0.98 |  |
 | `path_scale` | 🚫 | GM:S 1.0.98 | GM:S 1.1.622 |
-| `path_set_closed` | 🚫 | GM:S 1.0.98 |  |
-| `path_set_kind` | 🚫 | GM:S 1.0.98 |  |
-| `path_set_precision` | 🚫 | GM:S 1.0.98 |  |
+| `path_set_closed` | ✅ | GM:S 1.0.98 |  |
+| `path_set_kind` | ✅ | GM:S 1.0.98 |  |
+| `path_set_precision` | ✅ | GM:S 1.0.98 |  |
 | `path_shift` | 🚫 | GM:S 1.0.98 |  |
 | `path_start` | ✅ | GM:S 1.0.98 |  |
 | `physics_apply_force` | 🚫 | GM:S 1.0.98 |  |
