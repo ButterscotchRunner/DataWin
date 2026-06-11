@@ -1,4 +1,4 @@
-**Progress:** 768/3783 (20.30134813639968%)
+**Progress:** 779/3783 (20.592122653978322%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -573,17 +573,17 @@
 | `ds_queue_tail` | ✅ | GM:S 1.0.98 |  |
 | `ds_queue_write` | ✅ | GM:S 1.0.98 |  |
 | `ds_set_precision` | 🚫 | GM:S 1.0.98 |  |
-| `ds_stack_clear` | 🚫 | GM:S 1.0.98 |  |
-| `ds_stack_copy` | 🚫 | GM:S 1.0.98 |  |
-| `ds_stack_create` | 🚫 | GM:S 1.0.98 |  |
-| `ds_stack_destroy` | 🚫 | GM:S 1.0.98 |  |
-| `ds_stack_empty` | 🚫 | GM:S 1.0.98 |  |
-| `ds_stack_pop` | 🚫 | GM:S 1.0.98 |  |
-| `ds_stack_push` | 🚫 | GM:S 1.0.98 |  |
-| `ds_stack_read` | 🚫 | GM:S 1.0.98 |  |
-| `ds_stack_size` | 🚫 | GM:S 1.0.98 |  |
-| `ds_stack_top` | 🚫 | GM:S 1.0.98 |  |
-| `ds_stack_write` | 🚫 | GM:S 1.0.98 |  |
+| `ds_stack_clear` | ✅ | GM:S 1.0.98 |  |
+| `ds_stack_copy` | ✅ | GM:S 1.0.98 |  |
+| `ds_stack_create` | ✅ | GM:S 1.0.98 |  |
+| `ds_stack_destroy` | ✅ | GM:S 1.0.98 |  |
+| `ds_stack_empty` | ✅ | GM:S 1.0.98 |  |
+| `ds_stack_pop` | ✅ | GM:S 1.0.98 |  |
+| `ds_stack_push` | ✅ | GM:S 1.0.98 |  |
+| `ds_stack_read` | ✅ | GM:S 1.0.98 |  |
+| `ds_stack_size` | ✅ | GM:S 1.0.98 |  |
+| `ds_stack_top` | ✅ | GM:S 1.0.98 |  |
+| `ds_stack_write` | ✅ | GM:S 1.0.98 |  |
 | `effect_clear` | 🚫 | GM:S 1.0.98 |  |
 | `effect_create_above` | 🚫 | GM:S 1.0.98 |  |
 | `effect_create_below` | 🚫 | GM:S 1.0.98 |  |
