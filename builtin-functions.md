@@ -1,4 +1,4 @@
-**Progress:** 739/3783 (19.534760771874176%)
+**Progress:** 751/3783 (19.85196933650542%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2549,19 +2549,19 @@
 | `video_draw` | 🚫 | WAD Version 15 |  |
 | `video_open` | 🚫 | WAD Version 15 |  |
 | `view_get_camera` | ✅ | WAD Version 15 |  |
-| `view_get_hport` | 🚫 | WAD Version 15 |  |
-| `view_get_surface_id` | 🚫 | WAD Version 15 |  |
-| `view_get_visible` | 🚫 | WAD Version 15 |  |
-| `view_get_wport` | 🚫 | WAD Version 15 |  |
-| `view_get_xport` | 🚫 | WAD Version 15 |  |
-| `view_get_yport` | 🚫 | WAD Version 15 |  |
+| `view_get_hport` | ✅ | WAD Version 15 |  |
+| `view_get_surface_id` | ✅ | WAD Version 15 |  |
+| `view_get_visible` | ✅ | WAD Version 15 |  |
+| `view_get_wport` | ✅ | WAD Version 15 |  |
+| `view_get_xport` | ✅ | WAD Version 15 |  |
+| `view_get_yport` | ✅ | WAD Version 15 |  |
 | `view_set_camera` | ✅ | WAD Version 15 |  |
-| `view_set_hport` | 🚫 | WAD Version 15 |  |
-| `view_set_surface_id` | 🚫 | WAD Version 15 |  |
-| `view_set_visible` | 🚫 | WAD Version 15 |  |
-| `view_set_wport` | 🚫 | WAD Version 15 |  |
-| `view_set_xport` | 🚫 | WAD Version 15 |  |
-| `view_set_yport` | 🚫 | WAD Version 15 |  |
+| `view_set_hport` | ✅ | WAD Version 15 |  |
+| `view_set_surface_id` | ✅ | WAD Version 15 |  |
+| `view_set_visible` | ✅ | WAD Version 15 |  |
+| `view_set_wport` | ✅ | WAD Version 15 |  |
+| `view_set_xport` | ✅ | WAD Version 15 |  |
+| `view_set_yport` | ✅ | WAD Version 15 |  |
 | `window_get_visible_rects` | 🚫 | WAD Version 15 |  |
 | `window_set_max_height` | 🚫 | WAD Version 15 |  |
 | `window_set_max_width` | 🚫 | WAD Version 15 |  |
