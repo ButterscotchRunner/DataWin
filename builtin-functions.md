@@ -1,4 +1,4 @@
-**Progress:** 764/3783 (20.195611948189267%)
+**Progress:** 768/3783 (20.30134813639968%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -409,7 +409,7 @@
 | `draw_background_tiled_ext` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `draw_button` | 🚫 | GM:S 1.0.98 |  |
 | `draw_circle` | ✅ | GM:S 1.0.98 |  |
-| `draw_circle_color` | 🚫 | GM:S 1.0.98 |  |
+| `draw_circle_color` | ✅ | GM:S 1.0.98 |  |
 | `draw_clear` | ✅ | GM:S 1.0.98 |  |
 | `draw_clear_alpha` | ✅ | GM:S 1.0.98 |  |
 | `draw_ellipse` | 🚫 | GM:S 1.0.98 |  |
@@ -469,7 +469,7 @@
 | `draw_text_transformed` | ✅ | GM:S 1.0.98 |  |
 | `draw_text_transformed_color` | 🚫 | GM:S 1.0.98 |  |
 | `draw_triangle` | ✅ | GM:S 1.0.98 |  |
-| `draw_triangle_color` | 🚫 | GM:S 1.0.98 |  |
+| `draw_triangle_color` | ✅ | GM:S 1.0.98 |  |
 | `draw_vertex` | 🚫 | GM:S 1.0.98 |  |
 | `draw_vertex_color` | 🚫 | GM:S 1.0.98 |  |
 | `draw_vertex_texture` | 🚫 | GM:S 1.0.98 |  |
@@ -1806,7 +1806,7 @@
 | `d3d_vertex_normal_colour` | 🚫 | GM:S 1.1.1076 | GM:S 2.3.1.406 |
 | `d3d_vertex_normal_texture_colour` | 🚫 | GM:S 1.1.1076 | GM:S 2.3.1.406 |
 | `d3d_vertex_texture_colour` | 🚫 | GM:S 1.1.1076 | GM:S 2.3.1.406 |
-| `draw_circle_colour` | 🚫 | GM:S 1.1.1076 |  |
+| `draw_circle_colour` | ✅ | GM:S 1.1.1076 |  |
 | `draw_ellipse_colour` | 🚫 | GM:S 1.1.1076 |  |
 | `draw_get_colour` | ✅ | GM:S 1.1.1076 |  |
 | `draw_line_colour` | ✅ | GM:S 1.1.1076 |  |
@@ -1819,7 +1819,7 @@
 | `draw_text_ext_colour` | 🚫 | GM:S 1.1.1076 |  |
 | `draw_text_ext_transformed_colour` | 🚫 | GM:S 1.1.1076 |  |
 | `draw_text_transformed_colour` | 🚫 | GM:S 1.1.1076 |  |
-| `draw_triangle_colour` | 🚫 | GM:S 1.1.1076 |  |
+| `draw_triangle_colour` | ✅ | GM:S 1.1.1076 |  |
 | `draw_vertex_colour` | 🚫 | GM:S 1.1.1076 |  |
 | `font_get_texture` | 🚫 | GM:S 1.1.1076 |  |
 | `font_get_uvs` | ✅ | GM:S 1.1.1076 |  |
