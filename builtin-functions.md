@@ -1,4 +1,4 @@
-**Progress:** 779/3783 (20.592122653978322%)
+**Progress:** 793/3783 (20.962199312714777%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -412,8 +412,8 @@
 | `draw_circle_color` | ✅ | GM:S 1.0.98 |  |
 | `draw_clear` | ✅ | GM:S 1.0.98 |  |
 | `draw_clear_alpha` | ✅ | GM:S 1.0.98 |  |
-| `draw_ellipse` | 🚫 | GM:S 1.0.98 |  |
-| `draw_ellipse_color` | 🚫 | GM:S 1.0.98 |  |
+| `draw_ellipse` | ✅ | GM:S 1.0.98 |  |
+| `draw_ellipse_color` | ✅ | GM:S 1.0.98 |  |
 | `draw_get_alpha` | ✅ | GM:S 1.0.98 |  |
 | `draw_get_color` | ✅ | GM:S 1.0.98 |  |
 | `draw_getpixel` | 🚫 | GM:S 1.0.98 |  |
@@ -872,22 +872,22 @@
 | `object_event_add` | 🚫 | GM:S 1.0.98 | GM 2023.11.0.157 |
 | `object_event_clear` | 🚫 | GM:S 1.0.98 | GM 2023.11.0.157 |
 | `object_exists` | ✅ | GM:S 1.0.98 |  |
-| `object_get_depth` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `object_get_depth` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `object_get_mask` | 🚫 | GM:S 1.0.98 |  |
-| `object_get_name` | 🚫 | GM:S 1.0.98 |  |
+| `object_get_name` | ✅ | GM:S 1.0.98 |  |
 | `object_get_parent` | ✅ | GM:S 1.0.98 |  |
-| `object_get_persistent` | 🚫 | GM:S 1.0.98 |  |
-| `object_get_solid` | 🚫 | GM:S 1.0.98 |  |
+| `object_get_persistent` | ✅ | GM:S 1.0.98 |  |
+| `object_get_solid` | ✅ | GM:S 1.0.98 |  |
 | `object_get_sprite` | ✅ | GM:S 1.0.98 |  |
 | `object_get_visible` | 🚫 | GM:S 1.0.98 |  |
-| `object_is_ancestor` | 🚫 | GM:S 1.0.98 |  |
-| `object_name` | 🚫 | GM:S 1.0.98 | GM:S 2.3.6.464 |
-| `object_set_depth` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `object_is_ancestor` | ✅ | GM:S 1.0.98 |  |
+| `object_name` | ✅ | GM:S 1.0.98 | GM:S 2.3.6.464 |
+| `object_set_depth` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `object_set_mask` | 🚫 | GM:S 1.0.98 |  |
-| `object_set_parent` | 🚫 | GM:S 1.0.98 | GM 2023.11.0.157 |
-| `object_set_persistent` | 🚫 | GM:S 1.0.98 |  |
-| `object_set_solid` | 🚫 | GM:S 1.0.98 |  |
-| `object_set_sprite` | 🚫 | GM:S 1.0.98 |  |
+| `object_set_parent` | ✅ | GM:S 1.0.98 | GM 2023.11.0.157 |
+| `object_set_persistent` | ✅ | GM:S 1.0.98 |  |
+| `object_set_solid` | ✅ | GM:S 1.0.98 |  |
+| `object_set_sprite` | ✅ | GM:S 1.0.98 |  |
 | `object_set_visible` | ✅ | GM:S 1.0.98 |  |
 | `ord` | ✅ | GM:S 1.0.98 |  |
 | `parameter_count` | ✅ | GM:S 1.0.98 |  |
@@ -1807,7 +1807,7 @@
 | `d3d_vertex_normal_texture_colour` | 🚫 | GM:S 1.1.1076 | GM:S 2.3.1.406 |
 | `d3d_vertex_texture_colour` | 🚫 | GM:S 1.1.1076 | GM:S 2.3.1.406 |
 | `draw_circle_colour` | ✅ | GM:S 1.1.1076 |  |
-| `draw_ellipse_colour` | 🚫 | GM:S 1.1.1076 |  |
+| `draw_ellipse_colour` | ✅ | GM:S 1.1.1076 |  |
 | `draw_get_colour` | ✅ | GM:S 1.1.1076 |  |
 | `draw_line_colour` | ✅ | GM:S 1.1.1076 |  |
 | `draw_line_width_colour` | ✅ | GM:S 1.1.1076 |  |
