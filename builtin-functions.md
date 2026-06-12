@@ -1,4 +1,4 @@
-**Progress:** 799/3783 (21.1208035950304%)
+**Progress:** 806/3783 (21.305841924398624%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2352,18 +2352,18 @@
 | `layer_tile_exists` | 🚫 | WAD Version 15 |  |
 | `layer_tile_get_alpha` | 🚫 | WAD Version 15 |  |
 | `layer_tile_get_blend` | 🚫 | WAD Version 15 |  |
-| `layer_tile_get_region` | 🚫 | WAD Version 15 |  |
+| `layer_tile_get_region` | ✅ | WAD Version 15 |  |
 | `layer_tile_get_sprite` | 🚫 | WAD Version 15 |  |
 | `layer_tile_get_visible` | 🚫 | WAD Version 15 |  |
-| `layer_tile_get_x` | 🚫 | WAD Version 15 |  |
-| `layer_tile_get_xscale` | 🚫 | WAD Version 15 |  |
-| `layer_tile_get_y` | 🚫 | WAD Version 15 |  |
-| `layer_tile_get_yscale` | 🚫 | WAD Version 15 |  |
+| `layer_tile_get_x` | ✅ | WAD Version 15 |  |
+| `layer_tile_get_xscale` | ✅ | WAD Version 15 |  |
+| `layer_tile_get_y` | ✅ | WAD Version 15 |  |
+| `layer_tile_get_yscale` | ✅ | WAD Version 15 |  |
 | `layer_tile_region` | 🚫 | WAD Version 15 |  |
 | `layer_tile_visible` | ✅ | WAD Version 15 |  |
-| `layer_tile_x` | 🚫 | WAD Version 15 |  |
+| `layer_tile_x` | ✅ | WAD Version 15 |  |
 | `layer_tile_xscale` | 🚫 | WAD Version 15 |  |
-| `layer_tile_y` | 🚫 | WAD Version 15 |  |
+| `layer_tile_y` | ✅ | WAD Version 15 |  |
 | `layer_tile_yscale` | 🚫 | WAD Version 15 |  |
 | `layer_tilemap_create` | 🚫 | WAD Version 15 |  |
 | `layer_tilemap_destroy` | 🚫 | WAD Version 15 |  |
