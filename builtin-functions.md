@@ -1,4 +1,4 @@
-**Progress:** 794/3783 (20.98863335976738%)
+**Progress:** 799/3783 (21.1208035950304%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2047,7 +2047,7 @@
 | `push_get_first_local_notification` | 🚫 | GM:S 1.3.1373 |  |
 | `push_get_next_local_notification` | 🚫 | GM:S 1.3.1373 |  |
 | `skeleton_animation_get_duration` | 🚫 | GM:S 1.3.1373 |  |
-| `string_ord_at` | 🚫 | GM:S 1.3.1373 |  |
+| `string_ord_at` | ✅ | GM:S 1.3.1373 |  |
 | `facebook_check_permission` | 🚫 | GM:S 1.3.1409 | GM:S 2.2.2.326 |
 | `facebook_request_publish_permissions` | 🚫 | GM:S 1.3.1409 | GM:S 2.2.2.326 |
 | `facebook_request_read_permissions` | 🚫 | GM:S 1.3.1409 | GM:S 2.2.2.326 |
@@ -2502,10 +2502,10 @@
 | `texture_global_scale` | 🚫 | WAD Version 15 |  |
 | `tile_get_empty` | 🚫 | WAD Version 15 |  |
 | `tile_get_flip` | 🚫 | WAD Version 15 |  |
-| `tile_get_index` | 🚫 | WAD Version 15 |  |
+| `tile_get_index` | ✅ | WAD Version 15 |  |
 | `tile_get_mirror` | 🚫 | WAD Version 15 |  |
 | `tile_get_rotate` | 🚫 | WAD Version 15 |  |
-| `tile_set_empty` | 🚫 | WAD Version 15 |  |
+| `tile_set_empty` | ✅ | WAD Version 15 |  |
 | `tile_set_flip` | 🚫 | WAD Version 15 |  |
 | `tile_set_index` | 🚫 | WAD Version 15 |  |
 | `tile_set_mirror` | 🚫 | WAD Version 15 |  |
@@ -2522,12 +2522,12 @@
 | `tilemap_get_mask` | 🚫 | WAD Version 15 |  |
 | `tilemap_get_tile_height` | 🚫 | WAD Version 15 |  |
 | `tilemap_get_tile_width` | 🚫 | WAD Version 15 |  |
-| `tilemap_get_tileset` | 🚫 | WAD Version 15 |  |
+| `tilemap_get_tileset` | ✅ | WAD Version 15 |  |
 | `tilemap_get_width` | 🚫 | WAD Version 15 |  |
 | `tilemap_get_x` | ✅ | WAD Version 15 |  |
 | `tilemap_get_y` | ✅ | WAD Version 15 |  |
 | `tilemap_set` | 🚫 | WAD Version 15 |  |
-| `tilemap_set_at_pixel` | 🚫 | WAD Version 15 |  |
+| `tilemap_set_at_pixel` | ✅ | WAD Version 15 |  |
 | `tilemap_set_global_mask` | 🚫 | WAD Version 15 |  |
 | `tilemap_set_mask` | 🚫 | WAD Version 15 |  |
 | `tilemap_tileset` | 🚫 | WAD Version 15 |  |
