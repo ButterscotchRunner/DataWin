@@ -1,4 +1,4 @@
-**Progress:** 825/3783 (21.808088818398097%)
+**Progress:** 826/3783 (21.8345228654507%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -3206,7 +3206,7 @@
 | `sprite_set_nineslice` | 🚫 | GM:S 2.3.2.423 |  |
 | `buffer_set_used_size` | 🚫 | GM:S 2.3.3.434 |  |
 | `font_cache_glyph` | 🚫 | GM:S 2.3.3.434 |  |
-| `font_get_info` | 🚫 | GM:S 2.3.3.434 |  |
+| `font_get_info` | ✅ | GM:S 2.3.3.434 |  |
 | `ps5_gamepad_get_trigger_effect_state` | 🚫 | GM:S 2.3.3.434 |  |
 | `ps5_gamepad_reset_color` | 🚫 | GM:S 2.3.3.434 |  |
 | `ps5_gamepad_reset_colour` | 🚫 | GM:S 2.3.3.434 |  |
