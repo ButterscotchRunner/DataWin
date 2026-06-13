@@ -1,4 +1,4 @@
-**Progress:** 806/3783 (21.305841924398624%)
+**Progress:** 821/3783 (21.702352630187683%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -544,22 +544,22 @@
 | `ds_map_replace` | ✅ | GM:S 1.0.98 |  |
 | `ds_map_size` | ✅ | GM:S 1.0.98 |  |
 | `ds_map_write` | 🚫 | GM:S 1.0.98 |  |
-| `ds_priority_add` | 🚫 | GM:S 1.0.98 |  |
-| `ds_priority_change_priority` | 🚫 | GM:S 1.0.98 |  |
-| `ds_priority_clear` | 🚫 | GM:S 1.0.98 |  |
-| `ds_priority_copy` | 🚫 | GM:S 1.0.98 |  |
+| `ds_priority_add` | ✅ | GM:S 1.0.98 |  |
+| `ds_priority_change_priority` | ✅ | GM:S 1.0.98 |  |
+| `ds_priority_clear` | ✅ | GM:S 1.0.98 |  |
+| `ds_priority_copy` | ✅ | GM:S 1.0.98 |  |
 | `ds_priority_create` | 🚫 | GM:S 1.0.98 |  |
-| `ds_priority_delete_max` | 🚫 | GM:S 1.0.98 |  |
-| `ds_priority_delete_min` | 🚫 | GM:S 1.0.98 |  |
-| `ds_priority_delete_value` | 🚫 | GM:S 1.0.98 |  |
-| `ds_priority_destroy` | 🚫 | GM:S 1.0.98 |  |
-| `ds_priority_empty` | 🚫 | GM:S 1.0.98 |  |
-| `ds_priority_find_max` | 🚫 | GM:S 1.0.98 |  |
-| `ds_priority_find_min` | 🚫 | GM:S 1.0.98 |  |
-| `ds_priority_find_priority` | 🚫 | GM:S 1.0.98 |  |
-| `ds_priority_read` | 🚫 | GM:S 1.0.98 |  |
-| `ds_priority_size` | 🚫 | GM:S 1.0.98 |  |
-| `ds_priority_write` | 🚫 | GM:S 1.0.98 |  |
+| `ds_priority_delete_max` | ✅ | GM:S 1.0.98 |  |
+| `ds_priority_delete_min` | ✅ | GM:S 1.0.98 |  |
+| `ds_priority_delete_value` | ✅ | GM:S 1.0.98 |  |
+| `ds_priority_destroy` | ✅ | GM:S 1.0.98 |  |
+| `ds_priority_empty` | ✅ | GM:S 1.0.98 |  |
+| `ds_priority_find_max` | ✅ | GM:S 1.0.98 |  |
+| `ds_priority_find_min` | ✅ | GM:S 1.0.98 |  |
+| `ds_priority_find_priority` | ✅ | GM:S 1.0.98 |  |
+| `ds_priority_read` | ✅ | GM:S 1.0.98 |  |
+| `ds_priority_size` | ✅ | GM:S 1.0.98 |  |
+| `ds_priority_write` | ✅ | GM:S 1.0.98 |  |
 | `ds_queue_clear` | ✅ | GM:S 1.0.98 |  |
 | `ds_queue_copy` | ✅ | GM:S 1.0.98 |  |
 | `ds_queue_create` | ✅ | GM:S 1.0.98 |  |
