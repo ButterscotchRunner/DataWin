@@ -1,4 +1,4 @@
-**Progress:** 821/3783 (21.702352630187683%)
+**Progress:** 822/3783 (21.728786677240286%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1828,7 +1828,7 @@
 | `make_colour_rgb` | ✅ | GM:S 1.1.1076 |  |
 | `merge_colour` | ✅ | GM:S 1.1.1076 |  |
 | `shader_enable_corner_id` | 🚫 | GM:S 1.1.1076 |  |
-| `shader_set_uniform_f_array` | 🚫 | GM:S 1.1.1076 |  |
+| `shader_set_uniform_f_array` | ✅ | GM:S 1.1.1076 |  |
 | `shader_set_uniform_i_array` | 🚫 | GM:S 1.1.1076 |  |
 | `shader_set_uniform_matrix_array` | 🚫 | GM:S 1.1.1076 |  |
 | `sprite_get_uvs` | ✅ | GM:S 1.1.1076 |  |
