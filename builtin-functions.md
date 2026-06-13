@@ -1,4 +1,4 @@
-**Progress:** 823/3783 (21.75522072429289%)
+**Progress:** 825/3783 (21.808088818398097%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1334,7 +1334,7 @@
 | `window_default` | 🚫 | GM:S 1.0.98 |  |
 | `window_get_caption` | 🚫 | GM:S 1.0.98 |  |
 | `window_get_color` | 🚫 | GM:S 1.0.98 |  |
-| `window_get_cursor` | 🚫 | GM:S 1.0.98 |  |
+| `window_get_cursor` | ✅ | GM:S 1.0.98 |  |
 | `window_get_fullscreen` | ✅ | GM:S 1.0.98 |  |
 | `window_get_height` | ✅ | GM:S 1.0.98 |  |
 | `window_get_region_height` | 🚫 | GM:S 1.0.98 | GM:S 1.0.198 |
@@ -1354,7 +1354,7 @@
 | `window_mouse_set` | 🚫 | GM:S 1.0.98 |  |
 | `window_set_caption` | ✅ | GM:S 1.0.98 |  |
 | `window_set_color` | 🚫 | GM:S 1.0.98 |  |
-| `window_set_cursor` | 🚫 | GM:S 1.0.98 |  |
+| `window_set_cursor` | ✅ | GM:S 1.0.98 |  |
 | `window_set_fullscreen` | ✅ | GM:S 1.0.98 |  |
 | `window_set_position` | 🚫 | GM:S 1.0.98 |  |
 | `window_set_rectangle` | 🚫 | GM:S 1.0.98 |  |
