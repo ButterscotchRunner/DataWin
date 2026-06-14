@@ -1,4 +1,4 @@
-**Progress:** 826/3783 (21.8345228654507%)
+**Progress:** 831/3783 (21.96669310071372%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -465,9 +465,9 @@
 | `draw_text_ext` | ✅ | GM:S 1.0.98 |  |
 | `draw_text_ext_color` | ✅ | GM:S 1.0.98 |  |
 | `draw_text_ext_transformed` | ✅ | GM:S 1.0.98 |  |
-| `draw_text_ext_transformed_color` | 🚫 | GM:S 1.0.98 |  |
+| `draw_text_ext_transformed_color` | ✅ | GM:S 1.0.98 |  |
 | `draw_text_transformed` | ✅ | GM:S 1.0.98 |  |
-| `draw_text_transformed_color` | 🚫 | GM:S 1.0.98 |  |
+| `draw_text_transformed_color` | ✅ | GM:S 1.0.98 |  |
 | `draw_triangle` | ✅ | GM:S 1.0.98 |  |
 | `draw_triangle_color` | ✅ | GM:S 1.0.98 |  |
 | `draw_vertex` | 🚫 | GM:S 1.0.98 |  |
@@ -1816,9 +1816,9 @@
 | `draw_roundrect_colour` | 🚫 | GM:S 1.1.1076 |  |
 | `draw_set_colour` | ✅ | GM:S 1.1.1076 |  |
 | `draw_text_colour` | ✅ | GM:S 1.1.1076 |  |
-| `draw_text_ext_colour` | 🚫 | GM:S 1.1.1076 |  |
-| `draw_text_ext_transformed_colour` | 🚫 | GM:S 1.1.1076 |  |
-| `draw_text_transformed_colour` | 🚫 | GM:S 1.1.1076 |  |
+| `draw_text_ext_colour` | ✅ | GM:S 1.1.1076 |  |
+| `draw_text_ext_transformed_colour` | ✅ | GM:S 1.1.1076 |  |
+| `draw_text_transformed_colour` | ✅ | GM:S 1.1.1076 |  |
 | `draw_triangle_colour` | ✅ | GM:S 1.1.1076 |  |
 | `draw_vertex_colour` | 🚫 | GM:S 1.1.1076 |  |
 | `font_get_texture` | 🚫 | GM:S 1.1.1076 |  |
