@@ -1,4 +1,4 @@
-**Progress:** 831/3783 (21.96669310071372%)
+**Progress:** 832/3783 (21.993127147766323%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2259,7 +2259,7 @@
 | `gpu_set_zwriteenable` | 🚫 | WAD Version 15 |  |
 | `instance_create_depth` | ✅ | WAD Version 15 |  |
 | `instance_create_layer` | ✅ | WAD Version 15 |  |
-| `instance_id_get` | 🚫 | WAD Version 15 |  |
+| `instance_id_get` | ✅ | WAD Version 15 |  |
 | `int64` | 🚫 | WAD Version 15 |  |
 | `is_bool` | ✅ | WAD Version 15 |  |
 | `layer_add_instance` | 🚫 | WAD Version 15 |  |
