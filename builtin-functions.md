@@ -1,4 +1,4 @@
-**Progress:** 838/3783 (22.151731430081945%)
+**Progress:** 840/3783 (22.204599524187152%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -401,7 +401,7 @@
 | `draw_background` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `draw_background_ext` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `draw_background_general` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `draw_background_part` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `draw_background_part` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `draw_background_part_ext` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `draw_background_stretched` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `draw_background_stretched_ext` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
@@ -1332,7 +1332,7 @@
 | `variable_local_set` | 🚫 | GM:S 1.0.98 | WAD Version 16 |
 | `window_center` | ✅ | GM:S 1.0.98 |  |
 | `window_default` | 🚫 | GM:S 1.0.98 |  |
-| `window_get_caption` | 🚫 | GM:S 1.0.98 |  |
+| `window_get_caption` | ✅ | GM:S 1.0.98 |  |
 | `window_get_color` | 🚫 | GM:S 1.0.98 |  |
 | `window_get_cursor` | ✅ | GM:S 1.0.98 |  |
 | `window_get_fullscreen` | ✅ | GM:S 1.0.98 |  |
