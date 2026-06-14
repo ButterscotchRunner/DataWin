@@ -1,4 +1,4 @@
-**Progress:** 832/3783 (21.993127147766323%)
+**Progress:** 834/3783 (22.04599524187153%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -522,7 +522,7 @@
 | `ds_list_find_value` | ✅ | GM:S 1.0.98 |  |
 | `ds_list_insert` | 🚫 | GM:S 1.0.98 |  |
 | `ds_list_read` | ✅ | GM:S 1.0.98 |  |
-| `ds_list_replace` | 🚫 | GM:S 1.0.98 |  |
+| `ds_list_replace` | ✅ | GM:S 1.0.98 |  |
 | `ds_list_shuffle` | ✅ | GM:S 1.0.98 |  |
 | `ds_list_size` | ✅ | GM:S 1.0.98 |  |
 | `ds_list_sort` | 🚫 | GM:S 1.0.98 |  |
@@ -2763,7 +2763,7 @@
 | `skeleton_get_bounds` | 🚫 | WAD Version 16 |  |
 | `skeleton_get_minmax` | 🚫 | WAD Version 16 |  |
 | `skeleton_get_num_bounds` | 🚫 | WAD Version 16 |  |
-| `sprite_get_speed` | 🚫 | WAD Version 16 |  |
+| `sprite_get_speed` | ✅ | WAD Version 16 |  |
 | `sprite_get_speed_type` | 🚫 | WAD Version 16 |  |
 | `sprite_set_speed` | 🚫 | WAD Version 16 |  |
 | `string_hash_to_newline` | ✅ | WAD Version 16 |  |
