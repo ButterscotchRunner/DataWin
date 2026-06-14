@@ -1,4 +1,4 @@
-**Progress:** 840/3783 (22.204599524187152%)
+**Progress:** 841/3783 (22.231033571239756%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -548,7 +548,7 @@
 | `ds_priority_change_priority` | ✅ | GM:S 1.0.98 |  |
 | `ds_priority_clear` | ✅ | GM:S 1.0.98 |  |
 | `ds_priority_copy` | ✅ | GM:S 1.0.98 |  |
-| `ds_priority_create` | 🚫 | GM:S 1.0.98 |  |
+| `ds_priority_create` | ✅ | GM:S 1.0.98 |  |
 | `ds_priority_delete_max` | ✅ | GM:S 1.0.98 |  |
 | `ds_priority_delete_min` | ✅ | GM:S 1.0.98 |  |
 | `ds_priority_delete_value` | ✅ | GM:S 1.0.98 |  |
