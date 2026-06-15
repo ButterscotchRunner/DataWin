@@ -1,4 +1,4 @@
-**Progress:** 843/3783 (22.283901665344967%)
+**Progress:** 844/3783 (22.31033571239757%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1531,7 +1531,7 @@
 | `physics_pause_enable` | 🚫 | GM:S 1.1.622 |  |
 | `pocketchange_display_reward` | 🚫 | GM:S 1.1.622 | WAD Version 16 |
 | `pocketchange_display_shop` | 🚫 | GM:S 1.1.622 | WAD Version 16 |
-| `sha1_file` | 🚫 | GM:S 1.1.622 |  |
+| `sha1_file` | ✅ | GM:S 1.1.622 |  |
 | `sha1_string_unicode` | 🚫 | GM:S 1.1.622 |  |
 | `sha1_string_utf8` | 🚫 | GM:S 1.1.622 |  |
 | `sprite_get_tpe` | 🚫 | GM:S 1.1.622 |  |
