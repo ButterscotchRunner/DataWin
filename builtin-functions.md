@@ -1,4 +1,4 @@
-**Progress:** 841/3783 (22.231033571239756%)
+**Progress:** 842/3783 (22.25746761829236%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2269,7 +2269,7 @@
 | `layer_background_create` | ✅ | WAD Version 15 |  |
 | `layer_background_destroy` | ✅ | WAD Version 15 |  |
 | `layer_background_exists` | ✅ | WAD Version 15 |  |
-| `layer_background_get_alpha` | 🚫 | WAD Version 15 |  |
+| `layer_background_get_alpha` | ✅ | WAD Version 15 |  |
 | `layer_background_get_blend` | 🚫 | WAD Version 15 |  |
 | `layer_background_get_htiled` | 🚫 | WAD Version 15 |  |
 | `layer_background_get_id` | ✅ | WAD Version 15 |  |
