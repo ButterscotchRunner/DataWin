@@ -1,4 +1,4 @@
-**Progress:** 842/3783 (22.25746761829236%)
+**Progress:** 843/3783 (22.283901665344967%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -879,7 +879,7 @@
 | `object_get_persistent` | ✅ | GM:S 1.0.98 |  |
 | `object_get_solid` | ✅ | GM:S 1.0.98 |  |
 | `object_get_sprite` | ✅ | GM:S 1.0.98 |  |
-| `object_get_visible` | 🚫 | GM:S 1.0.98 |  |
+| `object_get_visible` | ✅ | GM:S 1.0.98 |  |
 | `object_is_ancestor` | ✅ | GM:S 1.0.98 |  |
 | `object_name` | ✅ | GM:S 1.0.98 | GM:S 2.3.6.464 |
 | `object_set_depth` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
