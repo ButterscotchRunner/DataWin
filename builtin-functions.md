@@ -1,4 +1,4 @@
-**Progress:** 844/3783 (22.31033571239757%)
+**Progress:** 845/3783 (22.336769759450174%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2767,7 +2767,7 @@
 | `sprite_get_speed_type` | 🚫 | WAD Version 16 |  |
 | `sprite_set_speed` | 🚫 | WAD Version 16 |  |
 | `string_hash_to_newline` | ✅ | WAD Version 16 |  |
-| `typeof` | 🚫 | WAD Version 16 |  |
+| `typeof` | ✅ | WAD Version 16 |  |
 | `variable_instance_exists` | ✅ | WAD Version 16 |  |
 | `variable_instance_get` | ✅ | WAD Version 16 |  |
 | `variable_instance_get_names` | 🚫 | WAD Version 16 |  |
