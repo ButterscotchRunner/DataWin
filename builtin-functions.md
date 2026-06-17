@@ -1,4 +1,4 @@
-**Progress:** 846/3783 (22.363203806502778%)
+**Progress:** 847/3783 (22.38963785355538%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1844,7 +1844,7 @@
 | `show_debug_overlay` | 🚫 | GM:S 1.1.1130 |  |
 | `audio_is_paused` | ✅ | GM:S 1.2.1135 |  |
 | `clickable_exists` | 🚫 | GM:S 1.2.1135 |  |
-| `ds_exists` | 🚫 | GM:S 1.2.1135 |  |
+| `ds_exists` | ✅ | GM:S 1.2.1135 |  |
 | `object_get_physics` | 🚫 | GM:S 1.2.1135 |  |
 | `physics_fixture_bind_ext` | 🚫 | GM:S 1.2.1135 |  |
 | `physics_get_density` | 🚫 | GM:S 1.2.1135 |  |
