@@ -1,4 +1,4 @@
-**Progress:** 848/3783 (22.416071900607985%)
+**Progress:** 850/3783 (22.468939994713192%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -458,8 +458,8 @@
 | `draw_surface_part_ext` | ✅ | GM:S 1.0.98 |  |
 | `draw_surface_stretched` | ✅ | GM:S 1.0.98 |  |
 | `draw_surface_stretched_ext` | ✅ | GM:S 1.0.98 |  |
-| `draw_surface_tiled` | 🚫 | GM:S 1.0.98 |  |
-| `draw_surface_tiled_ext` | 🚫 | GM:S 1.0.98 |  |
+| `draw_surface_tiled` | ✅ | GM:S 1.0.98 |  |
+| `draw_surface_tiled_ext` | ✅ | GM:S 1.0.98 |  |
 | `draw_text` | ✅ | GM:S 1.0.98 |  |
 | `draw_text_color` | ✅ | GM:S 1.0.98 |  |
 | `draw_text_ext` | ✅ | GM:S 1.0.98 |  |
