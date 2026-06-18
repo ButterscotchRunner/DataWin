@@ -1,4 +1,4 @@
-**Progress:** 853/3783 (22.548242135871003%)
+**Progress:** 855/3783 (22.60111022997621%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -528,10 +528,10 @@
 | `ds_list_sort` | 🚫 | GM:S 1.0.98 |  |
 | `ds_list_write` | ✅ | GM:S 1.0.98 |  |
 | `ds_map_add` | ✅ | GM:S 1.0.98 |  |
-| `ds_map_clear` | 🚫 | GM:S 1.0.98 |  |
+| `ds_map_clear` | ✅ | GM:S 1.0.98 |  |
 | `ds_map_copy` | 🚫 | GM:S 1.0.98 |  |
 | `ds_map_create` | ✅ | GM:S 1.0.98 |  |
-| `ds_map_delete` | 🚫 | GM:S 1.0.98 |  |
+| `ds_map_delete` | ✅ | GM:S 1.0.98 |  |
 | `ds_map_destroy` | ✅ | GM:S 1.0.98 |  |
 | `ds_map_empty` | 🚫 | GM:S 1.0.98 |  |
 | `ds_map_exists` | ✅ | GM:S 1.0.98 |  |
