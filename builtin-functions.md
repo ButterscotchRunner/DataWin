@@ -1,4 +1,4 @@
-**Progress:** 850/3783 (22.468939994713192%)
+**Progress:** 851/3783 (22.495374041765796%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1519,7 +1519,7 @@
 | `iap_restore_all` | 🚫 | GM:S 1.1.622 |  |
 | `iap_status` | 🚫 | GM:S 1.1.622 |  |
 | `iap_store_status` | 🚫 | GM:S 1.1.622 | GM:S 2.3.1.406 |
-| `md5_file` | 🚫 | GM:S 1.1.622 |  |
+| `md5_file` | ✅ | GM:S 1.1.622 |  |
 | `md5_string_unicode` | 🚫 | GM:S 1.1.622 |  |
 | `md5_string_utf8` | 🚫 | GM:S 1.1.622 |  |
 | `os_get_language` | ✅ | GM:S 1.1.622 |  |
