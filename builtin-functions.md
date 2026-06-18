@@ -1,4 +1,4 @@
-**Progress:** 851/3783 (22.495374041765796%)
+**Progress:** 853/3783 (22.548242135871003%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2770,7 +2770,7 @@
 | `typeof` | ✅ | WAD Version 16 |  |
 | `variable_instance_exists` | ✅ | WAD Version 16 |  |
 | `variable_instance_get` | ✅ | WAD Version 16 |  |
-| `variable_instance_get_names` | 🚫 | WAD Version 16 |  |
+| `variable_instance_get_names` | ✅ | WAD Version 16 |  |
 | `variable_instance_set` | ✅ | WAD Version 16 |  |
 | `vertex_color` | 🚫 | WAD Version 16 |  |
 | `vertex_format_add_color` | 🚫 | WAD Version 16 |  |
@@ -3439,7 +3439,7 @@
 | `struct_foreach` | 🚫 | GM 2023.4.0.113 |  |
 | `struct_get` | 🚫 | GM 2023.4.0.113 |  |
 | `struct_get_from_hash` | 🚫 | GM 2023.4.0.113 |  |
-| `struct_get_names` | 🚫 | GM 2023.4.0.113 |  |
+| `struct_get_names` | ✅ | GM 2023.4.0.113 |  |
 | `struct_names_count` | 🚫 | GM 2023.4.0.113 |  |
 | `struct_remove` | 🚫 | GM 2023.4.0.113 |  |
 | `struct_set` | 🚫 | GM 2023.4.0.113 |  |
