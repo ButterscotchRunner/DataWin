@@ -1,4 +1,4 @@
-**Progress:** 855/3783 (22.60111022997621%)
+**Progress:** 856/3783 (22.627544277028814%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -818,7 +818,7 @@
 | `move_random` | 🚫 | GM:S 1.0.98 |  |
 | `move_snap` | ✅ | GM:S 1.0.98 |  |
 | `move_towards_point` | ✅ | GM:S 1.0.98 |  |
-| `move_wrap` | 🚫 | GM:S 1.0.98 |  |
+| `move_wrap` | ✅ | GM:S 1.0.98 |  |
 | `mp_grid_add_cell` | ✅ | GM:S 1.0.98 |  |
 | `mp_grid_add_instances` | 🚫 | GM:S 1.0.98 |  |
 | `mp_grid_add_rectangle` | ✅ | GM:S 1.0.98 |  |
