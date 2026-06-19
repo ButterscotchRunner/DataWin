@@ -1,4 +1,4 @@
-**Progress:** 866/3783 (22.89188474755485%)
+**Progress:** 871/3783 (23.02405498281787%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2124,14 +2124,14 @@
 | `@@Other@@` | ✅ | WAD Version 15 |  |
 | `@@This@@` | ✅ | WAD Version 15 |  |
 | `@@delete@@` | 🚫 | WAD Version 15 |  |
-| `@@finish_catch@@` | 🚫 | WAD Version 15 |  |
-| `@@finish_finally@@` | 🚫 | WAD Version 15 |  |
+| `@@finish_catch@@` | ✅ | WAD Version 15 |  |
+| `@@finish_finally@@` | ✅ | WAD Version 15 |  |
 | `@@instanceof@@` | 🚫 | WAD Version 15 |  |
 | `@@new@@` | 🚫 | WAD Version 15 |  |
 | `@@script_ref@@` | 🚫 | WAD Version 15 | GM 2022.1.0.482 |
-| `@@throw@@` | 🚫 | WAD Version 15 |  |
-| `@@try_hook@@` | 🚫 | WAD Version 15 |  |
-| `@@try_unhook@@` | 🚫 | WAD Version 15 |  |
+| `@@throw@@` | ✅ | WAD Version 15 |  |
+| `@@try_hook@@` | ✅ | WAD Version 15 |  |
+| `@@try_unhook@@` | ✅ | WAD Version 15 |  |
 | `@@typeof@@` | 🚫 | WAD Version 15 |  |
 | `ERROR` | 🚫 | WAD Version 15 |  |
 | `F_GPIO_Set_Function` | 🚫 | WAD Version 15 | GM:S 2.3.1.406 |
