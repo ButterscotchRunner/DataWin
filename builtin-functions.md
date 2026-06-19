@@ -1,4 +1,4 @@
-**Progress:** 856/3783 (22.627544277028814%)
+**Progress:** 866/3783 (22.89188474755485%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -474,15 +474,15 @@
 | `draw_vertex_color` | 🚫 | GM:S 1.0.98 |  |
 | `draw_vertex_texture` | 🚫 | GM:S 1.0.98 |  |
 | `draw_vertex_texture_color` | 🚫 | GM:S 1.0.98 |  |
-| `ds_grid_add` | 🚫 | GM:S 1.0.98 |  |
+| `ds_grid_add` | ✅ | GM:S 1.0.98 |  |
 | `ds_grid_add_disk` | 🚫 | GM:S 1.0.98 |  |
 | `ds_grid_add_grid_region` | 🚫 | GM:S 1.0.98 |  |
 | `ds_grid_add_region` | 🚫 | GM:S 1.0.98 |  |
 | `ds_grid_clear` | 🚫 | GM:S 1.0.98 |  |
 | `ds_grid_copy` | 🚫 | GM:S 1.0.98 |  |
-| `ds_grid_create` | 🚫 | GM:S 1.0.98 |  |
-| `ds_grid_destroy` | 🚫 | GM:S 1.0.98 |  |
-| `ds_grid_get` | 🚫 | GM:S 1.0.98 |  |
+| `ds_grid_create` | ✅ | GM:S 1.0.98 |  |
+| `ds_grid_destroy` | ✅ | GM:S 1.0.98 |  |
+| `ds_grid_get` | ✅ | GM:S 1.0.98 |  |
 | `ds_grid_get_disk_max` | 🚫 | GM:S 1.0.98 |  |
 | `ds_grid_get_disk_mean` | 🚫 | GM:S 1.0.98 |  |
 | `ds_grid_get_disk_min` | 🚫 | GM:S 1.0.98 |  |
@@ -491,14 +491,14 @@
 | `ds_grid_get_mean` | 🚫 | GM:S 1.0.98 |  |
 | `ds_grid_get_min` | 🚫 | GM:S 1.0.98 |  |
 | `ds_grid_get_sum` | 🚫 | GM:S 1.0.98 |  |
-| `ds_grid_height` | 🚫 | GM:S 1.0.98 |  |
+| `ds_grid_height` | ✅ | GM:S 1.0.98 |  |
 | `ds_grid_multiply` | 🚫 | GM:S 1.0.98 |  |
 | `ds_grid_multiply_disk` | 🚫 | GM:S 1.0.98 |  |
 | `ds_grid_multiply_grid_region` | 🚫 | GM:S 1.0.98 |  |
 | `ds_grid_multiply_region` | 🚫 | GM:S 1.0.98 |  |
 | `ds_grid_read` | 🚫 | GM:S 1.0.98 |  |
-| `ds_grid_resize` | 🚫 | GM:S 1.0.98 |  |
-| `ds_grid_set` | 🚫 | GM:S 1.0.98 |  |
+| `ds_grid_resize` | ✅ | GM:S 1.0.98 |  |
+| `ds_grid_set` | ✅ | GM:S 1.0.98 |  |
 | `ds_grid_set_disk` | 🚫 | GM:S 1.0.98 |  |
 | `ds_grid_set_grid_region` | 🚫 | GM:S 1.0.98 |  |
 | `ds_grid_set_region` | 🚫 | GM:S 1.0.98 |  |
@@ -509,7 +509,7 @@
 | `ds_grid_value_exists` | 🚫 | GM:S 1.0.98 |  |
 | `ds_grid_value_x` | 🚫 | GM:S 1.0.98 |  |
 | `ds_grid_value_y` | 🚫 | GM:S 1.0.98 |  |
-| `ds_grid_width` | 🚫 | GM:S 1.0.98 |  |
+| `ds_grid_width` | ✅ | GM:S 1.0.98 |  |
 | `ds_grid_write` | 🚫 | GM:S 1.0.98 |  |
 | `ds_list_add` | ✅ | GM:S 1.0.98 |  |
 | `ds_list_clear` | ✅ | GM:S 1.0.98 |  |
@@ -1265,7 +1265,7 @@
 | `surface_save` | 🚫 | GM:S 1.0.98 |  |
 | `surface_save_part` | 🚫 | GM:S 1.0.98 |  |
 | `surface_set_target` | ✅ | GM:S 1.0.98 |  |
-| `tan` | 🚫 | GM:S 1.0.98 |  |
+| `tan` | ✅ | GM:S 1.0.98 |  |
 | `texture_exists` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `texture_get_height` | 🚫 | GM:S 1.0.98 |  |
 | `texture_get_width` | 🚫 | GM:S 1.0.98 |  |
@@ -3159,7 +3159,7 @@
 | `uwp_get_app_receipt` | 🚫 | GM:S 2.3.0.401 |  |
 | `variable_struct_exists` | ✅ | GM:S 2.3.0.401 |  |
 | `variable_struct_get` | ✅ | GM:S 2.3.0.401 |  |
-| `variable_struct_get_names` | 🚫 | GM:S 2.3.0.401 |  |
+| `variable_struct_get_names` | ✅ | GM:S 2.3.0.401 |  |
 | `variable_struct_names_count` | 🚫 | GM:S 2.3.0.401 |  |
 | `variable_struct_set` | ✅ | GM:S 2.3.0.401 |  |
 | `xboxlive_get_store_id` | 🚫 | GM:S 2.3.0.401 |  |
