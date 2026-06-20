@@ -1,4 +1,4 @@
-**Progress:** 871/3783 (23.02405498281787%)
+**Progress:** 873/3783 (23.076923076923077%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -513,14 +513,14 @@
 | `ds_grid_write` | 🚫 | GM:S 1.0.98 |  |
 | `ds_list_add` | ✅ | GM:S 1.0.98 |  |
 | `ds_list_clear` | ✅ | GM:S 1.0.98 |  |
-| `ds_list_copy` | 🚫 | GM:S 1.0.98 |  |
+| `ds_list_copy` | ✅ | GM:S 1.0.98 |  |
 | `ds_list_create` | ✅ | GM:S 1.0.98 |  |
 | `ds_list_delete` | ✅ | GM:S 1.0.98 |  |
 | `ds_list_destroy` | ✅ | GM:S 1.0.98 |  |
 | `ds_list_empty` | ✅ | GM:S 1.0.98 |  |
 | `ds_list_find_index` | ✅ | GM:S 1.0.98 |  |
 | `ds_list_find_value` | ✅ | GM:S 1.0.98 |  |
-| `ds_list_insert` | 🚫 | GM:S 1.0.98 |  |
+| `ds_list_insert` | ✅ | GM:S 1.0.98 |  |
 | `ds_list_read` | ✅ | GM:S 1.0.98 |  |
 | `ds_list_replace` | ✅ | GM:S 1.0.98 |  |
 | `ds_list_shuffle` | ✅ | GM:S 1.0.98 |  |
