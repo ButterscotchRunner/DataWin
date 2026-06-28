@@ -1,4 +1,4 @@
-**Progress:** 873/3783 (23.076923076923077%)
+**Progress:** 874/3783 (23.10335712397568%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -784,7 +784,7 @@
 | `make_color_rgb` | ✅ | GM:S 1.0.98 |  |
 | `max` | ✅ | GM:S 1.0.98 |  |
 | `max3` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `mean` | 🚫 | GM:S 1.0.98 |  |
+| `mean` | ✅ | GM:S 1.0.98 |  |
 | `median` | ✅ | GM:S 1.0.98 |  |
 | `merge_color` | ✅ | GM:S 1.0.98 |  |
 | `message_alpha` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
