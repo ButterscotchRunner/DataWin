@@ -1,4 +1,4 @@
-**Progress:** 873/3783 (23.076923076923077%)
+**Progress:** 875/3783 (23.129791171028284%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -3532,8 +3532,8 @@
 | `is_keyboard_used_debug_overlay` | 🚫 | GM 2024.2.0.163 |  |
 | `is_mouse_over_debug_overlay` | 🚫 | GM 2024.2.0.163 |  |
 | `vertex_submit_ext` | 🚫 | GM 2024.2.0.163 |  |
-| `window_enable_borderless_fullscreen` | 🚫 | GM 2024.2.0.163 |  |
-| `window_get_borderless_fullscreen` | 🚫 | GM 2024.2.0.163 |  |
+| `window_enable_borderless_fullscreen` | ✅ | GM 2024.2.0.163 |  |
+| `window_get_borderless_fullscreen` | ✅ | GM 2024.2.0.163 |  |
 | `dbg_section_exists` | 🚫 | GM 2024.4.0.168 |  |
 | `dbg_view_exists` | 🚫 | GM 2024.4.0.168 |  |
 | `gamepad_enumerate` | 🚫 | GM 2024.4.0.168 |  |
