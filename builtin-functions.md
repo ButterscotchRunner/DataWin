@@ -1,4 +1,4 @@
-**Progress:** 881/3783 (23.288395453343906%)
+**Progress:** 885/3783 (23.39413164155432%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2282,7 +2282,7 @@
 | `layer_background_get_yscale` | 🚫 | WAD Version 15 |  |
 | `layer_background_htiled` | ✅ | WAD Version 15 |  |
 | `layer_background_index` | ✅ | WAD Version 15 |  |
-| `layer_background_speed` | 🚫 | WAD Version 15 |  |
+| `layer_background_speed` | ✅ | WAD Version 15 |  |
 | `layer_background_visible` | ✅ | WAD Version 15 |  |
 | `layer_background_vtiled` | ✅ | WAD Version 15 |  |
 | `layer_background_xscale` | ✅ | WAD Version 15 |  |
@@ -2322,7 +2322,7 @@
 | `layer_shader` | 🚫 | WAD Version 15 |  |
 | `layer_sprite_alpha` | 🚫 | WAD Version 15 |  |
 | `layer_sprite_angle` | 🚫 | WAD Version 15 |  |
-| `layer_sprite_blend` | 🚫 | WAD Version 15 |  |
+| `layer_sprite_blend` | ✅ | WAD Version 15 |  |
 | `layer_sprite_change` | 🚫 | WAD Version 15 |  |
 | `layer_sprite_create` | 🚫 | WAD Version 15 |  |
 | `layer_sprite_destroy` | ✅ | WAD Version 15 |  |
@@ -2339,7 +2339,7 @@
 | `layer_sprite_get_y` | ✅ | WAD Version 15 |  |
 | `layer_sprite_get_yscale` | ✅ | WAD Version 15 |  |
 | `layer_sprite_index` | 🚫 | WAD Version 15 |  |
-| `layer_sprite_speed` | 🚫 | WAD Version 15 |  |
+| `layer_sprite_speed` | ✅ | WAD Version 15 |  |
 | `layer_sprite_x` | 🚫 | WAD Version 15 |  |
 | `layer_sprite_xscale` | 🚫 | WAD Version 15 |  |
 | `layer_sprite_y` | 🚫 | WAD Version 15 |  |
@@ -2764,7 +2764,7 @@
 | `skeleton_get_minmax` | 🚫 | WAD Version 16 |  |
 | `skeleton_get_num_bounds` | 🚫 | WAD Version 16 |  |
 | `sprite_get_speed` | ✅ | WAD Version 16 |  |
-| `sprite_get_speed_type` | 🚫 | WAD Version 16 |  |
+| `sprite_get_speed_type` | ✅ | WAD Version 16 |  |
 | `sprite_set_speed` | 🚫 | WAD Version 16 |  |
 | `string_hash_to_newline` | ✅ | WAD Version 16 |  |
 | `typeof` | ✅ | WAD Version 16 |  |
