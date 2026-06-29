@@ -1,4 +1,4 @@
-**Progress:** 878/3783 (23.209093312186095%)
+**Progress:** 881/3783 (23.288395453343906%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2290,7 +2290,7 @@
 | `layer_create` | ✅ | WAD Version 15 |  |
 | `layer_depth` | ✅ | WAD Version 15 |  |
 | `layer_destroy` | ✅ | WAD Version 15 |  |
-| `layer_element_move` | 🚫 | WAD Version 15 |  |
+| `layer_element_move` | ✅ | WAD Version 15 |  |
 | `layer_exists` | ✅ | WAD Version 15 |  |
 | `layer_force_draw_depth` | ✅ | WAD Version 15 |  |
 | `layer_get_all` | ✅ | WAD Version 15 |  |
@@ -3220,7 +3220,7 @@
 | `psn_communication_restriction_status` | 🚫 | GM:S 2.3.3.434 |  |
 | `psn_matchmaking_create_game_session` | 🚫 | GM:S 2.3.3.434 |  |
 | `psn_post_uds_event` | 🚫 | GM:S 2.3.3.434 |  |
-| `sprite_get_info` | 🚫 | GM:S 2.3.3.434 |  |
+| `sprite_get_info` | ✅ | GM:S 2.3.3.434 |  |
 | `ps5_set_high_frame_rate` | 🚫 | GM:S 2.3.4.440 |  |
 | `psn_save_data_backup` | 🚫 | GM:S 2.3.4.440 |  |
 | `event_perform_async` | 🚫 | GM:S 2.3.5.458 |  |
@@ -3387,7 +3387,7 @@
 | `string_join_ext` | 🚫 | GM 2022.11.0.73 |  |
 | `string_split` | ✅ | GM 2022.11.0.73 |  |
 | `string_split_ext` | 🚫 | GM 2022.11.0.73 |  |
-| `string_starts_with` | 🚫 | GM 2022.11.0.73 |  |
+| `string_starts_with` | ✅ | GM 2022.11.0.73 |  |
 | `string_trim` | 🚫 | GM 2022.11.0.73 |  |
 | `string_trim_end` | 🚫 | GM 2022.11.0.73 |  |
 | `string_trim_start` | 🚫 | GM 2022.11.0.73 |  |
