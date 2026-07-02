@@ -1,4 +1,4 @@
-**Progress:** 885/3783 (23.39413164155432%)
+**Progress:** 890/3783 (23.52630187681734%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -662,7 +662,7 @@
 | `filename_dir` | 🚫 | GM:S 1.0.98 |  |
 | `filename_drive` | 🚫 | GM:S 1.0.98 |  |
 | `filename_ext` | 🚫 | GM:S 1.0.98 |  |
-| `filename_name` | 🚫 | GM:S 1.0.98 |  |
+| `filename_name` | ✅ | GM:S 1.0.98 |  |
 | `filename_path` | 🚫 | GM:S 1.0.98 |  |
 | `floor` | ✅ | GM:S 1.0.98 |  |
 | `font_add` | 🚫 | GM:S 1.0.98 |  |
@@ -1866,8 +1866,8 @@
 | `draw_getpixel_ext` | 🚫 | GM:S 1.2.1214 |  |
 | `ds_list_mark_as_list` | 🚫 | GM:S 1.2.1214 |  |
 | `ds_list_mark_as_map` | 🚫 | GM:S 1.2.1214 |  |
-| `ds_map_add_list` | 🚫 | GM:S 1.2.1214 |  |
-| `ds_map_add_map` | 🚫 | GM:S 1.2.1214 |  |
+| `ds_map_add_list` | ✅ | GM:S 1.2.1214 |  |
+| `ds_map_add_map` | ✅ | GM:S 1.2.1214 |  |
 | `ds_map_replace_list` | 🚫 | GM:S 1.2.1214 |  |
 | `ds_map_replace_map` | 🚫 | GM:S 1.2.1214 |  |
 | `frustum_build` | 🚫 | GM:S 1.2.1214 | GM:S 2.3.1.406 |
@@ -3078,8 +3078,8 @@
 | `buffer_crc32` | 🚫 | GM:S 2.3.0.401 |  |
 | `ds_list_is_list` | 🚫 | GM:S 2.3.0.401 |  |
 | `ds_list_is_map` | 🚫 | GM:S 2.3.0.401 |  |
-| `ds_map_is_list` | 🚫 | GM:S 2.3.0.401 |  |
-| `ds_map_is_map` | 🚫 | GM:S 2.3.0.401 |  |
+| `ds_map_is_list` | ✅ | GM:S 2.3.0.401 |  |
+| `ds_map_is_map` | ✅ | GM:S 2.3.0.401 |  |
 | `ds_map_keys_to_array` | 🚫 | GM:S 2.3.0.401 |  |
 | `ds_map_values_to_array` | 🚫 | GM:S 2.3.0.401 |  |
 | `exception_unhandled_handler` | 🚫 | GM:S 2.3.0.401 |  |
