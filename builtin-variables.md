@@ -1,4 +1,4 @@
-**Progress:** 138/233 (59.227467811158796%)
+**Progress:** 139/233 (59.65665236051502%)
 
 | GML Variable | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -218,7 +218,7 @@
 | `font_texture_page_size` | 🚫 | WAD Version 16 |  |
 | `in_collision_tree` | 🚫 | GM:S 2.2.2.326 |  |
 | `NaN` | 🚫 | GM:S 2.2.3.341 |  |
-| `infinity` | 🚫 | GM:S 2.2.3.341 |  |
+| `infinity` | ✅ | GM:S 2.2.3.341 |  |
 | `in_sequence` | 🚫 | GM:S 2.3.0.401 |  |
 | `sequence_instance` | 🚫 | GM:S 2.3.0.401 |  |
 | `managed` | 🚫 | GM 2022.5.0.8 |  |

@@ -1,4 +1,4 @@
-**Progress:** 890/3783 (23.52630187681734%)
+**Progress:** 904/3783 (23.896378535553794%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -393,7 +393,7 @@
 | `display_test_all` | 🚫 | GM:S 1.0.98 | GM:S 2.3.7.474 |
 | `distance_to_object` | ✅ | GM:S 1.0.98 |  |
 | `distance_to_point` | ✅ | GM:S 1.0.98 |  |
-| `dot_product` | 🚫 | GM:S 1.0.98 |  |
+| `dot_product` | ✅ | GM:S 1.0.98 |  |
 | `dot_product_3d` | 🚫 | GM:S 1.0.98 |  |
 | `dot_product_3d_normalised` | 🚫 | GM:S 1.0.98 |  |
 | `dot_product_normalised` | 🚫 | GM:S 1.0.98 |  |
@@ -1226,7 +1226,7 @@
 | `sprite_save` | 🚫 | GM:S 1.0.98 |  |
 | `sprite_set_alpha_from_sprite` | 🚫 | GM:S 1.0.98 |  |
 | `sprite_set_bbox` | 🚫 | GM:S 1.0.98 |  |
-| `sprite_set_bbox_mode` | 🚫 | GM:S 1.0.98 |  |
+| `sprite_set_bbox_mode` | ✅ | GM:S 1.0.98 |  |
 | `sprite_set_offset` | ✅ | GM:S 1.0.98 |  |
 | `sprite_set_precise` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `sqr` | ✅ | GM:S 1.0.98 |  |
@@ -2065,13 +2065,13 @@
 | `audio_get_listener_info` | 🚫 | GM:S 1.4.1398 |  |
 | `audio_get_listener_mask` | 🚫 | GM:S 1.4.1398 |  |
 | `audio_get_master_gain` | 🚫 | GM:S 1.4.1398 |  |
-| `audio_get_name` | 🚫 | GM:S 1.4.1398 |  |
+| `audio_get_name` | ✅ | GM:S 1.4.1398 |  |
 | `audio_listener_get_data` | 🚫 | GM:S 1.4.1398 |  |
 | `audio_listener_set_orientation` | 🚫 | GM:S 1.4.1398 |  |
 | `audio_listener_set_position` | 🚫 | GM:S 1.4.1398 |  |
 | `audio_listener_set_velocity` | 🚫 | GM:S 1.4.1398 |  |
 | `audio_set_listener_mask` | 🚫 | GM:S 1.4.1398 |  |
-| `audio_set_master_gain` | 🚫 | GM:S 1.4.1398 |  |
+| `audio_set_master_gain` | ✅ | GM:S 1.4.1398 |  |
 | `audio_sound_get_gain` | ✅ | GM:S 1.4.1398 |  |
 | `audio_sound_get_listener_mask` | 🚫 | GM:S 1.4.1398 |  |
 | `audio_sound_get_pitch` | ✅ | GM:S 1.4.1398 |  |
@@ -2219,11 +2219,11 @@
 | `gpu_get_alphatestfunc` | 🚫 | WAD Version 15 | GM:S 2.3.0.401 |
 | `gpu_get_alphatestref` | 🚫 | WAD Version 15 |  |
 | `gpu_get_blendenable` | 🚫 | WAD Version 15 |  |
-| `gpu_get_blendmode` | 🚫 | WAD Version 15 |  |
+| `gpu_get_blendmode` | ✅ | WAD Version 15 |  |
 | `gpu_get_blendmode_dest` | 🚫 | WAD Version 15 |  |
 | `gpu_get_blendmode_destalpha` | 🚫 | WAD Version 15 |  |
-| `gpu_get_blendmode_ext` | 🚫 | WAD Version 15 |  |
-| `gpu_get_blendmode_ext_sepalpha` | 🚫 | WAD Version 15 |  |
+| `gpu_get_blendmode_ext` | ✅ | WAD Version 15 |  |
+| `gpu_get_blendmode_ext_sepalpha` | ✅ | WAD Version 15 |  |
 | `gpu_get_blendmode_src` | 🚫 | WAD Version 15 |  |
 | `gpu_get_blendmode_srcalpha` | 🚫 | WAD Version 15 |  |
 | `gpu_get_colorwriteenable` | 🚫 | WAD Version 15 |  |
@@ -2315,8 +2315,8 @@
 | `layer_is_draw_depth_forced` | ✅ | WAD Version 15 |  |
 | `layer_remove_instance` | 🚫 | WAD Version 15 | WAD Version 16 |
 | `layer_reset_target_room` | 🚫 | WAD Version 15 |  |
-| `layer_script_begin` | 🚫 | WAD Version 15 |  |
-| `layer_script_end` | 🚫 | WAD Version 15 |  |
+| `layer_script_begin` | ✅ | WAD Version 15 |  |
+| `layer_script_end` | ✅ | WAD Version 15 |  |
 | `layer_set_target_room` | 🚫 | WAD Version 15 |  |
 | `layer_set_visible` | ✅ | WAD Version 15 |  |
 | `layer_shader` | 🚫 | WAD Version 15 |  |
@@ -2526,7 +2526,7 @@
 | `tilemap_get_width` | ✅ | WAD Version 15 |  |
 | `tilemap_get_x` | ✅ | WAD Version 15 |  |
 | `tilemap_get_y` | ✅ | WAD Version 15 |  |
-| `tilemap_set` | 🚫 | WAD Version 15 |  |
+| `tilemap_set` | ✅ | WAD Version 15 |  |
 | `tilemap_set_at_pixel` | ✅ | WAD Version 15 |  |
 | `tilemap_set_global_mask` | 🚫 | WAD Version 15 |  |
 | `tilemap_set_mask` | 🚫 | WAD Version 15 |  |
@@ -2826,9 +2826,9 @@
 | `xboxone_stats_set_stat_real` | 🚫 | GM:S 2.1.4.200 |  |
 | `xboxone_stats_set_stat_string` | 🚫 | GM:S 2.1.4.200 |  |
 | `display_set_gui_maximize` | ✅ | GM:S 2.1.4.212 |  |
-| `collision_circle_list` | 🚫 | GM:S 2.1.5.246 |  |
+| `collision_circle_list` | ✅ | GM:S 2.1.5.246 |  |
 | `collision_ellipse_list` | 🚫 | GM:S 2.1.5.246 |  |
-| `collision_line_list` | 🚫 | GM:S 2.1.5.246 |  |
+| `collision_line_list` | ✅ | GM:S 2.1.5.246 |  |
 | `collision_point_list` | 🚫 | GM:S 2.1.5.246 |  |
 | `collision_rectangle_list` | ✅ | GM:S 2.1.5.246 |  |
 | `instance_place_list` | ✅ | GM:S 2.1.5.246 |  |
@@ -2946,8 +2946,8 @@
 | `audio_system_is_available` | ✅ | GM:S 2.2.1.287 |  |
 | `draw_get_circle_precision` | ✅ | GM:S 2.2.1.287 |  |
 | `draw_get_font` | ✅ | GM:S 2.2.1.287 |  |
-| `draw_get_halign` | 🚫 | GM:S 2.2.1.287 |  |
-| `draw_get_valign` | 🚫 | GM:S 2.2.1.287 |  |
+| `draw_get_halign` | ✅ | GM:S 2.2.1.287 |  |
+| `draw_get_valign` | ✅ | GM:S 2.2.1.287 |  |
 | `gamepad_get_guid` | ✅ | GM:S 2.2.1.287 |  |
 | `gamepad_get_mapping` | 🚫 | GM:S 2.2.1.287 |  |
 | `gamepad_hat_count` | ✅ | GM:S 2.2.1.287 |  |
