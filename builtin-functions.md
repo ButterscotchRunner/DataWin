@@ -1,4 +1,4 @@
-**Progress:** 904/3783 (23.896378535553794%)
+**Progress:** 908/3783 (24.00211472376421%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1873,9 +1873,9 @@
 | `frustum_build` | 🚫 | GM:S 1.2.1214 | GM:S 2.3.1.406 |
 | `frustum_test_sphere` | 🚫 | GM:S 1.2.1214 | GM:S 2.3.1.406 |
 | `matrix_build` | 🚫 | GM:S 1.2.1214 |  |
-| `matrix_get` | 🚫 | GM:S 1.2.1214 |  |
+| `matrix_get` | ✅ | GM:S 1.2.1214 |  |
 | `matrix_multiply` | ✅ | GM:S 1.2.1214 |  |
-| `matrix_set` | 🚫 | GM:S 1.2.1214 |  |
+| `matrix_set` | ✅ | GM:S 1.2.1214 |  |
 | `surface_getpixel_ext` | 🚫 | GM:S 1.2.1214 |  |
 | `buffer_get_address` | 🚫 | GM:S 1.2.1264 |  |
 | `ds_grid_set_post` | 🚫 | GM:S 1.2.1264 |  |
@@ -2165,13 +2165,13 @@
 | `camera_get_begin_script` | 🚫 | WAD Version 15 |  |
 | `camera_get_default` | ✅ | WAD Version 15 |  |
 | `camera_get_end_script` | 🚫 | WAD Version 15 |  |
-| `camera_get_proj_mat` | 🚫 | WAD Version 15 |  |
+| `camera_get_proj_mat` | ✅ | WAD Version 15 |  |
 | `camera_get_update_script` | 🚫 | WAD Version 15 |  |
 | `camera_get_view_angle` | ✅ | WAD Version 15 |  |
 | `camera_get_view_border_x` | ✅ | WAD Version 15 |  |
 | `camera_get_view_border_y` | ✅ | WAD Version 15 |  |
 | `camera_get_view_height` | ✅ | WAD Version 15 |  |
-| `camera_get_view_mat` | 🚫 | WAD Version 15 |  |
+| `camera_get_view_mat` | ✅ | WAD Version 15 |  |
 | `camera_get_view_speed_x` | ✅ | WAD Version 15 |  |
 | `camera_get_view_speed_y` | ✅ | WAD Version 15 |  |
 | `camera_get_view_target` | ✅ | WAD Version 15 |  |
