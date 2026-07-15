@@ -1,4 +1,4 @@
-**Progress:** 908/3783 (24.00211472376421%)
+**Progress:** 911/3783 (24.08141686492202%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2206,7 +2206,7 @@
 | `draw_light_get` | 🚫 | WAD Version 15 |  |
 | `draw_light_get_ambient` | 🚫 | WAD Version 15 |  |
 | `draw_set_lighting` | 🚫 | WAD Version 15 |  |
-| `draw_tile` | 🚫 | WAD Version 15 |  |
+| `draw_tile` | ✅ | WAD Version 15 |  |
 | `ds_map_secure_load_buffer` | 🚫 | WAD Version 15 |  |
 | `ds_map_secure_save_buffer` | 🚫 | WAD Version 15 |  |
 | `game_get_speed` | ✅ | WAD Version 15 |  |
@@ -2514,8 +2514,8 @@
 | `tilemap_draw` | 🚫 | WAD Version 15 | WAD Version 16 |
 | `tilemap_get` | ✅ | WAD Version 15 |  |
 | `tilemap_get_at_pixel` | ✅ | WAD Version 15 |  |
-| `tilemap_get_cell_x_at_pixel` | 🚫 | WAD Version 15 |  |
-| `tilemap_get_cell_y_at_pixel` | 🚫 | WAD Version 15 |  |
+| `tilemap_get_cell_x_at_pixel` | ✅ | WAD Version 15 |  |
+| `tilemap_get_cell_y_at_pixel` | ✅ | WAD Version 15 |  |
 | `tilemap_get_frame` | 🚫 | WAD Version 15 |  |
 | `tilemap_get_global_mask` | 🚫 | WAD Version 15 |  |
 | `tilemap_get_height` | ✅ | WAD Version 15 |  |
