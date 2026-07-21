@@ -1,4 +1,4 @@
-**Progress:** 911/3783 (24.08141686492202%)
+**Progress:** 914/3783 (24.16071900607983%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -424,8 +424,8 @@
 | `draw_line_width` | ✅ | GM:S 1.0.98 |  |
 | `draw_line_width_color` | ✅ | GM:S 1.0.98 |  |
 | `draw_path` | 🚫 | GM:S 1.0.98 |  |
-| `draw_point` | 🚫 | GM:S 1.0.98 |  |
-| `draw_point_color` | 🚫 | GM:S 1.0.98 |  |
+| `draw_point` | ✅ | GM:S 1.0.98 |  |
+| `draw_point_color` | ✅ | GM:S 1.0.98 |  |
 | `draw_primitive_begin` | 🚫 | GM:S 1.0.98 |  |
 | `draw_primitive_begin_texture` | 🚫 | GM:S 1.0.98 |  |
 | `draw_primitive_end` | 🚫 | GM:S 1.0.98 |  |
@@ -1811,7 +1811,7 @@
 | `draw_get_colour` | ✅ | GM:S 1.1.1076 |  |
 | `draw_line_colour` | ✅ | GM:S 1.1.1076 |  |
 | `draw_line_width_colour` | ✅ | GM:S 1.1.1076 |  |
-| `draw_point_colour` | 🚫 | GM:S 1.1.1076 |  |
+| `draw_point_colour` | ✅ | GM:S 1.1.1076 |  |
 | `draw_rectangle_colour` | ✅ | GM:S 1.1.1076 |  |
 | `draw_roundrect_colour` | 🚫 | GM:S 1.1.1076 |  |
 | `draw_set_colour` | ✅ | GM:S 1.1.1076 |  |
