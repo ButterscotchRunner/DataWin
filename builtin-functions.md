@@ -1,4 +1,4 @@
-**Progress:** 923/3783 (24.398625429553263%)
+**Progress:** 926/3783 (24.477927570711074%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2506,10 +2506,10 @@
 | `tile_get_mirror` | ✅ | WAD Version 15 |  |
 | `tile_get_rotate` | ✅ | WAD Version 15 |  |
 | `tile_set_empty` | ✅ | WAD Version 15 |  |
-| `tile_set_flip` | 🚫 | WAD Version 15 |  |
+| `tile_set_flip` | ✅ | WAD Version 15 |  |
 | `tile_set_index` | 🚫 | WAD Version 15 |  |
-| `tile_set_mirror` | 🚫 | WAD Version 15 |  |
-| `tile_set_rotate` | 🚫 | WAD Version 15 |  |
+| `tile_set_mirror` | ✅ | WAD Version 15 |  |
+| `tile_set_rotate` | ✅ | WAD Version 15 |  |
 | `tilemap_clear` | 🚫 | WAD Version 15 |  |
 | `tilemap_draw` | 🚫 | WAD Version 15 | WAD Version 16 |
 | `tilemap_get` | ✅ | WAD Version 15 |  |
