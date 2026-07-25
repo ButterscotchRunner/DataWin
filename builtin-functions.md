@@ -1,4 +1,4 @@
-**Progress:** 915/3783 (24.187153053132434%)
+**Progress:** 923/3783 (24.398625429553263%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2271,15 +2271,15 @@
 | `layer_background_exists` | ✅ | WAD Version 15 |  |
 | `layer_background_get_alpha` | ✅ | WAD Version 15 |  |
 | `layer_background_get_blend` | ✅ | WAD Version 15 |  |
-| `layer_background_get_htiled` | 🚫 | WAD Version 15 |  |
+| `layer_background_get_htiled` | ✅ | WAD Version 15 |  |
 | `layer_background_get_id` | ✅ | WAD Version 15 |  |
-| `layer_background_get_index` | 🚫 | WAD Version 15 |  |
+| `layer_background_get_index` | ✅ | WAD Version 15 |  |
 | `layer_background_get_speed` | 🚫 | WAD Version 15 |  |
-| `layer_background_get_sprite` | 🚫 | WAD Version 15 |  |
-| `layer_background_get_visible` | 🚫 | WAD Version 15 |  |
-| `layer_background_get_vtiled` | 🚫 | WAD Version 15 |  |
-| `layer_background_get_xscale` | 🚫 | WAD Version 15 |  |
-| `layer_background_get_yscale` | 🚫 | WAD Version 15 |  |
+| `layer_background_get_sprite` | ✅ | WAD Version 15 |  |
+| `layer_background_get_visible` | ✅ | WAD Version 15 |  |
+| `layer_background_get_vtiled` | ✅ | WAD Version 15 |  |
+| `layer_background_get_xscale` | ✅ | WAD Version 15 |  |
+| `layer_background_get_yscale` | ✅ | WAD Version 15 |  |
 | `layer_background_htiled` | ✅ | WAD Version 15 |  |
 | `layer_background_index` | ✅ | WAD Version 15 |  |
 | `layer_background_speed` | ✅ | WAD Version 15 |  |
@@ -2741,7 +2741,7 @@
 | `instance_activate_layer` | ✅ | WAD Version 16 |  |
 | `instance_deactivate_layer` | ✅ | WAD Version 16 |  |
 | `instance_deactivate_region_special` | 🚫 | WAD Version 16 | GM:S 2.3.1.406 |
-| `layer_background_get_stretch` | 🚫 | WAD Version 16 |  |
+| `layer_background_get_stretch` | ✅ | WAD Version 16 |  |
 | `layer_background_sprite` | ✅ | WAD Version 16 |  |
 | `layer_background_stretch` | ✅ | WAD Version 16 |  |
 | `layer_destroy_instances` | 🚫 | WAD Version 16 |  |
