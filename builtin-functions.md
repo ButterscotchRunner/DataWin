@@ -1,4 +1,4 @@
-**Progress:** 926/3783 (24.477927570711074%)
+**Progress:** 927/3783 (24.504361617763678%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -675,7 +675,7 @@
 | `font_get_italic` | 🚫 | GM:S 1.0.98 |  |
 | `font_get_last` | 🚫 | GM:S 1.0.98 |  |
 | `font_get_name` | ✅ | GM:S 1.0.98 |  |
-| `font_get_size` | 🚫 | GM:S 1.0.98 |  |
+| `font_get_size` | ✅ | GM:S 1.0.98 |  |
 | `font_name` | 🚫 | GM:S 1.0.98 | GM:S 2.3.6.464 |
 | `font_replace` | 🚫 | GM:S 1.0.98 | WAD Version 16 |
 | `font_replace_sprite` | 🚫 | GM:S 1.0.98 |  |
