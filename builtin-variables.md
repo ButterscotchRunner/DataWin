@@ -1,4 +1,4 @@
-**Progress:** 139/233 (59.65665236051502%)
+**Progress:** 141/233 (60.51502145922747%)
 
 | GML Variable | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -43,8 +43,8 @@
 | `bbox_left` | ✅ | GM:S 1.0.98 |  |
 | `bbox_right` | ✅ | GM:S 1.0.98 |  |
 | `bbox_top` | ✅ | GM:S 1.0.98 |  |
-| `browser_height` | 🚫 | GM:S 1.0.98 |  |
-| `browser_width` | 🚫 | GM:S 1.0.98 |  |
+| `browser_height` | ✅ | GM:S 1.0.98 |  |
+| `browser_width` | ✅ | GM:S 1.0.98 |  |
 | `caption_health` | 🚫 | GM:S 1.0.98 |  |
 | `caption_lives` | 🚫 | GM:S 1.0.98 |  |
 | `caption_score` | 🚫 | GM:S 1.0.98 |  |
