@@ -1,4 +1,4 @@
-**Progress:** 927/3783 (24.504361617763678%)
+**Progress:** 940/3783 (24.84800422944753%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -973,20 +973,20 @@
 | `part_type_step` | 🚫 | GM:S 1.0.98 |  |
 | `path_add` | ✅ | GM:S 1.0.98 |  |
 | `path_add_point` | ✅ | GM:S 1.0.98 |  |
-| `path_append` | 🚫 | GM:S 1.0.98 |  |
-| `path_assign` | 🚫 | GM:S 1.0.98 |  |
-| `path_change_point` | 🚫 | GM:S 1.0.98 |  |
+| `path_append` | ✅ | GM:S 1.0.98 |  |
+| `path_assign` | ✅ | GM:S 1.0.98 |  |
+| `path_change_point` | ✅ | GM:S 1.0.98 |  |
 | `path_clear_points` | ✅ | GM:S 1.0.98 |  |
 | `path_delete` | ✅ | GM:S 1.0.98 |  |
-| `path_delete_point` | 🚫 | GM:S 1.0.98 |  |
-| `path_duplicate` | 🚫 | GM:S 1.0.98 |  |
+| `path_delete_point` | ✅ | GM:S 1.0.98 |  |
+| `path_duplicate` | ✅ | GM:S 1.0.98 |  |
 | `path_end` | ✅ | GM:S 1.0.98 |  |
 | `path_exists` | ✅ | GM:S 1.0.98 |  |
-| `path_flip` | 🚫 | GM:S 1.0.98 |  |
+| `path_flip` | ✅ | GM:S 1.0.98 |  |
 | `path_get_closed` | ✅ | GM:S 1.0.98 |  |
 | `path_get_kind` | ✅ | GM:S 1.0.98 |  |
 | `path_get_length` | ✅ | GM:S 1.0.98 |  |
-| `path_get_name` | 🚫 | GM:S 1.0.98 |  |
+| `path_get_name` | ✅ | GM:S 1.0.98 |  |
 | `path_get_number` | ✅ | GM:S 1.0.98 |  |
 | `path_get_point_speed` | ✅ | GM:S 1.0.98 |  |
 | `path_get_point_x` | ✅ | GM:S 1.0.98 |  |
@@ -995,16 +995,16 @@
 | `path_get_speed` | ✅ | GM:S 1.0.98 |  |
 | `path_get_x` | ✅ | GM:S 1.0.98 |  |
 | `path_get_y` | ✅ | GM:S 1.0.98 |  |
-| `path_insert_point` | 🚫 | GM:S 1.0.98 |  |
-| `path_mirror` | 🚫 | GM:S 1.0.98 |  |
+| `path_insert_point` | ✅ | GM:S 1.0.98 |  |
+| `path_mirror` | ✅ | GM:S 1.0.98 |  |
 | `path_name` | 🚫 | GM:S 1.0.98 | GM:S 2.3.6.464 |
-| `path_reverse` | 🚫 | GM:S 1.0.98 |  |
-| `path_rotate` | 🚫 | GM:S 1.0.98 |  |
+| `path_reverse` | ✅ | GM:S 1.0.98 |  |
+| `path_rotate` | ✅ | GM:S 1.0.98 |  |
 | `path_scale` | 🚫 | GM:S 1.0.98 | GM:S 1.1.622 |
 | `path_set_closed` | ✅ | GM:S 1.0.98 |  |
 | `path_set_kind` | ✅ | GM:S 1.0.98 |  |
 | `path_set_precision` | ✅ | GM:S 1.0.98 |  |
-| `path_shift` | 🚫 | GM:S 1.0.98 |  |
+| `path_shift` | ✅ | GM:S 1.0.98 |  |
 | `path_start` | ✅ | GM:S 1.0.98 |  |
 | `physics_apply_force` | 🚫 | GM:S 1.0.98 |  |
 | `physics_apply_impulse` | 🚫 | GM:S 1.0.98 |  |
@@ -1526,7 +1526,7 @@
 | `os_is_network_connected` | 🚫 | GM:S 1.1.622 |  |
 | `os_lock_orientation` | 🚫 | GM:S 1.1.622 |  |
 | `os_powersave_enable` | 🚫 | GM:S 1.1.622 |  |
-| `path_rescale` | 🚫 | GM:S 1.1.622 |  |
+| `path_rescale` | ✅ | GM:S 1.1.622 |  |
 | `physics_fixture_set_awake` | 🚫 | GM:S 1.1.622 |  |
 | `physics_pause_enable` | 🚫 | GM:S 1.1.622 |  |
 | `pocketchange_display_reward` | 🚫 | GM:S 1.1.622 | WAD Version 16 |
