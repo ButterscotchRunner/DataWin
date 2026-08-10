@@ -1,4 +1,4 @@
-**Progress:** 940/3783 (24.84800422944753%)
+**Progress:** 941/3783 (24.874438276500133%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1072,7 +1072,7 @@
 | `random` | ✅ | GM:S 1.0.98 |  |
 | `random_get_seed` | 🚫 | GM:S 1.0.98 |  |
 | `random_range` | ✅ | GM:S 1.0.98 |  |
-| `random_set_seed` | 🚫 | GM:S 1.0.98 |  |
+| `random_set_seed` | ✅ | GM:S 1.0.98 |  |
 | `randomize` | ✅ | GM:S 1.0.98 |  |
 | `real` | ✅ | GM:S 1.0.98 |  |
 | `registry_exists` | 🚫 | GM:S 1.0.98 | WAD Version 15 |
