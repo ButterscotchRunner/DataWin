@@ -1,4 +1,4 @@
-**Progress:** 943/3783 (24.92730637060534%)
+**Progress:** 945/3783 (24.980174464710547%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1293,8 +1293,8 @@
 | `tile_get_y` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `tile_get_yscale` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `tile_layer_delete` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `tile_layer_delete_at` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `tile_layer_depth` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `tile_layer_delete_at` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `tile_layer_depth` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `tile_layer_find` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `tile_layer_hide` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `tile_layer_shift` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
