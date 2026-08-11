@@ -1,4 +1,4 @@
-**Progress:** 945/3783 (24.980174464710547%)
+**Progress:** 955/3783 (25.244514935236584%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -190,7 +190,7 @@
 | `arccos` | ✅ | GM:S 1.0.98 |  |
 | `arcsin` | ✅ | GM:S 1.0.98 |  |
 | `arctan` | ✅ | GM:S 1.0.98 |  |
-| `arctan2` | 🚫 | GM:S 1.0.98 |  |
+| `arctan2` | ✅ | GM:S 1.0.98 |  |
 | `background_add` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `background_add_alpha` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `background_add_background` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
@@ -394,10 +394,10 @@
 | `distance_to_object` | ✅ | GM:S 1.0.98 |  |
 | `distance_to_point` | ✅ | GM:S 1.0.98 |  |
 | `dot_product` | ✅ | GM:S 1.0.98 |  |
-| `dot_product_3d` | 🚫 | GM:S 1.0.98 |  |
-| `dot_product_3d_normalised` | 🚫 | GM:S 1.0.98 |  |
-| `dot_product_normalised` | 🚫 | GM:S 1.0.98 |  |
-| `draw_arrow` | 🚫 | GM:S 1.0.98 |  |
+| `dot_product_3d` | ✅ | GM:S 1.0.98 |  |
+| `dot_product_3d_normalised` | ✅ | GM:S 1.0.98 |  |
+| `dot_product_normalised` | ✅ | GM:S 1.0.98 |  |
+| `draw_arrow` | ✅ | GM:S 1.0.98 |  |
 | `draw_background` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `draw_background_ext` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `draw_background_general` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
@@ -774,16 +774,16 @@
 | `lengthdir_x` | ✅ | GM:S 1.0.98 |  |
 | `lengthdir_y` | ✅ | GM:S 1.0.98 |  |
 | `lerp` | ✅ | GM:S 1.0.98 |  |
-| `ln` | 🚫 | GM:S 1.0.98 |  |
+| `ln` | ✅ | GM:S 1.0.98 |  |
 | `load_info` | 🚫 | GM:S 1.0.98 |  |
-| `log10` | 🚫 | GM:S 1.0.98 |  |
+| `log10` | ✅ | GM:S 1.0.98 |  |
 | `log2` | ✅ | GM:S 1.0.98 |  |
-| `logn` | 🚫 | GM:S 1.0.98 |  |
+| `logn` | ✅ | GM:S 1.0.98 |  |
 | `make_color` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `make_color_hsv` | ✅ | GM:S 1.0.98 |  |
 | `make_color_rgb` | ✅ | GM:S 1.0.98 |  |
 | `max` | ✅ | GM:S 1.0.98 |  |
-| `max3` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `max3` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `mean` | ✅ | GM:S 1.0.98 |  |
 | `median` | ✅ | GM:S 1.0.98 |  |
 | `merge_color` | ✅ | GM:S 1.0.98 |  |
@@ -799,7 +799,7 @@
 | `message_size` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `message_text_font` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `min` | ✅ | GM:S 1.0.98 |  |
-| `min3` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `min3` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `motion_add` | ✅ | GM:S 1.0.98 |  |
 | `motion_set` | 🚫 | GM:S 1.0.98 |  |
 | `mouse_check_button` | ✅ | GM:S 1.0.98 |  |
