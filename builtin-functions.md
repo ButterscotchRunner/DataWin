@@ -1,4 +1,4 @@
-**Progress:** 941/3783 (24.874438276500133%)
+**Progress:** 943/3783 (24.92730637060534%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -3326,8 +3326,8 @@
 | `rollback_sync_on_frame` | 🚫 | GM 2022.6.0.23 |  |
 | `switch_set_net_autoconnect` | 🚫 | GM 2022.6.0.23 |  |
 | `time_source_resume` | 🚫 | GM 2022.6.0.23 |  |
-| `call_cancel` | 🚫 | GM 2022.8.0.50 |  |
-| `call_later` | 🚫 | GM 2022.8.0.50 |  |
+| `call_cancel` | ✅ | GM 2022.8.0.50 |  |
+| `call_later` | ✅ | GM 2022.8.0.50 |  |
 | `rollback_chat` | 🚫 | GM 2022.8.0.50 |  |
 | `rollback_define_extra_network_latency` | 🚫 | GM 2022.8.0.50 |  |
 | `rollback_get_player_prefs` | 🚫 | GM 2022.8.0.50 |  |
