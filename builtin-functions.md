@@ -1,4 +1,4 @@
-**Progress:** 955/3783 (25.244514935236584%)
+**Progress:** 956/3783 (25.270948982289188%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2338,7 +2338,7 @@
 | `layer_sprite_get_xscale` | ✅ | WAD Version 15 |  |
 | `layer_sprite_get_y` | ✅ | WAD Version 15 |  |
 | `layer_sprite_get_yscale` | ✅ | WAD Version 15 |  |
-| `layer_sprite_index` | 🚫 | WAD Version 15 |  |
+| `layer_sprite_index` | ✅ | WAD Version 15 |  |
 | `layer_sprite_speed` | ✅ | WAD Version 15 |  |
 | `layer_sprite_x` | 🚫 | WAD Version 15 |  |
 | `layer_sprite_xscale` | 🚫 | WAD Version 15 |  |
