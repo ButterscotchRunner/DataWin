@@ -1,4 +1,4 @@
-**Progress:** 956/3783 (25.270948982289188%)
+**Progress:** 957/3783 (25.29738302934179%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2156,7 +2156,7 @@
 | `background_prefetch` | 🚫 | WAD Version 15 | GM:S 2.3.1.406 |
 | `background_prefetch_multi` | 🚫 | WAD Version 15 | GM:S 2.3.1.406 |
 | `browser_input_capture` | 🚫 | WAD Version 15 |  |
-| `buffer_exists` | 🚫 | WAD Version 15 |  |
+| `buffer_exists` | ✅ | WAD Version 15 |  |
 | `camera_apply` | ✅ | WAD Version 15 |  |
 | `camera_create` | ✅ | WAD Version 15 |  |
 | `camera_create_view` | ✅ | WAD Version 15 |  |
