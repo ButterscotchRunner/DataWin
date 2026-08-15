@@ -1,4 +1,4 @@
-**Progress:** 957/3783 (25.29738302934179%)
+**Progress:** 959/3783 (25.350251123447%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -241,7 +241,7 @@
 | `clipboard_has_text` | 🚫 | GM:S 1.0.98 |  |
 | `clipboard_set_text` | 🚫 | GM:S 1.0.98 |  |
 | `collision_circle` | ✅ | GM:S 1.0.98 |  |
-| `collision_ellipse` | 🚫 | GM:S 1.0.98 |  |
+| `collision_ellipse` | ✅ | GM:S 1.0.98 |  |
 | `collision_line` | ✅ | GM:S 1.0.98 |  |
 | `collision_point` | ✅ | GM:S 1.0.98 |  |
 | `collision_rectangle` | ✅ | GM:S 1.0.98 |  |
@@ -2827,7 +2827,7 @@
 | `xboxone_stats_set_stat_string` | 🚫 | GM:S 2.1.4.200 |  |
 | `display_set_gui_maximize` | ✅ | GM:S 2.1.4.212 |  |
 | `collision_circle_list` | ✅ | GM:S 2.1.5.246 |  |
-| `collision_ellipse_list` | 🚫 | GM:S 2.1.5.246 |  |
+| `collision_ellipse_list` | ✅ | GM:S 2.1.5.246 |  |
 | `collision_line_list` | ✅ | GM:S 2.1.5.246 |  |
 | `collision_point_list` | 🚫 | GM:S 2.1.5.246 |  |
 | `collision_rectangle_list` | ✅ | GM:S 2.1.5.246 |  |
