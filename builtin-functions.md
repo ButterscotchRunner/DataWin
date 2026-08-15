@@ -1,4 +1,4 @@
-**Progress:** 959/3783 (25.350251123447%)
+**Progress:** 960/3783 (25.376685170499602%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -453,7 +453,7 @@
 | `draw_sprite_tiled_ext` | ✅ | GM:S 1.0.98 |  |
 | `draw_surface` | ✅ | GM:S 1.0.98 |  |
 | `draw_surface_ext` | ✅ | GM:S 1.0.98 |  |
-| `draw_surface_general` | 🚫 | GM:S 1.0.98 |  |
+| `draw_surface_general` | ✅ | GM:S 1.0.98 |  |
 | `draw_surface_part` | ✅ | GM:S 1.0.98 |  |
 | `draw_surface_part_ext` | ✅ | GM:S 1.0.98 |  |
 | `draw_surface_stretched` | ✅ | GM:S 1.0.98 |  |
