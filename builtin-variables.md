@@ -1,4 +1,4 @@
-**Progress:** 141/233 (60.51502145922747%)
+**Progress:** 142/233 (60.94420600858369%)
 
 | GML Variable | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -195,7 +195,7 @@
 | `game_guid` | 🚫 | GM:S 1.1.622 | GM:S 2.3.1.406 |
 | `view_surface_id` | ✅ | GM:S 1.1.622 |  |
 | `webgl_enabled` | 🚫 | GM:S 1.1.622 |  |
-| `fps_real` | 🚫 | GM:S 1.1.1130 |  |
+| `fps_real` | ✅ | GM:S 1.1.1130 |  |
 | `phy_position_xprevious` | 🚫 | GM:S 1.2.1135 |  |
 | `phy_position_yprevious` | 🚫 | GM:S 1.2.1135 |  |
 | `phy_speed` | 🚫 | GM:S 1.2.1135 |  |
