@@ -1,4 +1,4 @@
-**Progress:** 962/3783 (25.42955326460481%)
+**Progress:** 964/3783 (25.482421358710017%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2347,8 +2347,8 @@
 | `layer_tile_alpha` | ✅ | WAD Version 15 |  |
 | `layer_tile_blend` | 🚫 | WAD Version 15 |  |
 | `layer_tile_change` | 🚫 | WAD Version 15 |  |
-| `layer_tile_create` | 🚫 | WAD Version 15 |  |
-| `layer_tile_destroy` | 🚫 | WAD Version 15 |  |
+| `layer_tile_create` | ✅ | WAD Version 15 |  |
+| `layer_tile_destroy` | ✅ | WAD Version 15 |  |
 | `layer_tile_exists` | 🚫 | WAD Version 15 |  |
 | `layer_tile_get_alpha` | 🚫 | WAD Version 15 |  |
 | `layer_tile_get_blend` | 🚫 | WAD Version 15 |  |
