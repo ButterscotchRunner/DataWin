@@ -1,4 +1,4 @@
-**Progress:** 960/3783 (25.376685170499602%)
+**Progress:** 962/3783 (25.42955326460481%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -873,7 +873,7 @@
 | `object_event_clear` | 🚫 | GM:S 1.0.98 | GM 2023.11.0.157 |
 | `object_exists` | ✅ | GM:S 1.0.98 |  |
 | `object_get_depth` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `object_get_mask` | 🚫 | GM:S 1.0.98 |  |
+| `object_get_mask` | ✅ | GM:S 1.0.98 |  |
 | `object_get_name` | ✅ | GM:S 1.0.98 |  |
 | `object_get_parent` | ✅ | GM:S 1.0.98 |  |
 | `object_get_persistent` | ✅ | GM:S 1.0.98 |  |
@@ -883,7 +883,7 @@
 | `object_is_ancestor` | ✅ | GM:S 1.0.98 |  |
 | `object_name` | ✅ | GM:S 1.0.98 | GM:S 2.3.6.464 |
 | `object_set_depth` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `object_set_mask` | 🚫 | GM:S 1.0.98 |  |
+| `object_set_mask` | ✅ | GM:S 1.0.98 |  |
 | `object_set_parent` | ✅ | GM:S 1.0.98 | GM 2023.11.0.157 |
 | `object_set_persistent` | ✅ | GM:S 1.0.98 |  |
 | `object_set_solid` | ✅ | GM:S 1.0.98 |  |
