@@ -1,4 +1,4 @@
-**Progress:** 1010/3783 (26.698387523129792%)
+**Progress:** 1012/3783 (26.751255617235%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -955,7 +955,7 @@
 | `part_type_color2` | ✅ | GM:S 1.0.98 |  |
 | `part_type_color3` | ✅ | GM:S 1.0.98 |  |
 | `part_type_color_hsv` | 🚫 | GM:S 1.0.98 |  |
-| `part_type_color_mix` | 🚫 | GM:S 1.0.98 |  |
+| `part_type_color_mix` | ✅ | GM:S 1.0.98 |  |
 | `part_type_color_rgb` | 🚫 | GM:S 1.0.98 |  |
 | `part_type_create` | ✅ | GM:S 1.0.98 |  |
 | `part_type_death` | ✅ | GM:S 1.0.98 |  |
@@ -1938,7 +1938,7 @@
 | `part_type_colour2` | ✅ | GM:S 1.3.1307 |  |
 | `part_type_colour3` | ✅ | GM:S 1.3.1307 |  |
 | `part_type_colour_hsv` | 🚫 | GM:S 1.3.1307 |  |
-| `part_type_colour_mix` | 🚫 | GM:S 1.3.1307 |  |
+| `part_type_colour_mix` | ✅ | GM:S 1.3.1307 |  |
 | `part_type_colour_rgb` | 🚫 | GM:S 1.3.1307 |  |
 | `player_run` | 🚫 | GM:S 1.3.1307 | WAD Version 15 |
 | `point_in_circle` | ✅ | GM:S 1.3.1307 |  |
