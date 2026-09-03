@@ -1,4 +1,4 @@
-**Progress:** 964/3783 (25.482421358710017%)
+**Progress:** 1010/3783 (26.698387523129792%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -921,56 +921,56 @@
 | `part_destroyer_destroy_all` | 🚫 | GM:S 1.0.98 | WAD Version 15 |
 | `part_destroyer_exists` | 🚫 | GM:S 1.0.98 | WAD Version 15 |
 | `part_destroyer_region` | 🚫 | GM:S 1.0.98 | WAD Version 15 |
-| `part_emitter_burst` | 🚫 | GM:S 1.0.98 |  |
+| `part_emitter_burst` | ✅ | GM:S 1.0.98 |  |
 | `part_emitter_clear` | 🚫 | GM:S 1.0.98 |  |
-| `part_emitter_create` | 🚫 | GM:S 1.0.98 |  |
-| `part_emitter_destroy` | 🚫 | GM:S 1.0.98 |  |
-| `part_emitter_destroy_all` | 🚫 | GM:S 1.0.98 |  |
-| `part_emitter_exists` | 🚫 | GM:S 1.0.98 |  |
-| `part_emitter_region` | 🚫 | GM:S 1.0.98 |  |
-| `part_emitter_stream` | 🚫 | GM:S 1.0.98 |  |
-| `part_particles_clear` | 🚫 | GM:S 1.0.98 |  |
-| `part_particles_count` | 🚫 | GM:S 1.0.98 |  |
-| `part_particles_create` | 🚫 | GM:S 1.0.98 |  |
-| `part_particles_create_color` | 🚫 | GM:S 1.0.98 |  |
-| `part_system_automatic_draw` | 🚫 | GM:S 1.0.98 |  |
-| `part_system_automatic_update` | 🚫 | GM:S 1.0.98 |  |
-| `part_system_clear` | 🚫 | GM:S 1.0.98 |  |
-| `part_system_create` | 🚫 | GM:S 1.0.98 |  |
-| `part_system_depth` | 🚫 | GM:S 1.0.98 |  |
-| `part_system_destroy` | 🚫 | GM:S 1.0.98 |  |
+| `part_emitter_create` | ✅ | GM:S 1.0.98 |  |
+| `part_emitter_destroy` | ✅ | GM:S 1.0.98 |  |
+| `part_emitter_destroy_all` | ✅ | GM:S 1.0.98 |  |
+| `part_emitter_exists` | ✅ | GM:S 1.0.98 |  |
+| `part_emitter_region` | ✅ | GM:S 1.0.98 |  |
+| `part_emitter_stream` | ✅ | GM:S 1.0.98 |  |
+| `part_particles_clear` | ✅ | GM:S 1.0.98 |  |
+| `part_particles_count` | ✅ | GM:S 1.0.98 |  |
+| `part_particles_create` | ✅ | GM:S 1.0.98 |  |
+| `part_particles_create_color` | ✅ | GM:S 1.0.98 |  |
+| `part_system_automatic_draw` | ✅ | GM:S 1.0.98 |  |
+| `part_system_automatic_update` | ✅ | GM:S 1.0.98 |  |
+| `part_system_clear` | ✅ | GM:S 1.0.98 |  |
+| `part_system_create` | ✅ | GM:S 1.0.98 |  |
+| `part_system_depth` | ✅ | GM:S 1.0.98 |  |
+| `part_system_destroy` | ✅ | GM:S 1.0.98 |  |
 | `part_system_draw_order` | 🚫 | GM:S 1.0.98 |  |
-| `part_system_drawit` | 🚫 | GM:S 1.0.98 |  |
-| `part_system_exists` | 🚫 | GM:S 1.0.98 |  |
-| `part_system_position` | 🚫 | GM:S 1.0.98 |  |
-| `part_system_update` | 🚫 | GM:S 1.0.98 |  |
+| `part_system_drawit` | ✅ | GM:S 1.0.98 |  |
+| `part_system_exists` | ✅ | GM:S 1.0.98 |  |
+| `part_system_position` | ✅ | GM:S 1.0.98 |  |
+| `part_system_update` | ✅ | GM:S 1.0.98 |  |
 | `part_type_alpha` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `part_type_alpha1` | 🚫 | GM:S 1.0.98 |  |
-| `part_type_alpha2` | 🚫 | GM:S 1.0.98 |  |
-| `part_type_alpha3` | 🚫 | GM:S 1.0.98 |  |
-| `part_type_blend` | 🚫 | GM:S 1.0.98 |  |
-| `part_type_clear` | 🚫 | GM:S 1.0.98 |  |
+| `part_type_alpha1` | ✅ | GM:S 1.0.98 |  |
+| `part_type_alpha2` | ✅ | GM:S 1.0.98 |  |
+| `part_type_alpha3` | ✅ | GM:S 1.0.98 |  |
+| `part_type_blend` | ✅ | GM:S 1.0.98 |  |
+| `part_type_clear` | ✅ | GM:S 1.0.98 |  |
 | `part_type_color` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `part_type_color1` | 🚫 | GM:S 1.0.98 |  |
-| `part_type_color2` | 🚫 | GM:S 1.0.98 |  |
-| `part_type_color3` | 🚫 | GM:S 1.0.98 |  |
+| `part_type_color1` | ✅ | GM:S 1.0.98 |  |
+| `part_type_color2` | ✅ | GM:S 1.0.98 |  |
+| `part_type_color3` | ✅ | GM:S 1.0.98 |  |
 | `part_type_color_hsv` | 🚫 | GM:S 1.0.98 |  |
 | `part_type_color_mix` | 🚫 | GM:S 1.0.98 |  |
 | `part_type_color_rgb` | 🚫 | GM:S 1.0.98 |  |
-| `part_type_create` | 🚫 | GM:S 1.0.98 |  |
-| `part_type_death` | 🚫 | GM:S 1.0.98 |  |
-| `part_type_destroy` | 🚫 | GM:S 1.0.98 |  |
-| `part_type_direction` | 🚫 | GM:S 1.0.98 |  |
-| `part_type_exists` | 🚫 | GM:S 1.0.98 |  |
-| `part_type_gravity` | 🚫 | GM:S 1.0.98 |  |
-| `part_type_life` | 🚫 | GM:S 1.0.98 |  |
-| `part_type_orientation` | 🚫 | GM:S 1.0.98 |  |
-| `part_type_scale` | 🚫 | GM:S 1.0.98 |  |
+| `part_type_create` | ✅ | GM:S 1.0.98 |  |
+| `part_type_death` | ✅ | GM:S 1.0.98 |  |
+| `part_type_destroy` | ✅ | GM:S 1.0.98 |  |
+| `part_type_direction` | ✅ | GM:S 1.0.98 |  |
+| `part_type_exists` | ✅ | GM:S 1.0.98 |  |
+| `part_type_gravity` | ✅ | GM:S 1.0.98 |  |
+| `part_type_life` | ✅ | GM:S 1.0.98 |  |
+| `part_type_orientation` | ✅ | GM:S 1.0.98 |  |
+| `part_type_scale` | ✅ | GM:S 1.0.98 |  |
 | `part_type_shape` | 🚫 | GM:S 1.0.98 |  |
-| `part_type_size` | 🚫 | GM:S 1.0.98 |  |
-| `part_type_speed` | 🚫 | GM:S 1.0.98 |  |
-| `part_type_sprite` | 🚫 | GM:S 1.0.98 |  |
-| `part_type_step` | 🚫 | GM:S 1.0.98 |  |
+| `part_type_size` | ✅ | GM:S 1.0.98 |  |
+| `part_type_speed` | ✅ | GM:S 1.0.98 |  |
+| `part_type_sprite` | ✅ | GM:S 1.0.98 |  |
+| `part_type_step` | ✅ | GM:S 1.0.98 |  |
 | `path_add` | ✅ | GM:S 1.0.98 |  |
 | `path_add_point` | ✅ | GM:S 1.0.98 |  |
 | `path_append` | ✅ | GM:S 1.0.98 |  |
@@ -1932,11 +1932,11 @@
 | `is_vec4` | 🚫 | GM:S 1.3.1307 | GM 2023.2.0.87 |
 | `mp_grid_get_cell` | ✅ | GM:S 1.3.1307 |  |
 | `mp_grid_to_ds_grid` | 🚫 | GM:S 1.3.1307 |  |
-| `part_particles_create_colour` | 🚫 | GM:S 1.3.1307 |  |
+| `part_particles_create_colour` | ✅ | GM:S 1.3.1307 |  |
 | `part_type_colour` | 🚫 | GM:S 1.3.1307 | GM:S 2.3.0.401 |
-| `part_type_colour1` | 🚫 | GM:S 1.3.1307 |  |
-| `part_type_colour2` | 🚫 | GM:S 1.3.1307 |  |
-| `part_type_colour3` | 🚫 | GM:S 1.3.1307 |  |
+| `part_type_colour1` | ✅ | GM:S 1.3.1307 |  |
+| `part_type_colour2` | ✅ | GM:S 1.3.1307 |  |
+| `part_type_colour3` | ✅ | GM:S 1.3.1307 |  |
 | `part_type_colour_hsv` | 🚫 | GM:S 1.3.1307 |  |
 | `part_type_colour_mix` | 🚫 | GM:S 1.3.1307 |  |
 | `part_type_colour_rgb` | 🚫 | GM:S 1.3.1307 |  |
