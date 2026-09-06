@@ -1,4 +1,4 @@
-**Progress:** 1013/3783 (26.777689664287603%)
+**Progress:** 1015/3783 (26.83055775839281%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -668,7 +668,7 @@
 | `font_add` | 🚫 | GM:S 1.0.98 |  |
 | `font_add_sprite` | ✅ | GM:S 1.0.98 |  |
 | `font_delete` | 🚫 | GM:S 1.0.98 |  |
-| `font_exists` | 🚫 | GM:S 1.0.98 |  |
+| `font_exists` | ✅ | GM:S 1.0.98 |  |
 | `font_get_bold` | 🚫 | GM:S 1.0.98 |  |
 | `font_get_first` | 🚫 | GM:S 1.0.98 |  |
 | `font_get_fontname` | 🚫 | GM:S 1.0.98 |  |
@@ -2296,7 +2296,7 @@
 | `layer_get_all` | ✅ | WAD Version 15 |  |
 | `layer_get_all_elements` | ✅ | WAD Version 15 |  |
 | `layer_get_depth` | ✅ | WAD Version 15 |  |
-| `layer_get_element_layer` | 🚫 | WAD Version 15 |  |
+| `layer_get_element_layer` | ✅ | WAD Version 15 |  |
 | `layer_get_element_type` | ✅ | WAD Version 15 |  |
 | `layer_get_forced_depth` | ✅ | WAD Version 15 |  |
 | `layer_get_hspeed` | ✅ | WAD Version 15 |  |
