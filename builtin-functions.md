@@ -1,4 +1,4 @@
-**Progress:** 1022/3783 (27.015596087761036%)
+**Progress:** 1028/3783 (27.174200370076658%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -431,8 +431,8 @@
 | `draw_primitive_end` | 🚫 | GM:S 1.0.98 |  |
 | `draw_rectangle` | ✅ | GM:S 1.0.98 |  |
 | `draw_rectangle_color` | ✅ | GM:S 1.0.98 |  |
-| `draw_roundrect` | 🚫 | GM:S 1.0.98 |  |
-| `draw_roundrect_color` | 🚫 | GM:S 1.0.98 |  |
+| `draw_roundrect` | ✅ | GM:S 1.0.98 |  |
+| `draw_roundrect_color` | ✅ | GM:S 1.0.98 |  |
 | `draw_self` | ✅ | GM:S 1.0.98 |  |
 | `draw_set_alpha` | ✅ | GM:S 1.0.98 |  |
 | `draw_set_blend_mode` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
@@ -1813,7 +1813,7 @@
 | `draw_line_width_colour` | ✅ | GM:S 1.1.1076 |  |
 | `draw_point_colour` | ✅ | GM:S 1.1.1076 |  |
 | `draw_rectangle_colour` | ✅ | GM:S 1.1.1076 |  |
-| `draw_roundrect_colour` | 🚫 | GM:S 1.1.1076 |  |
+| `draw_roundrect_colour` | ✅ | GM:S 1.1.1076 |  |
 | `draw_set_colour` | ✅ | GM:S 1.1.1076 |  |
 | `draw_text_colour` | ✅ | GM:S 1.1.1076 |  |
 | `draw_text_ext_colour` | ✅ | GM:S 1.1.1076 |  |
@@ -1910,8 +1910,8 @@
 | `dcos` | ✅ | GM:S 1.3.1307 |  |
 | `device_mouse_x_to_gui` | ✅ | GM:S 1.3.1307 |  |
 | `device_mouse_y_to_gui` | ✅ | GM:S 1.3.1307 |  |
-| `draw_roundrect_color_ext` | 🚫 | GM:S 1.3.1307 |  |
-| `draw_roundrect_ext` | 🚫 | GM:S 1.3.1307 |  |
+| `draw_roundrect_color_ext` | ✅ | GM:S 1.3.1307 |  |
+| `draw_roundrect_ext` | ✅ | GM:S 1.3.1307 |  |
 | `draw_set_colour_write_enable` | ✅ | GM:S 1.3.1307 | GM:S 2.3.1.406 |
 | `draw_skeleton` | 🚫 | GM:S 1.3.1307 |  |
 | `draw_skeleton_collision` | 🚫 | GM:S 1.3.1307 |  |
@@ -1986,7 +1986,7 @@
 | `date_set_timezone` | 🚫 | GM:S 1.3.1373 |  |
 | `draw_enable_swf_aa` | 🚫 | GM:S 1.3.1373 |  |
 | `draw_get_swf_aa_level` | 🚫 | GM:S 1.3.1373 |  |
-| `draw_roundrect_colour_ext` | 🚫 | GM:S 1.3.1373 |  |
+| `draw_roundrect_colour_ext` | ✅ | GM:S 1.3.1373 |  |
 | `draw_set_swf_aa_level` | 🚫 | GM:S 1.3.1373 |  |
 | `draw_skeleton_time` | 🚫 | GM:S 1.3.1373 |  |
 | `extension_stubfunc_real` | 🚫 | GM:S 1.3.1373 |  |
