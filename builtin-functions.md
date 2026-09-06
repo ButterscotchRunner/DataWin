@@ -1,4 +1,4 @@
-**Progress:** 1015/3783 (26.83055775839281%)
+**Progress:** 1018/3783 (26.90985989955062%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1903,8 +1903,8 @@
 | `application_get_position` | 🚫 | GM:S 1.3.1307 |  |
 | `application_surface_draw_enable` | ✅ | GM:S 1.3.1307 |  |
 | `background_create_colour` | 🚫 | GM:S 1.3.1307 | GM:S 2.3.1.406 |
-| `darccos` | 🚫 | GM:S 1.3.1307 |  |
-| `darcsin` | 🚫 | GM:S 1.3.1307 |  |
+| `darccos` | ✅ | GM:S 1.3.1307 |  |
+| `darcsin` | ✅ | GM:S 1.3.1307 |  |
 | `darctan` | ✅ | GM:S 1.3.1307 |  |
 | `darctan2` | ✅ | GM:S 1.3.1307 |  |
 | `dcos` | ✅ | GM:S 1.3.1307 |  |
@@ -1919,7 +1919,7 @@
 | `ds_map_secure_load` | 🚫 | GM:S 1.3.1307 |  |
 | `ds_map_secure_save` | 🚫 | GM:S 1.3.1307 |  |
 | `dsin` | ✅ | GM:S 1.3.1307 |  |
-| `dtan` | 🚫 | GM:S 1.3.1307 |  |
+| `dtan` | ✅ | GM:S 1.3.1307 |  |
 | `http_get_file` | 🚫 | GM:S 1.3.1307 |  |
 | `iap_enumerate_products` | 🚫 | GM:S 1.3.1307 |  |
 | `iap_purchase_details` | 🚫 | GM:S 1.3.1307 |  |
