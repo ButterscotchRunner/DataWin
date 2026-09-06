@@ -1,4 +1,4 @@
-**Progress:** 1018/3783 (26.90985989955062%)
+**Progress:** 1020/3783 (26.96272799365583%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2674,8 +2674,8 @@
 | `d3d_model_load_buffer` | 🚫 | WAD Version 16 | GM:S 2.3.1.406 |
 | `d3d_model_save_buffer` | 🚫 | WAD Version 16 | GM:S 2.3.1.406 |
 | `debug_get_callstack` | 🚫 | WAD Version 16 |  |
-| `dot_product_3d_normalized` | 🚫 | WAD Version 16 |  |
-| `dot_product_normalized` | 🚫 | WAD Version 16 |  |
+| `dot_product_3d_normalized` | ✅ | WAD Version 16 |  |
+| `dot_product_normalized` | ✅ | WAD Version 16 |  |
 | `draw_shape` | 🚫 | WAD Version 16 | GM:S 2.3.1.406 |
 | `draw_shape_string` | 🚫 | WAD Version 16 | GM:S 2.3.1.406 |
 | `draw_skeleton_instance` | 🚫 | WAD Version 16 |  |
