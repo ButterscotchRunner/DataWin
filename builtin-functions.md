@@ -1,4 +1,4 @@
-**Progress:** 1020/3783 (26.96272799365583%)
+**Progress:** 1022/3783 (27.015596087761036%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -669,10 +669,10 @@
 | `font_add_sprite` | ✅ | GM:S 1.0.98 |  |
 | `font_delete` | 🚫 | GM:S 1.0.98 |  |
 | `font_exists` | ✅ | GM:S 1.0.98 |  |
-| `font_get_bold` | 🚫 | GM:S 1.0.98 |  |
+| `font_get_bold` | ✅ | GM:S 1.0.98 |  |
 | `font_get_first` | 🚫 | GM:S 1.0.98 |  |
 | `font_get_fontname` | 🚫 | GM:S 1.0.98 |  |
-| `font_get_italic` | 🚫 | GM:S 1.0.98 |  |
+| `font_get_italic` | ✅ | GM:S 1.0.98 |  |
 | `font_get_last` | 🚫 | GM:S 1.0.98 |  |
 | `font_get_name` | ✅ | GM:S 1.0.98 |  |
 | `font_get_size` | ✅ | GM:S 1.0.98 |  |
