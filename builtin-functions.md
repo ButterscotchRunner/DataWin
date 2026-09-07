@@ -1,4 +1,4 @@
-**Progress:** 1028/3783 (27.174200370076658%)
+**Progress:** 1032/3783 (27.279936558287073%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -496,7 +496,7 @@
 | `ds_grid_multiply_disk` | 🚫 | GM:S 1.0.98 |  |
 | `ds_grid_multiply_grid_region` | 🚫 | GM:S 1.0.98 |  |
 | `ds_grid_multiply_region` | 🚫 | GM:S 1.0.98 |  |
-| `ds_grid_read` | 🚫 | GM:S 1.0.98 |  |
+| `ds_grid_read` | ✅ | GM:S 1.0.98 |  |
 | `ds_grid_resize` | ✅ | GM:S 1.0.98 |  |
 | `ds_grid_set` | ✅ | GM:S 1.0.98 |  |
 | `ds_grid_set_disk` | 🚫 | GM:S 1.0.98 |  |
@@ -510,7 +510,7 @@
 | `ds_grid_value_x` | 🚫 | GM:S 1.0.98 |  |
 | `ds_grid_value_y` | 🚫 | GM:S 1.0.98 |  |
 | `ds_grid_width` | ✅ | GM:S 1.0.98 |  |
-| `ds_grid_write` | 🚫 | GM:S 1.0.98 |  |
+| `ds_grid_write` | ✅ | GM:S 1.0.98 |  |
 | `ds_list_add` | ✅ | GM:S 1.0.98 |  |
 | `ds_list_clear` | ✅ | GM:S 1.0.98 |  |
 | `ds_list_copy` | ✅ | GM:S 1.0.98 |  |
@@ -540,10 +540,10 @@
 | `ds_map_find_next` | ✅ | GM:S 1.0.98 |  |
 | `ds_map_find_previous` | 🚫 | GM:S 1.0.98 |  |
 | `ds_map_find_value` | ✅ | GM:S 1.0.98 |  |
-| `ds_map_read` | 🚫 | GM:S 1.0.98 |  |
+| `ds_map_read` | ✅ | GM:S 1.0.98 |  |
 | `ds_map_replace` | ✅ | GM:S 1.0.98 |  |
 | `ds_map_size` | ✅ | GM:S 1.0.98 |  |
-| `ds_map_write` | 🚫 | GM:S 1.0.98 |  |
+| `ds_map_write` | ✅ | GM:S 1.0.98 |  |
 | `ds_priority_add` | ✅ | GM:S 1.0.98 |  |
 | `ds_priority_change_priority` | ✅ | GM:S 1.0.98 |  |
 | `ds_priority_clear` | ✅ | GM:S 1.0.98 |  |
