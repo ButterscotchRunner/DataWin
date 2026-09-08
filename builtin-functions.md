@@ -1,4 +1,4 @@
-**Progress:** 1038/3783 (27.4385408406027%)
+**Progress:** 1039/3783 (27.464974887655302%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -3347,7 +3347,7 @@
 | `xboxone_update_recent_players` | 🚫 | GM 2022.9.0.63 |  |
 | `array_all` | 🚫 | GM 2022.11.0.73 |  |
 | `array_any` | 🚫 | GM 2022.11.0.73 |  |
-| `array_concat` | 🚫 | GM 2022.11.0.73 |  |
+| `array_concat` | ✅ | GM 2022.11.0.73 |  |
 | `array_copy_while` | 🚫 | GM 2022.11.0.73 |  |
 | `array_create_ext` | 🚫 | GM 2022.11.0.73 |  |
 | `array_filter` | 🚫 | GM 2022.11.0.73 |  |
