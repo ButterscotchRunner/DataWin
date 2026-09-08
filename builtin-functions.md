@@ -1,4 +1,4 @@
-**Progress:** 1039/3783 (27.464974887655302%)
+**Progress:** 1040/3783 (27.491408934707906%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -423,7 +423,7 @@
 | `draw_line_color` | ✅ | GM:S 1.0.98 |  |
 | `draw_line_width` | ✅ | GM:S 1.0.98 |  |
 | `draw_line_width_color` | ✅ | GM:S 1.0.98 |  |
-| `draw_path` | 🚫 | GM:S 1.0.98 |  |
+| `draw_path` | ✅ | GM:S 1.0.98 |  |
 | `draw_point` | ✅ | GM:S 1.0.98 |  |
 | `draw_point_color` | ✅ | GM:S 1.0.98 |  |
 | `draw_primitive_begin` | 🚫 | GM:S 1.0.98 |  |
