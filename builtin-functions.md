@@ -1,4 +1,4 @@
-**Progress:** 1032/3783 (27.279936558287073%)
+**Progress:** 1038/3783 (27.4385408406027%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2320,8 +2320,8 @@
 | `layer_set_target_room` | 🚫 | WAD Version 15 |  |
 | `layer_set_visible` | ✅ | WAD Version 15 |  |
 | `layer_shader` | 🚫 | WAD Version 15 |  |
-| `layer_sprite_alpha` | 🚫 | WAD Version 15 |  |
-| `layer_sprite_angle` | 🚫 | WAD Version 15 |  |
+| `layer_sprite_alpha` | ✅ | WAD Version 15 |  |
+| `layer_sprite_angle` | ✅ | WAD Version 15 |  |
 | `layer_sprite_blend` | ✅ | WAD Version 15 |  |
 | `layer_sprite_change` | 🚫 | WAD Version 15 |  |
 | `layer_sprite_create` | 🚫 | WAD Version 15 |  |
@@ -2340,10 +2340,10 @@
 | `layer_sprite_get_yscale` | ✅ | WAD Version 15 |  |
 | `layer_sprite_index` | ✅ | WAD Version 15 |  |
 | `layer_sprite_speed` | ✅ | WAD Version 15 |  |
-| `layer_sprite_x` | 🚫 | WAD Version 15 |  |
-| `layer_sprite_xscale` | 🚫 | WAD Version 15 |  |
-| `layer_sprite_y` | 🚫 | WAD Version 15 |  |
-| `layer_sprite_yscale` | 🚫 | WAD Version 15 |  |
+| `layer_sprite_x` | ✅ | WAD Version 15 |  |
+| `layer_sprite_xscale` | ✅ | WAD Version 15 |  |
+| `layer_sprite_y` | ✅ | WAD Version 15 |  |
+| `layer_sprite_yscale` | ✅ | WAD Version 15 |  |
 | `layer_tile_alpha` | ✅ | WAD Version 15 |  |
 | `layer_tile_blend` | 🚫 | WAD Version 15 |  |
 | `layer_tile_change` | 🚫 | WAD Version 15 |  |
