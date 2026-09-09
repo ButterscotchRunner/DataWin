@@ -1,4 +1,4 @@
-**Progress:** 142/233 (60.94420600858369%)
+**Progress:** 143/233 (61.37339055793991%)
 
 | GML Variable | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -56,7 +56,7 @@
 | `current_time` | ✅ | GM:S 1.0.98 |  |
 | `current_weekday` | ✅ | GM:S 1.0.98 |  |
 | `current_year` | ✅ | GM:S 1.0.98 |  |
-| `cursor_sprite` | 🚫 | GM:S 1.0.98 |  |
+| `cursor_sprite` | ✅ | GM:S 1.0.98 |  |
 | `depth` | ✅ | GM:S 1.0.98 |  |
 | `direction` | ✅ | GM:S 1.0.98 |  |
 | `error_last` | 🚫 | GM:S 1.0.98 |  |
