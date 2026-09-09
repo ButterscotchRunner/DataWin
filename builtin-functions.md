@@ -1,4 +1,4 @@
-**Progress:** 1040/3783 (27.491408934707906%)
+**Progress:** 1045/3783 (27.623579169970924%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1307,12 +1307,12 @@
 | `tile_set_region` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `tile_set_scale` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `tile_set_visible` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `timeline_add` | 🚫 | GM:S 1.0.98 |  |
-| `timeline_delete` | 🚫 | GM:S 1.0.98 |  |
+| `timeline_add` | ✅ | GM:S 1.0.98 |  |
+| `timeline_delete` | ✅ | GM:S 1.0.98 |  |
 | `timeline_exists` | ✅ | GM:S 1.0.98 |  |
 | `timeline_get_name` | ✅ | GM:S 1.0.98 |  |
 | `timeline_moment_add` | 🚫 | GM:S 1.0.98 | GM 2023.11.0.157 |
-| `timeline_moment_clear` | 🚫 | GM:S 1.0.98 |  |
+| `timeline_moment_clear` | ✅ | GM:S 1.0.98 |  |
 | `timeline_name` | 🚫 | GM:S 1.0.98 | GM:S 2.3.6.464 |
 | `transition_define` | 🚫 | GM:S 1.0.98 | GM 2023.11.0.157 |
 | `transition_exists` | 🚫 | GM:S 1.0.98 | GM 2023.11.0.157 |
@@ -1889,8 +1889,8 @@
 | `gml_release_mode` | 🚫 | GM:S 1.2.1264 |  |
 | `http_request` | 🚫 | GM:S 1.2.1264 |  |
 | `os_get_region` | ✅ | GM:S 1.2.1264 |  |
-| `timeline_clear` | 🚫 | GM:S 1.2.1264 |  |
-| `timeline_moment_add_script` | 🚫 | GM:S 1.2.1264 |  |
+| `timeline_clear` | ✅ | GM:S 1.2.1264 |  |
+| `timeline_moment_add_script` | ✅ | GM:S 1.2.1264 |  |
 | `array_get` | ✅ | GM:S 1.2.1279 |  |
 | `array_get_2D` | 🚫 | GM:S 1.2.1279 | GM 2024.14.0.251 |
 | `array_set` | ✅ | GM:S 1.2.1279 |  |
