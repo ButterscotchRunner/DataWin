@@ -1,4 +1,4 @@
-**Progress:** 1045/3783 (27.623579169970924%)
+**Progress:** 1046/3783 (27.650013217023528%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2210,7 +2210,7 @@
 | `ds_map_secure_load_buffer` | 🚫 | WAD Version 15 |  |
 | `ds_map_secure_save_buffer` | 🚫 | WAD Version 15 |  |
 | `game_get_speed` | ✅ | WAD Version 15 |  |
-| `game_set_speed` | 🚫 | WAD Version 15 |  |
+| `game_set_speed` | ✅ | WAD Version 15 |  |
 | `gpio_clear` | 🚫 | WAD Version 15 | GM:S 2.3.1.406 |
 | `gpio_get` | 🚫 | WAD Version 15 | GM:S 2.3.1.406 |
 | `gpio_set` | 🚫 | WAD Version 15 | GM:S 2.3.1.406 |
