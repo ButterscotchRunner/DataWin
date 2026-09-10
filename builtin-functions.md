@@ -1,4 +1,4 @@
-**Progress:** 1046/3783 (27.650013217023528%)
+**Progress:** 1094/3783 (28.91884747554851%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -426,9 +426,9 @@
 | `draw_path` | ✅ | GM:S 1.0.98 |  |
 | `draw_point` | ✅ | GM:S 1.0.98 |  |
 | `draw_point_color` | ✅ | GM:S 1.0.98 |  |
-| `draw_primitive_begin` | 🚫 | GM:S 1.0.98 |  |
-| `draw_primitive_begin_texture` | 🚫 | GM:S 1.0.98 |  |
-| `draw_primitive_end` | 🚫 | GM:S 1.0.98 |  |
+| `draw_primitive_begin` | ✅ | GM:S 1.0.98 |  |
+| `draw_primitive_begin_texture` | ✅ | GM:S 1.0.98 |  |
+| `draw_primitive_end` | ✅ | GM:S 1.0.98 |  |
 | `draw_rectangle` | ✅ | GM:S 1.0.98 |  |
 | `draw_rectangle_color` | ✅ | GM:S 1.0.98 |  |
 | `draw_roundrect` | ✅ | GM:S 1.0.98 |  |
@@ -470,10 +470,10 @@
 | `draw_text_transformed_color` | ✅ | GM:S 1.0.98 |  |
 | `draw_triangle` | ✅ | GM:S 1.0.98 |  |
 | `draw_triangle_color` | ✅ | GM:S 1.0.98 |  |
-| `draw_vertex` | 🚫 | GM:S 1.0.98 |  |
-| `draw_vertex_color` | 🚫 | GM:S 1.0.98 |  |
-| `draw_vertex_texture` | 🚫 | GM:S 1.0.98 |  |
-| `draw_vertex_texture_color` | 🚫 | GM:S 1.0.98 |  |
+| `draw_vertex` | ✅ | GM:S 1.0.98 |  |
+| `draw_vertex_color` | ✅ | GM:S 1.0.98 |  |
+| `draw_vertex_texture` | ✅ | GM:S 1.0.98 |  |
+| `draw_vertex_texture_color` | ✅ | GM:S 1.0.98 |  |
 | `ds_grid_add` | ✅ | GM:S 1.0.98 |  |
 | `ds_grid_add_disk` | 🚫 | GM:S 1.0.98 |  |
 | `ds_grid_add_grid_region` | 🚫 | GM:S 1.0.98 |  |
@@ -1757,31 +1757,31 @@
 | `texture_get_texel_height` | ✅ | GM:S 1.1.1044 |  |
 | `texture_get_texel_width` | ✅ | GM:S 1.1.1044 |  |
 | `texture_set_stage` | ✅ | GM:S 1.1.1044 |  |
-| `vertex_begin` | 🚫 | GM:S 1.1.1044 |  |
-| `vertex_colour` | 🚫 | GM:S 1.1.1044 |  |
-| `vertex_create_buffer` | 🚫 | GM:S 1.1.1044 |  |
-| `vertex_create_buffer_ext` | 🚫 | GM:S 1.1.1044 |  |
-| `vertex_delete_buffer` | 🚫 | GM:S 1.1.1044 |  |
-| `vertex_end` | 🚫 | GM:S 1.1.1044 |  |
-| `vertex_float1` | 🚫 | GM:S 1.1.1044 |  |
-| `vertex_float2` | 🚫 | GM:S 1.1.1044 |  |
-| `vertex_float3` | 🚫 | GM:S 1.1.1044 |  |
-| `vertex_float4` | 🚫 | GM:S 1.1.1044 |  |
-| `vertex_format_add_colour` | 🚫 | GM:S 1.1.1044 |  |
-| `vertex_format_add_custom` | 🚫 | GM:S 1.1.1044 |  |
-| `vertex_format_add_normal` | 🚫 | GM:S 1.1.1044 |  |
-| `vertex_format_add_position` | 🚫 | GM:S 1.1.1044 |  |
-| `vertex_format_add_position_3d` | 🚫 | GM:S 1.1.1044 |  |
-| `vertex_format_add_textcoord` | 🚫 | GM:S 1.1.1044 |  |
-| `vertex_format_begin` | 🚫 | GM:S 1.1.1044 |  |
-| `vertex_format_end` | 🚫 | GM:S 1.1.1044 |  |
-| `vertex_normal` | 🚫 | GM:S 1.1.1044 |  |
-| `vertex_position` | 🚫 | GM:S 1.1.1044 |  |
-| `vertex_position_3d` | 🚫 | GM:S 1.1.1044 |  |
+| `vertex_begin` | ✅ | GM:S 1.1.1044 |  |
+| `vertex_colour` | ✅ | GM:S 1.1.1044 |  |
+| `vertex_create_buffer` | ✅ | GM:S 1.1.1044 |  |
+| `vertex_create_buffer_ext` | ✅ | GM:S 1.1.1044 |  |
+| `vertex_delete_buffer` | ✅ | GM:S 1.1.1044 |  |
+| `vertex_end` | ✅ | GM:S 1.1.1044 |  |
+| `vertex_float1` | ✅ | GM:S 1.1.1044 |  |
+| `vertex_float2` | ✅ | GM:S 1.1.1044 |  |
+| `vertex_float3` | ✅ | GM:S 1.1.1044 |  |
+| `vertex_float4` | ✅ | GM:S 1.1.1044 |  |
+| `vertex_format_add_colour` | ✅ | GM:S 1.1.1044 |  |
+| `vertex_format_add_custom` | ✅ | GM:S 1.1.1044 |  |
+| `vertex_format_add_normal` | ✅ | GM:S 1.1.1044 |  |
+| `vertex_format_add_position` | ✅ | GM:S 1.1.1044 |  |
+| `vertex_format_add_position_3d` | ✅ | GM:S 1.1.1044 |  |
+| `vertex_format_add_textcoord` | ✅ | GM:S 1.1.1044 |  |
+| `vertex_format_begin` | ✅ | GM:S 1.1.1044 |  |
+| `vertex_format_end` | ✅ | GM:S 1.1.1044 |  |
+| `vertex_normal` | ✅ | GM:S 1.1.1044 |  |
+| `vertex_position` | ✅ | GM:S 1.1.1044 |  |
+| `vertex_position_3d` | ✅ | GM:S 1.1.1044 |  |
 | `vertex_rgba` | 🚫 | GM:S 1.1.1044 | GM:S 1.1.1076 |
-| `vertex_submit` | 🚫 | GM:S 1.1.1044 |  |
-| `vertex_texcoord` | 🚫 | GM:S 1.1.1044 |  |
-| `vertex_ubyte4` | 🚫 | GM:S 1.1.1044 |  |
+| `vertex_submit` | ✅ | GM:S 1.1.1044 |  |
+| `vertex_texcoord` | ✅ | GM:S 1.1.1044 |  |
+| `vertex_ubyte4` | ✅ | GM:S 1.1.1044 |  |
 | `achievement_get_challenges` | 🚫 | GM:S 1.1.1058 |  |
 | `achievement_show_challenge_notifications` | 🚫 | GM:S 1.1.1058 |  |
 | `code_is_compiled` | 🚫 | GM:S 1.1.1058 |  |
@@ -1820,7 +1820,7 @@
 | `draw_text_ext_transformed_colour` | ✅ | GM:S 1.1.1076 |  |
 | `draw_text_transformed_colour` | ✅ | GM:S 1.1.1076 |  |
 | `draw_triangle_colour` | ✅ | GM:S 1.1.1076 |  |
-| `draw_vertex_colour` | 🚫 | GM:S 1.1.1076 |  |
+| `draw_vertex_colour` | ✅ | GM:S 1.1.1076 |  |
 | `font_get_texture` | 🚫 | GM:S 1.1.1076 |  |
 | `font_get_uvs` | ✅ | GM:S 1.1.1076 |  |
 | `make_colour` | 🚫 | GM:S 1.1.1076 | GM:S 2.3.1.406 |
@@ -1834,8 +1834,8 @@
 | `sprite_get_uvs` | ✅ | GM:S 1.1.1076 |  |
 | `texture_set_interpolation_ext` | 🚫 | GM:S 1.1.1076 | GM:S 2.3.1.406 |
 | `texture_set_repeat_ext` | 🚫 | GM:S 1.1.1076 | GM:S 2.3.1.406 |
-| `vertex_argb` | 🚫 | GM:S 1.1.1076 |  |
-| `vertex_freeze` | 🚫 | GM:S 1.1.1076 |  |
+| `vertex_argb` | ✅ | GM:S 1.1.1076 |  |
+| `vertex_freeze` | ✅ | GM:S 1.1.1076 |  |
 | `window_get_colour` | 🚫 | GM:S 1.1.1076 |  |
 | `window_set_colour` | 🚫 | GM:S 1.1.1076 |  |
 | `shaders_are_supported` | ✅ | GM:S 1.1.1086 |  |
@@ -1915,7 +1915,7 @@
 | `draw_set_colour_write_enable` | ✅ | GM:S 1.3.1307 | GM:S 2.3.1.406 |
 | `draw_skeleton` | 🚫 | GM:S 1.3.1307 |  |
 | `draw_skeleton_collision` | 🚫 | GM:S 1.3.1307 |  |
-| `draw_vertex_texture_colour` | 🚫 | GM:S 1.3.1307 |  |
+| `draw_vertex_texture_colour` | ✅ | GM:S 1.3.1307 |  |
 | `ds_map_secure_load` | 🚫 | GM:S 1.3.1307 |  |
 | `ds_map_secure_save` | 🚫 | GM:S 1.3.1307 |  |
 | `dsin` | ✅ | GM:S 1.3.1307 |  |
@@ -2109,9 +2109,9 @@
 | `ps4_share_video_enable` | 🚫 | WAD Version 14 |  |
 | `skeleton_animation_clear` | 🚫 | WAD Version 14 |  |
 | `surface_create_ext` | 🚫 | WAD Version 14 |  |
-| `vertex_create_buffer_from_buffer` | 🚫 | WAD Version 14 |  |
-| `vertex_create_buffer_from_buffer_ext` | 🚫 | WAD Version 14 |  |
-| `vertex_get_number` | 🚫 | WAD Version 14 |  |
+| `vertex_create_buffer_from_buffer` | ✅ | WAD Version 14 |  |
+| `vertex_create_buffer_from_buffer_ext` | ✅ | WAD Version 14 |  |
+| `vertex_get_number` | ✅ | WAD Version 14 |  |
 | `$ERROR` | 🚫 | WAD Version 15 |  |
 | `@@ForInIterator@@` | 🚫 | WAD Version 15 | GM 2022.1.0.482 |
 | `@@ForInIteratorDelete@@` | 🚫 | WAD Version 15 | GM 2022.1.0.482 |
@@ -2543,8 +2543,8 @@
 | `uwp_suspend` | 🚫 | WAD Version 15 |  |
 | `uwp_was_terminated` | 🚫 | WAD Version 15 |  |
 | `vertex_format_add_texcoord` | 🚫 | WAD Version 15 |  |
-| `vertex_format_delete` | 🚫 | WAD Version 15 |  |
-| `vertex_get_buffer_size` | 🚫 | WAD Version 15 |  |
+| `vertex_format_delete` | ✅ | WAD Version 15 |  |
+| `vertex_get_buffer_size` | ✅ | WAD Version 15 |  |
 | `video_close` | 🚫 | WAD Version 15 |  |
 | `video_draw` | 🚫 | WAD Version 15 |  |
 | `video_open` | 🚫 | WAD Version 15 |  |
@@ -2772,8 +2772,8 @@
 | `variable_instance_get` | ✅ | WAD Version 16 |  |
 | `variable_instance_get_names` | ✅ | WAD Version 16 |  |
 | `variable_instance_set` | ✅ | WAD Version 16 |  |
-| `vertex_color` | 🚫 | WAD Version 16 |  |
-| `vertex_format_add_color` | 🚫 | WAD Version 16 |  |
+| `vertex_color` | ✅ | WAD Version 16 |  |
+| `vertex_format_add_color` | ✅ | WAD Version 16 |  |
 | `video_set_volume` | 🚫 | WAD Version 16 |  |
 | `$FAIL` | 🚫 | GM:S 2.1.4.200 |  |
 | `$PRINT` | 🚫 | GM:S 2.1.4.200 |  |
@@ -3524,14 +3524,14 @@
 | `particle_exists` | 🚫 | GM 2023.11.0.157 |  |
 | `room_get_info` | ✅ | GM 2023.11.0.157 |  |
 | `texturegroup_get_names` | 🚫 | GM 2023.11.0.157 |  |
-| `vertex_format_get_info` | 🚫 | GM 2023.11.0.157 |  |
-| `vertex_update_buffer_from_buffer` | 🚫 | GM 2023.11.0.157 |  |
-| `vertex_update_buffer_from_vertex` | 🚫 | GM 2023.11.0.157 |  |
+| `vertex_format_get_info` | ✅ | GM 2023.11.0.157 |  |
+| `vertex_update_buffer_from_buffer` | ✅ | GM 2023.11.0.157 |  |
+| `vertex_update_buffer_from_vertex` | ✅ | GM 2023.11.0.157 |  |
 | `wallpaper_set_subscriptions` | 🚫 | GM 2023.11.0.157 |  |
 | `handle_parse` | 🚫 | GM 2024.2.0.163 |  |
 | `is_keyboard_used_debug_overlay` | 🚫 | GM 2024.2.0.163 |  |
 | `is_mouse_over_debug_overlay` | 🚫 | GM 2024.2.0.163 |  |
-| `vertex_submit_ext` | 🚫 | GM 2024.2.0.163 |  |
+| `vertex_submit_ext` | ✅ | GM 2024.2.0.163 |  |
 | `window_enable_borderless_fullscreen` | 🚫 | GM 2024.2.0.163 |  |
 | `window_get_borderless_fullscreen` | 🚫 | GM 2024.2.0.163 |  |
 | `dbg_section_exists` | 🚫 | GM 2024.4.0.168 |  |
@@ -3774,8 +3774,8 @@
 | `vector_sprite_cache_limit` | 🚫 | GM 2024.14.0.251 |  |
 | `vector_sprite_cache_prune_age` | 🚫 | GM 2024.14.0.251 |  |
 | `vector_sprite_cache_prune_fraction` | 🚫 | GM 2024.14.0.251 |  |
-| `vertex_buffer_exists` | 🚫 | GM 2024.14.0.251 |  |
-| `vertex_format_exists` | 🚫 | GM 2024.14.0.251 |  |
+| `vertex_buffer_exists` | ✅ | GM 2024.14.0.251 |  |
+| `vertex_format_exists` | ✅ | GM 2024.14.0.251 |  |
 | `particle_add` | 🚫 | GM 2024.14.1.253 |  |
 | `particle_delete` | 🚫 | GM 2024.14.1.253 |  |
 | `flexpanel_get_rounding_scale` | 🚫 | GM 2024.14.2.255 |  |
