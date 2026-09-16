@@ -1,4 +1,4 @@
-**Progress:** 1097/3783 (28.99814961670632%)
+**Progress:** 1098/3783 (29.024583663758925%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2665,7 +2665,7 @@
 | `yyg_player_restarted` | 🚫 | WAD Version 15 | GM:S 2.3.1.406 |
 | `yyg_player_run` | 🚫 | WAD Version 15 | GM:S 2.3.1.406 |
 | `@@Null@@` | 🚫 | WAD Version 16 |  |
-| `array_copy` | 🚫 | WAD Version 16 |  |
+| `array_copy` | ✅ | WAD Version 16 |  |
 | `array_create` | ✅ | WAD Version 16 |  |
 | `array_equals` | 🚫 | WAD Version 16 |  |
 | `buffer_get_alignment` | 🚫 | WAD Version 16 |  |
