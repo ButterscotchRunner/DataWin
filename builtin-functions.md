@@ -1,4 +1,4 @@
-**Progress:** 1095/3783 (28.945281522601114%)
+**Progress:** 1096/3783 (28.971715569653718%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -3172,7 +3172,7 @@
 | `array_insert` | ✅ | GM:S 2.3.1.406 |  |
 | `array_pop` | ✅ | GM:S 2.3.1.406 |  |
 | `array_push` | ✅ | GM:S 2.3.1.406 |  |
-| `array_sort` | 🚫 | GM:S 2.3.1.406 |  |
+| `array_sort` | ✅ | GM:S 2.3.1.406 |  |
 | `gc_get_target_frame_time` | 🚫 | GM:S 2.3.1.406 |  |
 | `gc_target_frame_time` | 🚫 | GM:S 2.3.1.406 |  |
 | `json_parse` | 🚫 | GM:S 2.3.1.406 |  |
