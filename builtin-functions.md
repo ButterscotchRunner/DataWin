@@ -1,4 +1,4 @@
-**Progress:** 1098/3783 (29.024583663758925%)
+**Progress:** 1099/3783 (29.05101771081153%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1880,7 +1880,7 @@
 | `buffer_get_address` | 🚫 | GM:S 1.2.1264 |  |
 | `ds_grid_set_post` | 🚫 | GM:S 1.2.1264 |  |
 | `ds_grid_set_pre` | 🚫 | GM:S 1.2.1264 |  |
-| `ds_list_set` | 🚫 | GM:S 1.2.1264 |  |
+| `ds_list_set` | ✅ | GM:S 1.2.1264 |  |
 | `ds_list_set_post` | 🚫 | GM:S 1.2.1264 |  |
 | `ds_list_set_pre` | 🚫 | GM:S 1.2.1264 |  |
 | `ds_map_set` | ✅ | GM:S 1.2.1264 |  |
