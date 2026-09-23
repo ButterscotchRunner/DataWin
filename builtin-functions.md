@@ -1,4 +1,4 @@
-**Progress:** 1099/3783 (29.05101771081153%)
+**Progress:** 1102/3783 (29.13031985196934%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -801,7 +801,7 @@
 | `min` | ✅ | GM:S 1.0.98 |  |
 | `min3` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `motion_add` | ✅ | GM:S 1.0.98 |  |
-| `motion_set` | 🚫 | GM:S 1.0.98 |  |
+| `motion_set` | ✅ | GM:S 1.0.98 |  |
 | `mouse_check_button` | ✅ | GM:S 1.0.98 |  |
 | `mouse_check_button_pressed` | ✅ | GM:S 1.0.98 |  |
 | `mouse_check_button_released` | ✅ | GM:S 1.0.98 |  |
@@ -2323,7 +2323,7 @@
 | `layer_sprite_alpha` | ✅ | WAD Version 15 |  |
 | `layer_sprite_angle` | ✅ | WAD Version 15 |  |
 | `layer_sprite_blend` | ✅ | WAD Version 15 |  |
-| `layer_sprite_change` | 🚫 | WAD Version 15 |  |
+| `layer_sprite_change` | ✅ | WAD Version 15 |  |
 | `layer_sprite_create` | 🚫 | WAD Version 15 |  |
 | `layer_sprite_destroy` | ✅ | WAD Version 15 |  |
 | `layer_sprite_exists` | ✅ | WAD Version 15 |  |
@@ -3080,7 +3080,7 @@
 | `ds_list_is_map` | 🚫 | GM:S 2.3.0.401 |  |
 | `ds_map_is_list` | ✅ | GM:S 2.3.0.401 |  |
 | `ds_map_is_map` | ✅ | GM:S 2.3.0.401 |  |
-| `ds_map_keys_to_array` | 🚫 | GM:S 2.3.0.401 |  |
+| `ds_map_keys_to_array` | ✅ | GM:S 2.3.0.401 |  |
 | `ds_map_values_to_array` | 🚫 | GM:S 2.3.0.401 |  |
 | `exception_unhandled_handler` | 🚫 | GM:S 2.3.0.401 |  |
 | `gc_collect` | 🚫 | GM:S 2.3.0.401 |  |
