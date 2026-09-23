@@ -1,4 +1,4 @@
-**Progress:** 1103/3783 (29.156753899021943%)
+**Progress:** 1104/3783 (29.183187946074547%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1225,7 +1225,7 @@
 | `sprite_replace_sprite` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `sprite_save` | 🚫 | GM:S 1.0.98 |  |
 | `sprite_set_alpha_from_sprite` | 🚫 | GM:S 1.0.98 |  |
-| `sprite_set_bbox` | 🚫 | GM:S 1.0.98 |  |
+| `sprite_set_bbox` | ✅ | GM:S 1.0.98 |  |
 | `sprite_set_bbox_mode` | ✅ | GM:S 1.0.98 |  |
 | `sprite_set_offset` | ✅ | GM:S 1.0.98 |  |
 | `sprite_set_precise` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
