@@ -1,4 +1,4 @@
-**Progress:** 1102/3783 (29.13031985196934%)
+**Progress:** 1103/3783 (29.156753899021943%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2324,7 +2324,7 @@
 | `layer_sprite_angle` | ✅ | WAD Version 15 |  |
 | `layer_sprite_blend` | ✅ | WAD Version 15 |  |
 | `layer_sprite_change` | ✅ | WAD Version 15 |  |
-| `layer_sprite_create` | 🚫 | WAD Version 15 |  |
+| `layer_sprite_create` | ✅ | WAD Version 15 |  |
 | `layer_sprite_destroy` | ✅ | WAD Version 15 |  |
 | `layer_sprite_exists` | ✅ | WAD Version 15 |  |
 | `layer_sprite_get_alpha` | ✅ | WAD Version 15 |  |
