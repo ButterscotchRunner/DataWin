@@ -1,4 +1,4 @@
-**Progress:** 1108/3783 (29.28892413428496%)
+**Progress:** 1119/3783 (29.579698651863602%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2545,9 +2545,9 @@
 | `vertex_format_add_texcoord` | 🚫 | WAD Version 15 |  |
 | `vertex_format_delete` | ✅ | WAD Version 15 |  |
 | `vertex_get_buffer_size` | ✅ | WAD Version 15 |  |
-| `video_close` | 🚫 | WAD Version 15 |  |
-| `video_draw` | 🚫 | WAD Version 15 |  |
-| `video_open` | 🚫 | WAD Version 15 |  |
+| `video_close` | ✅ | WAD Version 15 |  |
+| `video_draw` | ✅ | WAD Version 15 |  |
+| `video_open` | ✅ | WAD Version 15 |  |
 | `view_get_camera` | ✅ | WAD Version 15 |  |
 | `view_get_hport` | ✅ | WAD Version 15 |  |
 | `view_get_surface_id` | ✅ | WAD Version 15 |  |
@@ -2774,7 +2774,7 @@
 | `variable_instance_set` | ✅ | WAD Version 16 |  |
 | `vertex_color` | ✅ | WAD Version 16 |  |
 | `vertex_format_add_color` | ✅ | WAD Version 16 |  |
-| `video_set_volume` | 🚫 | WAD Version 16 |  |
+| `video_set_volume` | ✅ | WAD Version 16 |  |
 | `$FAIL` | 🚫 | GM:S 2.1.4.200 |  |
 | `$PRINT` | 🚫 | GM:S 2.1.4.200 |  |
 | `bool` | 🚫 | GM:S 2.1.4.200 |  |
@@ -3277,15 +3277,15 @@
 | `xboxseriesxs_get_high_frame_rate` | 🚫 | GM 2022.2.0.487 |  |
 | `xboxseriesxs_set_high_frame_rate` | 🚫 | GM 2022.2.0.487 |  |
 | `xboxseriesxs_supports_high_frame_rate` | 🚫 | GM 2022.2.0.487 |  |
-| `video_enable_loop` | 🚫 | GM 2022.3.0.496 |  |
-| `video_get_duration` | 🚫 | GM 2022.3.0.496 |  |
-| `video_get_format` | 🚫 | GM 2022.3.0.496 |  |
-| `video_get_position` | 🚫 | GM 2022.3.0.496 |  |
-| `video_get_status` | 🚫 | GM 2022.3.0.496 |  |
+| `video_enable_loop` | ✅ | GM 2022.3.0.496 |  |
+| `video_get_duration` | ✅ | GM 2022.3.0.496 |  |
+| `video_get_format` | ✅ | GM 2022.3.0.496 |  |
+| `video_get_position` | ✅ | GM 2022.3.0.496 |  |
+| `video_get_status` | ✅ | GM 2022.3.0.496 |  |
 | `video_get_volume` | 🚫 | GM 2022.3.0.496 |  |
 | `video_is_looping` | 🚫 | GM 2022.3.0.496 |  |
-| `video_pause` | 🚫 | GM 2022.3.0.496 |  |
-| `video_resume` | 🚫 | GM 2022.3.0.496 |  |
+| `video_pause` | ✅ | GM 2022.3.0.496 |  |
+| `video_resume` | ✅ | GM 2022.3.0.496 |  |
 | `video_seek_to` | 🚫 | GM 2022.3.0.496 |  |
 | `os_set_orientation_lock` | 🚫 | GM 2022.5.0.8 |  |
 | `rollback_define_input` | 🚫 | GM 2022.5.0.8 |  |
