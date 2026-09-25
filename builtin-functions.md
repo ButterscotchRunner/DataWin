@@ -1,4 +1,4 @@
-**Progress:** 1106/3783 (29.236056040179754%)
+**Progress:** 1108/3783 (29.28892413428496%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -169,7 +169,7 @@
 | `action_set_health` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `action_set_hspeed` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `action_set_life` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `action_set_motion` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `action_set_motion` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `action_set_relative` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `action_set_score` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `action_set_sprite` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
@@ -643,7 +643,7 @@
 | `file_read_real` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `file_read_string` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `file_readln` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `file_rename` | 🚫 | GM:S 1.0.98 |  |
+| `file_rename` | ✅ | GM:S 1.0.98 |  |
 | `file_text_close` | ✅ | GM:S 1.0.98 |  |
 | `file_text_eof` | ✅ | GM:S 1.0.98 |  |
 | `file_text_open_append` | 🚫 | GM:S 1.0.98 |  |
