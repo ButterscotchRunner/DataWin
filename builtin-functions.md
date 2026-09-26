@@ -1,4 +1,4 @@
-**Progress:** 1119/3783 (29.579698651863602%)
+**Progress:** 1128/3783 (29.817605075337035%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -333,7 +333,7 @@
 | `date_create_datetime` | 🚫 | GM:S 1.0.98 |  |
 | `date_create_time` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `date_current_date` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `date_current_datetime` | 🚫 | GM:S 1.0.98 |  |
+| `date_current_datetime` | ✅ | GM:S 1.0.98 |  |
 | `date_current_time` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `date_date_of` | 🚫 | GM:S 1.0.98 |  |
 | `date_date_string` | 🚫 | GM:S 1.0.98 |  |
@@ -341,18 +341,18 @@
 | `date_day_span` | 🚫 | GM:S 1.0.98 |  |
 | `date_days_in_month` | 🚫 | GM:S 1.0.98 |  |
 | `date_days_in_year` | 🚫 | GM:S 1.0.98 |  |
-| `date_get_day` | 🚫 | GM:S 1.0.98 |  |
+| `date_get_day` | ✅ | GM:S 1.0.98 |  |
 | `date_get_day_of_year` | 🚫 | GM:S 1.0.98 |  |
-| `date_get_hour` | 🚫 | GM:S 1.0.98 |  |
+| `date_get_hour` | ✅ | GM:S 1.0.98 |  |
 | `date_get_hour_of_year` | 🚫 | GM:S 1.0.98 |  |
-| `date_get_minute` | 🚫 | GM:S 1.0.98 |  |
+| `date_get_minute` | ✅ | GM:S 1.0.98 |  |
 | `date_get_minute_of_year` | 🚫 | GM:S 1.0.98 |  |
-| `date_get_month` | 🚫 | GM:S 1.0.98 |  |
-| `date_get_second` | 🚫 | GM:S 1.0.98 |  |
+| `date_get_month` | ✅ | GM:S 1.0.98 |  |
+| `date_get_second` | ✅ | GM:S 1.0.98 |  |
 | `date_get_second_of_year` | 🚫 | GM:S 1.0.98 |  |
 | `date_get_week` | 🚫 | GM:S 1.0.98 |  |
 | `date_get_weekday` | 🚫 | GM:S 1.0.98 |  |
-| `date_get_year` | 🚫 | GM:S 1.0.98 |  |
+| `date_get_year` | ✅ | GM:S 1.0.98 |  |
 | `date_hour_span` | 🚫 | GM:S 1.0.98 |  |
 | `date_inc_day` | 🚫 | GM:S 1.0.98 |  |
 | `date_inc_hour` | 🚫 | GM:S 1.0.98 |  |
@@ -1982,8 +1982,8 @@
 | `display_set_gui_maximise` | ✅ | GM:S 1.3.1336 |  |
 | `application_surface_enable` | ✅ | GM:S 1.3.1344 |  |
 | `application_surface_is_enabled` | 🚫 | GM:S 1.3.1344 |  |
-| `date_get_timezone` | 🚫 | GM:S 1.3.1373 |  |
-| `date_set_timezone` | 🚫 | GM:S 1.3.1373 |  |
+| `date_get_timezone` | ✅ | GM:S 1.3.1373 |  |
+| `date_set_timezone` | ✅ | GM:S 1.3.1373 |  |
 | `draw_enable_swf_aa` | 🚫 | GM:S 1.3.1373 |  |
 | `draw_get_swf_aa_level` | 🚫 | GM:S 1.3.1373 |  |
 | `draw_roundrect_colour_ext` | ✅ | GM:S 1.3.1373 |  |
