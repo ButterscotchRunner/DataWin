@@ -1,4 +1,4 @@
-**Progress:** 1128/3783 (29.817605075337035%)
+**Progress:** 1131/3783 (29.896907216494846%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1346,8 +1346,8 @@
 | `window_get_stayontop` | 🚫 | GM:S 1.0.98 |  |
 | `window_get_visible` | 🚫 | GM:S 1.0.98 |  |
 | `window_get_width` | ✅ | GM:S 1.0.98 |  |
-| `window_get_x` | 🚫 | GM:S 1.0.98 |  |
-| `window_get_y` | 🚫 | GM:S 1.0.98 |  |
+| `window_get_x` | ✅ | GM:S 1.0.98 |  |
+| `window_get_y` | ✅ | GM:S 1.0.98 |  |
 | `window_handle` | 🚫 | GM:S 1.0.98 |  |
 | `window_mouse_get_x` | 🚫 | GM:S 1.0.98 |  |
 | `window_mouse_get_y` | 🚫 | GM:S 1.0.98 |  |
@@ -1356,7 +1356,7 @@
 | `window_set_color` | 🚫 | GM:S 1.0.98 |  |
 | `window_set_cursor` | ✅ | GM:S 1.0.98 |  |
 | `window_set_fullscreen` | ✅ | GM:S 1.0.98 |  |
-| `window_set_position` | 🚫 | GM:S 1.0.98 |  |
+| `window_set_position` | ✅ | GM:S 1.0.98 |  |
 | `window_set_rectangle` | 🚫 | GM:S 1.0.98 |  |
 | `window_set_region_scale` | 🚫 | GM:S 1.0.98 | GM:S 1.0.198 |
 | `window_set_region_size` | 🚫 | GM:S 1.0.98 | GM:S 1.0.198 |
