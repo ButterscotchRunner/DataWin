@@ -1,4 +1,4 @@
-**Progress:** 1134/3783 (29.976209357652657%)
+**Progress:** 1141/3783 (30.161247687020882%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1458,20 +1458,20 @@
 | `analytics_event` | 🚫 | GM:S 1.1.622 |  |
 | `analytics_event_ext` | 🚫 | GM:S 1.1.622 |  |
 | `audio_channel_num` | ✅ | GM:S 1.1.622 |  |
-| `audio_emitter_create` | 🚫 | GM:S 1.1.622 |  |
-| `audio_emitter_exists` | 🚫 | GM:S 1.1.622 |  |
-| `audio_emitter_falloff` | 🚫 | GM:S 1.1.622 |  |
-| `audio_emitter_free` | 🚫 | GM:S 1.1.622 |  |
+| `audio_emitter_create` | ✅ | GM:S 1.1.622 |  |
+| `audio_emitter_exists` | ✅ | GM:S 1.1.622 |  |
+| `audio_emitter_falloff` | ✅ | GM:S 1.1.622 |  |
+| `audio_emitter_free` | ✅ | GM:S 1.1.622 |  |
 | `audio_emitter_gain` | 🚫 | GM:S 1.1.622 |  |
 | `audio_emitter_pitch` | 🚫 | GM:S 1.1.622 |  |
-| `audio_emitter_position` | 🚫 | GM:S 1.1.622 |  |
+| `audio_emitter_position` | ✅ | GM:S 1.1.622 |  |
 | `audio_emitter_velocity` | 🚫 | GM:S 1.1.622 |  |
 | `audio_exists` | ✅ | GM:S 1.1.622 |  |
 | `audio_falloff_set_model` | 🚫 | GM:S 1.1.622 |  |
 | `audio_get_type` | 🚫 | GM:S 1.1.622 |  |
 | `audio_is_playing` | ✅ | GM:S 1.1.622 |  |
 | `audio_listener_orientation` | 🚫 | GM:S 1.1.622 |  |
-| `audio_listener_position` | 🚫 | GM:S 1.1.622 |  |
+| `audio_listener_position` | ✅ | GM:S 1.1.622 |  |
 | `audio_listener_velocity` | 🚫 | GM:S 1.1.622 |  |
 | `audio_master_gain` | ✅ | GM:S 1.1.622 |  |
 | `audio_pause_all` | ✅ | GM:S 1.1.622 |  |
@@ -1479,7 +1479,7 @@
 | `audio_play_music` | ✅ | GM:S 1.1.622 |  |
 | `audio_play_sound` | ✅ | GM:S 1.1.622 |  |
 | `audio_play_sound_at` | 🚫 | GM:S 1.1.622 |  |
-| `audio_play_sound_on` | 🚫 | GM:S 1.1.622 |  |
+| `audio_play_sound_on` | ✅ | GM:S 1.1.622 |  |
 | `audio_resume_all` | ✅ | GM:S 1.1.622 |  |
 | `audio_resume_sound` | ✅ | GM:S 1.1.622 |  |
 | `audio_sound_length` | ✅ | GM:S 1.1.622 |  |
