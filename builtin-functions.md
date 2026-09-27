@@ -1,4 +1,4 @@
-**Progress:** 1132/3783 (29.92334126354745%)
+**Progress:** 1133/3783 (29.949775310600053%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2091,7 +2091,7 @@
 | `audio_group_load` | ✅ | WAD Version 14 |  |
 | `audio_group_load_progress` | 🚫 | WAD Version 14 |  |
 | `audio_group_name` | 🚫 | WAD Version 14 |  |
-| `audio_group_set_gain` | 🚫 | WAD Version 14 |  |
+| `audio_group_set_gain` | ✅ | WAD Version 14 |  |
 | `audio_group_stop_all` | 🚫 | WAD Version 14 |  |
 | `audio_group_unload` | 🚫 | WAD Version 14 |  |
 | `audio_queue_sound` | 🚫 | WAD Version 14 |  |
