@@ -1,4 +1,4 @@
-**Progress:** 1131/3783 (29.896907216494846%)
+**Progress:** 1132/3783 (29.92334126354745%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2542,7 +2542,7 @@
 | `uwp_show_help` | 🚫 | WAD Version 15 |  |
 | `uwp_suspend` | 🚫 | WAD Version 15 |  |
 | `uwp_was_terminated` | 🚫 | WAD Version 15 |  |
-| `vertex_format_add_texcoord` | 🚫 | WAD Version 15 |  |
+| `vertex_format_add_texcoord` | ✅ | WAD Version 15 |  |
 | `vertex_format_delete` | ✅ | WAD Version 15 |  |
 | `vertex_get_buffer_size` | ✅ | WAD Version 15 |  |
 | `video_close` | ✅ | WAD Version 15 |  |
