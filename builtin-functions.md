@@ -1,4 +1,4 @@
-**Progress:** 1129/3783 (29.84403912238964%)
+**Progress:** 1130/3783 (29.870473169442242%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -630,7 +630,7 @@
 | `file_bin_size` | ✅ | GM:S 1.0.98 |  |
 | `file_bin_write_byte` | ✅ | GM:S 1.0.98 |  |
 | `file_close` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `file_copy` | 🚫 | GM:S 1.0.98 |  |
+| `file_copy` | ✅ | GM:S 1.0.98 |  |
 | `file_delete` | ✅ | GM:S 1.0.98 |  |
 | `file_eof` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `file_exists` | ✅ | GM:S 1.0.98 |  |
