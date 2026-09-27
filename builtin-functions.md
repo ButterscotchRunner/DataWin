@@ -1,4 +1,4 @@
-**Progress:** 1130/3783 (29.870473169442242%)
+**Progress:** 1131/3783 (29.896907216494846%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -3390,7 +3390,7 @@
 | `string_starts_with` | ✅ | GM 2022.11.0.73 |  |
 | `string_trim` | 🚫 | GM 2022.11.0.73 |  |
 | `string_trim_end` | 🚫 | GM 2022.11.0.73 |  |
-| `string_trim_start` | 🚫 | GM 2022.11.0.73 |  |
+| `string_trim_start` | ✅ | GM 2022.11.0.73 |  |
 | `xboxone_streaming_get_info` | 🚫 | GM 2022.11.0.73 |  |
 | `xboxone_streaming_get_show_controls` | 🚫 | GM 2022.11.0.73 |  |
 | `xboxone_streaming_is_enabled` | 🚫 | GM 2022.11.0.73 |  |
