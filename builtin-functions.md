@@ -1,4 +1,4 @@
-**Progress:** 1142/3783 (30.187681734073486%)
+**Progress:** 1143/3783 (30.21411578112609%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1381,7 +1381,7 @@
 | `get_login_async` | 🚫 | GM:S 1.0.129 |  |
 | `json_decode` | ✅ | GM:S 1.0.129 |  |
 | `json_encode` | ✅ | GM:S 1.0.129 |  |
-| `string_byte_at` | 🚫 | GM:S 1.0.129 |  |
+| `string_byte_at` | ✅ | GM:S 1.0.129 |  |
 | `string_byte_length` | ✅ | GM:S 1.0.129 |  |
 | `achievement_is_online` | 🚫 | GM:S 1.0.198 | GM:S 1.1.1013 |
 | `achievement_map_achievement` | 🚫 | GM:S 1.0.198 | GM 2022.1.0.482 |
