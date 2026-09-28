@@ -1,4 +1,4 @@
-**Progress:** 1141/3783 (30.161247687020882%)
+**Progress:** 1142/3783 (30.187681734073486%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2777,7 +2777,7 @@
 | `video_set_volume` | ✅ | WAD Version 16 |  |
 | `$FAIL` | 🚫 | GM:S 2.1.4.200 |  |
 | `$PRINT` | 🚫 | GM:S 2.1.4.200 |  |
-| `bool` | 🚫 | GM:S 2.1.4.200 |  |
+| `bool` | ✅ | GM:S 2.1.4.200 |  |
 | `buffer_compress` | 🚫 | GM:S 2.1.4.200 |  |
 | `buffer_decompress` | 🚫 | GM:S 2.1.4.200 |  |
 | `display_get_sleep_margin` | 🚫 | GM:S 2.1.4.200 |  |
