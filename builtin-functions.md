@@ -1,4 +1,4 @@
-**Progress:** 1143/3783 (30.21411578112609%)
+**Progress:** 1154/3783 (30.504890298704733%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -3081,7 +3081,7 @@
 | `ds_map_is_list` | ✅ | GM:S 2.3.0.401 |  |
 | `ds_map_is_map` | ✅ | GM:S 2.3.0.401 |  |
 | `ds_map_keys_to_array` | ✅ | GM:S 2.3.0.401 |  |
-| `ds_map_values_to_array` | 🚫 | GM:S 2.3.0.401 |  |
+| `ds_map_values_to_array` | ✅ | GM:S 2.3.0.401 |  |
 | `exception_unhandled_handler` | 🚫 | GM:S 2.3.0.401 |  |
 | `gc_collect` | 🚫 | GM:S 2.3.0.401 |  |
 | `gc_enable` | 🚫 | GM:S 2.3.0.401 |  |
@@ -3113,7 +3113,7 @@
 | `layer_sequence_y` | 🚫 | GM:S 2.3.0.401 |  |
 | `method` | ✅ | GM:S 2.3.0.401 |  |
 | `method_get_index` | 🚫 | GM:S 2.3.0.401 |  |
-| `method_get_self` | 🚫 | GM:S 2.3.0.401 |  |
+| `method_get_self` | ✅ | GM:S 2.3.0.401 |  |
 | `network_connect_async` | 🚫 | GM:S 2.3.0.401 |  |
 | `network_connect_raw_async` | 🚫 | GM:S 2.3.0.401 |  |
 | `ps4_delete_slot` | 🚫 | GM:S 2.3.0.401 | GM:S 2.3.2.423 |
@@ -3175,7 +3175,7 @@
 | `array_sort` | ✅ | GM:S 2.3.1.406 |  |
 | `gc_get_target_frame_time` | 🚫 | GM:S 2.3.1.406 |  |
 | `gc_target_frame_time` | 🚫 | GM:S 2.3.1.406 |  |
-| `json_parse` | 🚫 | GM:S 2.3.1.406 |  |
+| `json_parse` | ✅ | GM:S 2.3.1.406 |  |
 | `json_stringify` | 🚫 | GM:S 2.3.1.406 |  |
 | `layer_sequence_angle` | 🚫 | GM:S 2.3.1.406 |  |
 | `layer_sequence_get_angle` | 🚫 | GM:S 2.3.1.406 |  |
@@ -3395,7 +3395,7 @@
 | `xboxone_streaming_get_show_controls` | 🚫 | GM 2022.11.0.73 |  |
 | `xboxone_streaming_is_enabled` | 🚫 | GM 2022.11.0.73 |  |
 | `xboxone_streaming_set_show_controls` | 🚫 | GM 2022.11.0.73 |  |
-| `array_contains` | 🚫 | GM 2023.1.0.76 |  |
+| `array_contains` | ✅ | GM 2023.1.0.76 |  |
 | `array_contains_ext` | 🚫 | GM 2023.1.0.76 |  |
 | `array_get_index` | 🚫 | GM 2023.1.0.76 |  |
 | `array_shuffle` | 🚫 | GM 2023.1.0.76 |  |
@@ -3435,17 +3435,17 @@
 | `lin_to_db` | 🚫 | GM 2023.4.0.113 |  |
 | `particle_get_info` | 🚫 | GM 2023.4.0.113 |  |
 | `sprite_add_ext` | 🚫 | GM 2023.4.0.113 |  |
-| `struct_exists` | 🚫 | GM 2023.4.0.113 |  |
+| `struct_exists` | ✅ | GM 2023.4.0.113 |  |
 | `struct_foreach` | 🚫 | GM 2023.4.0.113 |  |
 | `struct_get` | 🚫 | GM 2023.4.0.113 |  |
-| `struct_get_from_hash` | 🚫 | GM 2023.4.0.113 |  |
+| `struct_get_from_hash` | ✅ | GM 2023.4.0.113 |  |
 | `struct_get_names` | ✅ | GM 2023.4.0.113 |  |
 | `struct_names_count` | 🚫 | GM 2023.4.0.113 |  |
 | `struct_remove` | 🚫 | GM 2023.4.0.113 |  |
 | `struct_set` | 🚫 | GM 2023.4.0.113 |  |
-| `struct_set_from_hash` | 🚫 | GM 2023.4.0.113 |  |
+| `struct_set_from_hash` | ✅ | GM 2023.4.0.113 |  |
 | `variable_clone` | 🚫 | GM 2023.4.0.113 |  |
-| `variable_get_hash` | 🚫 | GM 2023.4.0.113 |  |
+| `variable_get_hash` | ✅ | GM 2023.4.0.113 |  |
 | `wallpaper_set_config` | 🚫 | GM 2023.4.0.113 |  |
 | `xboxone_find_controller_for_user` | 🚫 | GM 2023.4.0.113 |  |
 | `ds_grid_to_mp_grid` | 🚫 | GM 2023.6.0.136 |  |
@@ -3612,7 +3612,7 @@
 | `layer_text_yscale` | 🚫 | GM 2024.6.0.205 |  |
 | `physics_raycast` | 🚫 | GM 2024.6.0.205 |  |
 | `psn_webapi_request` | 🚫 | GM 2024.6.0.205 |  |
-| `struct_exists_from_hash` | 🚫 | GM 2024.6.0.205 |  |
+| `struct_exists_from_hash` | ✅ | GM 2024.6.0.205 |  |
 | `struct_remove_from_hash` | 🚫 | GM 2024.6.0.205 |  |
 | `surface_get_target_depth` | 🚫 | GM 2024.6.0.205 |  |
 | `surface_get_texture_depth` | 🚫 | GM 2024.6.0.205 |  |
@@ -3718,9 +3718,9 @@
 | `physics_debug` | 🚫 | GM 2024.13.0.238 |  |
 | `sprite_get_convex_hull` | 🚫 | GM 2024.13.0.238 |  |
 | `window_post_message` | 🚫 | GM 2024.13.0.238 |  |
-| `@@array_get@@` | 🚫 | GM 2024.14.0.251 |  |
+| `@@array_get@@` | ✅ | GM 2024.14.0.251 |  |
 | `@@array_get_2D@@` | 🚫 | GM 2024.14.0.251 |  |
-| `@@string@@` | 🚫 | GM 2024.14.0.251 |  |
+| `@@string@@` | ✅ | GM 2024.14.0.251 |  |
 | `application_surface_is_draw_enabled` | 🚫 | GM 2024.14.0.251 |  |
 | `dbg_control_delete` | 🚫 | GM 2024.14.0.251 |  |
 | `dbg_control_exists` | 🚫 | GM 2024.14.0.251 |  |
