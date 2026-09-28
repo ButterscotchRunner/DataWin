@@ -1,4 +1,4 @@
-**Progress:** 1154/3783 (30.504890298704733%)
+**Progress:** 1157/3783 (30.584192439862544%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1591,7 +1591,7 @@
 | `buffer_base64_decode` | ✅ | GM:S 1.1.785 |  |
 | `buffer_base64_decode_ex` | 🚫 | GM:S 1.1.785 | GM:S 1.1.844 |
 | `buffer_base64_encode` | ✅ | GM:S 1.1.785 |  |
-| `buffer_copy` | 🚫 | GM:S 1.1.785 |  |
+| `buffer_copy` | ✅ | GM:S 1.1.785 |  |
 | `buffer_create` | ✅ | GM:S 1.1.785 |  |
 | `buffer_delete` | ✅ | GM:S 1.1.785 |  |
 | `buffer_fill` | 🚫 | GM:S 1.1.785 |  |
@@ -2778,8 +2778,8 @@
 | `$FAIL` | 🚫 | GM:S 2.1.4.200 |  |
 | `$PRINT` | 🚫 | GM:S 2.1.4.200 |  |
 | `bool` | ✅ | GM:S 2.1.4.200 |  |
-| `buffer_compress` | 🚫 | GM:S 2.1.4.200 |  |
-| `buffer_decompress` | 🚫 | GM:S 2.1.4.200 |  |
+| `buffer_compress` | ✅ | GM:S 2.1.4.200 |  |
+| `buffer_decompress` | ✅ | GM:S 2.1.4.200 |  |
 | `display_get_sleep_margin` | 🚫 | GM:S 2.1.4.200 |  |
 | `display_get_timing_method` | 🚫 | GM:S 2.1.4.200 |  |
 | `display_set_sleep_margin` | 🚫 | GM:S 2.1.4.200 |  |
