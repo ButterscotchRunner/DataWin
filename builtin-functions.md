@@ -1,4 +1,4 @@
-**Progress:** 1157/3783 (30.584192439862544%)
+**Progress:** 1158/3783 (30.610626486915148%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -712,7 +712,7 @@
 | `http_post_string` | 🚫 | GM:S 1.0.98 |  |
 | `ini_close` | ✅ | GM:S 1.0.98 |  |
 | `ini_key_delete` | 🚫 | GM:S 1.0.98 |  |
-| `ini_key_exists` | 🚫 | GM:S 1.0.98 |  |
+| `ini_key_exists` | ✅ | GM:S 1.0.98 |  |
 | `ini_open` | ✅ | GM:S 1.0.98 |  |
 | `ini_read_real` | ✅ | GM:S 1.0.98 |  |
 | `ini_read_string` | ✅ | GM:S 1.0.98 |  |
