@@ -1,4 +1,4 @@
-**Progress:** 1158/3783 (30.610626486915148%)
+**Progress:** 1159/3783 (30.63706053396775%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1062,7 +1062,7 @@
 | `place_snapped` | 🚫 | GM:S 1.0.98 |  |
 | `point_direction` | ✅ | GM:S 1.0.98 |  |
 | `point_distance` | ✅ | GM:S 1.0.98 |  |
-| `point_distance_3d` | 🚫 | GM:S 1.0.98 |  |
+| `point_distance_3d` | ✅ | GM:S 1.0.98 |  |
 | `position_change` | 🚫 | GM:S 1.0.98 |  |
 | `position_destroy` | 🚫 | GM:S 1.0.98 |  |
 | `position_empty` | 🚫 | GM:S 1.0.98 |  |
