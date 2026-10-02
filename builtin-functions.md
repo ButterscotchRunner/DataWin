@@ -1,4 +1,4 @@
-**Progress:** 1159/3783 (30.63706053396775%)
+**Progress:** 1160/3783 (30.663494581020355%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -3340,7 +3340,7 @@
 | `skeleton_animation_set_position` | 🚫 | GM 2022.8.0.50 |  |
 | `skeleton_skin_create` | 🚫 | GM 2022.8.0.50 |  |
 | `psn_age_level_for_pad` | 🚫 | GM 2022.9.0.63 |  |
-| `texturegroup_get_status` | 🚫 | GM 2022.9.0.63 |  |
+| `texturegroup_get_status` | ✅ | GM 2022.9.0.63 |  |
 | `texturegroup_load` | 🚫 | GM 2022.9.0.63 |  |
 | `texturegroup_set_mode` | 🚫 | GM 2022.9.0.63 |  |
 | `texturegroup_unload` | 🚫 | GM 2022.9.0.63 |  |
