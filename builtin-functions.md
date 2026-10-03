@@ -1,4 +1,4 @@
-**Progress:** 1162/3783 (30.716362675125563%)
+**Progress:** 1172/3783 (30.9807031456516%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1023,7 +1023,7 @@
 | `physics_delete_joint` | 🚫 | GM:S 1.0.98 | GM:S 1.0.198 |
 | `physics_draw_debug` | 🚫 | GM:S 1.0.98 |  |
 | `physics_fixture_add_point` | 🚫 | GM:S 1.0.98 |  |
-| `physics_fixture_bind` | 🚫 | GM:S 1.0.98 |  |
+| `physics_fixture_bind` | ✅ | GM:S 1.0.98 |  |
 | `physics_fixture_create` | 🚫 | GM:S 1.0.98 |  |
 | `physics_fixture_delete` | 🚫 | GM:S 1.0.98 |  |
 | `physics_fixture_set_angular_damping` | 🚫 | GM:S 1.0.98 |  |
@@ -1432,7 +1432,7 @@
 | `os_get_config` | 🚫 | GM:S 1.0.198 |  |
 | `os_is_paused` | ✅ | GM:S 1.0.198 |  |
 | `physics_fixture_set_kinematic` | 🚫 | GM:S 1.0.198 |  |
-| `physics_test_overlap` | 🚫 | GM:S 1.0.198 |  |
+| `physics_test_overlap` | ✅ | GM:S 1.0.198 |  |
 | `shop_leave_rating` | 🚫 | GM:S 1.0.198 |  |
 | `sprite_set_cache_size` | 🚫 | GM:S 1.0.198 |  |
 | `sprite_set_cache_size_ext` | 🚫 | GM:S 1.0.198 |  |
@@ -1846,7 +1846,7 @@
 | `clickable_exists` | 🚫 | GM:S 1.2.1135 |  |
 | `ds_exists` | ✅ | GM:S 1.2.1135 |  |
 | `object_get_physics` | 🚫 | GM:S 1.2.1135 |  |
-| `physics_fixture_bind_ext` | 🚫 | GM:S 1.2.1135 |  |
+| `physics_fixture_bind_ext` | ✅ | GM:S 1.2.1135 |  |
 | `physics_get_density` | 🚫 | GM:S 1.2.1135 |  |
 | `physics_get_friction` | 🚫 | GM:S 1.2.1135 |  |
 | `physics_get_restitution` | 🚫 | GM:S 1.2.1135 |  |
@@ -2004,12 +2004,12 @@
 | `physics_particle_delete` | 🚫 | GM:S 1.3.1373 |  |
 | `physics_particle_delete_region_box` | 🚫 | GM:S 1.3.1373 |  |
 | `physics_particle_delete_region_circle` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_delete_region_poly` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_draw` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_draw_ext` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_delete_region_poly` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_draw` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_draw_ext` | ✅ | GM:S 1.3.1373 |  |
 | `physics_particle_get_damping` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_get_data` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_get_data_particle` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_get_data` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_get_data_particle` | ✅ | GM:S 1.3.1373 |  |
 | `physics_particle_get_density` | 🚫 | GM:S 1.3.1373 |  |
 | `physics_particle_get_gravity_scale` | 🚫 | GM:S 1.3.1373 |  |
 | `physics_particle_get_group_flags` | 🚫 | GM:S 1.3.1373 |  |
@@ -2026,7 +2026,7 @@
 | `physics_particle_group_get_angle` | 🚫 | GM:S 1.3.1373 |  |
 | `physics_particle_group_get_centre_x` | 🚫 | GM:S 1.3.1373 |  |
 | `physics_particle_group_get_centre_y` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_group_get_data` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_group_get_data` | ✅ | GM:S 1.3.1373 |  |
 | `physics_particle_group_get_inertia` | 🚫 | GM:S 1.3.1373 |  |
 | `physics_particle_group_get_mass` | 🚫 | GM:S 1.3.1373 |  |
 | `physics_particle_group_get_vel_x` | 🚫 | GM:S 1.3.1373 |  |
@@ -3610,7 +3610,7 @@
 | `layer_text_y` | 🚫 | GM 2024.6.0.205 |  |
 | `layer_text_yorigin` | 🚫 | GM 2024.6.0.205 |  |
 | `layer_text_yscale` | 🚫 | GM 2024.6.0.205 |  |
-| `physics_raycast` | 🚫 | GM 2024.6.0.205 |  |
+| `physics_raycast` | ✅ | GM 2024.6.0.205 |  |
 | `psn_webapi_request` | 🚫 | GM 2024.6.0.205 |  |
 | `struct_exists_from_hash` | ✅ | GM 2024.6.0.205 |  |
 | `struct_remove_from_hash` | 🚫 | GM 2024.6.0.205 |  |
