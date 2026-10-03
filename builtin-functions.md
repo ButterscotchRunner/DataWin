@@ -1,4 +1,4 @@
-**Progress:** 1160/3783 (30.663494581020355%)
+**Progress:** 1161/3783 (30.68992862807296%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1652,7 +1652,7 @@
 | `buffer_load_ext` | 🚫 | GM:S 1.1.844 |  |
 | `buffer_save_ext` | ✅ | GM:S 1.1.844 |  |
 | `buffer_set_surface` | ✅ | GM:S 1.1.844 |  |
-| `draw_enable_drawevent` | 🚫 | GM:S 1.1.844 |  |
+| `draw_enable_drawevent` | ✅ | GM:S 1.1.844 |  |
 | `gamepad_set_vibration` | 🚫 | GM:S 1.1.844 |  |
 | `network_connect` | 🚫 | GM:S 1.1.844 |  |
 | `network_connect_ext` | 🚫 | GM:S 1.1.844 | GM:S 1.1.867 |
