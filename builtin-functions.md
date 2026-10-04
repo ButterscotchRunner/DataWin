@@ -1,4 +1,4 @@
-**Progress:** 1165/3783 (30.795664816283374%)
+**Progress:** 1166/3783 (30.822098863335977%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -2667,7 +2667,7 @@
 | `@@Null@@` | 🚫 | WAD Version 16 |  |
 | `array_copy` | ✅ | WAD Version 16 |  |
 | `array_create` | ✅ | WAD Version 16 |  |
-| `array_equals` | 🚫 | WAD Version 16 |  |
+| `array_equals` | ✅ | WAD Version 16 |  |
 | `buffer_get_alignment` | 🚫 | WAD Version 16 |  |
 | `buffer_get_type` | 🚫 | WAD Version 16 |  |
 | `collision_shape` | 🚫 | WAD Version 16 | GM:S 2.3.0.401 |
