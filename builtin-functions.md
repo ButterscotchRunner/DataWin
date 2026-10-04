@@ -1,4 +1,4 @@
-**Progress:** 1164/3783 (30.76923076923077%)
+**Progress:** 1165/3783 (30.795664816283374%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -479,7 +479,7 @@
 | `ds_grid_add_grid_region` | 🚫 | GM:S 1.0.98 |  |
 | `ds_grid_add_region` | 🚫 | GM:S 1.0.98 |  |
 | `ds_grid_clear` | 🚫 | GM:S 1.0.98 |  |
-| `ds_grid_copy` | 🚫 | GM:S 1.0.98 |  |
+| `ds_grid_copy` | ✅ | GM:S 1.0.98 |  |
 | `ds_grid_create` | ✅ | GM:S 1.0.98 |  |
 | `ds_grid_destroy` | ✅ | GM:S 1.0.98 |  |
 | `ds_grid_get` | ✅ | GM:S 1.0.98 |  |
