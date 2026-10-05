@@ -1,4 +1,4 @@
-**Progress:** 143/233 (61.37339055793991%)
+**Progress:** 144/233 (61.80257510729614%)
 
 | GML Variable | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -214,7 +214,7 @@
 | `layer` | ✅ | WAD Version 15 |  |
 | `null` | 🚫 | WAD Version 15 | WAD Version 16 |
 | `view_camera` | ✅ | WAD Version 15 |  |
-| `event_data` | 🚫 | WAD Version 16 |  |
+| `event_data` | ✅ | WAD Version 16 |  |
 | `font_texture_page_size` | 🚫 | WAD Version 16 |  |
 | `in_collision_tree` | 🚫 | GM:S 2.2.2.326 |  |
 | `NaN` | 🚫 | GM:S 2.2.3.341 |  |
