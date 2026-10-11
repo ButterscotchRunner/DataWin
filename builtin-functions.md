@@ -1,4 +1,4 @@
-**Progress:** 1179/3783 (31.165741475019825%)
+**Progress:** 1180/3783 (31.19217552207243%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -330,7 +330,7 @@
 | `date_compare_datetime` | 🚫 | GM:S 1.0.98 |  |
 | `date_compare_time` | 🚫 | GM:S 1.0.98 |  |
 | `date_create_date` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `date_create_datetime` | 🚫 | GM:S 1.0.98 |  |
+| `date_create_datetime` | ✅ | GM:S 1.0.98 |  |
 | `date_create_time` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `date_current_date` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `date_current_datetime` | ✅ | GM:S 1.0.98 |  |
