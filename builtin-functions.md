@@ -1,4 +1,4 @@
-**Progress:** 1181/3783 (31.218609569125032%)
+**Progress:** 1184/3783 (31.297911710282843%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1462,10 +1462,10 @@
 | `audio_emitter_exists` | ✅ | GM:S 1.1.622 |  |
 | `audio_emitter_falloff` | ✅ | GM:S 1.1.622 |  |
 | `audio_emitter_free` | ✅ | GM:S 1.1.622 |  |
-| `audio_emitter_gain` | 🚫 | GM:S 1.1.622 |  |
-| `audio_emitter_pitch` | 🚫 | GM:S 1.1.622 |  |
+| `audio_emitter_gain` | ✅ | GM:S 1.1.622 |  |
+| `audio_emitter_pitch` | ✅ | GM:S 1.1.622 |  |
 | `audio_emitter_position` | ✅ | GM:S 1.1.622 |  |
-| `audio_emitter_velocity` | 🚫 | GM:S 1.1.622 |  |
+| `audio_emitter_velocity` | ✅ | GM:S 1.1.622 |  |
 | `audio_exists` | ✅ | GM:S 1.1.622 |  |
 | `audio_falloff_set_model` | 🚫 | GM:S 1.1.622 |  |
 | `audio_get_type` | 🚫 | GM:S 1.1.622 |  |
