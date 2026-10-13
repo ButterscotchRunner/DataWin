@@ -1,4 +1,4 @@
-**Progress:** 1184/3783 (31.297911710282843%)
+**Progress:** 1185/3783 (31.324345757335447%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1478,7 +1478,7 @@
 | `audio_pause_sound` | ✅ | GM:S 1.1.622 |  |
 | `audio_play_music` | ✅ | GM:S 1.1.622 |  |
 | `audio_play_sound` | ✅ | GM:S 1.1.622 |  |
-| `audio_play_sound_at` | 🚫 | GM:S 1.1.622 |  |
+| `audio_play_sound_at` | ✅ | GM:S 1.1.622 |  |
 | `audio_play_sound_on` | ✅ | GM:S 1.1.622 |  |
 | `audio_resume_all` | ✅ | GM:S 1.1.622 |  |
 | `audio_resume_sound` | ✅ | GM:S 1.1.622 |  |
