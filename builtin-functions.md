@@ -1,4 +1,4 @@
-**Progress:** 1191/3783 (31.48295003965107%)
+**Progress:** 1192/3783 (31.509384086703673%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -3316,7 +3316,7 @@
 | `time_source_reset` | 🚫 | GM 2022.5.0.8 |  |
 | `time_source_start` | 🚫 | GM 2022.5.0.8 |  |
 | `time_source_stop` | 🚫 | GM 2022.5.0.8 |  |
-| `extension_exists` | 🚫 | GM 2022.6.0.23 |  |
+| `extension_exists` | ✅ | GM 2022.6.0.23 |  |
 | `extension_get_option_count` | 🚫 | GM 2022.6.0.23 |  |
 | `extension_get_option_names` | 🚫 | GM 2022.6.0.23 |  |
 | `extension_get_option_value` | 🚫 | GM 2022.6.0.23 |  |
