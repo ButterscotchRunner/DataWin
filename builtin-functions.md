@@ -1,4 +1,4 @@
-**Progress:** 1186/3783 (31.35077980438805%)
+**Progress:** 1188/3783 (31.403647898493258%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1583,7 +1583,7 @@
 | `d3d_set_zwriteenable` | 🚫 | GM:S 1.1.734 | GM:S 2.3.1.406 |
 | `draw_set_color_write_enable` | ✅ | GM:S 1.1.734 | GM:S 2.3.1.406 |
 | `file_text_eoln` | 🚫 | GM:S 1.1.734 |  |
-| `math_set_epsilon` | 🚫 | GM:S 1.1.734 |  |
+| `math_set_epsilon` | ✅ | GM:S 1.1.734 |  |
 | `achievement_show_achievements` | 🚫 | GM:S 1.1.750 |  |
 | `achievement_show_leaderboards` | 🚫 | GM:S 1.1.750 |  |
 | `audio_music_gain` | ✅ | GM:S 1.1.754 |  |
@@ -2391,7 +2391,7 @@
 | `matchmaking_start` | 🚫 | WAD Version 15 |  |
 | `matchmaking_stop` | 🚫 | WAD Version 15 |  |
 | `matchmaking_tick_invites` | 🚫 | WAD Version 15 |  |
-| `math_get_epsilon` | 🚫 | WAD Version 15 |  |
+| `math_get_epsilon` | ✅ | WAD Version 15 |  |
 | `matrix_build_identity` | ✅ | WAD Version 15 |  |
 | `matrix_build_lookat` | ✅ | WAD Version 15 |  |
 | `matrix_build_projection_ortho` | ✅ | WAD Version 15 |  |
