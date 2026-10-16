@@ -1,4 +1,4 @@
-**Progress:** 1188/3783 (31.403647898493258%)
+**Progress:** 1191/3783 (31.48295003965107%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -3050,7 +3050,7 @@
 | `gamepad_set_option` | 🚫 | GM:S 2.2.3.341 |  |
 | `is_infinity` | ✅ | GM:S 2.2.3.341 |  |
 | `is_nan` | ✅ | GM:S 2.2.3.341 |  |
-| `variable_instance_names_count` | 🚫 | GM:S 2.2.3.341 |  |
+| `variable_instance_names_count` | ✅ | GM:S 2.2.3.341 |  |
 | `extension_get_string` | 🚫 | GM:S 2.2.4.364 | GM 2022.6.0.23 |
 | `switch_set_cpu_boost_mode` | 🚫 | GM:S 2.2.4.372 |  |
 | `@@CopyStatic@@` | ✅ | GM:S 2.3.0.401 |  |
@@ -3160,7 +3160,7 @@
 | `variable_struct_exists` | ✅ | GM:S 2.3.0.401 |  |
 | `variable_struct_get` | ✅ | GM:S 2.3.0.401 |  |
 | `variable_struct_get_names` | ✅ | GM:S 2.3.0.401 |  |
-| `variable_struct_names_count` | 🚫 | GM:S 2.3.0.401 |  |
+| `variable_struct_names_count` | ✅ | GM:S 2.3.0.401 |  |
 | `variable_struct_set` | ✅ | GM:S 2.3.0.401 |  |
 | `xboxlive_get_store_id` | 🚫 | GM:S 2.3.0.401 |  |
 | `xboxlive_get_token_and_signature` | 🚫 | GM:S 2.3.0.401 |  |
@@ -3440,7 +3440,7 @@
 | `struct_get` | 🚫 | GM 2023.4.0.113 |  |
 | `struct_get_from_hash` | ✅ | GM 2023.4.0.113 |  |
 | `struct_get_names` | ✅ | GM 2023.4.0.113 |  |
-| `struct_names_count` | 🚫 | GM 2023.4.0.113 |  |
+| `struct_names_count` | ✅ | GM 2023.4.0.113 |  |
 | `struct_remove` | 🚫 | GM 2023.4.0.113 |  |
 | `struct_set` | 🚫 | GM 2023.4.0.113 |  |
 | `struct_set_from_hash` | ✅ | GM 2023.4.0.113 |  |
