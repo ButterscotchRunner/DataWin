@@ -1,4 +1,4 @@
-**Progress:** 1185/3783 (31.324345757335447%)
+**Progress:** 1186/3783 (31.35077980438805%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1128,7 +1128,7 @@
 | `set_program_priority` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `set_synchronization` | 🚫 | GM:S 1.0.98 | GM:S 1.1.622 |
 | `show_debug_message` | ✅ | GM:S 1.0.98 |  |
-| `show_error` | 🚫 | GM:S 1.0.98 |  |
+| `show_error` | ✅ | GM:S 1.0.98 |  |
 | `show_image` | 🚫 | GM:S 1.0.98 | GM 2022.1.0.482 |
 | `show_info` | 🚫 | GM:S 1.0.98 |  |
 | `show_menu` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
