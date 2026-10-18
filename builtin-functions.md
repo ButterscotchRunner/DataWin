@@ -1,4 +1,4 @@
-**Progress:** 1260/3783 (33.306899286280725%)
+**Progress:** 1350/3783 (35.68596352101507%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -1006,11 +1006,11 @@
 | `path_set_precision` | ✅ | GM:S 1.0.98 |  |
 | `path_shift` | ✅ | GM:S 1.0.98 |  |
 | `path_start` | ✅ | GM:S 1.0.98 |  |
-| `physics_apply_force` | 🚫 | GM:S 1.0.98 |  |
-| `physics_apply_impulse` | 🚫 | GM:S 1.0.98 |  |
-| `physics_apply_local_force` | 🚫 | GM:S 1.0.98 |  |
-| `physics_apply_local_impulse` | 🚫 | GM:S 1.0.98 |  |
-| `physics_apply_torque` | 🚫 | GM:S 1.0.98 |  |
+| `physics_apply_force` | ✅ | GM:S 1.0.98 |  |
+| `physics_apply_impulse` | ✅ | GM:S 1.0.98 |  |
+| `physics_apply_local_force` | ✅ | GM:S 1.0.98 |  |
+| `physics_apply_local_impulse` | ✅ | GM:S 1.0.98 |  |
+| `physics_apply_torque` | ✅ | GM:S 1.0.98 |  |
 | `physics_bind_fixture` | 🚫 | GM:S 1.0.98 | GM:S 1.0.198 |
 | `physics_create_distance_joint` | 🚫 | GM:S 1.0.98 | GM:S 1.0.198 |
 | `physics_create_fixture` | 🚫 | GM:S 1.0.98 | GM:S 1.0.198 |
@@ -1021,41 +1021,41 @@
 | `physics_create_world` | 🚫 | GM:S 1.0.98 | GM:S 1.0.198 |
 | `physics_delete_fixture` | 🚫 | GM:S 1.0.98 | GM:S 1.0.198 |
 | `physics_delete_joint` | 🚫 | GM:S 1.0.98 | GM:S 1.0.198 |
-| `physics_draw_debug` | 🚫 | GM:S 1.0.98 |  |
-| `physics_fixture_add_point` | 🚫 | GM:S 1.0.98 |  |
+| `physics_draw_debug` | ✅ | GM:S 1.0.98 |  |
+| `physics_fixture_add_point` | ✅ | GM:S 1.0.98 |  |
 | `physics_fixture_bind` | ✅ | GM:S 1.0.98 |  |
-| `physics_fixture_create` | 🚫 | GM:S 1.0.98 |  |
-| `physics_fixture_delete` | 🚫 | GM:S 1.0.98 |  |
-| `physics_fixture_set_angular_damping` | 🚫 | GM:S 1.0.98 |  |
-| `physics_fixture_set_box_shape` | 🚫 | GM:S 1.0.98 |  |
-| `physics_fixture_set_circle_shape` | 🚫 | GM:S 1.0.98 |  |
-| `physics_fixture_set_collision_group` | 🚫 | GM:S 1.0.98 |  |
-| `physics_fixture_set_density` | 🚫 | GM:S 1.0.98 |  |
-| `physics_fixture_set_friction` | 🚫 | GM:S 1.0.98 |  |
-| `physics_fixture_set_linear_damping` | 🚫 | GM:S 1.0.98 |  |
-| `physics_fixture_set_polygon_shape` | 🚫 | GM:S 1.0.98 |  |
-| `physics_fixture_set_restitution` | 🚫 | GM:S 1.0.98 |  |
-| `physics_fixture_set_sensor` | 🚫 | GM:S 1.0.98 |  |
+| `physics_fixture_create` | ✅ | GM:S 1.0.98 |  |
+| `physics_fixture_delete` | ✅ | GM:S 1.0.98 |  |
+| `physics_fixture_set_angular_damping` | ✅ | GM:S 1.0.98 |  |
+| `physics_fixture_set_box_shape` | ✅ | GM:S 1.0.98 |  |
+| `physics_fixture_set_circle_shape` | ✅ | GM:S 1.0.98 |  |
+| `physics_fixture_set_collision_group` | ✅ | GM:S 1.0.98 |  |
+| `physics_fixture_set_density` | ✅ | GM:S 1.0.98 |  |
+| `physics_fixture_set_friction` | ✅ | GM:S 1.0.98 |  |
+| `physics_fixture_set_linear_damping` | ✅ | GM:S 1.0.98 |  |
+| `physics_fixture_set_polygon_shape` | ✅ | GM:S 1.0.98 |  |
+| `physics_fixture_set_restitution` | ✅ | GM:S 1.0.98 |  |
+| `physics_fixture_set_sensor` | ✅ | GM:S 1.0.98 |  |
 | `physics_gravity` | 🚫 | GM:S 1.0.98 | GM:S 1.0.198 |
-| `physics_joint_delete` | 🚫 | GM:S 1.0.98 |  |
-| `physics_joint_distance_create` | 🚫 | GM:S 1.0.98 |  |
-| `physics_joint_enable_motor` | 🚫 | GM:S 1.0.98 |  |
-| `physics_joint_gear_create` | 🚫 | GM:S 1.0.98 |  |
-| `physics_joint_get_value` | 🚫 | GM:S 1.0.98 |  |
-| `physics_joint_prismatic_create` | 🚫 | GM:S 1.0.98 |  |
-| `physics_joint_pulley_create` | 🚫 | GM:S 1.0.98 |  |
-| `physics_joint_revolute_create` | 🚫 | GM:S 1.0.98 |  |
-| `physics_joint_set_value` | 🚫 | GM:S 1.0.98 |  |
-| `physics_mass_properties` | 🚫 | GM:S 1.0.98 |  |
+| `physics_joint_delete` | ✅ | GM:S 1.0.98 |  |
+| `physics_joint_distance_create` | ✅ | GM:S 1.0.98 |  |
+| `physics_joint_enable_motor` | ✅ | GM:S 1.0.98 |  |
+| `physics_joint_gear_create` | ✅ | GM:S 1.0.98 |  |
+| `physics_joint_get_value` | ✅ | GM:S 1.0.98 |  |
+| `physics_joint_prismatic_create` | ✅ | GM:S 1.0.98 |  |
+| `physics_joint_pulley_create` | ✅ | GM:S 1.0.98 |  |
+| `physics_joint_revolute_create` | ✅ | GM:S 1.0.98 |  |
+| `physics_joint_set_value` | ✅ | GM:S 1.0.98 |  |
+| `physics_mass_properties` | ✅ | GM:S 1.0.98 |  |
 | `physics_render_debug` | 🚫 | GM:S 1.0.98 | GM:S 1.0.198 |
 | `physics_render_debug_instance` | 🚫 | GM:S 1.0.98 | GM:S 1.0.198 |
 | `physics_update_iterations` | 🚫 | GM:S 1.0.98 | GM:S 1.0.198 |
 | `physics_update_speed` | 🚫 | GM:S 1.0.98 | GM:S 1.0.198 |
-| `physics_world_create` | 🚫 | GM:S 1.0.98 |  |
-| `physics_world_draw_debug` | 🚫 | GM:S 1.0.98 |  |
-| `physics_world_gravity` | 🚫 | GM:S 1.0.98 |  |
-| `physics_world_update_iterations` | 🚫 | GM:S 1.0.98 |  |
-| `physics_world_update_speed` | 🚫 | GM:S 1.0.98 |  |
+| `physics_world_create` | ✅ | GM:S 1.0.98 |  |
+| `physics_world_draw_debug` | ✅ | GM:S 1.0.98 |  |
+| `physics_world_gravity` | ✅ | GM:S 1.0.98 |  |
+| `physics_world_update_iterations` | ✅ | GM:S 1.0.98 |  |
+| `physics_world_update_speed` | ✅ | GM:S 1.0.98 |  |
 | `place_empty` | ✅ | GM:S 1.0.98 |  |
 | `place_free` | ✅ | GM:S 1.0.98 |  |
 | `place_meeting` | ✅ | GM:S 1.0.98 |  |
@@ -1431,7 +1431,7 @@
 | `openfeint_start` | 🚫 | GM:S 1.0.198 | GM 2022.1.0.482 |
 | `os_get_config` | 🚫 | GM:S 1.0.198 |  |
 | `os_is_paused` | ✅ | GM:S 1.0.198 |  |
-| `physics_fixture_set_kinematic` | 🚫 | GM:S 1.0.198 |  |
+| `physics_fixture_set_kinematic` | ✅ | GM:S 1.0.198 |  |
 | `physics_test_overlap` | ✅ | GM:S 1.0.198 |  |
 | `shop_leave_rating` | 🚫 | GM:S 1.0.198 |  |
 | `sprite_set_cache_size` | 🚫 | GM:S 1.0.198 |  |
@@ -1527,8 +1527,8 @@
 | `os_lock_orientation` | 🚫 | GM:S 1.1.622 |  |
 | `os_powersave_enable` | 🚫 | GM:S 1.1.622 |  |
 | `path_rescale` | ✅ | GM:S 1.1.622 |  |
-| `physics_fixture_set_awake` | 🚫 | GM:S 1.1.622 |  |
-| `physics_pause_enable` | 🚫 | GM:S 1.1.622 |  |
+| `physics_fixture_set_awake` | ✅ | GM:S 1.1.622 |  |
+| `physics_pause_enable` | ✅ | GM:S 1.1.622 |  |
 | `pocketchange_display_reward` | 🚫 | GM:S 1.1.622 | WAD Version 16 |
 | `pocketchange_display_shop` | 🚫 | GM:S 1.1.622 | WAD Version 16 |
 | `sha1_file` | ✅ | GM:S 1.1.622 |  |
@@ -1751,7 +1751,7 @@
 | `array_height_2d` | ✅ | GM:S 1.1.1044 |  |
 | `array_length_1d` | ✅ | GM:S 1.1.1044 |  |
 | `array_length_2d` | ✅ | GM:S 1.1.1044 |  |
-| `physics_fixture_set_edge_shape` | 🚫 | GM:S 1.1.1044 |  |
+| `physics_fixture_set_edge_shape` | ✅ | GM:S 1.1.1044 |  |
 | `shader_get_sampler_index` | ✅ | GM:S 1.1.1044 |  |
 | `shader_reset` | ✅ | GM:S 1.1.1044 |  |
 | `texture_get_texel_height` | ✅ | GM:S 1.1.1044 |  |
@@ -1847,13 +1847,13 @@
 | `ds_exists` | ✅ | GM:S 1.2.1135 |  |
 | `object_get_physics` | 🚫 | GM:S 1.2.1135 |  |
 | `physics_fixture_bind_ext` | ✅ | GM:S 1.2.1135 |  |
-| `physics_get_density` | 🚫 | GM:S 1.2.1135 |  |
-| `physics_get_friction` | 🚫 | GM:S 1.2.1135 |  |
-| `physics_get_restitution` | 🚫 | GM:S 1.2.1135 |  |
-| `physics_remove_fixture` | 🚫 | GM:S 1.2.1135 |  |
-| `physics_set_density` | 🚫 | GM:S 1.2.1135 |  |
-| `physics_set_friction` | 🚫 | GM:S 1.2.1135 |  |
-| `physics_set_restitution` | 🚫 | GM:S 1.2.1135 |  |
+| `physics_get_density` | ✅ | GM:S 1.2.1135 |  |
+| `physics_get_friction` | ✅ | GM:S 1.2.1135 |  |
+| `physics_get_restitution` | ✅ | GM:S 1.2.1135 |  |
+| `physics_remove_fixture` | ✅ | GM:S 1.2.1135 |  |
+| `physics_set_density` | ✅ | GM:S 1.2.1135 |  |
+| `physics_set_friction` | ✅ | GM:S 1.2.1135 |  |
+| `physics_set_restitution` | ✅ | GM:S 1.2.1135 |  |
 | `achievement_event` | 🚫 | GM:S 1.2.1146 |  |
 | `achievement_get_info` | 🚫 | GM:S 1.2.1146 |  |
 | `achievement_show` | 🚫 | GM:S 1.2.1146 |  |
@@ -1993,56 +1993,56 @@
 | `extension_stubfunc_string` | 🚫 | GM:S 1.3.1373 |  |
 | `gamepad_set_color` | 🚫 | GM:S 1.3.1373 |  |
 | `gamepad_set_colour` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_apply_angular_impulse` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_fixture_set_chain_shape` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_joint_friction_create` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_joint_rope_create` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_joint_weld_create` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_joint_wheel_create` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_count` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_create` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_delete` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_delete_region_box` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_delete_region_circle` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_apply_angular_impulse` | ✅ | GM:S 1.3.1373 |  |
+| `physics_fixture_set_chain_shape` | ✅ | GM:S 1.3.1373 |  |
+| `physics_joint_friction_create` | ✅ | GM:S 1.3.1373 |  |
+| `physics_joint_rope_create` | ✅ | GM:S 1.3.1373 |  |
+| `physics_joint_weld_create` | ✅ | GM:S 1.3.1373 |  |
+| `physics_joint_wheel_create` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_count` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_create` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_delete` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_delete_region_box` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_delete_region_circle` | ✅ | GM:S 1.3.1373 |  |
 | `physics_particle_delete_region_poly` | ✅ | GM:S 1.3.1373 |  |
 | `physics_particle_draw` | ✅ | GM:S 1.3.1373 |  |
 | `physics_particle_draw_ext` | ✅ | GM:S 1.3.1373 |  |
-| `physics_particle_get_damping` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_get_damping` | ✅ | GM:S 1.3.1373 |  |
 | `physics_particle_get_data` | ✅ | GM:S 1.3.1373 |  |
 | `physics_particle_get_data_particle` | ✅ | GM:S 1.3.1373 |  |
-| `physics_particle_get_density` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_get_gravity_scale` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_get_group_flags` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_get_max_count` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_get_radius` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_group_add_point` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_group_begin` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_group_box` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_group_circle` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_group_count` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_group_delete` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_group_end` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_group_get_ang_vel` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_group_get_angle` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_group_get_centre_x` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_group_get_centre_y` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_get_density` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_get_gravity_scale` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_get_group_flags` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_get_max_count` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_get_radius` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_group_add_point` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_group_begin` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_group_box` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_group_circle` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_group_count` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_group_delete` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_group_end` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_group_get_ang_vel` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_group_get_angle` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_group_get_centre_x` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_group_get_centre_y` | ✅ | GM:S 1.3.1373 |  |
 | `physics_particle_group_get_data` | ✅ | GM:S 1.3.1373 |  |
-| `physics_particle_group_get_inertia` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_group_get_mass` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_group_get_vel_x` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_group_get_vel_y` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_group_get_x` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_group_get_y` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_group_join` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_group_polygon` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_set_category_flags` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_set_damping` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_set_density` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_set_flags` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_set_gravity_scale` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_set_group_flags` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_set_max_count` | 🚫 | GM:S 1.3.1373 |  |
-| `physics_particle_set_radius` | 🚫 | GM:S 1.3.1373 |  |
+| `physics_particle_group_get_inertia` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_group_get_mass` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_group_get_vel_x` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_group_get_vel_y` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_group_get_x` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_group_get_y` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_group_join` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_group_polygon` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_set_category_flags` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_set_damping` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_set_density` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_set_flags` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_set_gravity_scale` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_set_group_flags` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_set_max_count` | ✅ | GM:S 1.3.1373 |  |
+| `physics_particle_set_radius` | ✅ | GM:S 1.3.1373 |  |
 | `push_cancel_local_notification` | 🚫 | GM:S 1.3.1373 |  |
 | `push_get_first_local_notification` | 🚫 | GM:S 1.3.1373 |  |
 | `push_get_next_local_notification` | 🚫 | GM:S 1.3.1373 |  |
@@ -3715,7 +3715,7 @@
 | `layer_get_flexpanel_node` | 🚫 | GM 2024.13.0.238 |  |
 | `layer_get_type` | 🚫 | GM 2024.13.0.238 |  |
 | `mac_refresh_receipt_validation` | 🚫 | GM 2024.13.0.238 |  |
-| `physics_debug` | 🚫 | GM 2024.13.0.238 |  |
+| `physics_debug` | ✅ | GM 2024.13.0.238 |  |
 | `sprite_get_convex_hull` | 🚫 | GM 2024.13.0.238 |  |
 | `window_post_message` | 🚫 | GM 2024.13.0.238 |  |
 | `@@array_get@@` | ✅ | GM 2024.14.0.251 |  |
