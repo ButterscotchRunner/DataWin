@@ -1,4 +1,4 @@
-**Progress:** 1192/3783 (31.509384086703673%)
+**Progress:** 1260/3783 (33.306899286280725%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -206,7 +206,7 @@
 | `background_get_name` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `background_get_preload` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `background_get_smooth` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `background_get_texture` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `background_get_texture` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `background_get_transparent` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `background_get_width` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `background_name` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
@@ -252,80 +252,80 @@
 | `color_get_saturation` | ✅ | GM:S 1.0.98 |  |
 | `color_get_value` | ✅ | GM:S 1.0.98 |  |
 | `cos` | ✅ | GM:S 1.0.98 |  |
-| `d3d_draw_block` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_draw_cone` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_draw_cylinder` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_draw_ellipsoid` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_draw_floor` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_draw_wall` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_end` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_draw_block` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_draw_cone` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_draw_cylinder` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_draw_ellipsoid` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_draw_floor` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_draw_wall` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_end` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `d3d_light_define_direction` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `d3d_light_define_point` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `d3d_light_enable` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `d3d_model_block` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_model_clear` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_model_clear` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `d3d_model_cone` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_model_create` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_model_create` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `d3d_model_cylinder` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_model_destroy` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_model_draw` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_model_destroy` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_model_draw` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `d3d_model_ellipsoid` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `d3d_model_floor` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `d3d_model_load` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_model_primitive_begin` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_model_primitive_end` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_model_primitive_begin` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_model_primitive_end` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `d3d_model_save` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_model_vertex` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_model_vertex_color` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_model_vertex_normal` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_model_vertex_normal_color` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_model_vertex_normal_texture` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_model_vertex_normal_texture_color` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_model_vertex_texture` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_model_vertex_texture_color` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_model_vertex` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_model_vertex_color` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_model_vertex_normal` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_model_vertex_normal_color` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_model_vertex_normal_texture` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_model_vertex_normal_texture_color` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_model_vertex_texture` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_model_vertex_texture_color` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `d3d_model_wall` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_primitive_begin` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_primitive_begin_texture` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_primitive_end` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_set_culling` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_set_depth` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_primitive_begin` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_primitive_begin_texture` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_primitive_end` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_set_culling` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_set_depth` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `d3d_set_fog` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_set_hidden` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_set_hidden` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `d3d_set_lighting` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_set_perspective` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_set_projection` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_set_projection_ext` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_set_projection_ortho` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_set_projection_perspective` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_set_perspective` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_set_projection` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_set_projection_ext` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_set_projection_ortho` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_set_projection_perspective` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `d3d_set_shading` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_start` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_transform_add_rotation_axis` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_transform_add_rotation_x` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_transform_add_rotation_y` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_transform_add_rotation_z` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_transform_add_scaling` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_transform_add_translation` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_transform_set_identity` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_transform_set_rotation_axis` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_transform_set_rotation_x` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_transform_set_rotation_y` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_transform_set_rotation_z` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_transform_set_scaling` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_transform_set_translation` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_start` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_transform_add_rotation_axis` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_transform_add_rotation_x` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_transform_add_rotation_y` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_transform_add_rotation_z` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_transform_add_scaling` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_transform_add_translation` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_transform_set_identity` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_transform_set_rotation_axis` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_transform_set_rotation_x` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_transform_set_rotation_y` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_transform_set_rotation_z` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_transform_set_scaling` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_transform_set_translation` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `d3d_transform_stack_clear` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `d3d_transform_stack_discard` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `d3d_transform_stack_empty` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `d3d_transform_stack_pop` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `d3d_transform_stack_push` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `d3d_transform_stack_top` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_vertex` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_vertex_color` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_vertex_normal` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_vertex_normal_color` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_vertex_normal_texture` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_vertex_normal_texture_color` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_vertex_texture` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `d3d_vertex_texture_color` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_vertex` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_vertex_color` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_vertex_normal` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_vertex_normal_color` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_vertex_normal_texture` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_vertex_normal_texture_color` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_vertex_texture` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `d3d_vertex_texture_color` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `date_compare_date` | 🚫 | GM:S 1.0.98 |  |
 | `date_compare_datetime` | 🚫 | GM:S 1.0.98 |  |
 | `date_compare_time` | 🚫 | GM:S 1.0.98 |  |
@@ -479,7 +479,7 @@
 | `ds_grid_add_grid_region` | 🚫 | GM:S 1.0.98 |  |
 | `ds_grid_add_region` | 🚫 | GM:S 1.0.98 |  |
 | `ds_grid_clear` | 🚫 | GM:S 1.0.98 |  |
-| `ds_grid_copy` | ✅ | GM:S 1.0.98 |  |
+| `ds_grid_copy` | 🚫 | GM:S 1.0.98 |  |
 | `ds_grid_create` | ✅ | GM:S 1.0.98 |  |
 | `ds_grid_destroy` | ✅ | GM:S 1.0.98 |  |
 | `ds_grid_get` | ✅ | GM:S 1.0.98 |  |
@@ -811,7 +811,7 @@
 | `move_bounce_all` | ✅ | GM:S 1.0.98 |  |
 | `move_bounce_solid` | ✅ | GM:S 1.0.98 |  |
 | `move_contact` | 🚫 | GM:S 1.0.98 | GM:S 2.3.0.401 |
-| `move_contact_all` | 🚫 | GM:S 1.0.98 |  |
+| `move_contact_all` | ✅ | GM:S 1.0.98 |  |
 | `move_contact_solid` | ✅ | GM:S 1.0.98 |  |
 | `move_outside_all` | ✅ | GM:S 1.0.98 |  |
 | `move_outside_solid` | ✅ | GM:S 1.0.98 |  |
@@ -1260,7 +1260,7 @@
 | `surface_get_height` | ✅ | GM:S 1.0.98 |  |
 | `surface_get_texture` | ✅ | GM:S 1.0.98 |  |
 | `surface_get_width` | ✅ | GM:S 1.0.98 |  |
-| `surface_getpixel` | ✅ | GM:S 1.0.98 |  |
+| `surface_getpixel` | 🚫 | GM:S 1.0.98 |  |
 | `surface_reset_target` | ✅ | GM:S 1.0.98 |  |
 | `surface_save` | 🚫 | GM:S 1.0.98 |  |
 | `surface_save_part` | 🚫 | GM:S 1.0.98 |  |
@@ -1280,12 +1280,12 @@
 | `tile_exists` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `tile_find` | 🚫 | GM:S 1.0.98 | WAD Version 14 |
 | `tile_get_alpha` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `tile_get_background` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `tile_get_background` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `tile_get_blend` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `tile_get_depth` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `tile_get_height` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `tile_get_left` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
-| `tile_get_top` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `tile_get_left` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
+| `tile_get_top` | ✅ | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `tile_get_visible` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `tile_get_width` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
 | `tile_get_x` | 🚫 | GM:S 1.0.98 | GM:S 2.3.1.406 |
@@ -1408,7 +1408,7 @@
 | `device_mouse_x` | ✅ | GM:S 1.0.198 |  |
 | `device_mouse_y` | ✅ | GM:S 1.0.198 |  |
 | `draw_enable_alphablend` | ✅ | GM:S 1.0.198 | GM:S 2.3.1.406 |
-| `draw_texture_flush` | 🚫 | GM:S 1.0.198 |  |
+| `draw_texture_flush` | ✅ | GM:S 1.0.198 |  |
 | `facebook_dialog` | 🚫 | GM:S 1.0.198 | GM:S 2.2.2.326 |
 | `facebook_graph_request` | 🚫 | GM:S 1.0.198 | GM:S 2.2.2.326 |
 | `facebook_init` | 🚫 | GM:S 1.0.198 | GM:S 2.2.2.326 |
@@ -1580,7 +1580,7 @@
 | `winphone_tile_wide_content` | 🚫 | GM:S 1.1.690 |  |
 | `string_set_byte_at` | 🚫 | GM:S 1.1.711 |  |
 | `audio_system` | 🚫 | GM:S 1.1.734 |  |
-| `d3d_set_zwriteenable` | 🚫 | GM:S 1.1.734 | GM:S 2.3.1.406 |
+| `d3d_set_zwriteenable` | ✅ | GM:S 1.1.734 | GM:S 2.3.1.406 |
 | `draw_set_color_write_enable` | ✅ | GM:S 1.1.734 | GM:S 2.3.1.406 |
 | `file_text_eoln` | 🚫 | GM:S 1.1.734 |  |
 | `math_set_epsilon` | ✅ | GM:S 1.1.734 |  |
@@ -1718,7 +1718,7 @@
 | `steam_upload_score` | 🚫 | GM:S 1.1.913 | GM 2022.2.0.487 |
 | `steam_user_installed_dlc` | 🚫 | GM:S 1.1.913 | GM 2022.2.0.487 |
 | `steam_user_owns_dlc` | 🚫 | GM:S 1.1.913 | GM 2022.2.0.487 |
-| `ds_grid_sort` | 🚫 | GM:S 1.1.917 |  |
+| `ds_grid_sort` | ✅ | GM:S 1.1.917 |  |
 | `win8_livetile_notification_begin` | 🚫 | GM:S 1.1.929 |  |
 | `win8_livetile_notification_end` | 🚫 | GM:S 1.1.929 |  |
 | `win8_livetile_notification_expiry` | 🚫 | GM:S 1.1.929 |  |
@@ -1799,13 +1799,13 @@
 | `colour_get_red` | ✅ | GM:S 1.1.1076 |  |
 | `colour_get_saturation` | ✅ | GM:S 1.1.1076 |  |
 | `colour_get_value` | ✅ | GM:S 1.1.1076 |  |
-| `d3d_model_vertex_colour` | 🚫 | GM:S 1.1.1076 | GM:S 2.3.1.406 |
-| `d3d_model_vertex_normal_texture_colour` | 🚫 | GM:S 1.1.1076 | GM:S 2.3.1.406 |
-| `d3d_model_vertex_texture_colour` | 🚫 | GM:S 1.1.1076 | GM:S 2.3.1.406 |
-| `d3d_vertex_colour` | 🚫 | GM:S 1.1.1076 | GM:S 2.3.1.406 |
-| `d3d_vertex_normal_colour` | 🚫 | GM:S 1.1.1076 | GM:S 2.3.1.406 |
-| `d3d_vertex_normal_texture_colour` | 🚫 | GM:S 1.1.1076 | GM:S 2.3.1.406 |
-| `d3d_vertex_texture_colour` | 🚫 | GM:S 1.1.1076 | GM:S 2.3.1.406 |
+| `d3d_model_vertex_colour` | ✅ | GM:S 1.1.1076 | GM:S 2.3.1.406 |
+| `d3d_model_vertex_normal_texture_colour` | ✅ | GM:S 1.1.1076 | GM:S 2.3.1.406 |
+| `d3d_model_vertex_texture_colour` | ✅ | GM:S 1.1.1076 | GM:S 2.3.1.406 |
+| `d3d_vertex_colour` | ✅ | GM:S 1.1.1076 | GM:S 2.3.1.406 |
+| `d3d_vertex_normal_colour` | ✅ | GM:S 1.1.1076 | GM:S 2.3.1.406 |
+| `d3d_vertex_normal_texture_colour` | ✅ | GM:S 1.1.1076 | GM:S 2.3.1.406 |
+| `d3d_vertex_texture_colour` | ✅ | GM:S 1.1.1076 | GM:S 2.3.1.406 |
 | `draw_circle_colour` | ✅ | GM:S 1.1.1076 |  |
 | `draw_ellipse_colour` | ✅ | GM:S 1.1.1076 |  |
 | `draw_get_colour` | ✅ | GM:S 1.1.1076 |  |
@@ -1876,7 +1876,7 @@
 | `matrix_get` | ✅ | GM:S 1.2.1214 |  |
 | `matrix_multiply` | ✅ | GM:S 1.2.1214 |  |
 | `matrix_set` | ✅ | GM:S 1.2.1214 |  |
-| `surface_getpixel_ext` | ✅ | GM:S 1.2.1214 |  |
+| `surface_getpixel_ext` | 🚫 | GM:S 1.2.1214 |  |
 | `buffer_get_address` | 🚫 | GM:S 1.2.1264 |  |
 | `ds_grid_set_post` | 🚫 | GM:S 1.2.1264 |  |
 | `ds_grid_set_pre` | 🚫 | GM:S 1.2.1264 |  |
@@ -2190,7 +2190,7 @@
 | `camera_set_view_size` | ✅ | WAD Version 15 |  |
 | `camera_set_view_speed` | ✅ | WAD Version 15 |  |
 | `camera_set_view_target` | ✅ | WAD Version 15 |  |
-| `d3d_model_vertex_normal_colour` | 🚫 | WAD Version 15 | GM:S 2.3.1.406 |
+| `d3d_model_vertex_normal_colour` | ✅ | WAD Version 15 | GM:S 2.3.1.406 |
 | `debug_event` | 🚫 | WAD Version 15 |  |
 | `display_get_windows_alternate_sync` | 🚫 | WAD Version 15 | GM:S 2.3.1.406 |
 | `display_get_windows_vertex_buffer_method` | 🚫 | WAD Version 15 | GM:S 2.3.1.406 |
@@ -3549,7 +3549,7 @@
 | `buffer_get_surface_depth` | 🚫 | GM 2024.6.0.205 |  |
 | `buffer_set_surface_depth` | 🚫 | GM 2024.6.0.205 |  |
 | `dbg_text_separator` | 🚫 | GM 2024.6.0.205 |  |
-| `draw_clear_depth` | 🚫 | GM 2024.6.0.205 |  |
+| `draw_clear_depth` | ✅ | GM 2024.6.0.205 |  |
 | `draw_clear_ext` | 🚫 | GM 2024.6.0.205 |  |
 | `draw_clear_stencil` | 🚫 | GM 2024.6.0.205 |  |
 | `gpu_get_sprite_cull` | 🚫 | GM 2024.6.0.205 |  |
