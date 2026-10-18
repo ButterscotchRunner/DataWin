@@ -1,4 +1,4 @@
-**Progress:** 146/233 (62.66094420600859%)
+**Progress:** 147/233 (63.0901287553648%)
 
 | GML Variable | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -129,7 +129,7 @@
 | `phy_sleeping` | 🚫 | GM:S 1.0.98 |  |
 | `phy_speed_x` | 🚫 | GM:S 1.0.98 |  |
 | `phy_speed_y` | 🚫 | GM:S 1.0.98 |  |
-| `program_directory` | 🚫 | GM:S 1.0.98 |  |
+| `program_directory` | ✅ | GM:S 1.0.98 |  |
 | `room` | ✅ | GM:S 1.0.98 |  |
 | `room_caption` | 🚫 | GM:S 1.0.98 |  |
 | `room_first` | ✅ | GM:S 1.0.98 |  |
