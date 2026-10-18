@@ -1,4 +1,4 @@
-**Progress:** 1350/3783 (35.68596352101507%)
+**Progress:** 1353/3783 (35.76526566217288%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -479,7 +479,7 @@
 | `ds_grid_add_grid_region` | 🚫 | GM:S 1.0.98 |  |
 | `ds_grid_add_region` | 🚫 | GM:S 1.0.98 |  |
 | `ds_grid_clear` | 🚫 | GM:S 1.0.98 |  |
-| `ds_grid_copy` | 🚫 | GM:S 1.0.98 |  |
+| `ds_grid_copy` | ✅ | GM:S 1.0.98 |  |
 | `ds_grid_create` | ✅ | GM:S 1.0.98 |  |
 | `ds_grid_destroy` | ✅ | GM:S 1.0.98 |  |
 | `ds_grid_get` | ✅ | GM:S 1.0.98 |  |
@@ -1260,7 +1260,7 @@
 | `surface_get_height` | ✅ | GM:S 1.0.98 |  |
 | `surface_get_texture` | ✅ | GM:S 1.0.98 |  |
 | `surface_get_width` | ✅ | GM:S 1.0.98 |  |
-| `surface_getpixel` | 🚫 | GM:S 1.0.98 |  |
+| `surface_getpixel` | ✅ | GM:S 1.0.98 |  |
 | `surface_reset_target` | ✅ | GM:S 1.0.98 |  |
 | `surface_save` | 🚫 | GM:S 1.0.98 |  |
 | `surface_save_part` | 🚫 | GM:S 1.0.98 |  |
@@ -1876,7 +1876,7 @@
 | `matrix_get` | ✅ | GM:S 1.2.1214 |  |
 | `matrix_multiply` | ✅ | GM:S 1.2.1214 |  |
 | `matrix_set` | ✅ | GM:S 1.2.1214 |  |
-| `surface_getpixel_ext` | 🚫 | GM:S 1.2.1214 |  |
+| `surface_getpixel_ext` | ✅ | GM:S 1.2.1214 |  |
 | `buffer_get_address` | 🚫 | GM:S 1.2.1264 |  |
 | `ds_grid_set_post` | 🚫 | GM:S 1.2.1264 |  |
 | `ds_grid_set_pre` | 🚫 | GM:S 1.2.1264 |  |
