@@ -1,4 +1,4 @@
-**Progress:** 1354/3783 (35.79169970922548%)
+**Progress:** 1355/3783 (35.81813375627809%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -3444,7 +3444,7 @@
 | `struct_remove` | 🚫 | GM 2023.4.0.113 |  |
 | `struct_set` | 🚫 | GM 2023.4.0.113 |  |
 | `struct_set_from_hash` | ✅ | GM 2023.4.0.113 |  |
-| `variable_clone` | 🚫 | GM 2023.4.0.113 |  |
+| `variable_clone` | ✅ | GM 2023.4.0.113 |  |
 | `variable_get_hash` | ✅ | GM 2023.4.0.113 |  |
 | `wallpaper_set_config` | 🚫 | GM 2023.4.0.113 |  |
 | `xboxone_find_controller_for_user` | 🚫 | GM 2023.4.0.113 |  |
