@@ -1,4 +1,4 @@
-**Progress:** 1353/3783 (35.76526566217288%)
+**Progress:** 1354/3783 (35.79169970922548%)
 
 | GML Function | Implemented in Butterscotch? | Added In | Removed In |
 | - | - | - | - |
@@ -3378,7 +3378,7 @@
 | `skeleton_attachment_replace` | 🚫 | GM 2022.11.0.73 |  |
 | `skeleton_attachment_replace_color` | 🚫 | GM 2022.11.0.73 |  |
 | `skeleton_attachment_replace_colour` | 🚫 | GM 2022.11.0.73 |  |
-| `string_concat` | 🚫 | GM 2022.11.0.73 |  |
+| `string_concat` | ✅ | GM 2022.11.0.73 |  |
 | `string_concat_ext` | 🚫 | GM 2022.11.0.73 |  |
 | `string_ends_with` | ✅ | GM 2022.11.0.73 |  |
 | `string_ext` | 🚫 | GM 2022.11.0.73 |  |
